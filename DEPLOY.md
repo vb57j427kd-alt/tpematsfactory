@@ -154,7 +154,7 @@ nslookup -type=CNAME www.tpematsfactory.com
 |---|---|
 | GA4 | ✅ `G-QH57L3C2J0`（新建，专属本站，未复用 BHT） |
 | Microsoft Clarity | ✅ `yl2mwy2l99`（新建，专属本站） |
-| Formspree | ❌ 未建——Formspree 只提供邮箱+密码登录，没有 GitHub SSO，需你登录一次 |
+| Formspree | ✅ 已建并上线——账号 `yale@tpematsfactory.com`，表单 `Wholesale Quote Request`，form ID **`mvkgzrqr`**，详见 6.7 |
 | Google Search Console | ✅ 域名资源已验证（DNS TXT `google-site-verification=F0AI1mPJBAPa2DBL7xmeSqZAK6L4Yw2lYd07-YriIL0`），sitemap 已提交，**99 个 URL 已被发现** |
 | Bing Webmaster | ✅ 站点已验证（CNAME `95e24c04f74772eda13ae62939fc108f` → `verify.bing.com`），sitemap 已提交（Processing，0 错误 0 警告） |
 | IndexNow | ✅ Bing 端点已接受（HTTP 202）；`api.indexnow.org` 从本机网络被连续切断（3 次 RemoteDisconnected），不影响 Bing 收录 |
@@ -212,6 +212,39 @@ TTL       600
 >
 > ⚠️ **长 TXT 记录会分片返回**成 `"chunk1" "chunk2"` 两段。比对前必须把分片拼起来（去掉引号、**中间不插空格**），
 > 否则 411 字符的 DKIM 值会被误判成"值不一致"。
+
+---
+
+## 6.7 询价表单后端 Formspree（2026-09-20）
+
+**账号**：`yale@tpematsfactory.com`（Formspree，状态 VERIFIED）
+**项目**：`TPE Mats Factory` ／ 表单 `Wholesale Quote Request`
+**form ID**：`mvkgzrqr` → endpoint `https://formspree.io/f/mvkgzrqr`
+
+接入方式：只要数据层 `SITE["formspree"]` 有值，`generate.py` 就会在询价弹窗的提交逻辑里注入一段 fire-and-forget 的 `fetch()`；留空则整段消失——所以**永远不会发布占位 ID**。
+
+> ⚠️ **ID 要同时改两处**：`products_data.py` 与**生成它的** `tools/emit_site_data.py`。只改一处，下次重跑 `emit_site_data.py` 就会被覆盖回空值。
+
+买家点「Get Wholesale Quote」提交时走**双通道**：先 `window.open` 拉起 WhatsApp 带上全部字段，再向 Formspree POST 一份落库。即使买家没完成 WhatsApp 对话，询盘至少还在 Formspree 里留了痕。
+
+**上线前实测**（`python ../tools/test_formspree.py`）：
+
+| 检查 | 结果 |
+|---|---|
+| 向 endpoint 实发一次真实 POST（字段名与页面 JS 完全一致） | **HTTP 200** · `{"next":"/thanks","ok":true}` |
+| 生成后带 endpoint 的页面数 | **99 / 99** |
+| 是否混入其他 form ID | 只有 `mvkgzrqr` |
+| 是否泄漏兄弟站 ID（BHT 的 `xeeynyba` 等） | **0** |
+| 公网实测（`python ../tools/check_live_formspree.py`） | 首页／品类页／产品页／博客／站点地图 **5 类页面全部命中** |
+
+> ⚠️ 线上核实必须用 `curl --resolve` **钉住真实 GitHub IP**：本机 UDP:53 被劫持，Python 直接解析 `tpematsfactory.com` 会拿到假 IP 并抛 `URLError`，
+> 看起来像"没生效"，其实只是没连上。另外 Pages 有 `max-age=600`，**推送后首次抓取命中旧版本属正常，要轮询**（本次博客页第 2 轮才刷新）。
+
+> ⚠️ 开通时踩到的两个坑：
+> 1. 该邮箱域「安全 → 账号安全 → 双重认证」**默认对全部成员开启短信认证**，任何"读 @tpematsfactory.com 邮箱"的自动化都会撞上它，且短信码只有 5 分钟有效期。**不要用阻塞式提问去要码**——先把人叫到键盘前，再触发发码，当场回码。
+> 2. `alimail.console.aliyun.com` **不暴露邮箱内容**，读信必须走 `qiye.aliyun.com` 的 webmail（受上面那条 2FA 约束）。
+
+免费版额度：50 次提交／月。
 
 ---
 
