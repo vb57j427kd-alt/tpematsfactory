@@ -146,7 +146,42 @@ nslookup -type=CNAME www.tpematsfactory.com
 
 ---
 
-## 6. 回滚
+## 6.5 收录与性能优化记录（2026-09-20 补做）
+
+### 收录 / 分析
+
+| 项目 | 状态 |
+|---|---|
+| GA4 | ✅ `G-QH57L3C2J0`（新建，专属本站，未复用 BHT） |
+| Microsoft Clarity | ✅ `yl2mwy2l99`（新建，专属本站） |
+| Formspree | ❌ 未建——Formspree 只提供邮箱+密码登录，没有 GitHub SSO，需你登录一次 |
+| Google Search Console | ✅ 域名资源已验证（DNS TXT `google-site-verification=F0AI1mPJBAPa2DBL7xmeSqZAK6L4Yw2lYd07-YriIL0`），sitemap 已提交，**99 个 URL 已被发现** |
+| Bing Webmaster | ✅ 站点已验证（CNAME `95e24c04f74772eda13ae62939fc108f` → `verify.bing.com`），sitemap 已提交（Processing，0 错误 0 警告） |
+| IndexNow | ✅ Bing 端点已接受（HTTP 202）；`api.indexnow.org` 从本机网络被连续切断（3 次 RemoteDisconnected），不影响 Bing 收录 |
+| 站内邮箱 | ❌ **`sales@tpematsfactory.com` 不存在**——阿里云 DirectMail 当前只服务 5 个其他域名，阿里邮箱里也没有该域。询盘目前靠 WhatsApp |
+
+### 打开速度（实测，非估计）
+
+| 页面 | 优化前首屏 | 优化后 | 降幅 |
+|---|---|---|---|
+| 首页 | 884 KB | **143 KB** | −84% |
+| 车型页 Honda CR-V | 126 KB | **39 KB** | −69% |
+| 产品页 | 388 KB | **101 KB** | −74% |
+
+做法：每个产品图生成 4 个变体（800px 全尺寸 JPG/WebP + 400px 卡片 JPG/WebP），页面用 `<picture>` 让浏览器自动取 WebP（不支持时回落 JPG）；卡片图中位数 85 KB → 18 KB；标题字体字重从 7 个减到 5 个（Oswald 500 无人使用，已删）；加 `.nojekyll` 免 Jekyll 处理。
+注意：仓库总体积反而涨了（4.3 MB → 5.9 MB），因为四种变体都要入库——**换来的是访客下载量降了 84%**，这个 trade-off 值得。
+
+### SEO / 排名
+
+- 车型页与产品页新增 FAQ 区块 + `FAQPage` JSON-LD（**与可见内容同源生成，不可能漂移**）
+- 4 个品类页新增导购正文（242–269 词/页），补足内容深度
+- 新增 HTML 站点地图 `/site-map/`：99 个页面全索引，改善抓取路径与内链权重分配
+- 新增 3 篇博客（1280 / 1031 / 1153 词），内链经程序校验**全部指向真实存在的页面，断链 0**
+- IndexNow 验证文件 `9f2c7a41d68b4e53a1c0f7e29d34b856.txt` 已随站点发布并实测可访问
+
+---
+
+## 7. 回滚
 
 站点是纯静态 + Git 管理，回滚就是 `git revert` 或 `git reset --hard <commit>` 后强推。
 DNS 回滚：删掉 5 条记录即可（域名本身就注册在阿里云，不存在赎回风险）。

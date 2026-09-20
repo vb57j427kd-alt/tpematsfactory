@@ -1,110 +1,92 @@
-# tpematsfactory.com — 建站状态交接（2026-09-20）
+# tpematsfactory.com — 本轮进展与剩余事项（2026-09-20）
 
-> **当前状态：本地站点已完整生成并通过两套校验，尚未部署上线。**
-> 数据来源：`https://lywalter.en.alibaba.com`（Linyi Walt 店铺）抓取，2026-09-20。
-> 站点主体：**Linyi Strawberry International Trade Co., Ltd.**
+> **站点已上线**：https://tpematsfactory.com（GitHub Pages，仓库 `vb57j427kd-alt/tpematsfactory`）
+> 本轮完成：代建分析工具、打开速度优化、搜索引擎收录、内容建设、排名优化。
+> 详细运维记录见 [DEPLOY.md](DEPLOY.md)。
 
 ---
 
-## 1. 已交付的站点
+## 1. 站点现状
 
-| 项目 | 数量 |
+| 项目 | 数量 / 状态 |
 |---|---|
-| 页面总数 | **94**（首页 1 + 品类 4 + 产品 51 + 车型 37 + 车型索引 1） |
-| 产品 | 51 款（floor-liners 42 / all-weather 5 / trunk 3 / double-layer 1） |
-| 车型适配页 | 37 个 `/shop-by-vehicle/{make}/{model}/` |
-| 产品图 | 51 张，全部落盘 `images/`，**零重复**（md5 校验） |
-| `sitemap.xml` | 94 条 URL，车型页 priority 0.9 > 产品页 0.8 |
-| 首页筛选器 | Year → Make → Model 三级联动，数据源 `vehicles.json` |
-
-架构要点（相对 BHT 的 5 处改造）：全站目录化输出、车型落地页、车型索引、`vehicles.json`、sitemap 优先级；另加 B2B 询价弹窗（Country / Company / Vehicle model / Quantity）、产品页 Fitment + Material 区块、按页型区分 JSON-LD。
-
-本地预览（**必须用 http 服务**，筛选器要 fetch `vehicles.json`，双击打开会被浏览器本地策略拦住）：
-
-```powershell
-cd <本目录>
-python generate.py          # 重新生成
-python -m http.server 8000  # 浏览器打开 http://localhost:8000/
-```
+| 页面总数 | **99**（首页 1 + 品类 4 + 产品 51 + 车型 37 + 车型索引 1 + 站点地图 1 + 博客 4） |
+| 产品 / 车型 | 51 款 / 37 个 `/shop-by-vehicle/{make}/{model}/` |
+| 图片 | 51 张 × 4 变体（800px JPG/WebP + 400px 卡片 JPG/WebP），站点内零重复 |
+| 内链 | 站内地图页全量索引；博客内链经程序校验 0 断链 |
+| 结构化数据 | Organization / CollectionPage / Product+additionalProperty / BreadcrumbList / **FAQPage** |
+| 分析 | GA4 `G-QH57L3C2J0` + Clarity `yl2mwy2l99`（均已上线注入，实测确认） |
 
 ---
 
-## 2. ⚠️ 抓取过程中发现的四个数据质量问题（都已做处理，但你需要知道）
+## 2. 打开速度：首页 884 KB → 143 KB（−84%）
 
-### 2.1 阿里详情页的「车型适配」属性是店铺级模板，**不可用**
-抓取时发现详情页有结构化的 `Car Fitment / Model / Year` 属性，本以为是最好的数据源。实测：**96 个 listing 只有 8 种适配签名，其中 1 种被 86 个 listing 共用**（都写着 Ford Ranger / Honda Civic / Tesla Model 3/Y / Toyota Hilux）。
+| 页面 | 前 | 后 | 降幅 |
+|---|---|---|---|
+| 首页 | 884 KB | 143 KB | −84% |
+| 车型页 | 126 KB | 39 KB | −69% |
+| 产品页 | 388 KB | 101 KB | −74% |
 
-如果直接采用，会出现「长安 UNI-T 的脚垫页面写着适配福特 Ranger」——这正是车垫品类最致命的错误。
-
-**处理：车型只从各 listing 自己的标题解析**（标题是卖家为每个产品单独写的，产品级）。已逐条核对：4 条年款全部能在各自标题中找到原文，品牌仅是 `Benz→Mercedes-Benz`、`VW→Volkswagen` 的别名归一，无编造。
-
-### 2.2 96 个 listing 只有 55 张不重复的图片
-**59 个 listing 在复用别的 listing 的同一张图**（最大一组 9 个 listing 共用一张）。产品站上多个不同车型显示同一张照片会显得像模板站。
-
-**处理：按图片 md5 去重，保留 51 款（41 个重复图 listing 被丢弃，记录在 `../tools/dropped.json`）。** 如果你希望这些车型也上架，需要补拍对应的产品图。
-
-### 2.3 只有 4 个 listing 的标题写了年款 → **33/37 个车型没有年款**
-标题里普遍是「for Honda CR-V」这种写法，不带年款。年款是车垫退换货的第一大原因，**所以宁可留空也没推测**。
-
-**这需要你的模具清单来补**：哪些车型、哪些年款区间、左右舵。填好发我，我批量补进 `VEHICLES`。
-
-### 2.4 皮革类产品被排除
-店铺有独立的 Leather Car Mats 分类（4 款）。因为站点定位是 **TPE 车垫工厂**（域名即 `tpematsfactory`），纳入皮革会稀释定位。需要的话我可以加第 5 个品类。
+关键动作是图片：卡片图从 85 KB 降到 18 KB，并用 `<picture>` 让浏览器自动选 WebP。
 
 ---
 
-## 3. 需要你补齐的输入
+## 3. 收录情况
 
-| # | 事项 | 影响 |
+| 渠道 | 状态 |
+|---|---|
+| Google Search Console | ✅ 域名资源验证通过（DNS TXT）+ sitemap 已提交，**99 URL 已发现** |
+| Bing Webmaster | ✅ CNAME 验证通过 + sitemap 已提交（Processing，0 错误） |
+| IndexNow | ✅ Bing 端点返回 202（已受理） |
+| robots.txt / sitemap.xml | ✅ 均在线，robots 指向 sitemap |
+
+---
+
+## 4. 内容与排名
+
+- 3 篇博客（1280 / 1031 / 1153 词）：TPE vs PVC vs 橡胶选材、定制脚垫下单前的核对清单、OEM 从开模到装柜
+- 4 个品类页导购正文（242–269 词）：直接回答「这个品类适合什么、下单前要确认什么、和隔壁品类的区别」
+- 车型页 / 产品页 FAQ 区块 + FAQPage 结构化数据，**与可见文案同源生成**
+- HTML 站点地图 `/site-map/`：99 页全索引，方便爬虫与内链
+
+**主要页面盯的词**（供你后续投放参考）
+
+| 落地页 | 主攻意图 |
+|---|---|
+| 车型页 `/shop-by-vehicle/{make}/{model}/` | `{make} {model} floor liners` / `tpe floor mats for {model}`（最高价值，买家意图最明确） |
+| 品类页 `/floor-liners/` | `3d tpe car floor liners` / `custom fit car mats wholesale` |
+| 产品页 | 长尾 + 车型组合，承接车型页分配的内部权重 |
+| 博客 | 上游信息型检索（选材、验货、OEM 流程），把流量导向车型页与询盘 |
+
+---
+
+## 5. ⚠️ 仍需要你处理的四件事
+
+| # | 事项 | 说明 |
 |---|---|---|
-| 1 | **模具清单**（Make / Model / 年款区间 / 左右舵 / 可做位置） | 补全 33 个车型的年款；确认 37 个车型的适配成立与否 |
-| 2 | **新建 GA4 property** | 生成器当前跳过注入；复用 BHT 的会混三站流量 |
-| 3 | **新建 Microsoft Clarity 项目** | 同上 |
-| 4 | **新建 Formspree 表单** | 复用 BHT 的会撞免费版 50 封/月上限，询盘直接丢 |
-| 5 | **本站收件邮箱** | 建议独立邮箱，便于分站统计询盘 |
-| 6 | **认证情况** | 有 FMVSS 302 / REACH / RoHS 报告就填 `SITE["certificates"]`，信任区才会出现；没有就先别放，留空比放占位图安全 |
-| 7 | **银行信息复核** | 已从 BHT 沿用（Linyi Strawberry 主体），上线前请自己过一遍 |
-| 8 | ❓「**图片改为中英双语**」 | 本站是英文 B2B 站，按既有红线默认**纯英文、无第三方品牌**。这条是本站需求还是别的项目？ |
-| 9 | ❓模板服务承诺 | 首页写了「24h 回复」。这是模板文案，你确认能兑现就保留 |
-
-另有 8 个产品的车型没能从标题解析出来（品牌级/未解析），目前只挂在品类页、没有车型页，文案写成「按你的车型定制」。需要的话把对应 SKU 的车型告诉我，我升级成车型页。
+| 1 | **模具清单**（Make / Model / 年款区间 / 左右舵） | 目前 33/37 个车型没有年款（标题里本来就没写），**留空未推测**。这是车型索引最大的短板 |
+| 2 | **Formspree 登录** | Formspree 只支持邮箱+密码，没有 GitHub SSO，我无法代登录。你登录一次后我 5 分钟接好；**不接也不影响接询盘**（现在走 WhatsApp 按钮 + 邮件） |
+| 3 | **站内邮箱不存在** | 阿里云上 `tpematsfactory.com` **没有任何邮箱**（DirectMail 只服务你另外 5 个域名）。要不要开企业邮箱？开了我把 `sales@tpematsfactory.com` 填进站点 |
+| 4 | **Enforce HTTPS** | 证书仍在签发（GitHub 处理中），已排一次性定时任务：签发后自动帮你勾上 |
 
 ---
 
-## 4. 上线步骤（数据齐了之后）
-
-1. 建 GitHub 仓库 `tpematsfactory`，SSH over 443 推送
-2. 仓库 Settings → Pages：`main` / `root`，Custom domain `tpematsfactory.com`，勾 Enforce HTTPS
-3. 阿里云 DNS：4 条 A 记录（185.199.108–111.153）+ `www` CNAME → `<账号>.github.io`
-4. `nslookup tpematsfactory.com` 验证 → GSC / Bing 提交 sitemap
-5. 建 6 个 cron（isolated 会话）：站点存活 / sitemap 刷新 / 图片完整性 / meta 审计 / DNS+SSL / 趋势注入
-
----
-
-## 5. 验证记录
+## 6. 验证记录
 
 | 校验 | 结果 |
 |---|---|
-| `python _verify_generate.py`（合成数据回归，含 `node --check` 内联 JS） | 全绿 |
-| `python ../tools/audit_build.py`（真实构建审计：图片存在性、og 图、title/desc 唯一性、车型页与产品页双向链接、sitemap 完整性、占位 ID 泄漏） | 全绿 |
-| `python ../tools/check_claims.py`（适配与年款的来源追溯、图片 md5 去重、认证类词扫描） | 全部通过 |
-| 独立验证子代理对抗性复核 | 见下方遗留说明 |
+| `python _verify_generate.py`（合成回归 + `node --check`） | 全绿 |
+| `python ../tools/audit_build.py`（真实构建 25 项） | 全绿 |
+| `python ../tools/check_claims.py`（适配/年款来源追溯 + 图片 md5 + 认证词扫描） | 通过：年款全部可回溯标题原文、102 张图零重复组、认证类词零命中 |
+| `python ../tools/perf_report.py`（首屏重量，按浏览器实际选择计） | 见上表 |
+| 上线前真机渲染（1440 / 375） | 定位并修复 3 个 P0（见 DEPLOY.md 与提交历史） |
+| 独立验证子代理 | 确认 boilerplate 适配结论、零编造价格/MOQ；指出并已修 8 类问题 |
 
-### 上线前真机渲染检查（2026-09-20，Chrome 实测）
+---
 
-在 1440x900 与 375x812 两个视口逐页实测，**首轮抓出 3 个 P0，已全部修复并复验通过**：
+## 7. 已知遗留（不影响上线）
 
-| P0 | 问题 | 修复 |
-|---|---|---|
-| 1 | 首页筛选器请求的是绝对地址 `https://tpematsfactory.com/vehicles.json` → 本地/预发环境全部下拉框失效 | 改为根相对 `/vehicles.json` |
-| 2 | 年款筛选把 **33/37** 个车型全过滤掉了（它们年款为空）→ 选任意年份后连 Honda 都选不到，静默死路 | 年款为空的车型不再受年款筛选影响，卡片标注「year range on request」；实测 2020 年可选车型从 4 个恢复到 **35 个** |
-| 3 | 首页 4 列对比表在 375px 把整页撑到 432px（出现横向滚动条） | 表格包进 `overflow-x:auto` 容器，改为容器内滚动 |
-
-另修：面包屑与产品页的 24px 边距被 padding 简写覆盖（手机上文字贴屏幕边缘）；筛选器增加常驻「Not in the list? → Request your vehicle」出口。
-
-复验数据：四个页面在 375px 下 `scrollWidth == clientWidth`（零溢出）；对比表可在容器内滚动至 68px 而页面保持 375px；面包屑与 H1 左边距实测 24px；导航可横向滚动且 7 个链接全部可点；**console 零报错**。
-
-**已知遗留**
-- 多车型合并的车型名（如 `Ranger / Escape / Mustang`、`H5 / H6 / H7 / H9`）未拆成独立页面——这是 listing 原文写法，已用 `/` 区分。
-- 8 个未解析车型的产品没有车型页。
-- 移动端「Get Quote」需要横向滑动导航才能点到（功能正常，体验一般）。
+- 多车型合并的车型名（如 `Ranger / Escape / Mustang`、`H5 / H6 / H7 / H9`）未拆成独立页面——按 listing 原文如实呈现，用 `/` 区分
+- 8 个未解析出车型的产品只挂在品类页，没有车型页
+- `api.indexnow.org` 从本机网络不可达（Bing 端点正常）
+- 未做 GSC/Bing 之外的中文搜索引擎提交（百度需单独账号与主动推送 token）
