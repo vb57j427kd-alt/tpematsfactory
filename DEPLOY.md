@@ -1,8 +1,29 @@
 # tpematsfactory.com 上线手册
 
-> 本地已就绪：仓库已 `git init` 并完成首次提交（commit `1224c32`，157 个文件 = 95 HTML + 52 图片 + 3 Python）。
-> 部署密钥已生成。DNS 值取自 GitHub 官方文档（2026-09-20 核对）。
-> 沿用你现有两站的通道：`ssh://git@ssh.github.com:443`（443 端口，绕过网络封锁）。
+## ✅ 上线状态：已完成（2026-09-20）
+
+| 项目 | 状态 |
+|---|---|
+| GitHub 仓库 | `vb57j427kd-alt/tpematsfactory`（Public） |
+| 部署密钥 | `tpematsfactory-deploy`（Read/write）已添加 |
+| 推送 | 已完成，`main` 分支，最新提交 `e6a795a` |
+| GitHub Pages | 源 `main` / `/ (root)`；自定义域名 `tpematsfactory.com` 已保存 |
+| 阿里云 DNS | 4 条 A + 1 条 www CNAME 已生效（原记录列表为空） |
+| 线上实测 | `http://tpematsfactory.com/` → **200**，`Server: GitHub.com`；首页 / 车型索引 / 产品页 / `vehicles.json` / `sitemap.xml` 全部 200 |
+| Enforce HTTPS | ⏳ 待证书签发后开启（已排一次性定时任务跟进） |
+
+**线上验证用 DoH（不要用 nslookup）**
+
+```
+https://dns.google/resolve?name=tpematsfactory.com&type=A
+→ 185.199.108.153 / .109.153 / .110.153 / .111.153
+```
+
+> ⚠️ **这台机器的局域网劫持了 UDP:53**：`nslookup`（哪怕指定 1.1.1.1 / 9.9.9.9 / 权威服务器）会被替换成同一个假 IP `59.82.113.122`，导致误判「DNS 没生效」。验证必须走 DoH，或直连真实 IP：
+> ```
+> curl.exe -sS -o NUL -w "%{http_code}" --resolve tpematsfactory.com:443:185.199.108.153 https://tpematsfactory.com/
+> ```
+> 你在自己电脑/手机上访问时如果打不开，先换个网络（比如手机流量）试。
 
 ---
 
