@@ -154,8 +154,18 @@ home = read(os.path.join(real, "index.html"))
 check("home has finder select ids", all(x in home for x in ('id="fYear"', 'id="fMake"', 'id="fModel"')))
 check("home loads vehicles.json root-relatively (so previews work)",
       "fetch('/vehicles.json')" in home and pd.SITE["domain"] + "/vehicles.json" not in home)
-check("no placeholder analytics injected", "googletagmanager" not in home and "clarity.ms" not in home)
-check("no formspree id injected", "formspree.io" not in home)
+# Analytics must be THIS site's ids only. Reusing the sibling sites' ids would
+# merge three sites' traffic in GA and blow a 50/month form limit, so the real
+# risk is cross-site leakage, not injection as such.
+check("only this site's GA4 id is injected",
+      (f"gtag/js?id={pd.SITE['ga4']}" in home) if pd.SITE.get("ga4") else ("googletagmanager" not in home))
+check("only this site's Clarity id is injected",
+      (f'"clarity","script","{pd.SITE["clarity"]}"' in home) if pd.SITE.get("clarity") else ("clarity.ms" not in home))
+check("no formspree endpoint while formspree is unconfigured",
+      ("formspree.io" not in home) if not pd.SITE.get("formspree") else True)
+SIBLING_IDS = ("G-5J9VBPKTB4", "xtrv7vr8dn", "xeeynyba")   # BHT's GA4, Clarity, Formspree
+leaked = [i for i in SIBLING_IDS if i in home]
+check("no sibling site's analytics/form id leaked in", not leaked, leaked)
 check("og:image omitted when no product image", 'property="og:image"' not in home)
 sm = read(os.path.join(real, "sitemap.xml"))
 check("sitemap has home at 1.0", "<priority>1.0</priority>" in sm)

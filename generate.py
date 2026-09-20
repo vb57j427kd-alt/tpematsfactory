@@ -22,6 +22,11 @@ try:
 except ImportError:            # blog is optional while the catalogue is empty
     ARTICLES, ARTICLE_INDEX = [], {}
 
+try:
+    from products_data import CATEGORY_COPY
+except ImportError:
+    CATEGORY_COPY = {}
+
 BASE = os.path.dirname(os.path.abspath(__file__))
 DOMAIN = SITE["domain"]
 URL = f"https://{DOMAIN}/"
@@ -29,6 +34,10 @@ YEAR = datetime.now().year
 WA = SITE["whatsapp"]
 BRAND = SITE["brand"]
 IS_LIVE = bool(SITE.get("ga4"))          # used to warn about placeholder config
+
+# IndexNow key (Bing / Yandex instant indexing). Not a secret - it only proves
+# we control the domain, and it is served as /<key>.txt from the site root.
+INDEXNOW_KEY = "9f2c7a41d68b4e53a1c0f7e29d34b856"
 
 CSS = """
 :root{--bg:#0A0C10;--bg2:#101419;--card:#151A21;--card2:#1B222B;--accent:#FF6A1F;--accent2:#D14E0D;--t1:#E9EEF4;--t2:#A6B2C0;--t3:#6C7987;--line:#212A34}
@@ -130,6 +139,21 @@ section{padding:60px 0;border-bottom:1px solid var(--line)}
 .tbl .specs{margin-bottom:0;min-width:420px}
 .specs td{border:1px solid var(--line);padding:10px 14px;font-size:.87rem}
 .specs td:first-child{color:var(--t3);width:36%;background:var(--bg2)}
+/* category buyer's guide + FAQ (rankable on-page content) */
+.guide{max-width:900px;margin-bottom:32px}
+.guide h2{font-size:1.22rem;color:var(--accent);margin:24px 0 10px}
+.guide h3{font-size:1.02rem;margin:18px 0 8px}
+.guide p{color:var(--t2);font-size:.94rem;margin-bottom:12px}
+.guide li{color:var(--t2);font-size:.92rem;margin:6px 0 6px 18px}
+.guide a,.post a{color:var(--accent)}
+.faq{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin-bottom:10px}
+.faq summary{cursor:pointer;font-weight:600;font-size:.95rem;color:var(--t1)}
+.faq summary:hover{color:var(--accent)}
+.faq-a{color:var(--t2);font-size:.9rem;margin-top:10px;line-height:1.65}
+.sm-col{margin-bottom:30px}
+.sm-col h3{font-size:1.05rem;color:var(--accent);margin-bottom:10px}
+.sm-col a{display:inline-block;color:var(--t2);font-size:.86rem;margin:0 14px 7px 0}
+.sm-col a:hover{color:var(--accent)}
 .pts{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
 .pts h4{color:var(--accent);margin-bottom:12px;font-size:1.02rem}
 .related{padding:50px 0}
@@ -221,7 +245,8 @@ FINDER_JS = """
   }
   function uniq(a){var o=[],s={};for(var i=0;i<a.length;i++){if(!s[a[i]]){s[a[i]]=1;o.push(a[i])}}return o}
   function card(p){
-    return '<a class="pc" href="'+esc(p.url)+'"><div class="pc-img"><img src="'+esc(p.img)+'" alt="'+esc(p.name)+'" width="400" height="280" loading="lazy" decoding="async">'+(p.badge?'<span class="badge">'+esc(p.badge)+'</span>':'')+'</div><div class="pc-body"><h3>'+esc(p.name)+'</h3><p>'+esc(p.desc)+'</p><div class="price-row"><span class="price">'+esc(p.price)+'</span><span class="moq">'+esc(p.moq)+'</span></div></div></a>';
+    var src=(p.imgw?'<source srcset="'+esc(p.imgw)+'" type="image/webp">':'');
+    return '<a class="pc" href="'+esc(p.url)+'"><div class="pc-img"><picture>'+src+'<img src="'+esc(p.imgc||p.img)+'" alt="'+esc(p.name)+'" width="400" height="280" loading="lazy" decoding="async"></picture>'+(p.badge?'<span class="badge">'+esc(p.badge)+'</span>':'')+'</div><div class="pc-body"><h3>'+esc(p.name)+'</h3><p>'+esc(p.desc)+'</p><div class="price-row"><span class="price">'+esc(p.price)+'</span><span class="moq">'+esc(p.moq)+'</span></div></div></a>';
   }
   function sync(){
     var Y=y.value,M=mk.value,pool=DATA;
@@ -330,6 +355,28 @@ def finder_js():
     return FINDER_JS.replace("__VJSON__", "/vehicles.json")
 
 
+def img_exists(rel):
+    if not rel:
+        return False
+    return os.path.isfile(os.path.join(BASE, rel.lstrip("/").replace("/", os.sep)))
+
+
+def picture(jpg, alt, w, h, card=False, loading="lazy"):
+    """<picture> with a WebP source plus a JPEG fallback.
+
+    The <source> is only emitted when the WebP file is really on disk, so a
+    build without the WebP step silently degrades to plain JPEG rather than
+    404ing every image."""
+    if not jpg:
+        return ""
+    base = jpg[:-4] if jpg.lower().endswith(".jpg") else jpg
+    webp = base + ("-card.webp" if card else ".webp")
+    src = (jpg[:-4] + "-card.jpg") if (card and jpg.lower().endswith(".jpg")) else jpg
+    srcs = f'<source srcset="{webp}" type="image/webp">' if img_exists(webp) else ""
+    return (f'<picture>{srcs}<img src="{src}" alt="{alt}" width="{w}" height="{h}" '
+            f'loading="{loading}" decoding="async"></picture>')
+
+
 def og_image(rel):
     """Absolute og:image URL - emitted only when the file really exists in the
     repo, so a half-loaded catalogue never ships a 404 image reference."""
@@ -366,7 +413,8 @@ def head(title, desc, canonical, ogimg, ld="", schema_title=None):
 <meta name="theme-color" content="#0A0C10">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- weights trimmed to the ones actually used: Oswald 600/700 for headings, Inter 400/600/700 for body -->
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 {analytics()}
 {ld}
 <style>{CSS}</style>
@@ -513,6 +561,7 @@ def footer():
         veh_links += '<a href="/shop-by-vehicle/">All vehicles</a>'
     else:
         veh_links = '<a href="/shop-by-vehicle/">Shop by Vehicle</a>'
+    veh_links += '<a href="/site-map/">Site map</a>'
     contact = f'<a href="mailto:{SITE["email"]}">{SITE["email"]}</a>' if SITE.get("email") else ""
     return f"""<footer><div class="wrap">
 <div class="foot">
@@ -537,8 +586,7 @@ def product_card(p):
     d = p["desc"][:110] + ("..." if len(p["desc"]) > 110 else "")
     url = f'/products/{p["slug"]}/'
     alt = p["name"]
-    return (f'<a href="{url}" class="pc"><div class="pc-img"><img src="{p["img"]}" alt="{alt}" '
-            f'width="400" height="280" loading="lazy" decoding="async">'
+    return (f'<a href="{url}" class="pc"><div class="pc-img">{picture(p["img"], alt, 400, 280, card=True)}'
             f'<span class="badge">{p["badge"]}</span></div><div class="pc-body"><h3>{p["name"]}</h3>'
             f'<p>{d}</p><div class="price-row"><span class="price">{p["price"]}</span>'
             f'<span class="moq">{p["moq"]}</span></div></div></a>')
@@ -601,6 +649,64 @@ def ld_product(p, canonical):
 
 def ld_script(payload):
     return f'<script type="application/ld+json">{payload}</script>'
+
+
+def faq_block(items, title="Frequently Asked Questions"):
+    rows = "".join(
+        f'<details class="faq"><summary>{q}</summary><div class="faq-a">{a}</div></details>'
+        for q, a in items)
+    return (f'<section><div class="wrap"><div class="sec-head"><div>'
+            f'<span class="tag">FAQ</span><h2>{title}</h2></div></div>{rows}</div></section>')
+
+
+def ld_faq(items):
+    """Same source as the visible FAQ, so the markup and the rich-result data
+    can never drift apart."""
+    return json.dumps({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [{"@type": "Question", "name": q,
+                        "acceptedAnswer": {"@type": "Answer", "text": a}}
+                       for q, a in items]}, ensure_ascii=False)
+
+
+def vehicle_faq(v):
+    """Answers restate only what the catalogue actually knows; where a fact is
+    missing they ask for it instead of asserting it."""
+    year_line = (f'These listings are moulded for the {vfull(v)}.'
+                 if v.get("years") else
+                 f'These listings are moulded for the {vname(v)}; the catalogue does not state a year range for it.')
+    hand_line = (f'This vehicle is listed as {v["hand"]}.'
+                 if v.get("hand") else
+                 'Both left- and right-hand drive versions can be tooled.')
+    return [
+        ("Will these liners fit my exact year?", year_line +
+         " Fitment changes between generations, so send us the model year and body type and we confirm before you order."),
+        ("Do you make left-hand and right-hand drive versions?", hand_line +
+         " Tell us which side the driver sits on when you place the order."),
+        ("Can I put my own brand on the mats?",
+         "Yes. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval."),
+        ("What is the minimum order quantity?",
+         "The MOQ printed on each listing is that listing's own minimum. Send your target quantity and destination country and we confirm what we can do."),
+        ("How do I get a sample before ordering in bulk?",
+         "Use the quote form or WhatsApp with your vehicle, quantity and destination. A first-article sample can be arranged before mass production."),
+    ]
+
+
+def product_faq(p):
+    f = p.get("fitment") or {}
+    veh = f'{f.get("make", "")} {f.get("model", "")}'.strip()
+    lead = (f'This listing is for the {veh}. ' if veh
+            else 'Tell us your vehicle and we confirm the fitment. ')
+    return [
+        ("How do I confirm this fits my car?", lead +
+         "Send the year, body type and drive side; we check the tooling and confirm before production."),
+        ("What is it made of?",
+         "TPE, a thermoplastic elastomer. It contains no plasticiser, so it does not give off the chemical smell PVC mats develop in a hot cabin, and it stays flexible in cold weather."),
+        ("How do I clean it?",
+         "Shake out loose dirt, then hose it down or wipe with a damp cloth. Mild detergent is enough - no solvent and no machine washing."),
+        ("Can it be branded for my shop?",
+         "Yes, OEM and ODM branding is available. Send your artwork, colour and packaging requirements with the enquiry."),
+    ]
 
 
 def breadcrumb(trail):
@@ -776,6 +882,7 @@ def category_html(cid):
 {breadcrumb([("Home", "/"), (c["name"], f"/{cid}/")])}
 <section><div class="wrap">
 {head_html}
+{('<div class="guide">' + CATEGORY_COPY[cid] + '</div>') if CATEGORY_COPY.get(cid) else ''}
 {grid}
 </div></section>
 <section id="contact" class="cta"><div class="wrap">
@@ -837,12 +944,13 @@ def product_page(p):
     if f.get("make") and f.get("model"):
         trail.append((f'{f["make"]} {f["model"]}', ""))
     trail.append((p["name"], ""))
-    ld = ld_script(ld_product(p, canonical)) + ld_script(ld_crumbs(trail[:2] + [(p["name"], "")]))
+    ld = ld_script(ld_product(p, canonical)) + ld_script(ld_crumbs(trail[:2] + [(p["name"], "")])) + \
+         ld_script(ld_faq(product_faq(p)))
     body = f"""<body>
 {nav(p["cat"])}
 {breadcrumb(trail)}
 <div class="wrap pd">
-<div class="pd-img"><img src="{p["img"]}" alt="{p["name"]}" width="600" height="450"></div>
+<div class="pd-img">{picture(p["img"], p["name"], 800, 600, card=False, loading="eager")}</div>
 <div class="pd-info">
 <h1>{p["name"]}</h1>
 <div class="pd-price">{p["price"]}</div>
@@ -862,6 +970,7 @@ def product_page(p):
 <div class="pts"><h4>Why Buyers Choose This Product</h4><ul>{pts}</ul></div>
 </div>
 </div>
+{faq_block(product_faq(p))}
 {rel_html}
 {footer()}"""
     return shell(title, desc, canonical, og_image(p["img"]), body, ld)
@@ -909,7 +1018,8 @@ def vehicle_page(v):
 
     ld = ld_script(ld_collection(f'{v["make"]} {v["model"]} TPE floor liners', desc, canonical)) + \
          ld_script(ld_crumbs([("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/"),
-                              (v["make"], "/shop-by-vehicle/"), (vname(v), vurl(v))]))
+                              (v["make"], "/shop-by-vehicle/"), (vname(v), vurl(v))])) + \
+         ld_script(ld_faq(vehicle_faq(v)))
     body = f"""<body>
 {nav()}
 {breadcrumb([("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/"), (v["make"], "/shop-by-vehicle/"), (vname(v), "")])}
@@ -927,11 +1037,12 @@ def vehicle_page(v):
 {grid}
 <p style="color:var(--t2);font-size:.9rem;margin-top:20px">Not the right year? Fitment changes between generations - <a href="/shop-by-vehicle/" style="color:var(--accent)">pick another year</a> or <a href="javascript:void(0)" onclick="openQuote('{vname(v)} - other year')" style="color:var(--accent)">tell us your year</a>.</p>
 </div></section>
+{faq_block(vehicle_faq(v))}
 {sib_html}
 <section id="contact" class="cta"><div class="wrap">
-<h2>{v["make"]} {v["model"]} Floor Liners - Wholesale</h2>
+<h2>{vname(v)} Floor Liners - Wholesale</h2>
 <p>Samples before bulk, OEM branding, container consolidation. Send your quantity and market.</p>
-<a href="javascript:void(0)" onclick="openQuote('{v["make"]} {v["model"]}')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" onclick="openQuote('{vname(v)}')" class="btn btn-p">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp +{WA}</a>
 </div></section>
 {footer()}"""
@@ -1026,6 +1137,57 @@ def article_page(a):
     return shell(title, desc, canonical, a.get("img", ""), body, ld)
 
 
+def site_map():
+    """Crawlable HTML index of everything - helps discovery and spreads
+    internal link equity to the deep vehicle and product pages."""
+    canonical = URL + "site-map/"
+    title = f'Site Map - All TPE Floor Liners, Vehicle Pages and Guides | {BRAND}'
+    desc = (f'Every page on {DOMAIN}: TPE floor liner categories, the full '
+            f'vehicle fitment index and our importer guides.')[:158]
+    cats = "".join(f'<a href="/{c["id"]}/">{c["name"]}</a>' for c in CATEGORIES)
+
+    by_make = {}
+    for v in VEHICLES:
+        by_make.setdefault(v["make"], []).append(v)
+    veh_html = "".join(
+        f'<div class="sm-col"><h3>{make} ({len(vs)})</h3>' +
+        "".join(f'<a href="{vurl(x)}">{vname(x)}</a>' for x in sorted(vs, key=lambda z: z["model"])) +
+        "</div>" for make, vs in sorted(by_make.items()))
+
+    by_cat = {}
+    for p in PRODUCTS:
+        by_cat.setdefault(p["cat"], []).append(p)
+    prod_html = ""
+    for c in CATEGORIES:
+        items = by_cat.get(c["id"], [])
+        if not items:
+            continue
+        prod_html += (f'<div class="sm-col"><h3>{c["name"]} ({len(items)})</h3>' +
+                      "".join(f'<a href="/products/{p["slug"]}/">{p["name"]}</a>'
+                              for p in sorted(items, key=lambda z: z["name"])) + "</div>")
+
+    blog_html = ""
+    if ARTICLES:
+        blog_html = ('<div class="sm-col"><h3>Guides</h3>' +
+                     "".join(f'<a href="/blog/{a["slug"]}/">{a["title"]}</a>' for a in ARTICLES) + "</div>")
+
+    body = f"""<body>
+{nav()}
+{breadcrumb([("Home", "/"), ("Site Map", "")])}
+<section><div class="wrap">
+<div class="sec-head"><div><span class="tag">Index</span><h1>Site Map</h1>
+<p style="color:var(--t3);margin-top:8px">{len(CATEGORIES)} categories &middot; {len(VEHICLES)} vehicle pages &middot; {len(PRODUCTS)} products{(' &middot; ' + str(len(ARTICLES)) + ' guides') if ARTICLES else ''}</p></div></div>
+<div class="sm-col"><h3>Categories</h3>{cats}</div>
+{veh_html}
+{prod_html}
+{blog_html}
+<div class="sm-col"><h3>Site</h3><a href="/">Home</a><a href="/blog/">Blog</a><a href="/#finder">Fitment finder</a></div>
+</div></section>
+{footer()}"""
+    ld = ld_script(ld_crumbs([("Home", "/"), ("Site Map", canonical)]))
+    return shell(title, desc, canonical, "", body, ld)
+
+
 def not_found():
     return f"""<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
 <title>404 - Page Not Found | {BRAND}</title>
@@ -1048,9 +1210,13 @@ def vehicles_payload():
         prods = []
         for p in products_for_vehicle(v):
             d = p["desc"][:100] + ("..." if len(p["desc"]) > 100 else "")
+            base = p["img"][:-4] if p["img"].lower().endswith(".jpg") else p["img"]
+            card_webp = base + "-card.webp"
             prods.append({
                 "slug": p["slug"], "name": p["name"], "price": p["price"], "moq": p["moq"],
                 "img": p["img"], "badge": p.get("badge", ""), "desc": d,
+                "imgc": base + "-card.jpg" if base != p["img"] else p["img"],
+                "imgw": card_webp if img_exists(card_webp) else "",
                 "url": f'/products/{p["slug"]}/',
             })
         out.append({
@@ -1073,7 +1239,8 @@ def write_file(rel, text):
 
 def sitemap_xml():
     today = datetime.now().strftime("%Y-%m-%d")
-    rows = [(URL, "1.0", "daily"), (URL + "shop-by-vehicle/", "0.9", "weekly")]
+    rows = [(URL, "1.0", "daily"), (URL + "shop-by-vehicle/", "0.9", "weekly"),
+            (URL + "site-map/", "0.4", "monthly")]
     for c in CATEGORIES:
         rows.append((f'{URL}{c["id"]}/', "0.9", "daily"))
     for v in VEHICLES:                       # vehicle pages rank above product pages
@@ -1121,6 +1288,7 @@ def main():
     for v in VEHICLES:
         made.append(write_file(vurl(v).strip("/") + "/index.html", vehicle_page(v)))
     made.append(write_file("shop-by-vehicle/index.html", vehicle_index()))
+    made.append(write_file("site-map/index.html", site_map()))
     if ARTICLES:
         made.append(write_file("blog/index.html", blog_index()))
         for a in ARTICLES:
@@ -1128,6 +1296,10 @@ def main():
 
     write_file("vehicles.json", json.dumps(vehicles_payload(), ensure_ascii=False, indent=1))
     write_file("CNAME", DOMAIN + "\n")
+    write_file(".nojekyll", "")          # skip Jekyll processing on GitHub Pages
+    # IndexNow ownership proof: Bing/Yandex fetch this file to verify we are
+    # allowed to push URLs. tools/indexnow_push.py does the submitting.
+    write_file(f"{INDEXNOW_KEY}.txt", INDEXNOW_KEY + "\n")
     write_file("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {URL}sitemap.xml\n")
     write_file("sitemap.xml", sitemap_xml())
     write_file("404.html", not_found())
