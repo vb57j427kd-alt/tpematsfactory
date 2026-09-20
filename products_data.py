@@ -30,7 +30,7 @@ SITE = {
     # the Aliyun enterprise-mail console, MX/SPF resolve publicly, and the
     # inbound path was proven by two messages actually arriving.
     "email": "yale@tpematsfactory.com",
-    "formspree": "",          # needs a Formspree account (email-verify); WhatsApp path is live
+    "formspree": "mvkgzrqr",  # form Wholesale Quote Request, verified 2026-09-20; test POST returned HTTP 200
     "ga4": "G-QH57L3C2J0",    # created 2026-09-20, dedicated to this site
     "clarity": "yl2mwy2l99",  # created 2026-09-20, dedicated to this site
 

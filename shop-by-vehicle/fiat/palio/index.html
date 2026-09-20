@@ -269,7 +269,7 @@ function submitQuote(e){
   var g=function(id){return (document.getElementById(id).value||'').trim()};
   var msg='Quote request - '+"TPE Mats Factory"+'\nProduct / Vehicle: '+(currentProduct||g('qVehicle'))+'\nName: '+g('qName')+'\nEmail: '+g('qEmail')+'\nCountry: '+g('qCountry')+'\nWhatsApp: '+g('qPhone')+'\nCompany: '+g('qCompany')+'\nVehicle model: '+g('qVehicle')+'\nQuantity: '+g('qQty')+'\nMessage: '+g('qMsg');
   window.open('https://wa.me/8618669693290?text='+encodeURIComponent(msg),'_blank');
-  
+  var fd=new FormData();fd.append('product',currentProduct);fd.append('name',g('qName'));fd.append('email',g('qEmail'));fd.append('country',g('qCountry'));fd.append('phone',g('qPhone'));fd.append('company',g('qCompany'));fd.append('vehicle',g('qVehicle'));fd.append('quantity',g('qQty'));fd.append('message',g('qMsg'));fetch('https://formspree.io/f/mvkgzrqr',{method:'POST',body:fd,headers:{Accept:'application/json'}}).catch(function(){});
   document.getElementById('quoteFormWrap').style.display='none';
   document.getElementById('quoteSuccess').style.display='block';
 }
