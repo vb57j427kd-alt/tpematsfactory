@@ -26,8 +26,11 @@ SITE = {
 
     # Must be created for THIS site - the generator skips anything blank, so no
     # placeholder id is ever published.
-    "email": "",
-    "formspree": "",          # blocked on a Formspree login; WhatsApp path is live
+    # Verified 2026-09-20 before publishing: the mailbox exists and is active in
+    # the Aliyun enterprise-mail console, MX/SPF resolve publicly, and the
+    # inbound path was proven by two messages actually arriving.
+    "email": "yale@tpematsfactory.com",
+    "formspree": "",          # needs a Formspree account (email-verify); WhatsApp path is live
     "ga4": "G-QH57L3C2J0",    # created 2026-09-20, dedicated to this site
     "clarity": "yl2mwy2l99",  # created 2026-09-20, dedicated to this site
 
