@@ -1010,6 +1010,14 @@ def vehicle_page(v):
                     f'<div class="vgrid">{"".join(vehicle_card(x) for x in sorted(sibs, key=lambda z: z["model"]))}</div>'
                     f'</div></section>')
     note = f'<p style="color:var(--t2);font-size:.9rem;margin-top:14px">{v["note"]}</p>' if v.get("note") else ""
+    # Honesty guard: a year range that came from the model's own generation is
+    # a reference, not a mould list, so the page says so instead of presenting
+    # it as a fitment guarantee.
+    ysrc = ""
+    if v.get("years_source") == "model_generation":
+        ysrc = ('<p style="color:var(--t3);font-size:.8rem;margin-top:10px">Year range shown is the '
+                'model generation, for reference only. Fitment changes between generations - send us '
+                'your exact year and we confirm against our tooling before you order.</p>')
     vimg = og_image(v.get("img") or "")
     hero = ""
     if vimg:
@@ -1030,6 +1038,7 @@ def vehicle_page(v):
 <a href="javascript:void(0)" onclick="openQuote('{vfull(v)}')">Get quote &rarr;</a></div>
 {hero}
 <div class="fit">{meta_html}</div>
+{ysrc}
 {note}
 </div></section>
 <section><div class="wrap">

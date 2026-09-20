@@ -2693,18 +2693,21 @@ VEHICLES = [
   "products": [
    "audi-a6-a8-floor-liners"
   ],
-  "slug": "audi-a6-a8"
+  "slug": "audi-a6-a8",
+  "years_source": ""
  },
  {
   "make": "BYD",
   "model": "Atto",
-  "years": "",
+  "years": "2022-present",
   "body": "",
   "hand": "LHD",
   "products": [
    "byd-atto-all-weather-mats"
   ],
-  "slug": "byd-atto"
+  "slug": "byd-atto",
+  "years_source": "model_generation",
+  "years_note": "BYD Atto 3 production started January 2022."
  },
  {
   "make": "BYD",
@@ -2715,7 +2718,8 @@ VEHICLES = [
   "products": [
    "byd-dolphin-seal-atto3-all-weather-mats"
   ],
-  "slug": "byd-dolphin-seal-atto3"
+  "slug": "byd-dolphin-seal-atto3",
+  "years_source": ""
  },
  {
   "make": "BYD",
@@ -2726,7 +2730,8 @@ VEHICLES = [
   "products": [
    "byd-seagull-atto-1-ev-floor-liners"
   ],
-  "slug": "byd-seagull-atto-1-ev"
+  "slug": "byd-seagull-atto-1-ev",
+  "years_source": ""
  },
  {
   "make": "BYD",
@@ -2737,18 +2742,21 @@ VEHICLES = [
   "products": [
    "byd-song-plus-dm-i-seal-all-weather-mats"
   ],
-  "slug": "byd-song-plus-dm-i-seal"
+  "slug": "byd-song-plus-dm-i-seal",
+  "years_source": ""
  },
  {
   "make": "Buick",
   "model": "Excelle",
-  "years": "",
+  "years": "2018-2023",
   "body": "",
   "hand": "",
   "products": [
    "buick-excelle-floor-liners"
   ],
-  "slug": "buick-excelle"
+  "slug": "buick-excelle",
+  "years_source": "model_generation",
+  "years_note": "Two runs: 2003-2016 and 2018-2023; the later run is the one on sale."
  },
  {
   "make": "Changan",
@@ -2759,7 +2767,8 @@ VEHICLES = [
   "products": [
    "changan-cs75-plus-mk4-floor-liners"
   ],
-  "slug": "changan-cs75-plus-mk4"
+  "slug": "changan-cs75-plus-mk4",
+  "years_source": ""
  },
  {
   "make": "Changan",
@@ -2770,7 +2779,8 @@ VEHICLES = [
   "products": [
    "changan-uni-t-2023-2026-floor-liners"
   ],
-  "slug": "changan-uni-t-2023-2026"
+  "slug": "changan-uni-t-2023-2026",
+  "years_source": "listing_title"
  },
  {
   "make": "Chery",
@@ -2781,7 +2791,8 @@ VEHICLES = [
   "products": [
    "chery-fulwin-t9l-floor-liners"
   ],
-  "slug": "chery-fulwin-t9l"
+  "slug": "chery-fulwin-t9l",
+  "years_source": ""
  },
  {
   "make": "Chery",
@@ -2792,7 +2803,8 @@ VEHICLES = [
   "products": [
    "chery-tiggo-floor-liners"
   ],
-  "slug": "chery-tiggo"
+  "slug": "chery-tiggo",
+  "years_source": ""
  },
  {
   "make": "Fiat",
@@ -2803,7 +2815,8 @@ VEHICLES = [
   "products": [
    "fiat-palio-floor-liners"
   ],
-  "slug": "fiat-palio"
+  "slug": "fiat-palio",
+  "years_source": ""
  },
  {
   "make": "Ford",
@@ -2814,7 +2827,8 @@ VEHICLES = [
   "products": [
    "ford-f150-raptor-floor-liners"
   ],
-  "slug": "ford-f150-raptor"
+  "slug": "ford-f150-raptor",
+  "years_source": ""
  },
  {
   "make": "Ford",
@@ -2825,7 +2839,8 @@ VEHICLES = [
   "products": [
    "ford-ranger-escape-mustang-floor-liners"
   ],
-  "slug": "ford-ranger-escape-mustang"
+  "slug": "ford-ranger-escape-mustang",
+  "years_source": ""
  },
  {
   "make": "Ford",
@@ -2836,7 +2851,8 @@ VEHICLES = [
   "products": [
    "ford-ranger-raptor-all-weather-mats"
   ],
-  "slug": "ford-ranger-raptor"
+  "slug": "ford-ranger-raptor",
+  "years_source": ""
  },
  {
   "make": "Ford",
@@ -2847,7 +2863,8 @@ VEHICLES = [
   "products": [
    "ford-territory-destroyer-2019-2023-floor-liners"
   ],
-  "slug": "ford-territory-destroyer-2019-2023"
+  "slug": "ford-territory-destroyer-2019-2023",
+  "years_source": "listing_title"
  },
  {
   "make": "Geely",
@@ -2858,7 +2875,8 @@ VEHICLES = [
   "products": [
    "geely-ex2-xingyuan-ev-floor-liners"
   ],
-  "slug": "geely-ex2-xingyuan-ev"
+  "slug": "geely-ex2-xingyuan-ev",
+  "years_source": ""
  },
  {
   "make": "Geely",
@@ -2869,7 +2887,8 @@ VEHICLES = [
   "products": [
    "geely-panda-mini-ev-floor-liners"
   ],
-  "slug": "geely-panda-mini-ev"
+  "slug": "geely-panda-mini-ev",
+  "years_source": ""
  },
  {
   "make": "Geely",
@@ -2880,18 +2899,21 @@ VEHICLES = [
   "products": [
    "geely-xingyuan-ex2-ev-floor-liners"
   ],
-  "slug": "geely-xingyuan-ex2-ev"
+  "slug": "geely-xingyuan-ex2-ev",
+  "years_source": ""
  },
  {
   "make": "Honda",
   "model": "CR-V",
-  "years": "",
+  "years": "2022-present",
   "body": "",
   "hand": "LHD",
   "products": [
    "honda-cr-v-floor-liners"
   ],
-  "slug": "honda-cr-v"
+  "slug": "honda-cr-v",
+  "years_source": "model_generation",
+  "years_note": "6th generation only. 5th generation (RW/RT) ran 2017-2022 and is very common - confirm with the customer."
  },
  {
   "make": "Hongqi",
@@ -2902,7 +2924,8 @@ VEHICLES = [
   "products": [
    "hongqi-h5-h6-h7-h9-floor-liners"
   ],
-  "slug": "hongqi-h5-h6-h7-h9"
+  "slug": "hongqi-h5-h6-h7-h9",
+  "years_source": ""
  },
  {
   "make": "Hyundai",
@@ -2913,7 +2936,8 @@ VEHICLES = [
   "products": [
    "hyundai-elantra-sedan-3-5mm-trunk-mats"
   ],
-  "slug": "hyundai-elantra-sedan-3-5mm"
+  "slug": "hyundai-elantra-sedan-3-5mm",
+  "years_source": ""
  },
  {
   "make": "Mercedes-Benz",
@@ -2924,7 +2948,8 @@ VEHICLES = [
   "products": [
    "mercedes-benz-c260l-w205-w206-floor-liners"
   ],
-  "slug": "mercedes-benz-c260l-w205-w206"
+  "slug": "mercedes-benz-c260l-w205-w206",
+  "years_source": ""
  },
  {
   "make": "Mercedes-Benz",
@@ -2935,29 +2960,34 @@ VEHICLES = [
   "products": [
    "mercedes-benz-e300l-floor-liners"
   ],
-  "slug": "mercedes-benz-e300l"
+  "slug": "mercedes-benz-e300l",
+  "years_source": ""
  },
  {
   "make": "Nissan",
   "model": "Navara NP300",
-  "years": "",
+  "years": "2014-present",
   "body": "Pickup",
   "hand": "",
   "products": [
    "nissan-navara-np300-floor-liners"
   ],
-  "slug": "nissan-navara-np300"
+  "slug": "nissan-navara-np300",
+  "years_source": "model_generation",
+  "years_note": "D23 platform, marketed as NP300 in several markets."
  },
  {
   "make": "Nissan",
   "model": "X-Trail Snow Mud Proof",
-  "years": "",
+  "years": "2021-present",
   "body": "",
   "hand": "",
   "products": [
    "nissan-x-trail-snow-mud-proof-floor-liners"
   ],
-  "slug": "nissan-x-trail-snow-mud-proof"
+  "slug": "nissan-x-trail-snow-mud-proof",
+  "years_source": "model_generation",
+  "years_note": "T33 generation. 'Snow Mud Proof' is trim wording, not part of the model name."
  },
  {
   "make": "Tesla",
@@ -2968,41 +2998,48 @@ VEHICLES = [
   "products": [
    "tesla-cybertruck-trunk-mats"
   ],
-  "slug": "tesla-cybertruck"
+  "slug": "tesla-cybertruck",
+  "years_source": "listing_title"
  },
  {
   "make": "Toyota",
   "model": "Corolla",
-  "years": "",
+  "years": "2018-present",
   "body": "",
   "hand": "",
   "products": [
    "toyota-corolla-floor-liners",
    "toyota-corolla-floor-liners-2"
   ],
-  "slug": "toyota-corolla"
+  "slug": "toyota-corolla",
+  "years_source": "model_generation",
+  "years_note": "E210, 12th generation."
  },
  {
   "make": "Toyota",
   "model": "Crown",
-  "years": "",
+  "years": "2022-present",
   "body": "",
   "hand": "LHD",
   "products": [
    "toyota-crown-floor-liners"
   ],
-  "slug": "toyota-crown"
+  "slug": "toyota-crown",
+  "years_source": "model_generation",
+  "years_note": "S235, 16th generation."
  },
  {
   "make": "Toyota",
   "model": "Fortuner Prado Raised Edge",
-  "years": "",
+  "years": "2015-present",
   "body": "",
   "hand": "",
   "products": [
    "toyota-fortuner-prado-raised-edge-floor-liners"
   ],
-  "slug": "toyota-fortuner-prado-raised-edge"
+  "slug": "toyota-fortuner-prado-raised-edge",
+  "years_source": "model_generation",
+  "years_note": "AN160, 2nd generation. 'Raised Edge' is product wording, not a model name."
  },
  {
   "make": "Toyota",
@@ -3013,18 +3050,21 @@ VEHICLES = [
   "products": [
    "toyota-hilux-revo-2015-2025-floor-liners"
   ],
-  "slug": "toyota-hilux-revo-2015-2025"
+  "slug": "toyota-hilux-revo-2015-2025",
+  "years_source": "listing_title"
  },
  {
   "make": "Toyota",
   "model": "Hilux Vigo Dual Cab",
-  "years": "",
+  "years": "2015-present",
   "body": "",
   "hand": "LHD",
   "products": [
    "toyota-hilux-vigo-dual-cab-floor-liners"
   ],
-  "slug": "toyota-hilux-vigo-dual-cab"
+  "slug": "toyota-hilux-vigo-dual-cab",
+  "years_source": "model_generation",
+  "years_note": "8th generation. Note 'Vigo' strictly refers to the 7th generation (2004-2015) - flag to the customer."
  },
  {
   "make": "Toyota",
@@ -3035,7 +3075,8 @@ VEHICLES = [
   "products": [
    "toyota-land-cruiser-lc200-lc300-floor-liners"
   ],
-  "slug": "toyota-land-cruiser-lc200-lc300"
+  "slug": "toyota-land-cruiser-lc200-lc300",
+  "years_source": ""
  },
  {
   "make": "Toyota",
@@ -3046,29 +3087,34 @@ VEHICLES = [
   "products": [
    "toyota-land-cruiser-prado-lc150-floor-liners"
   ],
-  "slug": "toyota-land-cruiser-prado-lc150"
+  "slug": "toyota-land-cruiser-prado-lc150",
+  "years_source": ""
  },
  {
   "make": "Toyota",
   "model": "RAV4",
-  "years": "",
+  "years": "2019-2025",
   "body": "",
   "hand": "",
   "products": [
    "toyota-rav4-floor-liners"
   ],
-  "slug": "toyota-rav4"
+  "slug": "toyota-rav4",
+  "years_source": "model_generation",
+  "years_note": "XA50. One source also claimed a 2026 generation; low confidence, treat as indicative only."
  },
  {
   "make": "Toyota",
   "model": "prius",
-  "years": "",
+  "years": "2022-present",
   "body": "",
   "hand": "",
   "products": [
    "toyota-prius-floor-liners"
   ],
-  "slug": "toyota-prius"
+  "slug": "toyota-prius",
+  "years_source": "model_generation",
+  "years_note": "XW60, 5th generation. XW50 ran 2015-2022 and is the higher-volume car for mats."
  },
  {
   "make": "Volkswagen",
@@ -3079,7 +3125,8 @@ VEHICLES = [
   "products": [
    "volkswagen-polo-mk5-mk8-floor-liners"
   ],
-  "slug": "volkswagen-polo-mk5-mk8"
+  "slug": "volkswagen-polo-mk5-mk8",
+  "years_source": ""
  },
  {
   "make": "Wuling",
@@ -3090,7 +3137,8 @@ VEHICLES = [
   "products": [
    "wuling-bingo-floor-liners"
   ],
-  "slug": "wuling-bingo"
+  "slug": "wuling-bingo",
+  "years_source": ""
  }
 ]
 
