@@ -158,7 +158,7 @@ nslookup -type=CNAME www.tpematsfactory.com
 | Google Search Console | ✅ 域名资源已验证（DNS TXT `google-site-verification=F0AI1mPJBAPa2DBL7xmeSqZAK6L4Yw2lYd07-YriIL0`），sitemap 已提交，**99 个 URL 已被发现** |
 | Bing Webmaster | ✅ 站点已验证（CNAME `95e24c04f74772eda13ae62939fc108f` → `verify.bing.com`），sitemap 已提交（Processing，0 错误 0 警告） |
 | IndexNow | ✅ Bing 端点已接受（HTTP 202）；`api.indexnow.org` 从本机网络被连续切断（3 次 RemoteDisconnected），不影响 Bing 收录 |
-| 站内邮箱 | ❌ **`sales@tpematsfactory.com` 不存在**——阿里云 DirectMail 当前只服务 5 个其他域名，阿里邮箱里也没有该域。询盘目前靠 WhatsApp |
+| 站内邮箱 | ✅ `yale@tpematsfactory.com`（阿里云企业邮箱免费版）。MX / SPF / DKIM 控制台均「通过」，详见 6.6 |
 
 ### 打开速度（实测，非估计）
 
@@ -178,6 +178,40 @@ nslookup -type=CNAME www.tpematsfactory.com
 - 新增 HTML 站点地图 `/site-map/`：99 个页面全索引，改善抓取路径与内链权重分配
 - 新增 3 篇博客（1280 / 1031 / 1153 词），内链经程序校验**全部指向真实存在的页面，断链 0**
 - IndexNow 验证文件 `9f2c7a41d68b4e53a1c0f7e29d34b856.txt` 已随站点发布并实测可访问
+
+---
+
+## 6.6 站内邮箱与邮件认证（2026-09-20）
+
+**邮箱**：`yale@tpematsfactory.com` —— 阿里云企业邮箱免费版（¥0，实例 `alimailhzbc655255e1f540bc8861daa56b53e777`，到期 2027-09-21）。站点首页与产品页均有 `mailto:` 链接。
+
+**收信**：MX → `mx1/mx2/mx3.qiye.aliyun.com`（优先级 5 / 10 / 15）；SPF `v=spf1 include:spf.qiye.aliyun.com -all`。
+
+**DKIM**：`default._domainkey` TXT 记录已发布，控制台验证状态 **通过**（原为未通过）。
+
+```
+记录类型  TXT
+主机记录  default._domainkey
+记录值    v=DKIM1; k=rsa; p=MIIBIjANBgkqh…（2048 位 RSA，共 411 字符）
+TTL       600
+```
+
+发布前后的独立校验（`python ../tools/verify_dkim.py`，可重复运行）：
+
+| 校验项 | 结果 |
+|---|---|
+| 公网解析（阿里云 DoH，绕开本机 UDP:53 劫持） | 记录存在 |
+| 解析值 vs 控制台读到的值，逐字符比对 | **完全一致（411 / 411 字符）** |
+| `p=` 部分 base64 解码 | 294 字节合法 SPKI |
+| RSA 模数位长 | **2048 位**（这一步才能排除"看着正常但被静默截断"） |
+| 邮箱控制台「立即验证」 | **通过** |
+| MX / SPF / google-site-verification / 4 条 A 记录 | 全部未被扰动 |
+
+> ⚠️ **本机可用的 DoH 端点只有一个**：`dns.google` 与 `cloudflare-dns.com` 从这台机器**直连不通**（curl exit 28 / Python WinError 10060）。
+> 可用的是 **`https://dns.alidns.com/resolve?name=<域名>&type=<类型>`**（带 `accept: application/dns-json`）。
+>
+> ⚠️ **长 TXT 记录会分片返回**成 `"chunk1" "chunk2"` 两段。比对前必须把分片拼起来（去掉引号、**中间不插空格**），
+> 否则 411 字符的 DKIM 值会被误判成"值不一致"。
 
 ---
 
