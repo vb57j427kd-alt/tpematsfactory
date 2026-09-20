@@ -95,10 +95,12 @@ section{padding:60px 0;border-bottom:1px solid var(--line)}
 .empty{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:26px;color:var(--t2);font-size:.92rem}
 .empty b{color:var(--t1)}
 /* breadcrumb */
-.crumb{color:var(--t3);font-size:.82rem;padding:18px 0}
+/* longhand padding on purpose: the shorthand reset the 24px gutter from .wrap,
+   leaving breadcrumbs and product text flush against the screen on mobile */
+.crumb{color:var(--t3);font-size:.82rem;padding-top:18px;padding-bottom:18px}
 .crumb a:hover{color:var(--accent)}
 /* product page */
-.pd{display:grid;grid-template-columns:1.05fr 1fr;gap:42px;padding:26px 0 56px}
+.pd{display:grid;grid-template-columns:1.05fr 1fr;gap:42px;padding-top:26px;padding-bottom:56px}
 .pd-img{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;align-self:start}
 .pd-img img{width:100%;display:block}
 .pd-info h1{font-size:1.85rem;line-height:1.2;margin-bottom:12px}
@@ -112,7 +114,11 @@ section{padding:60px 0;border-bottom:1px solid var(--line)}
 .fit{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .fit div{background:var(--bg2);padding:10px 14px;font-size:.86rem;display:flex;justify-content:space-between;gap:12px}
 .fit span{color:var(--t3)}
+/* the 4-column comparison table cannot fit 375px: scroll it instead of
+   letting it push the whole page 57px wide */
+.tbl{overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:2px}
 .specs{width:100%;border-collapse:collapse;margin-bottom:22px}
+.tbl .specs{margin-bottom:0;min-width:420px}
 .specs td{border:1px solid var(--line);padding:10px 14px;font-size:.87rem}
 .specs td:first-child{color:var(--t3);width:36%;background:var(--bg2)}
 .pts{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
@@ -161,7 +167,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
 /* keep every nav link reachable on touch devices: scroll horizontally instead of hiding */
 .nav-in{height:60px;gap:12px}.nav-links{display:flex;overflow-x:auto;gap:15px;font-size:.82rem;white-space:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:2px}.nav-links::-webkit-scrollbar{display:none}
 .dd-menu{display:none!important}}
-@media(max-width:560px){.grid,.grid-4,.vgrid{grid-template-columns:1fr}.finder-row{grid-template-columns:1fr}.fit{grid-template-columns:1fr}.nav-links{gap:12px}.logo{font-size:1.05rem}.trust{gap:22px}}
+@media(max-width:560px){.grid,.grid-4,.vgrid{grid-template-columns:1fr}.finder-row{grid-template-columns:1fr}.fit{grid-template-columns:1fr}.nav-links{gap:12px}.logo{font-size:1.05rem}.trust{gap:22px}.specs td{padding:8px 10px;font-size:.82rem}.tbl .specs{min-width:380px}}
 </style>
 </head>
 <body>
@@ -189,6 +195,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
 <div><label>Model</label><select id="fModel"></select></div>
 <div><button class="btn btn-p" onclick="openQuote('Vehicle request')">Get Quote</button></div>
 </div>
+<p class="finder-note" style="margin-top:14px">Not in the list? Send us the make, model and year - we check the tooling and come back with price and sample lead time. <a href="javascript:void(0)" onclick="openQuote('Vehicle request')" style="color:var(--accent)">Request your vehicle</a></p>
 <p class="finder-note" id="fStatus"></p>
 <div class="finder-res" id="fResult"></div>
 </div>
@@ -198,15 +205,15 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
 <div class="feats"><a href="/floor-liners/" class="feat"><h4>3D TPE Floor Liners</h4><p>Laser-measured 3D full-coverage liners with high side walls and OE fixing points.</p><span style="color:var(--accent);font-size:.85rem;display:block;margin-top:10px">Browse &rarr;</span></a><a href="/all-weather-mats/" class="feat"><h4>All-Weather Floor Mats</h4><p>Flat and semi-universal TPE mats for year-round protection against mud, snow and spills.</p><span style="color:var(--accent);font-size:.85rem;display:block;margin-top:10px">Browse &rarr;</span></a><a href="/trunk-mats/" class="feat"><h4>Trunk Mats & Cargo Liners</h4><p>Boot and cargo-area liners cut to the load floor, with raised edges.</p><span style="color:var(--accent);font-size:.85rem;display:block;margin-top:10px">Browse &rarr;</span></a><a href="/double-layer-mats/" class="feat"><h4>Double-Layer Mats</h4><p>Detachable two-layer construction: lift the top layer out, hose the base.</p><span style="color:var(--accent);font-size:.85rem;display:block;margin-top:10px">Browse &rarr;</span></a></div></div></section>
 <section id="vehicles" style="background:var(--bg2)"><div class="wrap">
 <div class="sec-head"><div><span class="tag">Fitment Index</span><h2>Vehicle Coverage</h2></div><a href="/shop-by-vehicle/">All vehicles &rarr;</a></div>
-<div class="vgrid"><a class="vcard" href="/shop-by-vehicle/audi/a6-a8/"><b>Audi A6 A8</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/atto/"><b>BYD Atto</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/dolphin-seal-atto3/"><b>BYD Dolphin Seal Atto3</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/seagull-atto-1-ev/"><b>BYD Seagull Atto 1 EV</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/song-plus-dm-i-seal/"><b>BYD Song Plus DM-i Seal</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/buick/excelle/"><b>Buick Excelle</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/changan/cs75-plus-mk4/"><b>Changan CS75 PLUS MK4</b><span> &middot; Suv</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/changan/uni-t-2023-2026/"><b>Changan UNI-T 2023-2026</b><span>2023-2026</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/chery/fulwin-t9l/"><b>Chery Fulwin T9L</b><span> &middot; Suv</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/chery/tiggo/"><b>Chery Tiggo</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/fiat/palio/"><b>Fiat Palio</b><span></span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/ford/f150-raptor/"><b>Ford F150 Raptor</b><span> &middot; Pickup</span><em>1 product &rarr;</em></a></div></div></section>
+<div class="vgrid"><a class="vcard" href="/shop-by-vehicle/audi/a6-a8/"><b>Audi A6 A8</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/atto/"><b>BYD Atto</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/dolphin-seal-atto3/"><b>BYD Dolphin Seal Atto3</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/seagull-atto-1-ev/"><b>BYD Seagull Atto 1 EV</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/byd/song-plus-dm-i-seal/"><b>BYD Song Plus DM-i Seal</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/buick/excelle/"><b>Buick Excelle</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/changan/cs75-plus-mk4/"><b>Changan CS75 PLUS MK4</b><span>year range on request &middot; Suv</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/changan/uni-t-2023-2026/"><b>Changan UNI-T 2023-2026</b><span>2023-2026</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/chery/fulwin-t9l/"><b>Chery Fulwin T9L</b><span>year range on request &middot; Suv</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/chery/tiggo/"><b>Chery Tiggo</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/fiat/palio/"><b>Fiat Palio</b><span>year range on request</span><em>1 product &rarr;</em></a><a class="vcard" href="/shop-by-vehicle/ford/f150-raptor/"><b>Ford F150 Raptor</b><span>year range on request &middot; Pickup</span><em>1 product &rarr;</em></a></div></div></section>
 <section id="bestsellers"><div class="wrap">
 <div class="sec-head"><div><span class="tag">Catalogue</span><h2>Featured TPE Liners</h2></div></div>
 <div class="grid"><a href="/products/audi-a6-a8-floor-liners/" class="pc"><div class="pc-img"><img src="/images/audi-a6-a8-floor-liners.jpg" alt="TPE Floor Liners for Audi A6 A8" width="400" height="280" loading="lazy" decoding="async"><span class="badge">3D Fit</span></div><div class="pc-body"><h3>TPE Floor Liners for Audi A6 A8</h3><p>Floor liner for the Audi A6 and A8, made as a moulded 3D and 5D tray with a deep channel running the length of...</p><div class="price-row"><span class="price">$17-20/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/byd-atto-all-weather-mats/" class="pc"><div class="pc-img"><img src="/images/byd-atto-all-weather-mats.jpg" alt="All-Weather TPE Floor Mats for BYD Atto" width="400" height="280" loading="lazy" decoding="async"><span class="badge">Custom Fit</span></div><div class="pc-body"><h3>All-Weather TPE Floor Mats for BYD Atto</h3><p>All-season mats moulded for the BYD Atto in left-hand drive, supplied as a three-piece set for the driver, pas...</p><div class="price-row"><span class="price">$18-20/set</span><span class="moq">MOQ 10 sets</span></div></div></a><a href="/products/byd-dolphin-seal-atto3-all-weather-mats/" class="pc"><div class="pc-img"><img src="/images/byd-dolphin-seal-atto3-all-weather-mats.jpg" alt="All-Weather TPE Floor Mats for BYD Dolphin Seal Atto3" width="400" height="280" loading="lazy" decoding="async"><span class="badge">All-Season</span></div><div class="pc-body"><h3>All-Weather TPE Floor Mats for BYD Dolphin Seal Atto3</h3><p>All-weather TPE set moulded for the BYD Dolphin, Seal and Atto 3 in left-hand drive, supplied as a full three-...</p><div class="price-row"><span class="price">$17-20/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/byd-seagull-atto-1-ev-floor-liners/" class="pc"><div class="pc-img"><img src="/images/byd-seagull-atto-1-ev-floor-liners.jpg" alt="TPE Floor Liners for BYD Seagull Atto 1 EV" width="400" height="280" loading="lazy" decoding="async"><span class="badge">Low MOQ</span></div><div class="pc-body"><h3>TPE Floor Liners for BYD Seagull Atto 1 EV</h3><p>Five-dimensional full-coverage liner moulded for the BYD Seagull and Atto 1 EV, with a deep channel and raised...</p><div class="price-row"><span class="price">$18-20/set</span><span class="moq">MOQ 10 sets</span></div></div></a><a href="/products/byd-song-plus-dm-i-seal-all-weather-mats/" class="pc"><div class="pc-img"><img src="/images/byd-song-plus-dm-i-seal-all-weather-mats.jpg" alt="All-Weather TPE Floor Mats for BYD Song Plus DM-i Seal" width="400" height="280" loading="lazy" decoding="async"><span class="badge">OEM Ready</span></div><div class="pc-body"><h3>All-Weather TPE Floor Mats for BYD Song Plus DM-i Seal</h3><p>All-weather floor liner moulded for the BYD Song Plus DM-i and Seal in left-hand drive, giving full coverage o...</p><div class="price-row"><span class="price">$17-19/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/buick-floor-liners/" class="pc"><div class="pc-img"><img src="/images/buick-floor-liners.jpg" alt="TPE Floor Liners for Buick - Made to Order" width="400" height="280" loading="lazy" decoding="async"><span class="badge">3D Fit</span></div><div class="pc-body"><h3>TPE Floor Liners for Buick - Made to Order</h3><p>Full-coverage TPE floor liner built as a three-dimensional tray with high side walls and a deep channel that h...</p><div class="price-row"><span class="price">$18-20/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/buick-trunk-mats/" class="pc"><div class="pc-img"><img src="/images/buick-trunk-mats.jpg" alt="TPE Cargo Liner for Buick - Made to Order" width="400" height="280" loading="lazy" decoding="async"><span class="badge">Custom Fit</span></div><div class="pc-body"><h3>TPE Cargo Liner for Buick - Made to Order</h3><p>Cargo-area liner in TPE, cut as a moulded tray for the boot floor of your Buick model, with raised edges that ...</p><div class="price-row"><span class="price">$18-20/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/buick-excelle-floor-liners/" class="pc"><div class="pc-img"><img src="/images/buick-excelle-floor-liners.jpg" alt="TPE Floor Liners for Buick Excelle" width="400" height="280" loading="lazy" decoding="async"><span class="badge">All-Season</span></div><div class="pc-body"><h3>TPE Floor Liners for Buick Excelle</h3><p>Custom-fit TPE floor liner for the Buick Excelle, moulded to the footwell shape rather than trimmed to a gener...</p><div class="price-row"><span class="price">$20-23/set</span><span class="moq">MOQ 1 set</span></div></div></a><a href="/products/changan-cs75-plus-mk4-floor-liners/" class="pc"><div class="pc-img"><img src="/images/changan-cs75-plus-mk4-floor-liners.jpg" alt="TPE Floor Liners for Changan CS75 PLUS MK4" width="400" height="280" loading="lazy" decoding="async"><span class="badge">Low MOQ</span></div><div class="pc-body"><h3>TPE Floor Liners for Changan CS75 PLUS MK4</h3><p>Deep dish floor liner moulded specifically for the Changan CS75 PLUS MK4 SUV in left-hand drive, using injecti...</p><div class="price-row"><span class="price">$16-20/set</span><span class="moq">MOQ 1 set</span></div></div></a></div><div style="text-align:center;margin-top:34px"><a href="/shop-by-vehicle/" class="btn btn-o">Browse by vehicle (37)</a></div></div></section>
 <section id="why-tpe" style="background:var(--bg2)"><div class="wrap">
 <div class="sec-head"><div><span class="tag">Material</span><h2>Why TPE - Not PVC or Rubber</h2></div></div>
-<table class="specs" style="margin-bottom:12px">
+<div class="tbl"><table class="specs">
 <tr><td style="background:var(--card2);color:var(--t2)">Property</td><td style="background:var(--card2);color:var(--accent);font-weight:600">TPE</td><td style="background:var(--card2);color:var(--t2)">PVC</td><td style="background:var(--card2);color:var(--t2)">Rubber</td></tr>
-<tr><td>Odour</td><td>Odourless - no plasticiser to evaporate</td><td>Smell from plasticiser release</td><td>Strong rubber smell</td></tr><tr><td>Cold weather</td><td>Stays flexible at low temperature</td><td>Hardens and can crack</td><td>Stiffens when freezing</td></tr><tr><td>Recycling</td><td>100 percent recyclable</td><td>Difficult to recycle</td><td>Limited recyclability</td></tr><tr><td>Halogen content</td><td>Halogen-free</td><td>Contains chlorine from PVC</td><td>None</td></tr><tr><td>Moulding accuracy</td><td>Laser-measured 3D forms, deep trays</td><td>Good but softer detail</td><td>Limited shape complexity</td></tr><tr><td>Feel and finish</td><td>Matte, non-slip, low gloss</td><td>Glossy, can feel slick</td><td>Heavy, coarse grain</td></tr></table>
+<tr><td>Odour</td><td>Odourless - no plasticiser to evaporate</td><td>Smell from plasticiser release</td><td>Strong rubber smell</td></tr><tr><td>Cold weather</td><td>Stays flexible at low temperature</td><td>Hardens and can crack</td><td>Stiffens when freezing</td></tr><tr><td>Recycling</td><td>100 percent recyclable</td><td>Difficult to recycle</td><td>Limited recyclability</td></tr><tr><td>Halogen content</td><td>Halogen-free</td><td>Contains chlorine from PVC</td><td>None</td></tr><tr><td>Moulding accuracy</td><td>Laser-measured 3D forms, deep trays</td><td>Good but softer detail</td><td>Limited shape complexity</td></tr><tr><td>Feel and finish</td><td>Matte, non-slip, low gloss</td><td>Glossy, can feel slick</td><td>Heavy, coarse grain</td></tr></table></div>
 <p style="color:var(--t3);font-size:.78rem">Comparison based on general polymer properties. Ask for our own test reports for the compounds we mould.</p></div></section>
 <section id="oem"><div class="wrap">
 <div class="sec-head"><div><span class="tag">OEM / ODM</span><h2>From Vehicle Scan to Container</h2></div></div>
@@ -250,7 +257,10 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
   }
   function sync(){
     var Y=y.value,M=mk.value,pool=DATA;
-    if(Y)pool=pool.filter(function(v){return yearsOf(v.years).indexOf(+Y)>=0});
+    // A vehicle whose year range is unknown must NOT be filtered out by the
+    // year selector - most of this catalogue has no stated years, and hiding
+    // them makes e.g. Honda unreachable for anyone who picks a year first.
+    if(Y)pool=pool.filter(function(v){return !v.years || yearsOf(v.years).indexOf(+Y)>=0});
     var makes=uniq(pool.map(function(v){return v.make}));
     if(makes.indexOf(M)<0){fill(mk,makes,'Select make');md.value='';fill(md,[],'Select model')}
     else{fill(mk,makes,'Select make');mk.value=M}
@@ -265,7 +275,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
     var Y=y.value,M=mk.value;
     var pool=DATA.filter(function(v){
       if(M&&v.make!==M)return false;
-      if(Y&&yearsOf(v.years).indexOf(+Y)<0)return false;
+      if(Y&&v.years&&yearsOf(v.years).indexOf(+Y)<0)return false;
       return true;
     });
     var models=uniq(pool.map(function(v){return v.model}));
@@ -277,7 +287,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
     var Y=y.value,M=mk.value,MO=md.value;
     if(!M&&!MO&&!Y){out.innerHTML='';if(st)st.textContent='';return}
     var hits=DATA.filter(function(v){
-      if(Y&&yearsOf(v.years).indexOf(+Y)<0)return false;
+      if(Y&&v.years&&yearsOf(v.years).indexOf(+Y)<0)return false;
       if(M&&v.make!==M)return false;
       if(MO&&v.model!==MO)return false;
       return true;
@@ -289,7 +299,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
     var cards='',n=0,vlist='';
     for(var i=0;i<hits.length;i++){
       var v=hits[i];
-      vlist+='<a class="vcard" href="'+esc(v.url)+'"><b>'+esc(v.make)+' '+esc(v.model)+'</b><span>'+esc(v.years)+(v.body?' &middot; '+esc(v.body):'')+'</span><em>View liners &rarr;</em></a>';
+      vlist+='<a class="vcard" href="'+esc(v.url)+'"><b>'+esc(v.make)+' '+esc(v.model)+'</b><span>'+esc(v.years||'year range on request')+(v.body?' &middot; '+esc(v.body):'')+'</span><em>View liners &rarr;</em></a>';
       var ps=v.products||[];
       for(var j=0;j<ps.length;j++){cards+=card(ps[j]);n++}
     }
@@ -299,7 +309,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
   y.addEventListener('change',function(){md.value='';sync()});
   mk.addEventListener('change',function(){md.value='';sync()});
   md.addEventListener('change',function(){render()});
-  fetch('https://tpematsfactory.com/vehicles.json').then(function(r){return r.json()}).then(function(d){
+  fetch('/vehicles.json').then(function(r){return r.json()}).then(function(d){
     DATA=d||[];
     if(st)st.textContent=DATA.length?(DATA.length+' vehicle models indexed'):'Fitment index is being compiled - send us your make, model and year.';
     var ys=[];

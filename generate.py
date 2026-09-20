@@ -104,10 +104,12 @@ section{padding:60px 0;border-bottom:1px solid var(--line)}
 .empty{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:26px;color:var(--t2);font-size:.92rem}
 .empty b{color:var(--t1)}
 /* breadcrumb */
-.crumb{color:var(--t3);font-size:.82rem;padding:18px 0}
+/* longhand padding on purpose: the shorthand reset the 24px gutter from .wrap,
+   leaving breadcrumbs and product text flush against the screen on mobile */
+.crumb{color:var(--t3);font-size:.82rem;padding-top:18px;padding-bottom:18px}
 .crumb a:hover{color:var(--accent)}
 /* product page */
-.pd{display:grid;grid-template-columns:1.05fr 1fr;gap:42px;padding:26px 0 56px}
+.pd{display:grid;grid-template-columns:1.05fr 1fr;gap:42px;padding-top:26px;padding-bottom:56px}
 .pd-img{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;align-self:start}
 .pd-img img{width:100%;display:block}
 .pd-info h1{font-size:1.85rem;line-height:1.2;margin-bottom:12px}
@@ -121,7 +123,11 @@ section{padding:60px 0;border-bottom:1px solid var(--line)}
 .fit{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .fit div{background:var(--bg2);padding:10px 14px;font-size:.86rem;display:flex;justify-content:space-between;gap:12px}
 .fit span{color:var(--t3)}
+/* the 4-column comparison table cannot fit 375px: scroll it instead of
+   letting it push the whole page 57px wide */
+.tbl{overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:2px}
 .specs{width:100%;border-collapse:collapse;margin-bottom:22px}
+.tbl .specs{margin-bottom:0;min-width:420px}
 .specs td{border:1px solid var(--line);padding:10px 14px;font-size:.87rem}
 .specs td:first-child{color:var(--t3);width:36%;background:var(--bg2)}
 .pts{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
@@ -170,7 +176,7 @@ footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line
 /* keep every nav link reachable on touch devices: scroll horizontally instead of hiding */
 .nav-in{height:60px;gap:12px}.nav-links{display:flex;overflow-x:auto;gap:15px;font-size:.82rem;white-space:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:2px}.nav-links::-webkit-scrollbar{display:none}
 .dd-menu{display:none!important}}
-@media(max-width:560px){.grid,.grid-4,.vgrid{grid-template-columns:1fr}.finder-row{grid-template-columns:1fr}.fit{grid-template-columns:1fr}.nav-links{gap:12px}.logo{font-size:1.05rem}.trust{gap:22px}}
+@media(max-width:560px){.grid,.grid-4,.vgrid{grid-template-columns:1fr}.finder-row{grid-template-columns:1fr}.fit{grid-template-columns:1fr}.nav-links{gap:12px}.logo{font-size:1.05rem}.trust{gap:22px}.specs td{padding:8px 10px;font-size:.82rem}.tbl .specs{min-width:380px}}
 """
 
 JS = """
@@ -219,7 +225,10 @@ FINDER_JS = """
   }
   function sync(){
     var Y=y.value,M=mk.value,pool=DATA;
-    if(Y)pool=pool.filter(function(v){return yearsOf(v.years).indexOf(+Y)>=0});
+    // A vehicle whose year range is unknown must NOT be filtered out by the
+    // year selector - most of this catalogue has no stated years, and hiding
+    // them makes e.g. Honda unreachable for anyone who picks a year first.
+    if(Y)pool=pool.filter(function(v){return !v.years || yearsOf(v.years).indexOf(+Y)>=0});
     var makes=uniq(pool.map(function(v){return v.make}));
     if(makes.indexOf(M)<0){fill(mk,makes,'Select make');md.value='';fill(md,[],'Select model')}
     else{fill(mk,makes,'Select make');mk.value=M}
@@ -234,7 +243,7 @@ FINDER_JS = """
     var Y=y.value,M=mk.value;
     var pool=DATA.filter(function(v){
       if(M&&v.make!==M)return false;
-      if(Y&&yearsOf(v.years).indexOf(+Y)<0)return false;
+      if(Y&&v.years&&yearsOf(v.years).indexOf(+Y)<0)return false;
       return true;
     });
     var models=uniq(pool.map(function(v){return v.model}));
@@ -246,7 +255,7 @@ FINDER_JS = """
     var Y=y.value,M=mk.value,MO=md.value;
     if(!M&&!MO&&!Y){out.innerHTML='';if(st)st.textContent='';return}
     var hits=DATA.filter(function(v){
-      if(Y&&yearsOf(v.years).indexOf(+Y)<0)return false;
+      if(Y&&v.years&&yearsOf(v.years).indexOf(+Y)<0)return false;
       if(M&&v.make!==M)return false;
       if(MO&&v.model!==MO)return false;
       return true;
@@ -258,7 +267,7 @@ FINDER_JS = """
     var cards='',n=0,vlist='';
     for(var i=0;i<hits.length;i++){
       var v=hits[i];
-      vlist+='<a class="vcard" href="'+esc(v.url)+'"><b>'+esc(v.make)+' '+esc(v.model)+'</b><span>'+esc(v.years)+(v.body?' &middot; '+esc(v.body):'')+'</span><em>View liners &rarr;</em></a>';
+      vlist+='<a class="vcard" href="'+esc(v.url)+'"><b>'+esc(v.make)+' '+esc(v.model)+'</b><span>'+esc(v.years||'year range on request')+(v.body?' &middot; '+esc(v.body):'')+'</span><em>View liners &rarr;</em></a>';
       var ps=v.products||[];
       for(var j=0;j<ps.length;j++){cards+=card(ps[j]);n++}
     }
@@ -315,7 +324,10 @@ def js():
 
 
 def finder_js():
-    return FINDER_JS.replace("__VJSON__", URL + "vehicles.json")
+    # Root-relative, NOT the absolute https://domain/... URL: the absolute form
+    # works in production but makes the finder dead on any local preview or
+    # staging host, which is exactly when you need to test it.
+    return FINDER_JS.replace("__VJSON__", "/vehicles.json")
 
 
 def og_image(rel):
@@ -534,7 +546,7 @@ def product_card(p):
 
 def vehicle_card(v):
     n = len(products_for_vehicle(v))
-    meta = v["years"] + (f' &middot; {v["body"]}' if v.get("body") else "")
+    meta = (v["years"] or "year range on request") + (f' &middot; {v["body"]}' if v.get("body") else "")
     tag = f'{n} product{"s" if n != 1 else ""}' if n else "Ask for quote"
     return (f'<a class="vcard" href="{vurl(v)}"><b>{vname(v)}</b>'
             f'<span>{meta}</span><em>{tag} &rarr;</em></a>')
@@ -613,6 +625,7 @@ def finder_block():
 <div><label>Model</label><select id="fModel"></select></div>
 <div><button class="btn btn-p" onclick="openQuote('Vehicle request')">Get Quote</button></div>
 </div>
+<p class="finder-note" style="margin-top:14px">Not in the list? Send us the make, model and year - we check the tooling and come back with price and sample lead time. <a href="javascript:void(0)" onclick="openQuote('Vehicle request')" style="color:var(--accent)">Request your vehicle</a></p>
 <p class="finder-note" id="fStatus"></p>
 <div class="finder-res" id="fResult"></div>
 </div>"""
@@ -628,9 +641,9 @@ def tpe_table():
         ("Feel and finish", "Matte, non-slip, low gloss", "Glossy, can feel slick", "Heavy, coarse grain"),
     ]
     body = "".join(f'<tr><td>{r[0]}</td><td>{r[1]}</td><td>{r[2]}</td><td>{r[3]}</td></tr>' for r in rows)
-    return f"""<table class="specs" style="margin-bottom:12px">
+    return f"""<div class="tbl"><table class="specs">
 <tr><td style="background:var(--card2);color:var(--t2)">Property</td><td style="background:var(--card2);color:var(--accent);font-weight:600">TPE</td><td style="background:var(--card2);color:var(--t2)">PVC</td><td style="background:var(--card2);color:var(--t2)">Rubber</td></tr>
-{body}</table>
+{body}</table></div>
 <p style="color:var(--t3);font-size:.78rem">Comparison based on general polymer properties. Ask for our own test reports for the compounds we mould.</p>"""
 
 
@@ -862,7 +875,8 @@ def vehicle_page(v):
             f'Odourless TPE, OEM branding, FOB pricing, low MOQ.')[:158]
     trail = [("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/"),
              (v["make"], "/shop-by-vehicle/"), (vname(v), vurl(v))]
-    meta = [("Make", v["make"]), ("Model", v["model"]), ("Years", v["years"])]
+    meta = [("Make", v["make"]), ("Model", v["model"]),
+            ("Years", v["years"] or "tell us your year - we confirm the mould")]
     if v.get("body"):
         meta.append(("Body", v["body"]))
     if v.get("hand"):
