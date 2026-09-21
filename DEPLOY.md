@@ -248,6 +248,48 @@ TTL       600
 
 ---
 
+## 6.8 产品库管线与「卡片缩略图」陷阱（2026-09-21）
+
+产品数据链路：`scrape_lywalter.py` → `products_raw.json` → `fetch_details.py` / `fetch_images.py`
+→ `parse_fitment.py` → `build_catalog.py` → `catalog.json` → `emit_site_data.py` → `products_data.py`
+→ `generate.py`（本站 163 页）。
+
+### ⚠️ 核心陷阱：不要把「卡片缩略图」当成产品身份
+
+`build_catalog.py` 用**图片 md5** 去重（本意是防止站点像模板站）。但它用的图片来自**列表页卡片缩略图**，
+而卡片缩略图会被错配：同一个店铺里 6 个不同车型的 listing（Fiat Palio + 5 款 JETOUR）**拿到了同一张卡片图**。
+后果是 96 个 listing 里 **41 个被当成"重复图"丢掉**，其中包括全部 5 款 JETOUR —— 而它们**根本不是同一款车**。
+
+**真相**：每个 listing 的**详情页**都有自己独立的 24~26 张图，第一张就是它自己的产品图。
+所以「图片重复」是假象，是**取错了图片来源**。
+
+**正确做法**：以详情页画廊的图作为产品图（`rescue_images.py`），再按 md5 去重。
+本次据此把 41 款全部找回：**51 → 92 款产品，37 → 60 个车型页**，且全站 **92 张产品图零重复**。
+
+其他要点：
+- `products_images.json.bak` / `.bak2` 是补录前的备份。
+- 取图时 **必须试完整条画廊**，不要只试前几个候选：`rescue_retry.py` 就是因为在第 10~12 个候选才找到唯一图，
+  只试前 6 个会误判为「无可用图」（首轮 4 个「失败」全是这个原因）。
+- 站点装饰图要过滤：`flags/1.0.0/`（国旗）、`/@u/`、`icon`、`logo` —— 注意 `scrape_lywalter.IMG_JUNK` 里写的是
+  `flag/`（带斜杠），**匹配不到 `flags/`**，会漏。
+- 少数 listing 上游只上传了 360px 图（`upgrade_lowres*.py` 已尽力提升，6/10 成功）。这 4 张是全站最窄的图，
+  属**上游数据限制**，不是可以自行"补全"的东西。
+- **不要**用 `dropped.json` 判断"某产品是不是本次新增"：`build_catalog.py` 每次重建都会覆盖它，
+  重建后它已不再列出这些产品。可靠标记是 `products_images.json` 里的 `rescued: true`。
+
+### 本次一并修掉的两个内容缺陷（都是既有问题，非本次引入）
+
+1. **「Fits the Same Vehicle」在几乎每个产品页上都是假的**：原逻辑从**同分类**邻居里取 3 个，
+   于是把三台不相干的车标成"适配同一车型"。这是**fitment 断言**，不能当装饰用。
+   现改为按 fitment 排序（同车型 → 同品牌 → 同分类），且**只有全部命中同一车型时才写 "Fits the Same Vehicle"**，
+   否则写 "More From Our Range"。实测：5 个页面保留该断言且**全部为真**，86 个改为诚实标题，**0 个假断言**。
+2. **标题里年份重复**（`Toyota Hilux Revo 2015-2025 2015-2025`，共 4 页）：`vehicle_label()` 无条件追加年份，
+   而标题里的型号本身已含年份。现改为年份已在标签中就不重复追加。**slug 由 build_catalog 生成，不受影响，无 URL 变动。**
+
+校验脚本：`python ../tools/check_fixes.py`（对**数据层**核验，不从展示名反推车型）。
+
+---
+
 ## 7. 回滚
 
 站点是纯静态 + Git 管理，回滚就是 `git revert` 或 `git reset --hard <commit>` 后强推。

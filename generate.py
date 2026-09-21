@@ -767,23 +767,41 @@ def product_page(p):
     specs = "".join(f"<tr><td>{k}</td><td>{v}</td></tr>" for k, v in p["specs"])
     pts = "".join(f"<li>{x}</li>" for x in p["points"])
 
-    related = []
-    for s in p.get("related") or []:
-        if s in RELATED_INDEX:
-            related.append(RELATED_INDEX[s])
-    if not related:
-        for other in PRODUCTS:
-            if other["slug"] != p["slug"] and (other.get("fitment") or {}).get("model") == f.get("model"):
-                related.append(other)
-            if len(related) >= 3:
-                break
-    if len(related) < 3:
-        for other in PRODUCTS:
-            if other["slug"] != p["slug"] and other not in related:
-                related.append(other)
-            if len(related) >= 3:
-                break
-    rel_html = f'<section class="related"><div class="wrap"><div class="sec-head"><div><span class="tag">Related</span><h2>Fits the Same Vehicle</h2></div></div><div class="grid">{"".join(product_card(x) for x in related)}</div></div></section>' if related else ""
+    # Related products.
+    # The previous version started from same-category neighbours, so the "Fits
+    # the Same Vehicle" heading was false on almost every page - it presented
+    # three unrelated cars as sharing a fitment. Fitment is a claim, not a
+    # decoration, so order the pool by real fitment and only make the claim when
+    # every card shown actually matches.
+    f_make = (f.get("make") or "").strip().lower()
+    f_model = (f.get("model") or "").strip().lower()
+
+    def _fkey(o):
+        of = o.get("fitment") or {}
+        return ((of.get("make") or "").strip().lower(),
+                (of.get("model") or "").strip().lower())
+
+    same_model, same_make, same_cat = [], [], []
+    for other in PRODUCTS:
+        if other["slug"] == p["slug"]:
+            continue
+        omk, om = _fkey(other)
+        if f_model and om and om == f_model and omk == f_make:
+            same_model.append(other)
+        elif f_make and omk == f_make:
+            same_make.append(other)
+        elif other["cat"] == p["cat"]:
+            same_cat.append(other)
+    related = (same_model + same_make + same_cat)[:3]
+
+    if f_model and len(same_model) >= len(related):
+        rel_tag, rel_head = "Fitment", "Fits the Same Vehicle"
+    else:
+        rel_tag, rel_head = "Related", "More From Our Range"
+    rel_html = (f'<section class="related"><div class="wrap"><div class="sec-head"><div>'
+                f'<span class="tag">{rel_tag}</span><h2>{rel_head}</h2></div></div>'
+                f'<div class="grid">{"".join(product_card(x) for x in related)}</div></div></section>'
+                if related else "")
 
     trail = [("Home", "/"), (cat, f'/{p["cat"]}/')]
     if f.get("make") and f.get("model"):
