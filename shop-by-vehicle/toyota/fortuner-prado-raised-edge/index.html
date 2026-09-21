@@ -125,8 +125,13 @@ nav{position:sticky;top:0;z-index:100;background:var(--bg);border-bottom:1px sol
 .nav-links a:hover{color:var(--ink)}
 /* Desktop keeps Get Quote in the link row. Below 900px that row becomes a
    scrolling strip, which pushed the primary CTA off screen, so a compact copy
-   of it rides in the logo row instead. */
-.nav-cta{display:none}
+   of it rides in the logo row instead.
+   Selector is deliberately `.nav-in .nav-cta`, not `.nav-cta`: this rule has to
+   beat `.btn{display:inline-block}` further down the file, and a single class
+   would lose the specificity tie on source order - which is exactly how this
+   button ended up visible beside the logo on desktop. The <=900px override at
+   the bottom uses the same specificity, so it still wins by order. */
+.nav-in .nav-cta{display:none}
 .dd{position:relative}
 .dd-t{cursor:pointer;color:var(--ink2)}
 .dd-menu{
@@ -358,7 +363,7 @@ footer{background:var(--dark);color:var(--on-dark-2);padding:68px 0 30px}
      padding is longhand on purpose - a shorthand here would wipe .wrap's gutter. */
   .nav-in{height:auto;flex-wrap:wrap;gap:10px;padding-top:12px;padding-bottom:0}
   .logo{order:1}
-  .nav-cta{order:2;display:inline-block;padding:9px 18px;font-size:.82rem}
+  .nav-in .nav-cta{order:2;display:inline-block;padding:9px 18px;font-size:.82rem}
   /* keep every nav link reachable on touch devices: scroll horizontally instead of hiding */
   .nav-links{order:3;flex-basis:100%;width:100%;display:flex;overflow-x:auto;gap:18px;font-size:.82rem;white-space:nowrap;-webkit-overflow-scrolling:touch;margin-top:6px;padding-top:9px;border-top:1px solid var(--line);padding-bottom:8px}
   .nav-links::-webkit-scrollbar{display:none}
