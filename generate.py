@@ -39,169 +39,13 @@ IS_LIVE = bool(SITE.get("ga4"))          # used to warn about placeholder config
 # we control the domain, and it is served as /<key>.txt from the site root.
 INDEXNOW_KEY = "9f2c7a41d68b4e53a1c0f7e29d34b856"
 
-CSS = """
-:root{--bg:#0A0C10;--bg2:#101419;--card:#151A21;--card2:#1B222B;--accent:#FF6A1F;--accent2:#D14E0D;--t1:#E9EEF4;--t2:#A6B2C0;--t3:#6C7987;--line:#212A34}
-*{margin:0;padding:0;box-sizing:border-box}
-a{text-decoration:none;color:inherit}
-body{background:var(--bg);color:var(--t1);font-family:'Inter',system-ui,-apple-system,sans-serif;line-height:1.6}
-.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
-h1,h2,h3,h4,h5,.logo{font-family:'Oswald',sans-serif;font-weight:600;letter-spacing:.02em}
-nav{position:sticky;top:0;z-index:100;background:rgba(10,12,16,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-.nav-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:18px}
-.logo{font-size:1.2rem;white-space:nowrap}.logo b{color:var(--accent)}
-.nav-links{display:flex;gap:20px;font-size:.88rem;color:var(--t2);align-items:center}
-.nav-links a:hover{color:var(--accent)}
-.dd{position:relative}
-.dd-t{cursor:pointer;color:var(--t2)}
-.dd-menu{display:none;position:absolute;top:34px;left:50%;transform:translateX(-50%);background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:20px 22px;box-shadow:0 20px 50px rgba(0,0,0,.6);min-width:520px;max-height:70vh;overflow:auto;grid-template-columns:repeat(3,1fr);gap:18px 26px;z-index:120}
-.dd:hover .dd-menu{display:grid}
-.dd-col h6{font-family:'Oswald';color:var(--accent);font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
-.dd-col a{display:block;color:var(--t2);font-size:.84rem;padding:3px 0}
-.dd-col a:hover{color:var(--accent)}
-.btn{display:inline-block;padding:11px 26px;border-radius:6px;font-weight:600;font-size:.92rem;transition:.2s;cursor:pointer;border:none;font-family:inherit}
-.btn-p{background:var(--accent);color:#14181d}.btn-p:hover{background:var(--accent2);transform:translateY(-1px)}
-.btn-o{border:1px solid var(--line);color:var(--t1)}.btn-o:hover{border-color:var(--accent);color:var(--accent)}
-.btn-wa{background:#25D366;color:#0d1216}.btn-wa:hover{filter:brightness(1.08);transform:translateY(-1px)}
-.hero{background:radial-gradient(ellipse at 72% 14%,#1C2635 0%,var(--bg) 62%);padding:78px 0 60px;border-bottom:1px solid var(--line)}
-.hero h1{font-size:2.75rem;line-height:1.14;margin-bottom:16px}
-.hero h1 span{color:var(--accent)}
-.hero p{color:var(--t2);max-width:660px;font-size:1.05rem;margin-bottom:26px}
-.cta-row{display:flex;gap:14px;flex-wrap:wrap}
-.trust{display:flex;gap:40px;flex-wrap:wrap;margin-top:34px}
-.trust div b{font-size:1.55rem;color:var(--accent);font-family:'Oswald';display:block}
-.trust div span{font-size:.8rem;color:var(--t3)}
-section{padding:60px 0;border-bottom:1px solid var(--line)}
-.sec-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:26px;gap:20px;flex-wrap:wrap}
-.sec-head h2{font-size:1.75rem}.sec-head h1{font-size:2rem}
-.sec-head a{color:var(--t3);font-size:.85rem}.sec-head a:hover{color:var(--accent)}
-.tag{display:inline-block;background:rgba(255,106,31,.12);color:var(--accent);border:1px solid rgba(255,106,31,.3);padding:3px 12px;border-radius:20px;font-size:.73rem;letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
-.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
-.pc{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;transition:.25s;display:block}
-.pc:hover{transform:translateY(-4px);border-color:rgba(255,106,31,.5);box-shadow:0 12px 34px rgba(0,0,0,.45)}
-.pc-img{position:relative;background:#0c1015;overflow:hidden}
-.pc-img img{width:100%;height:225px;object-fit:cover;display:block}
-.badge{position:absolute;top:12px;left:12px;background:var(--accent);color:#14181d;font-size:.68rem;font-weight:700;padding:3px 10px;border-radius:4px;letter-spacing:.06em}
-.pc-body{padding:17px}
-.pc-body h3{font-size:1rem;margin-bottom:6px;line-height:1.35}
-.pc-body p{color:var(--t3);font-size:.83rem;margin-bottom:10px}
-.price-row{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
-.price{color:var(--accent);font-weight:700;font-size:1rem}
-.moq{color:var(--t3);font-size:.76rem}
-.feats{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-.feat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
-.feat h4{color:var(--accent);font-size:1rem;margin-bottom:8px}
-.feat p{color:var(--t2);font-size:.85rem}
-.feat a{color:var(--accent);font-size:.85rem;display:block;margin-top:10px}
-/* vehicle finder */
-.finder{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:26px}
-.finder-row{display:grid;grid-template-columns:repeat(3,1fr) auto;gap:14px;align-items:end}
-.finder-row label{display:block;color:var(--t3);font-size:.78rem;margin-bottom:6px}
-.finder-row select{width:100%;padding:12px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--t1);font-size:.92rem;font-family:inherit;outline:none}
-.finder-row select:focus{border-color:var(--accent)}
-.finder-note{color:var(--t3);font-size:.82rem;margin-top:16px}
-.finder-note a{color:var(--accent)}
-.finder-res{margin-top:22px}
-.vgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
-.vcard{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;transition:.2s;display:block}
-.vcard:hover{border-color:rgba(255,106,31,.5);transform:translateY(-3px)}
-.vcard b{display:block;font-size:1rem;font-family:'Oswald'}
-.vcard span{color:var(--t3);font-size:.79rem;display:block;margin-top:4px}
-.vcard em{color:var(--accent);font-style:normal;font-size:.76rem;display:block;margin-top:8px}
-.vhero{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:20px}
-.vhero img{width:100%;display:block}
-.empty{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:26px;color:var(--t2);font-size:.92rem}
-.empty b{color:var(--t1)}
-/* breadcrumb */
-/* longhand padding on purpose: the shorthand reset the 24px gutter from .wrap,
-   leaving breadcrumbs and product text flush against the screen on mobile */
-.crumb{color:var(--t3);font-size:.82rem;padding-top:18px;padding-bottom:18px}
-.crumb a:hover{color:var(--accent)}
-/* product page */
-.pd{display:grid;grid-template-columns:1.05fr 1fr;gap:42px;padding-top:26px;padding-bottom:56px}
-.pd-img{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;align-self:start}
-.pd-img img{width:100%;display:block}
-.pd-info h1{font-size:1.85rem;line-height:1.2;margin-bottom:12px}
-.pd-price{font-size:1.45rem;color:var(--accent);font-weight:700;margin-bottom:4px}
-.pd-moq{color:var(--t3);font-size:.88rem;margin-bottom:16px}
-.pd-desc{color:var(--t2);font-size:.94rem;margin-bottom:20px}
-.block{margin-bottom:22px}
-.block h4{font-size:1.02rem;color:var(--accent);margin-bottom:10px}
-.block ul{margin-left:18px}
-.block li{color:var(--t2);font-size:.88rem;margin:6px 0}
-.fit{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
-.fit div{background:var(--bg2);padding:10px 14px;font-size:.86rem;display:flex;justify-content:space-between;gap:12px}
-.fit span{color:var(--t3)}
-/* the 4-column comparison table cannot fit 375px: scroll it instead of
-   letting it push the whole page 57px wide */
-.tbl{overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:2px}
-.specs{width:100%;border-collapse:collapse;margin-bottom:22px}
-.tbl .specs{margin-bottom:0;min-width:420px}
-.specs td{border:1px solid var(--line);padding:10px 14px;font-size:.87rem}
-.specs td:first-child{color:var(--t3);width:36%;background:var(--bg2)}
-/* category buyer's guide + FAQ (rankable on-page content) */
-.guide{max-width:900px;margin-bottom:32px}
-.guide h2{font-size:1.22rem;color:var(--accent);margin:24px 0 10px}
-.guide h3{font-size:1.02rem;margin:18px 0 8px}
-.guide p{color:var(--t2);font-size:.94rem;margin-bottom:12px}
-.guide li{color:var(--t2);font-size:.92rem;margin:6px 0 6px 18px}
-.guide a,.post a{color:var(--accent)}
-.faq{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin-bottom:10px}
-.faq summary{cursor:pointer;font-weight:600;font-size:.95rem;color:var(--t1)}
-.faq summary:hover{color:var(--accent)}
-.faq-a{color:var(--t2);font-size:.9rem;margin-top:10px;line-height:1.65}
-.sm-col{margin-bottom:30px}
-.sm-col h3{font-size:1.05rem;color:var(--accent);margin-bottom:10px}
-.sm-col a{display:inline-block;color:var(--t2);font-size:.86rem;margin:0 14px 7px 0}
-.sm-col a:hover{color:var(--accent)}
-.pts{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
-.pts h4{color:var(--accent);margin-bottom:12px;font-size:1.02rem}
-.related{padding:50px 0}
-/* modal */
-.modal{display:none;position:fixed;inset:0;z-index:200;background:rgba(5,7,10,.8);backdrop-filter:blur(4px)}
-.modal.open{display:flex;align-items:center;justify-content:center}
-.mbox{background:var(--bg2);border:1px solid var(--line);border-radius:18px;max-width:560px;width:93%;max-height:92vh;overflow:auto;padding:28px;box-shadow:0 24px 80px rgba(0,0,0,.65)}
-.mbox h3{font-size:1.25rem;margin-bottom:6px}
-.mbox .prod-line{color:var(--accent);font-size:.84rem;margin-bottom:16px}
-.fg{margin-bottom:13px}
-.fg label{display:block;color:var(--t3);font-size:.79rem;margin-bottom:6px}
-.fg input,.fg textarea{width:100%;padding:11px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--t1);font-size:.91rem;outline:none;font-family:inherit}
-.fg input:focus,.fg textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(255,106,31,.14)}
-.fg2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.mbtn{width:100%;padding:13px;border:none;border-radius:8px;background:var(--accent);color:#14181d;font-weight:700;font-size:.94rem;cursor:pointer;font-family:inherit}
-.mbtn:hover{background:var(--accent2)}
-.mclose{position:sticky;float:right;background:none;border:none;color:var(--t3);font-size:1.4rem;cursor:pointer;line-height:1}
-.bank{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}
-.bank h5{color:var(--t1);margin-bottom:10px;font-size:.93rem}
-.bank-row{display:flex;justify-content:space-between;gap:16px;padding:7px 0;border-bottom:1px dashed var(--line);font-size:.84rem}
-.blabel{color:var(--t3)}
-.bvalue{color:var(--t1);font-weight:600;text-align:right;word-break:break-all}
-.bvalue.hl{color:var(--accent)}
-.bank-note{color:var(--t3);font-size:.75rem;line-height:1.5;margin-top:10px}
-.success{display:none;text-align:center;padding:20px 0}
-.success h4{color:#25D366;font-size:1.15rem;margin-bottom:10px}
-.success p{color:var(--t2);font-size:.9rem}
-/* blog */
-.post{max-width:820px}
-.post h1{font-size:2rem;margin-bottom:14px}
-.post h2{font-size:1.3rem;margin:26px 0 10px;color:var(--accent)}
-.post p{color:var(--t2);margin-bottom:14px;font-size:.96rem}
-.post ul{margin:0 0 16px 20px}.post li{color:var(--t2);font-size:.94rem;margin:6px 0}
-.cta{background:linear-gradient(135deg,#141A22,#1B2634);text-align:center;padding:64px 24px;border-bottom:1px solid var(--line)}
-.cta h2{font-size:1.9rem;margin-bottom:12px}
-.cta p{color:var(--t2);max-width:580px;margin:0 auto 26px}
-footer{background:var(--bg2);padding:46px 0 28px;border-top:1px solid var(--line)}
-.foot{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:30px}
-.foot h5{font-size:.93rem;margin-bottom:12px;color:var(--t1)}
-.foot a{display:block;color:var(--t3);font-size:.84rem;margin-bottom:7px}
-.foot a:hover{color:var(--accent)}
-.copy{text-align:center;color:var(--t3);font-size:.77rem;margin-top:34px;border-top:1px solid var(--line);padding-top:18px}
-@media(max-width:900px){.grid,.feats{grid-template-columns:repeat(2,1fr)}.grid-4,.vgrid{grid-template-columns:repeat(2,1fr)}.pd{grid-template-columns:1fr}.foot{grid-template-columns:1fr 1fr}.hero h1{font-size:2.1rem}.finder-row{grid-template-columns:1fr 1fr}
-/* keep every nav link reachable on touch devices: scroll horizontally instead of hiding */
-.nav-in{height:60px;gap:12px}.nav-links{display:flex;overflow-x:auto;gap:15px;font-size:.82rem;white-space:nowrap;-webkit-overflow-scrolling:touch;padding-bottom:2px}.nav-links::-webkit-scrollbar{display:none}
-.dd-menu{display:none!important}}
-@media(max-width:560px){.grid,.grid-4,.vgrid{grid-template-columns:1fr}.finder-row{grid-template-columns:1fr}.fit{grid-template-columns:1fr}.nav-links{gap:12px}.logo{font-size:1.05rem}.trust{gap:22px}.specs td{padding:8px 10px;font-size:.82rem}.tbl .specs{min-width:380px}}
-"""
+# The stylesheet lives in theme.css, not in a Python string literal. It is
+# inlined into every generated page at build time, so the deployed site still
+# ships a single self-contained HTML file. See DESIGN.md for the system.
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "theme.css"),
+          encoding="utf-8") as _theme:
+    CSS = _theme.read().strip()
+
 
 JS = """
 var currentProduct='';
@@ -410,11 +254,11 @@ def head(title, desc, canonical, ogimg, ld="", schema_title=None):
 <meta name="twitter:title" content="{title}">
 <meta name="twitter:description" content="{desc}">
 {og_img}
-<meta name="theme-color" content="#0A0C10">
+<meta name="theme-color" content="#FFFFFF">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<!-- weights trimmed to the ones actually used: Oswald 600/700 for headings, Inter 400/600/700 for body -->
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<!-- one family only: hierarchy comes from weight and size, never from colour -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 {analytics()}
 {ld}
 <style>{CSS}</style>
@@ -510,6 +354,7 @@ def nav(active=""):
     blog = '<a href="/blog/">Blog</a>' if ARTICLES else ""
     return f"""<nav><div class="wrap nav-in">
 <a href="/" class="logo">{logo()}</a>
+<a href="javascript:void(0)" onclick="openQuote('')" class="btn btn-p nav-cta">Get Quote</a>
 <div class="nav-links"><a href="/">Home</a>{cats}
 <div class="dd"><a href="/shop-by-vehicle/" class="dd-t">Shop by Vehicle &#9662;</a><div class="dd-menu">{vehicle_dropdown()}</div></div>
 {blog}<a href="javascript:void(0)" onclick="openQuote('')" style="color:var(--accent)">Get Quote</a></div>
@@ -1202,8 +1047,8 @@ def not_found():
 <title>404 - Page Not Found | {BRAND}</title>
 <meta name="description" content="This page could not be found. Browse TPE floor liners by vehicle from the factory, or send us your make, model and year for a quotation.">
 <meta name="robots" content="noindex"><link rel="canonical" href="{URL}404.html">
-<style>body{{background:#0A0C10;color:#E9EEF4;font-family:Inter,system-ui,sans-serif;text-align:center;padding:80px 20px}}
-a{{color:#FF6A1F}}h1{{font-family:Oswald;font-size:3rem;color:#FF6A1F}}</style></head><body>
+<style>body{{background:#FFFFFF;color:#4C5157;font-family:Inter,system-ui,sans-serif;text-align:center;padding:96px 20px}}
+a{{color:#8A6636}}h1{{font-family:Inter;font-weight:500;font-size:3rem;color:#16181A;letter-spacing:normal}}</style></head><body>
 <h1>404</h1><p>Page not found.</p>
 <p><a href="/">Back to {BRAND}</a> &middot; <a href="/shop-by-vehicle/">Shop by vehicle</a></p></body></html>"""
 
