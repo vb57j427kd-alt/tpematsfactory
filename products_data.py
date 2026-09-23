@@ -56,7 +56,7 @@ CATEGORIES = [
 ]
 
 # ---------------------------------------------------------------------------
-# PRODUCTS (930)
+# PRODUCTS (891)
 # ---------------------------------------------------------------------------
 PRODUCTS = [
  {
@@ -3381,63 +3381,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "bmw-food-grade-all-weather-mats",
-  "cat": "all-weather-mats",
-  "name": "All-Weather TPE Floor Mats for Bmw Food Grade",
-  "badge": "All-Season",
-  "price": "$17-20/set",
-  "moq": "MOQ 1 set",
-  "img": "/images/bmw-food-grade-all-weather-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Custom-Mold-3D-TPE-Car-Floor_1601863752611.html",
-  "fitment": {
-   "make": "Bmw",
-   "model": "Food Grade",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE all-season floor mats for the Bmw Food Grade. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and a raised lip around the perimeter so melted snow and mud stay on the mat. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $17-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Bmw Food Grade - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "All-season flat mat, raised perimeter"
-   ],
-   [
-    "MOQ",
-    "1 set"
-   ],
-   [
-    "Tooling / model no.",
-    "Leather Car Mats"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Bmw Food Grade",
-   "Tooling reference Leather Car Mats",
-   "Odourless TPE, no plasticiser",
-   "Mud and slush rinse straight off",
-   "From 1 set for trial orders"
-  ],
-  "related": [
-   "byd-atto-3-all-weather-mats",
-   "byd-atto-yuan-all-weather-mats",
-   "byd-atto-yuan-all-weather-mats-2"
-  ]
- },
- {
   "slug": "bmw-x1-2012-2015-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X1 / 2012 / 2015 2012-2015",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x1-2012-2015-floor-liners.jpg",
@@ -3485,7 +3432,7 @@ PRODUCTS = [
   "slug": "bmw-x1-x3-x4-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X1 / X3 / X4",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x1-x3-x4-all-weather-mats.jpg",
@@ -3538,7 +3485,7 @@ PRODUCTS = [
   "slug": "bmw-x1-x3-x4-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X1 / X3 / X4 - BMW",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x1-x3-x4-all-weather-mats-2.jpg",
@@ -3595,7 +3542,7 @@ PRODUCTS = [
   "slug": "bmw-x1-x3-x4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X1 / X3 / X4",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x1-x3-x4-floor-liners.jpg",
@@ -3652,7 +3599,7 @@ PRODUCTS = [
   "slug": "bmw-x1-x3-x4-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X1 / X3 / X4 - tpe Car Mats",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x1-x3-x4-floor-liners-2.jpg",
@@ -3709,7 +3656,7 @@ PRODUCTS = [
   "slug": "bmw-x3-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X3",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x3-floor-liners.jpg",
@@ -3762,7 +3709,7 @@ PRODUCTS = [
   "slug": "bmw-x3-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X3",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x3-all-weather-mats.jpg",
@@ -3815,7 +3762,7 @@ PRODUCTS = [
   "slug": "bmw-x3-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X3 - TPE Car Mats",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/bmw-x3-all-weather-mats-2.jpg",
@@ -3868,7 +3815,7 @@ PRODUCTS = [
   "slug": "bmw-x3-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X3 - tpe Car Mats",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x3-all-weather-mats-3.jpg",
@@ -3925,7 +3872,7 @@ PRODUCTS = [
   "slug": "bmw-x3-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X3 - tpe-001",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/bmw-x3-floor-liners-2.jpg",
@@ -3978,7 +3925,7 @@ PRODUCTS = [
   "slug": "bmw-x3-g01-f25-g45-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X3 / G01 / F25 / G45",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/bmw-x3-g01-f25-g45-all-weather-mats.jpg",
@@ -4031,7 +3978,7 @@ PRODUCTS = [
   "slug": "bmw-x5-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Bmw X5",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/bmw-x5-all-weather-mats.jpg",
@@ -4084,7 +4031,7 @@ PRODUCTS = [
   "slug": "bmw-x5-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Bmw X5",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/bmw-x5-floor-liners.jpg",
@@ -4137,7 +4084,7 @@ PRODUCTS = [
   "slug": "buick-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-trunk-mats.jpg",
@@ -4182,7 +4129,7 @@ PRODUCTS = [
   "slug": "buick-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick - Made to Order",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-floor-liners.jpg",
@@ -4227,7 +4174,7 @@ PRODUCTS = [
   "slug": "buick-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick - Made to Order - Leather Car Mats",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-floor-liners-2.jpg",
@@ -4273,7 +4220,7 @@ PRODUCTS = [
   "slug": "buick-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick - Made to Order - Leather Car Mats (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-floor-liners-3.jpg",
@@ -4319,7 +4266,7 @@ PRODUCTS = [
   "slug": "buick-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick - Made to Order (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-floor-liners-4.jpg",
@@ -4360,7 +4307,7 @@ PRODUCTS = [
   "slug": "buick-e4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick E4",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-floor-liners.jpg",
@@ -4413,7 +4360,7 @@ PRODUCTS = [
   "slug": "buick-e4-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-trunk-mats.jpg",
@@ -4466,11 +4413,11 @@ PRODUCTS = [
   "slug": "buick-e4-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-trunk-mats-2.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-TPE-Floor-Liner-Trunk_1601889947330.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Grain-Surface-Floor-Liner_1601889974415.html",
   "fitment": {
    "make": "Buick",
    "model": "E4",
@@ -4479,7 +4426,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Buick E4. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Buick E4 Low Odor. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -4503,10 +4450,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Buick E4",
+   "Moulded to fit Buick E4 Low Odor",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -4519,7 +4466,7 @@ PRODUCTS = [
   "slug": "buick-e4-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-trunk-mats-3.jpg",
@@ -4572,7 +4519,7 @@ PRODUCTS = [
   "slug": "buick-e4-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 - TPE CAR MAT+CARPET (3)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-trunk-mats-4.jpg",
@@ -4625,10 +4572,63 @@ PRODUCTS = [
   "slug": "buick-e4-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 - TPE CAR MAT+CARPET (4)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-trunk-mats-5.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601889926502.html",
+  "fitment": {
+   "make": "Buick",
+   "model": "E4",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Buick E4 Food Grade. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Buick E4 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Buick E4 Food Grade",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "buick-e4-trunk-mats-6",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Buick E4 - TPE CAR MAT+CARPET (5)",
+  "badge": "Custom Fit",
+  "price": "$8-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/buick-e4-trunk-mats-6.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Ultra-Slim-TPE-Floor_1601889906746.html",
   "fitment": {
    "make": "Buick",
@@ -4675,17 +4675,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-cut-fixed-trunk-mats",
+  "slug": "buick-e4-cut-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Cut Fixed",
+  "name": "TPE Cargo Liner for Buick E4 Cut",
   "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-cut-fixed-trunk-mats.jpg",
+  "img": "/images/buick-e4-cut-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601889995257.html",
   "fitment": {
    "make": "Buick",
-   "model": "E4 Cut Fixed",
+   "model": "E4 Cut",
    "years": "",
    "body": "",
    "hand": "",
@@ -4699,7 +4699,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Buick E4 Cut Fixed - confirm year with us"
+    "Buick E4 Cut - confirm year with us"
    ],
    [
     "Coverage",
@@ -4728,17 +4728,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-firm-grip-self-trunk-mats",
+  "slug": "buick-e4-firm-self-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Firm Grip Self",
+  "name": "TPE Cargo Liner for Buick E4 Firm Self",
   "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-firm-grip-self-trunk-mats.jpg",
+  "img": "/images/buick-e4-firm-self-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601889238917.html",
   "fitment": {
    "make": "Buick",
-   "model": "E4 Firm Grip Self",
+   "model": "E4 Firm Self",
    "years": "",
    "body": "",
    "hand": "",
@@ -4752,7 +4752,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Buick E4 Firm Grip Self - confirm year with us"
+    "Buick E4 Firm Self - confirm year with us"
    ],
    [
     "Coverage",
@@ -4781,17 +4781,70 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-flexible-instant-dry-trunk-mats",
+  "slug": "buick-e4-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Flexible Instant Dry",
+  "name": "TPE Cargo Liner for Buick E4 Fit",
   "badge": "OEM Ready",
   "price": "$8-20/set",
+  "moq": "MOQ 19 sets",
+  "img": "/images/buick-e4-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601889375193.html",
+  "fitment": {
+   "make": "Buick",
+   "model": "E4 Fit",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Buick E4 Tight Stable Fit. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 19 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Buick E4 Fit - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "19 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Buick E4 Tight Stable Fit",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 19 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "buick-e4-instant-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Buick E4 Instant",
+  "badge": "3D Fit",
+  "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-flexible-instant-dry-trunk-mats.jpg",
+  "img": "/images/buick-e4-instant-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Commute-Auto-Floor_1601891374835.html",
   "fitment": {
    "make": "Buick",
-   "model": "E4 Flexible Instant Dry",
+   "model": "E4 Instant",
    "years": "",
    "body": "",
    "hand": "",
@@ -4805,7 +4858,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Buick E4 Flexible Instant Dry - confirm year with us"
+    "Buick E4 Instant - confirm year with us"
    ],
    [
     "Coverage",
@@ -4834,17 +4887,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-flexible-instant-dry-trunk-mats-2",
+  "slug": "buick-e4-instant-trunk-mats-2",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Flexible Instant Dry - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for Buick E4 Instant - TPE CAR MAT+CARPET",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-flexible-instant-dry-trunk-mats-2.jpg",
+  "img": "/images/buick-e4-instant-trunk-mats-2.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Commute-Auto-Floor_1601890048014.html",
   "fitment": {
    "make": "Buick",
-   "model": "E4 Flexible Instant Dry",
+   "model": "E4 Instant",
    "years": "",
    "body": "",
    "hand": "",
@@ -4858,7 +4911,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Buick E4 Flexible Instant Dry - confirm year with us"
+    "Buick E4 Instant - confirm year with us"
    ],
    [
     "Coverage",
@@ -4878,59 +4931,6 @@ PRODUCTS = [
    "Tooling reference TPE CAR MAT+CARPET",
    "Odourless TPE, no plasticiser",
    "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "buick-e4-food-grade-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Food Grade",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-food-grade-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601889926502.html",
-  "fitment": {
-   "make": "Buick",
-   "model": "E4 Food Grade",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Buick E4 Food Grade. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Buick E4 Food Grade - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Buick E4 Food Grade",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Rinse clean rather than scrubbing",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -4993,63 +4993,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-low-odor-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Low Odor",
-  "badge": "Low MOQ",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/buick-e4-low-odor-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Grain-Surface-Floor-Liner_1601889974415.html",
-  "fitment": {
-   "make": "Buick",
-   "model": "E4 Low Odor",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Buick E4 Low Odor. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Buick E4 Low Odor - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Buick E4 Low Odor",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "buick-e4-rim-guard-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 Rim Guard",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-rim-guard-trunk-mats.jpg",
@@ -5102,7 +5049,7 @@ PRODUCTS = [
   "slug": "buick-e4-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 Scuff",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 19 sets",
   "img": "/images/buick-e4-scuff-trunk-mats.jpg",
@@ -5152,17 +5099,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-soft-bendable-quick-trunk-mats",
+  "slug": "buick-e4-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Soft Bendable Quick",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Buick E4 Soft",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 19 sets",
-  "img": "/images/buick-e4-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/buick-e4-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601889332436.html",
   "fitment": {
    "make": "Buick",
-   "model": "E4 Soft Bendable Quick",
+   "model": "E4 Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -5176,7 +5123,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Buick E4 Soft Bendable Quick - confirm year with us"
+    "Buick E4 Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -5208,7 +5155,7 @@ PRODUCTS = [
   "slug": "buick-e4-specific-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E4 Specific",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e4-specific-trunk-mats.jpg",
@@ -5258,63 +5205,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-e4-tight-stable-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick E4 Tight Stable Fit",
-  "badge": "Low MOQ",
-  "price": "$8-20/set",
-  "moq": "MOQ 19 sets",
-  "img": "/images/buick-e4-tight-stable-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601889375193.html",
-  "fitment": {
-   "make": "Buick",
-   "model": "E4 Tight Stable Fit",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Buick E4 Tight Stable Fit. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 19 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Buick E4 Tight Stable Fit - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "19 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Buick E4 Tight Stable Fit",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 19 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "buick-e5-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick E5",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$13.50-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e5-floor-liners.jpg",
@@ -5371,7 +5265,7 @@ PRODUCTS = [
   "slug": "buick-e5-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Buick E5",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13.50-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/buick-e5-trunk-mats.jpg",
@@ -5424,7 +5318,7 @@ PRODUCTS = [
   "slug": "buick-envision-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Envision",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-envision-floor-liners.jpg",
@@ -5478,10 +5372,63 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "buick-envision-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Buick Envision",
+  "badge": "3D Fit",
+  "price": "$16-18/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/buick-envision-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Waterproof-stain-proof-car-floor-mats_1601881046705.html",
+  "fitment": {
+   "make": "Buick",
+   "model": "Envision",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Buick Envision skid. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Buick Envision - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Buick Envision skid",
+   "Tooling reference TPE Car Mats",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
   "slug": "buick-envision-plus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Envision Plus",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$17-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-envision-plus-floor-liners.jpg",
@@ -5538,7 +5485,7 @@ PRODUCTS = [
   "slug": "buick-envision-plus-1-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Envision Plus 1",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-envision-plus-1-floor-liners.jpg",
@@ -5592,63 +5539,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "buick-envision-skid-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Buick Envision skid",
-  "badge": "OEM Ready",
-  "price": "$16-18/set",
-  "moq": "MOQ 1 set",
-  "img": "/images/buick-envision-skid-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Waterproof-stain-proof-car-floor-mats_1601881046705.html",
-  "fitment": {
-   "make": "Buick",
-   "model": "Envision skid",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Buick Envision skid. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Buick Envision skid - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "1 set"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE Car Mats"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Buick Envision skid",
-   "Tooling reference TPE Car Mats",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 1 set for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "buick-excelle-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Excelle",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-excelle-floor-liners.jpg",
@@ -5700,7 +5594,7 @@ PRODUCTS = [
   "slug": "cadillac-xt5-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Cadillac XT5",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/cadillac-xt5-double-layer-mats.jpg",
@@ -5753,7 +5647,7 @@ PRODUCTS = [
   "slug": "changan-cs75-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-floor-liners.jpg",
@@ -5806,7 +5700,7 @@ PRODUCTS = [
   "slug": "changan-cs75-plus-mk4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75 PLUS MK4",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-plus-mk4-floor-liners.jpg",
@@ -5862,7 +5756,7 @@ PRODUCTS = [
   "slug": "changan-cs75-plus-4th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75 Plus 4th",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-plus-4th-floor-liners.jpg",
@@ -5910,7 +5804,7 @@ PRODUCTS = [
   "slug": "changan-eado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Eado",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-floor-liners.jpg",
@@ -5967,7 +5861,7 @@ PRODUCTS = [
   "slug": "changan-eado-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan Eado",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-all-weather-mats.jpg",
@@ -6024,7 +5918,7 @@ PRODUCTS = [
   "slug": "changan-eado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Eado - tpe Car Mats",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-floor-liners-2.jpg",
@@ -6081,7 +5975,7 @@ PRODUCTS = [
   "slug": "changan-eado-dt-xt-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan Eado DT XT",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-dt-xt-all-weather-mats.jpg",
@@ -6138,7 +6032,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners.jpg",
@@ -6191,7 +6085,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-2.jpg",
@@ -6244,7 +6138,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-3.jpg",
@@ -6297,7 +6191,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$12.50-20.50/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-4.jpg",
@@ -6350,7 +6244,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$13.50-20.50/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-5.jpg",
@@ -6403,7 +6297,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - Leather Car Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-6.jpg",
@@ -6456,7 +6350,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats.jpg",
@@ -6509,10 +6403,63 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601877047132.html",
+  "fitment": {
+   "make": "Changan",
+   "model": "Lamore",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Changan Lamore Abrasion Proof. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Changan Lamore - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Changan Lamore Abrasion Proof",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "changan-lamore-trunk-mats-3",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (2)",
+  "badge": "3D Fit",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/changan-lamore-trunk-mats-3.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601877027014.html",
   "fitment": {
    "make": "Changan",
@@ -6559,67 +6506,14 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-trunk-mats-3",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-trunk-mats-3.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601877000147.html",
-  "fitment": {
-   "make": "Changan",
-   "model": "Lamore",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Changan Lamore. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Changan Lamore - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Changan Lamore",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "changan-lamore-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-4.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601876895801.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601876994360.html",
   "fitment": {
    "make": "Changan",
    "model": "Lamore",
@@ -6628,7 +6522,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Changan Lamore. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Changan Lamore Four. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -6652,9 +6546,9 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Changan Lamore",
+   "Moulded to fit Changan Lamore Four",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
+   "TPE compound that stays flexible in the cold",
    "Mud and slush rinse straight off",
    "From 10 sets for trial orders"
   ],
@@ -6668,7 +6562,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-5.jpg",
@@ -6718,70 +6612,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-abrasion-trunk-mats",
+  "slug": "changan-lamore-edge-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Abrasion",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for Changan Lamore Edge",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-abrasion-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601877047132.html",
-  "fitment": {
-   "make": "Changan",
-   "model": "Lamore Abrasion",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Changan Lamore Abrasion Proof. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Changan Lamore Abrasion - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Changan Lamore Abrasion Proof",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "changan-lamore-edge-wrapped-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Edge Wrapped",
-  "badge": "Custom Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-edge-wrapped-trunk-mats.jpg",
+  "img": "/images/changan-lamore-edge-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601876911984.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Edge Wrapped",
+   "model": "Lamore Edge",
    "years": "",
    "body": "",
    "hand": "",
@@ -6795,7 +6636,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Edge Wrapped - confirm year with us"
+    "Changan Lamore Edge - confirm year with us"
    ],
    [
     "Coverage",
@@ -6824,17 +6665,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-firm-grip-self-trunk-mats",
+  "slug": "changan-lamore-firm-self-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Firm Grip Self",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Changan Lamore Firm Self",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-firm-grip-self-trunk-mats.jpg",
+  "img": "/images/changan-lamore-firm-self-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601876847985.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Firm Grip Self",
+   "model": "Lamore Firm Self",
    "years": "",
    "body": "",
    "hand": "",
@@ -6848,7 +6689,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Firm Grip Self - confirm year with us"
+    "Changan Lamore Firm Self - confirm year with us"
    ],
    [
     "Coverage",
@@ -6877,129 +6718,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-flexible-trunk-mats",
+  "slug": "changan-lamore-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Flexible",
-  "badge": "Low MOQ",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-flexible-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Household-Auto-Floor-Liner_1601876757047.html",
-  "fitment": {
-   "make": "Changan",
-   "model": "Lamore Flexible",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Changan Lamore Flexible. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Changan Lamore Flexible - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Changan Lamore Flexible",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "changan-lamore-flexible-wipe-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Flexible Wipe",
-  "badge": "OEM Ready",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-flexible-wipe-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601876980550.html",
-  "fitment": {
-   "make": "Changan",
-   "model": "Lamore Flexible Wipe",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Changan Lamore Flexible Easy Wipe. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Changan Lamore Flexible Wipe - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Changan Lamore Flexible Easy Wipe",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "changan-lamore-four-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Four",
+  "name": "TPE Cargo Liner for Changan Lamore Fit",
   "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-four-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601876994360.html",
+  "img": "/images/changan-lamore-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601877006184.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Four",
+   "model": "Lamore Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Changan Lamore Four. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Changan Lamore Tight Stable Fit. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -7007,7 +6742,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Four - confirm year with us"
+    "Changan Lamore Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -7023,10 +6758,63 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Changan Lamore Four",
+   "Moulded to fit Changan Lamore Tight Stable Fit",
    "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "changan-lamore-free-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Changan Lamore Free",
+  "badge": "Custom Fit",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/changan-lamore-free-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Pattern-Floor-Liner-Trunk_1601876598955.html",
+  "fitment": {
+   "make": "Changan",
+   "model": "Lamore Free",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Changan Lamore Odor Free. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Changan Lamore Free - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Changan Lamore Odor Free",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -7039,7 +6827,7 @@ PRODUCTS = [
   "slug": "changan-lamore-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Liquid",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-liquid-trunk-mats.jpg",
@@ -7089,23 +6877,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-odor-free-trunk-mats",
+  "slug": "changan-lamore-precise-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Odor Free",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Changan Lamore Precise Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-odor-free-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Pattern-Floor-Liner-Trunk_1601876598955.html",
+  "img": "/images/changan-lamore-precise-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Color-TPE-Foot-Pad_1601876711271.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Odor Free",
+   "model": "Lamore Precise Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Changan Lamore Odor Free. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the Changan Lamore Stable Precise Fit. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -7113,7 +6901,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Odor Free - confirm year with us"
+    "Changan Lamore Precise Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -7129,10 +6917,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Changan Lamore Odor Free",
+   "Moulded to fit Changan Lamore Stable Precise Fit",
    "Tooling reference TPE CAR MAT+CARPET",
    "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
+   "Rinse clean rather than scrubbing",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -7145,7 +6933,7 @@ PRODUCTS = [
   "slug": "changan-lamore-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Rain",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-rain-trunk-mats.jpg",
@@ -7198,7 +6986,7 @@ PRODUCTS = [
   "slug": "changan-lamore-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Scuff",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-scuff-trunk-mats.jpg",
@@ -7251,7 +7039,7 @@ PRODUCTS = [
   "slug": "changan-lamore-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Secure",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-secure-trunk-mats.jpg",
@@ -7301,17 +7089,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-soft-bendable-quick-trunk-mats",
+  "slug": "changan-lamore-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Soft Bendable Quick",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Changan Lamore Soft",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/changan-lamore-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601876936653.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Soft Bendable Quick",
+   "model": "Lamore Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -7325,7 +7113,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Soft Bendable Quick - confirm year with us"
+    "Changan Lamore Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -7354,76 +7142,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-stable-precise-fit-trunk-mats",
+  "slug": "changan-lamore-wipe-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Stable Precise Fit",
-  "badge": "All-Season",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-stable-precise-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Color-TPE-Foot-Pad_1601876711271.html",
-  "fitment": {
-   "make": "Changan",
-   "model": "Lamore Stable Precise Fit",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Changan Lamore Stable Precise Fit. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Changan Lamore Stable Precise Fit - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Changan Lamore Stable Precise Fit",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "changan-lamore-tight-stable-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Tight Stable Fit",
+  "name": "TPE Cargo Liner for Changan Lamore Wipe",
   "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-tight-stable-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601877006184.html",
+  "img": "/images/changan-lamore-wipe-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601876980550.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Tight Stable Fit",
+   "model": "Lamore Wipe",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Changan Lamore Tight Stable Fit. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the Changan Lamore Flexible Easy Wipe. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -7431,7 +7166,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Tight Stable Fit - confirm year with us"
+    "Changan Lamore Wipe - confirm year with us"
    ],
    [
     "Coverage",
@@ -7447,7 +7182,7 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Changan Lamore Tight Stable Fit",
+   "Moulded to fit Changan Lamore Flexible Easy Wipe",
    "Tooling reference TPE CAR MAT+CARPET",
    "Odourless and halogen-free TPE",
    "Rinse clean rather than scrubbing",
@@ -7460,17 +7195,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "changan-lamore-zero-odor-trunk-mats",
+  "slug": "changan-lamore-zero-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Changan Lamore Zero Odor",
+  "name": "TPE Cargo Liner for Changan Lamore Zero",
   "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/changan-lamore-zero-odor-trunk-mats.jpg",
+  "img": "/images/changan-lamore-zero-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601876988462.html",
   "fitment": {
    "make": "Changan",
-   "model": "Lamore Zero Odor",
+   "model": "Lamore Zero",
    "years": "",
    "body": "",
    "hand": "",
@@ -7484,7 +7219,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Changan Lamore Zero Odor - confirm year with us"
+    "Changan Lamore Zero - confirm year with us"
    ],
    [
     "Coverage",
@@ -11833,6 +11568,59 @@ PRODUCTS = [
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601875251355.html",
+  "fitment": {
+   "make": "Deepal",
+   "model": "A07",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Deepal A07 Four Season Snug. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Deepal A07 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Deepal A07 Four Season Snug",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "deepal-a07-trunk-mats-4",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (3)",
+  "badge": "Custom Fit",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/deepal-a07-trunk-mats-4.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-TPE-Floor-Liner-Trunk_1601875231150.html",
   "fitment": {
    "make": "Deepal",
@@ -11879,13 +11667,13 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-trunk-mats-4",
+  "slug": "deepal-a07-trunk-mats-5",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (4)",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-trunk-mats-4.jpg",
+  "img": "/images/deepal-a07-trunk-mats-5.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Light-TPE-Floor-Liner_1601875219274.html",
   "fitment": {
    "make": "Deepal",
@@ -11932,169 +11720,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-trunk-mats-5",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-trunk-mats-5.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601875151561.html",
-  "fitment": {
-   "make": "Deepal",
-   "model": "A07",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Deepal A07. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Deepal A07 - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Deepal A07",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "deepal-a07-abrasion-stable-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Abrasion Stable",
-  "badge": "Low MOQ",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-abrasion-stable-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601875182800.html",
-  "fitment": {
-   "make": "Deepal",
-   "model": "A07 Abrasion Stable",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Deepal A07 Abrasion Resistant Stable. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Deepal A07 Abrasion Stable - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Deepal A07 Abrasion Resistant Stable",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "deepal-a07-bendable-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Bendable Quick",
-  "badge": "OEM Ready",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-bendable-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601875262317.html",
-  "fitment": {
-   "make": "Deepal",
-   "model": "A07 Bendable Quick",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Deepal A07 Bendable Quick Wash. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Deepal A07 Bendable Quick - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Deepal A07 Bendable Quick Wash",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "deepal-a07-block-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Block",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-block-trunk-mats.jpg",
@@ -12144,17 +11773,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-edge-shock-trunk-mats",
+  "slug": "deepal-a07-edge-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Edge Shock",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Deepal A07 Edge",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-edge-shock-trunk-mats.jpg",
+  "img": "/images/deepal-a07-edge-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601875259289.html",
   "fitment": {
    "make": "Deepal",
-   "model": "A07 Edge Shock",
+   "model": "A07 Edge",
    "years": "",
    "body": "",
    "hand": "",
@@ -12168,7 +11797,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Deepal A07 Edge Shock - confirm year with us"
+    "Deepal A07 Edge - confirm year with us"
    ],
    [
     "Coverage",
@@ -12197,23 +11826,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-four-season-snug-trunk-mats",
+  "slug": "deepal-a07-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Four Season Snug",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Deepal A07 Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-four-season-snug-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601875251355.html",
+  "img": "/images/deepal-a07-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601875322093.html",
   "fitment": {
    "make": "Deepal",
-   "model": "A07 Four Season Snug",
+   "model": "A07 Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Deepal A07 Four Season Snug. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Deepal A07 Tight Fit Stable. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -12221,7 +11850,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Deepal A07 Four Season Snug - confirm year with us"
+    "Deepal A07 Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -12237,7 +11866,7 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Deepal A07 Four Season Snug",
+   "Moulded to fit Deepal A07 Tight Fit Stable",
    "Tooling reference TPE CAR MAT+CARPET",
    "Odourless and halogen-free TPE",
    "Mud and slush rinse straight off",
@@ -12250,17 +11879,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-no-odor-trunk-mats",
+  "slug": "deepal-a07-no-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 No Odor",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Deepal A07 No",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-no-odor-trunk-mats.jpg",
+  "img": "/images/deepal-a07-no-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601875199655.html",
   "fitment": {
    "make": "Deepal",
-   "model": "A07 No Odor",
+   "model": "A07 No",
    "years": "",
    "body": "",
    "hand": "",
@@ -12274,7 +11903,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Deepal A07 No Odor - confirm year with us"
+    "Deepal A07 No - confirm year with us"
    ],
    [
     "Coverage",
@@ -12306,7 +11935,7 @@ PRODUCTS = [
   "slug": "deepal-a07-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Scuff",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-scuff-trunk-mats.jpg",
@@ -12359,7 +11988,7 @@ PRODUCTS = [
   "slug": "deepal-a07-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Secure",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-secure-trunk-mats.jpg",
@@ -12409,17 +12038,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-soft-bendable-quick-trunk-mats",
+  "slug": "deepal-a07-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Soft Bendable Quick",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Deepal A07 Soft",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/deepal-a07-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601875253544.html",
   "fitment": {
    "make": "Deepal",
-   "model": "A07 Soft Bendable Quick",
+   "model": "A07 Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -12433,7 +12062,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Deepal A07 Soft Bendable Quick - confirm year with us"
+    "Deepal A07 Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -12465,7 +12094,7 @@ PRODUCTS = [
   "slug": "deepal-a07-spill-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Spill",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-spill-trunk-mats.jpg",
@@ -12515,63 +12144,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "deepal-a07-tight-fit-stable-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Deepal A07 Tight Fit Stable",
-  "badge": "Low MOQ",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/deepal-a07-tight-fit-stable-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601875322093.html",
-  "fitment": {
-   "make": "Deepal",
-   "model": "A07 Tight Fit Stable",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Deepal A07 Tight Fit Stable. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Deepal A07 Tight Fit Stable - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Deepal A07 Tight Fit Stable",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "denza-d9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Denza D9",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/denza-d9-floor-liners.jpg",
@@ -12628,7 +12204,7 @@ PRODUCTS = [
   "slug": "dongfeng-aeolus-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Dongfeng Aeolus",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$13-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/dongfeng-aeolus-all-weather-mats.jpg",
@@ -12681,7 +12257,7 @@ PRODUCTS = [
   "slug": "dongfeng-aeolus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Aeolus",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$13-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/dongfeng-aeolus-floor-liners.jpg",
@@ -12734,7 +12310,7 @@ PRODUCTS = [
   "slug": "dongfeng-mage-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng MAGE 2025",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$10-13/set",
   "moq": "MOQ 10 sets",
   "img": "/images/dongfeng-mage-floor-liners.jpg",
@@ -12782,7 +12358,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/dongfeng-rich-floor-liners.jpg",
@@ -12839,7 +12415,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich - Dongfeng Rich",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/dongfeng-rich-floor-liners-2.jpg",
@@ -12896,7 +12472,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich - Dongfeng Rich (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/dongfeng-rich-floor-liners-3.jpg",
@@ -12953,7 +12529,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich - Dongfeng Rich (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/dongfeng-rich-floor-liners-4.jpg",
@@ -13010,7 +12586,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich-4x4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich 4x4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/dongfeng-rich-4x4-floor-liners.jpg",
@@ -13067,7 +12643,7 @@ PRODUCTS = [
   "slug": "dongfeng-rich6-rich7-mage-shine-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Rich6 rich7 mage shine",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/dongfeng-rich6-rich7-mage-shine-floor-liners.jpg",
@@ -13120,7 +12696,7 @@ PRODUCTS = [
   "slug": "dongfeng-shine-mage-sx5-zna-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Shine mage sx5 zna",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-15/set",
   "moq": "MOQ 10 sets",
   "img": "/images/dongfeng-shine-mage-sx5-zna-floor-liners.jpg",
@@ -13168,7 +12744,7 @@ PRODUCTS = [
   "slug": "dongfeng-z9-aeolus-y3-mage-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Z9 Aeolus Y3 MAGE 2025",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$26-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/dongfeng-z9-aeolus-y3-mage-floor-liners.jpg",
@@ -13221,7 +12797,7 @@ PRODUCTS = [
   "slug": "dongfeng-e008-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng e008",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/dongfeng-e008-floor-liners.jpg",
@@ -13274,7 +12850,7 @@ PRODUCTS = [
   "slug": "dongfeng-epai008-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng epai008",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/dongfeng-epai008-floor-liners.jpg",
@@ -13322,7 +12898,7 @@ PRODUCTS = [
   "slug": "dongfeng-shine-mage-sx5-zna-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Dongfeng shine mage sx5 ZNA",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/dongfeng-shine-mage-sx5-zna-all-weather-mats.jpg",
@@ -13375,7 +12951,7 @@ PRODUCTS = [
   "slug": "exeed-ex7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Exeed EX7",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/exeed-ex7-floor-liners.jpg",
@@ -13432,7 +13008,7 @@ PRODUCTS = [
   "slug": "exeed-ex7-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Exeed EX7",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/exeed-ex7-all-weather-mats.jpg",
@@ -13489,7 +13065,7 @@ PRODUCTS = [
   "slug": "exeed-ex7-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Exeed EX7 2026",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/exeed-ex7-floor-liners-2.jpg",
@@ -13546,7 +13122,7 @@ PRODUCTS = [
   "slug": "exeed-ex7-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Exeed EX7 2026 - Exeed EX7",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/exeed-ex7-floor-liners-3.jpg",
@@ -13603,7 +13179,7 @@ PRODUCTS = [
   "slug": "feifan-f7-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Feifan F7",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/feifan-f7-trunk-mats.jpg",
@@ -13656,7 +13232,7 @@ PRODUCTS = [
   "slug": "feifan-f7-3-5mm-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Feifan F7 3.5mm",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/feifan-f7-3-5mm-trunk-mats.jpg",
@@ -13713,7 +13289,7 @@ PRODUCTS = [
   "slug": "fiat-cronos-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Fiat CRONOS",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/fiat-cronos-all-weather-mats.jpg",
@@ -13766,7 +13342,7 @@ PRODUCTS = [
   "slug": "fiat-palio-cronos-toro-fastback-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Fiat PALIO CRONOS TORO FASTBACK",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/fiat-palio-cronos-toro-fastback-floor-liners.jpg",
@@ -13819,7 +13395,7 @@ PRODUCTS = [
   "slug": "fiat-palio-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Fiat Palio",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/fiat-palio-floor-liners.jpg",
@@ -13875,7 +13451,7 @@ PRODUCTS = [
   "slug": "ford-bronco-f-150-kuga-everest-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Bronco F 150 Kuga Everest",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$19-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-bronco-f-150-kuga-everest-floor-liners.jpg",
@@ -13928,7 +13504,7 @@ PRODUCTS = [
   "slug": "ford-bronco-mustang-territory-maverick-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Bronco mustang territory maverick",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$13-20/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-bronco-mustang-territory-maverick-floor-liners.jpg",
@@ -13981,7 +13557,7 @@ PRODUCTS = [
   "slug": "ford-edge-escape-explorer-everest-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford EDGE ESCAPE EXPLORER EVEREST",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-edge-escape-explorer-everest-floor-liners.jpg",
@@ -14034,7 +13610,7 @@ PRODUCTS = [
   "slug": "ford-escape-edge-everest-expedition-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford ESCAPE EDGE EVEREST EXPEDITION",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$15-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-escape-edge-everest-expedition-floor-liners.jpg",
@@ -14082,7 +13658,7 @@ PRODUCTS = [
   "slug": "ford-edge-explorer-maverick-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Edge Explorer Maverick",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-edge-explorer-maverick-floor-liners.jpg",
@@ -14135,7 +13711,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners.jpg",
@@ -14188,7 +13764,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-2.jpg",
@@ -14241,7 +13817,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-3.jpg",
@@ -14294,7 +13870,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-4.jpg",
@@ -14347,7 +13923,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (4)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-5.jpg",
@@ -14400,7 +13976,7 @@ PRODUCTS = [
   "slug": "ford-equator-sport-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (5)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-6.jpg",
@@ -14453,7 +14029,7 @@ PRODUCTS = [
   "slug": "ford-escape-explorer-2020-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Escape Explorer 2020 2026 2020-2026",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-escape-explorer-2020-2026-floor-liners.jpg",
@@ -14506,7 +14082,7 @@ PRODUCTS = [
   "slug": "ford-expedition-edge-escape-explorer-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Expedition Edge Escape Explorer",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$15-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-expedition-edge-escape-explorer-floor-liners.jpg",
@@ -14559,7 +14135,7 @@ PRODUCTS = [
   "slug": "ford-f-150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F 150 2021",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-f-150-floor-liners.jpg",
@@ -14612,7 +14188,7 @@ PRODUCTS = [
   "slug": "ford-f-150-2021-2026-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Ford F 150 2021 2026 2021-2026",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f-150-2021-2026-trunk-mats.jpg",
@@ -14669,7 +14245,7 @@ PRODUCTS = [
   "slug": "ford-f-150-2021-2026-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford F 150 2021 2026 2021-2026",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$15-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-f-150-2021-2026-all-weather-mats.jpg",
@@ -14726,7 +14302,7 @@ PRODUCTS = [
   "slug": "ford-f-150-raptor-supercrew-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F 150 Raptor SuperCrew",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f-150-raptor-supercrew-floor-liners.jpg",
@@ -14783,7 +14359,7 @@ PRODUCTS = [
   "slug": "ford-f150-raptor-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F150 Raptor",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f150-raptor-floor-liners.jpg",
@@ -14839,7 +14415,7 @@ PRODUCTS = [
   "slug": "ford-fiesta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Fiesta",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-fiesta-floor-liners.jpg",
@@ -14892,7 +14468,7 @@ PRODUCTS = [
   "slug": "ford-fiesta-prius-rav4-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Fiesta Prius Rav4 Prado",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-fiesta-prius-rav4-prado-floor-liners.jpg",
@@ -14945,7 +14521,7 @@ PRODUCTS = [
   "slug": "ford-focus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Focus",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-focus-floor-liners.jpg",
@@ -14998,7 +14574,7 @@ PRODUCTS = [
   "slug": "ford-mondeo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Mondeo",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-mondeo-floor-liners.jpg",
@@ -15051,7 +14627,7 @@ PRODUCTS = [
   "slug": "ford-ranger-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford RANGER",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-floor-liners.jpg",
@@ -15104,7 +14680,7 @@ PRODUCTS = [
   "slug": "ford-ranger-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger 2019",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-ranger-floor-liners-2.jpg",
@@ -15157,7 +14733,7 @@ PRODUCTS = [
   "slug": "ford-ranger-escape-mustang-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger Escape Mustang",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-escape-mustang-floor-liners.jpg",
@@ -15209,7 +14785,7 @@ PRODUCTS = [
   "slug": "ford-ranger-f150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger F150",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-f150-floor-liners.jpg",
@@ -15262,7 +14838,7 @@ PRODUCTS = [
   "slug": "ford-ranger-raptor-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford Ranger Raptor",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-raptor-all-weather-mats.jpg",
@@ -15318,7 +14894,7 @@ PRODUCTS = [
   "slug": "ford-territory-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford TERRITORY",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-territory-all-weather-mats.jpg",
@@ -15371,7 +14947,7 @@ PRODUCTS = [
   "slug": "ford-territory-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Territory 2022",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-territory-floor-liners.jpg",
@@ -15424,7 +15000,7 @@ PRODUCTS = [
   "slug": "ford-territory-destroyer-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford Territory Destroyer",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-territory-destroyer-all-weather-mats.jpg",
@@ -15477,7 +15053,7 @@ PRODUCTS = [
   "slug": "ford-territory-destroyer-2019-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Territory Destroyer 2019-2023",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-territory-destroyer-2019-2023-floor-liners.jpg",
@@ -15529,7 +15105,7 @@ PRODUCTS = [
   "slug": "geely-cityray-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Cityray",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-cityray-trunk-mats.jpg",
@@ -15577,7 +15153,7 @@ PRODUCTS = [
   "slug": "geely-coolray-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely Coolray",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-coolray-all-weather-mats.jpg",
@@ -15630,7 +15206,7 @@ PRODUCTS = [
   "slug": "geely-ex-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-ex-floor-liners.jpg",
@@ -15683,7 +15259,7 @@ PRODUCTS = [
   "slug": "geely-ex2-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX2",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-ex2-floor-liners.jpg",
@@ -15736,7 +15312,7 @@ PRODUCTS = [
   "slug": "geely-ex2-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX2 - Geely EX2",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-ex2-floor-liners-2.jpg",
@@ -15789,7 +15365,7 @@ PRODUCTS = [
   "slug": "geely-ex2-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely EX2",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-ex2-all-weather-mats.jpg",
@@ -15842,7 +15418,7 @@ PRODUCTS = [
   "slug": "geely-ex2-ex5-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX2 EX5",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-ex2-ex5-floor-liners.jpg",
@@ -15895,7 +15471,7 @@ PRODUCTS = [
   "slug": "geely-ex2-xingyuan-ev-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX2 Xingyuan EV",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-ex2-xingyuan-ev-floor-liners.jpg",
@@ -15947,7 +15523,7 @@ PRODUCTS = [
   "slug": "geely-ex5-em-i-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX5 EM I",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-16/set",
   "moq": "MOQ 20 sets",
   "img": "/images/geely-ex5-em-i-floor-liners.jpg",
@@ -15995,7 +15571,7 @@ PRODUCTS = [
   "slug": "geely-ex5-monjaro-cityray-gx3-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX5 MONJARO CITYRAY GX3",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$22-32/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-ex5-monjaro-cityray-gx3-floor-liners.jpg",
@@ -16048,7 +15624,7 @@ PRODUCTS = [
   "slug": "geely-ex5-starray-cityray-coolray-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely EX5 STARRAY CITYRAY COOLRAY",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$13-22/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-ex5-starray-cityray-coolray-floor-liners.jpg",
@@ -16101,7 +15677,7 @@ PRODUCTS = [
   "slug": "geely-emgrand-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Geely Emgrand",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$25-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/geely-emgrand-double-layer-mats.jpg",
@@ -16149,7 +15725,7 @@ PRODUCTS = [
   "slug": "geely-ex5-em-i-ex5-ex2-emgrand-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Ex5 Em i ex5 ex2 Emgrand",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-ex5-em-i-ex5-ex2-emgrand-floor-liners.jpg",
@@ -16202,7 +15778,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners.jpg",
@@ -16255,7 +15831,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners-2.jpg",
@@ -16308,7 +15884,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6 (2)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners-3.jpg",
@@ -16361,7 +15937,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6 (3)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners-4.jpg",
@@ -16414,7 +15990,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6 (4)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners-5.jpg",
@@ -16467,7 +16043,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6 (5)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-gc6-floor-liners-6.jpg",
@@ -16520,7 +16096,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Honda Civic",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-gc6-floor-liners-7.jpg",
@@ -16577,7 +16153,7 @@ PRODUCTS = [
   "slug": "geely-gc6-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely GC6 - Geely GC6 (6)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-gc6-floor-liners-8.jpg",
@@ -16634,7 +16210,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-galaxy-floor-liners.jpg",
@@ -16687,7 +16263,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy L6",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-floor-liners.jpg",
@@ -16740,7 +16316,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats.jpg",
@@ -16793,7 +16369,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-2.jpg",
@@ -16846,11 +16422,11 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-3.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Thin-TPE-Floor-Liner_1601879304468.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601879323133.html",
   "fitment": {
    "make": "Geely",
    "model": "Galaxy L6",
@@ -16859,7 +16435,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Geely Galaxy L6. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the Geely Galaxy L6 Abrasion. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -16883,9 +16459,9 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Geely Galaxy L6",
+   "Moulded to fit Geely Galaxy L6 Abrasion",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
+   "Odourless and halogen-free TPE",
    "Hose down and wipe to clean",
    "From 10 sets for trial orders"
   ],
@@ -16899,7 +16475,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (3)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-4.jpg",
@@ -16952,7 +16528,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (4)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-5.jpg",
@@ -16990,112 +16566,6 @@ PRODUCTS = [
   ],
   "points": [
    "Moulded to fit Geely Galaxy L6",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-abrasion-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Abrasion",
-  "badge": "All-Season",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-abrasion-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601879323133.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Abrasion",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Geely Galaxy L6 Abrasion. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Abrasion - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Abrasion",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-bendable-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Bendable Quick",
-  "badge": "Low MOQ",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-bendable-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601879232680.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Bendable Quick",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Galaxy L6 Bendable Quick. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Bendable Quick - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Bendable Quick",
    "Tooling reference TPE CAR MAT+CARPET",
    "TPE compound that stays flexible in the cold",
    "Rinse clean rather than scrubbing",
@@ -17214,17 +16684,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "geely-galaxy-l6-firm-grip-trunk-mats",
+  "slug": "geely-galaxy-l6-firm-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Firm Grip",
+  "name": "TPE Cargo Liner for Geely Galaxy L6 Firm",
   "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-firm-grip-trunk-mats.jpg",
+  "img": "/images/geely-galaxy-l6-firm-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601879221830.html",
   "fitment": {
    "make": "Geely",
-   "model": "Galaxy L6 Firm Grip",
+   "model": "Galaxy L6 Firm",
    "years": "",
    "body": "",
    "hand": "",
@@ -17238,7 +16708,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Geely Galaxy L6 Firm Grip - confirm year with us"
+    "Geely Galaxy L6 Firm - confirm year with us"
    ],
    [
     "Coverage",
@@ -17267,176 +16737,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "geely-galaxy-l6-flexible-trunk-mats",
+  "slug": "geely-galaxy-l6-free-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Flexible",
+  "name": "TPE Cargo Liner for Geely Galaxy L6 Free",
   "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-flexible-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Household-Auto-Floor-Liner_1601879204603.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Flexible",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Geely Galaxy L6 Flexible. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Flexible - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Flexible",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-four-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Four",
-  "badge": "Low MOQ",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-four-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601879321074.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Four",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Geely Galaxy L6 Four. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Four - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Four",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-no-odor-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 No Odor",
-  "badge": "OEM Ready",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-no-odor-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601879195879.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 No Odor",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Geely Galaxy L6 No Odor. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 No Odor - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 No Odor",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-odor-free-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Odor Free",
-  "badge": "3D Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-odor-free-trunk-mats.jpg",
+  "img": "/images/geely-galaxy-l6-free-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Pattern-Floor-Liner-Trunk_1601879230391.html",
   "fitment": {
    "make": "Geely",
-   "model": "Galaxy L6 Odor Free",
+   "model": "Galaxy L6 Free",
    "years": "",
    "body": "",
    "hand": "",
@@ -17450,7 +16761,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Geely Galaxy L6 Odor Free - confirm year with us"
+    "Geely Galaxy L6 Free - confirm year with us"
    ],
    [
     "Coverage",
@@ -17479,10 +16790,116 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "geely-galaxy-l6-no-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Geely Galaxy L6 No",
+  "badge": "Low MOQ",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/geely-galaxy-l6-no-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601879195879.html",
+  "fitment": {
+   "make": "Geely",
+   "model": "Galaxy L6 No",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Geely Galaxy L6 No Odor. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Geely Galaxy L6 No - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Geely Galaxy L6 No Odor",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "TPE compound that stays flexible in the cold",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "geely-galaxy-l6-precise-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Geely Galaxy L6 Precise",
+  "badge": "OEM Ready",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/geely-galaxy-l6-precise-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Color-TPE-Foot-Pad_1601879196619.html",
+  "fitment": {
+   "make": "Geely",
+   "model": "Galaxy L6 Precise",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Geely Galaxy L6 Stable Precise. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Geely Galaxy L6 Precise - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Geely Galaxy L6 Stable Precise",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
   "slug": "geely-galaxy-l6-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 Scuff",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-scuff-trunk-mats.jpg",
@@ -17535,7 +16952,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 Secure",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-secure-trunk-mats.jpg",
@@ -17585,17 +17002,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "geely-galaxy-l6-soft-bendable-trunk-mats",
+  "slug": "geely-galaxy-l6-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Soft Bendable",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Geely Galaxy L6 Soft",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-soft-bendable-trunk-mats.jpg",
+  "img": "/images/geely-galaxy-l6-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601879342306.html",
   "fitment": {
    "make": "Geely",
-   "model": "Galaxy L6 Soft Bendable",
+   "model": "Galaxy L6 Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -17609,7 +17026,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Geely Galaxy L6 Soft Bendable - confirm year with us"
+    "Geely Galaxy L6 Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -17641,7 +17058,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-spill-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 Spill",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-spill-trunk-mats.jpg",
@@ -17691,116 +17108,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "geely-galaxy-l6-stable-precise-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Stable Precise",
-  "badge": "3D Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-stable-precise-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Color-TPE-Foot-Pad_1601879196619.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Stable Precise",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Galaxy L6 Stable Precise. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Stable Precise - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Stable Precise",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "geely-galaxy-l6-tight-stable-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Galaxy L6 Tight Stable",
-  "badge": "Custom Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-galaxy-l6-tight-stable-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601879302525.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Galaxy L6 Tight Stable",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Galaxy L6 Tight Stable. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Galaxy L6 Tight Stable - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Galaxy L6 Tight Stable",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "geely-galaxy-starship-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship 2025",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-galaxy-starship-floor-liners.jpg",
@@ -17853,7 +17164,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely Galaxy Starship",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-all-weather-mats.jpg",
@@ -17906,7 +17217,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-2.jpg",
@@ -17959,7 +17270,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-3.jpg",
@@ -18016,7 +17327,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-4.jpg",
@@ -18069,7 +17380,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (3)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-5.jpg",
@@ -18126,7 +17437,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (4)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-6.jpg",
@@ -18183,7 +17494,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (5)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-galaxy-starship-floor-liners-7.jpg",
@@ -18236,7 +17547,7 @@ PRODUCTS = [
   "slug": "geely-geometryc-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Geely GeometryC",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$22-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-geometryc-double-layer-mats.jpg",
@@ -18289,7 +17600,7 @@ PRODUCTS = [
   "slug": "geely-panda-mini-ev-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Panda Mini EV",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-panda-mini-ev-floor-liners.jpg",
@@ -18341,7 +17652,7 @@ PRODUCTS = [
   "slug": "geely-pandamini-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Pandamini",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-pandamini-floor-liners.jpg",
@@ -18394,7 +17705,7 @@ PRODUCTS = [
   "slug": "geely-xingrui-oriental-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingrui Oriental",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingrui-oriental-floor-liners.jpg",
@@ -18451,7 +17762,7 @@ PRODUCTS = [
   "slug": "geely-xingye-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingye 2021",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingye-floor-liners.jpg",
@@ -18499,7 +17810,7 @@ PRODUCTS = [
   "slug": "geely-xingyuan-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyuan",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyuan-floor-liners.jpg",
@@ -18552,7 +17863,7 @@ PRODUCTS = [
   "slug": "geely-xingyuan-ex2-ev-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyuan EX2 EV",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyuan-ex2-ev-floor-liners.jpg",
@@ -18604,7 +17915,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyue",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyue-floor-liners.jpg",
@@ -18661,7 +17972,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyue L",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-floor-liners.jpg",
@@ -18718,7 +18029,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats.jpg",
@@ -18771,7 +18082,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 19 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-2.jpg",
@@ -18824,7 +18135,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-3.jpg",
@@ -18877,7 +18188,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (3)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-4.jpg",
@@ -18930,7 +18241,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (4)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-5.jpg",
@@ -18983,7 +18294,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (5)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-6.jpg",
@@ -19036,7 +18347,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (6)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-7.jpg",
@@ -19089,7 +18400,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (7)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-8.jpg",
@@ -19142,7 +18453,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-9",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (8)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-9.jpg",
@@ -19195,7 +18506,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-10",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (9)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-10.jpg",
@@ -19248,7 +18559,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-11",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (10)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-11.jpg",
@@ -19301,7 +18612,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-firm-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro Firm",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-firm-trunk-mats.jpg",
@@ -19354,7 +18665,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro Scuff",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-scuff-trunk-mats.jpg",
@@ -19407,7 +18718,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-soft-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro Soft",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-soft-trunk-mats.jpg",
@@ -19457,63 +18768,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "geely-xingyue-l-monjaro-tight-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Geely Xingyue L Monjaro Tight",
-  "badge": "Low MOQ",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/geely-xingyue-l-monjaro-tight-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601887178531.html",
-  "fitment": {
-   "make": "Geely",
-   "model": "Xingyue L Monjaro Tight",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Geely Xingyue L Monjaro Tight. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Geely Xingyue L Monjaro Tight - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Geely Xingyue L Monjaro Tight",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "geely-g6-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely g6",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-g6-all-weather-mats.jpg",
@@ -19570,7 +18828,7 @@ PRODUCTS = [
   "slug": "gwm-ora-03-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Gwm ORA 03 2026",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/gwm-ora-03-double-layer-mats.jpg",
@@ -19623,7 +18881,7 @@ PRODUCTS = [
   "slug": "gwm-ora-03-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Gwm ORA 03 2026 - car mat",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/gwm-ora-03-double-layer-mats-2.jpg",
@@ -19676,7 +18934,7 @@ PRODUCTS = [
   "slug": "haval-f7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners.jpg",
@@ -19729,7 +18987,7 @@ PRODUCTS = [
   "slug": "haval-f7-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7 - Haval F7",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners-2.jpg",
@@ -19782,7 +19040,7 @@ PRODUCTS = [
   "slug": "haval-f7-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7 - Haval F7 (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners-3.jpg",
@@ -19835,7 +19093,7 @@ PRODUCTS = [
   "slug": "haval-h6-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Haval H6 2021-2024",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$17/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/haval-h6-all-weather-mats.jpg",
@@ -19892,7 +19150,7 @@ PRODUCTS = [
   "slug": "haval-h6-2021-2024-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval H6 / 2021 / 2024 2021-2024",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$17/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/haval-h6-2021-2024-floor-liners.jpg",
@@ -19949,7 +19207,7 @@ PRODUCTS = [
   "slug": "honda-accord-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-accord-floor-liners.jpg",
@@ -20002,7 +19260,7 @@ PRODUCTS = [
   "slug": "honda-accord-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$24-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-accord-floor-liners-2.jpg",
@@ -20055,7 +19313,7 @@ PRODUCTS = [
   "slug": "honda-accord-11th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 11th 2023",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-accord-11th-floor-liners.jpg",
@@ -20108,7 +19366,7 @@ PRODUCTS = [
   "slug": "honda-accord-2008-2012-civic-crv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 2008 2012 civic CRV 2008-2012",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$28-30/set",
   "moq": "MOQ 30 sets",
   "img": "/images/honda-accord-2008-2012-civic-crv-floor-liners.jpg",
@@ -20161,7 +19419,7 @@ PRODUCTS = [
   "slug": "honda-accord-2008-2012-civic-crv-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 2008 2012 civic CRV 2008-2012 - car mat",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$28-30/set",
   "moq": "MOQ 30 sets",
   "img": "/images/honda-accord-2008-2012-civic-crv-floor-liners-2.jpg",
@@ -20214,7 +19472,7 @@ PRODUCTS = [
   "slug": "honda-accord-7th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 7th",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-accord-7th-floor-liners.jpg",
@@ -20262,7 +19520,7 @@ PRODUCTS = [
   "slug": "honda-accord-civic-cr-v-zrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord Civic CR V ZRV",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$22-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-accord-civic-cr-v-zrv-floor-liners.jpg",
@@ -20315,7 +19573,7 @@ PRODUCTS = [
   "slug": "honda-accord-crv-fit-hrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord crv fit hrv",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$13-20/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-accord-crv-fit-hrv-floor-liners.jpg",
@@ -20368,7 +19626,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats.jpg",
@@ -20421,7 +19679,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-2.jpg",
@@ -20474,7 +19732,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-3.jpg",
@@ -20527,7 +19785,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-4.jpg",
@@ -20580,7 +19838,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-5.jpg",
@@ -20633,11 +19891,11 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (5)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-6.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601885249081.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601885369815.html",
   "fitment": {
    "make": "Honda",
    "model": "Breeze",
@@ -20646,7 +19904,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Honda Breeze (2023). No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the Honda Breeze Four Season Snug (2023). TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -20670,116 +19928,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Honda Breeze (2023)",
+   "Moulded to fit Honda Breeze Four Season Snug (2023)",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "honda-breeze-abrasion-stable-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Abrasion Stable 2023",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-abrasion-stable-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601885456497.html",
-  "fitment": {
-   "make": "Honda",
-   "model": "Breeze Abrasion Stable",
-   "years": "2023",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Honda Breeze Abrasion Resistant Stable (2023). The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Honda Breeze Abrasion Stable (2023)"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Honda Breeze Abrasion Resistant Stable (2023)",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
+   "TPE compound that stays flexible in the cold",
    "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "honda-breeze-bendable-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Bendable Quick 2023",
-  "badge": "All-Season",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-bendable-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601885401855.html",
-  "fitment": {
-   "make": "Honda",
-   "model": "Breeze Bendable Quick",
-   "years": "2023",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Honda Breeze Bendable Quick Wash (2023). The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Honda Breeze Bendable Quick (2023)"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Honda Breeze Bendable Quick Wash (2023)",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Mud and slush rinse straight off",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -20792,7 +19944,7 @@ PRODUCTS = [
   "slug": "honda-breeze-block-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Block 2023",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-block-trunk-mats.jpg",
@@ -20842,17 +19994,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "honda-breeze-firm-grip-self-trunk-mats",
+  "slug": "honda-breeze-firm-self-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Firm Grip Self 2023",
-  "badge": "OEM Ready",
+  "name": "TPE Cargo Liner for Honda Breeze Firm Self 2023",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-firm-grip-self-trunk-mats.jpg",
+  "img": "/images/honda-breeze-firm-self-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601885180439.html",
   "fitment": {
    "make": "Honda",
-   "model": "Breeze Firm Grip Self",
+   "model": "Breeze Firm Self",
    "years": "2023",
    "body": "",
    "hand": "",
@@ -20866,7 +20018,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Honda Breeze Firm Grip Self (2023)"
+    "Honda Breeze Firm Self (2023)"
    ],
    [
     "Coverage",
@@ -20895,23 +20047,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "honda-breeze-four-season-snug-trunk-mats",
+  "slug": "honda-breeze-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Four Season Snug 2023",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for Honda Breeze Fit 2023",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-four-season-snug-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601885369815.html",
+  "img": "/images/honda-breeze-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601885106996.html",
   "fitment": {
    "make": "Honda",
-   "model": "Breeze Four Season Snug",
+   "model": "Breeze Fit",
    "years": "2023",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Honda Breeze Four Season Snug (2023). TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Honda Breeze Tight Stable Fit (2023). No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -20919,7 +20071,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Honda Breeze Four Season Snug (2023)"
+    "Honda Breeze Fit (2023)"
    ],
    [
     "Coverage",
@@ -20935,9 +20087,9 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Honda Breeze Four Season Snug (2023)",
+   "Moulded to fit Honda Breeze Tight Stable Fit (2023)",
    "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
+   "Odourless TPE, no plasticiser",
    "Hose down and wipe to clean",
    "From 10 sets for trial orders"
   ],
@@ -20951,7 +20103,7 @@ PRODUCTS = [
   "slug": "honda-breeze-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Liquid 2023",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-liquid-trunk-mats.jpg",
@@ -21001,17 +20153,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "honda-breeze-no-odor-trunk-mats",
+  "slug": "honda-breeze-no-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze No Odor 2023",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Honda Breeze No 2023",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-no-odor-trunk-mats.jpg",
+  "img": "/images/honda-breeze-no-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601885376957.html",
   "fitment": {
    "make": "Honda",
-   "model": "Breeze No Odor",
+   "model": "Breeze No",
    "years": "2023",
    "body": "",
    "hand": "",
@@ -21025,7 +20177,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Honda Breeze No Odor (2023)"
+    "Honda Breeze No (2023)"
    ],
    [
     "Coverage",
@@ -21057,7 +20209,7 @@ PRODUCTS = [
   "slug": "honda-breeze-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Scuff 2023",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-scuff-trunk-mats.jpg",
@@ -21110,7 +20262,7 @@ PRODUCTS = [
   "slug": "honda-breeze-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Secure 2023",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-secure-trunk-mats.jpg",
@@ -21160,17 +20312,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "honda-breeze-soft-bendable-quick-trunk-mats",
+  "slug": "honda-breeze-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Soft Bendable Quick 2023",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for Honda Breeze Soft 2023",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/honda-breeze-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601885123976.html",
   "fitment": {
    "make": "Honda",
-   "model": "Breeze Soft Bendable Quick",
+   "model": "Breeze Soft",
    "years": "2023",
    "body": "",
    "hand": "",
@@ -21184,7 +20336,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Honda Breeze Soft Bendable Quick (2023)"
+    "Honda Breeze Soft (2023)"
    ],
    [
     "Coverage",
@@ -21216,7 +20368,7 @@ PRODUCTS = [
   "slug": "honda-breeze-spill-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Spill 2023",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-spill-trunk-mats.jpg",
@@ -21266,63 +20418,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "honda-breeze-tight-stable-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Honda Breeze Tight Stable Fit 2023",
-  "badge": "All-Season",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/honda-breeze-tight-stable-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601885106996.html",
-  "fitment": {
-   "make": "Honda",
-   "model": "Breeze Tight Stable Fit",
-   "years": "2023",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Honda Breeze Tight Stable Fit (2023). No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Honda Breeze Tight Stable Fit (2023)"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Honda Breeze Tight Stable Fit (2023)",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "honda-cr-v-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-2.jpg",
@@ -21375,7 +20474,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V - tpe  Car Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-3.jpg",
@@ -21432,7 +20531,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats.jpg",
@@ -21480,7 +20579,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (2)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-2.jpg",
@@ -21528,7 +20627,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-cr-v-floor-liners-4.jpg",
@@ -21576,7 +20675,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-3",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-3.jpg",
@@ -21624,7 +20723,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (3)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-cr-v-floor-liners-5.jpg",
@@ -21672,7 +20771,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-4",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (4)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-4.jpg",
@@ -21720,7 +20819,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-5",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (5)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-5.jpg",
@@ -21768,7 +20867,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-6",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (6)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-6.jpg",
@@ -21816,7 +20915,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-7",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (7)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-7.jpg",
@@ -21864,7 +20963,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-8",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (8)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-8.jpg",
@@ -21912,7 +21011,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-9",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (9)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-9.jpg",
@@ -21960,7 +21059,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (4)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-6.jpg",
@@ -22008,7 +21107,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-10",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (10)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-10.jpg",
@@ -22056,7 +21155,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-2017-2022-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V 2017 2022 2017-2022",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-cr-v-2017-2022-floor-liners.jpg",
@@ -22109,7 +21208,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-2023-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V 2023 2026 2023-2026",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$15-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-2023-2026-floor-liners.jpg",
@@ -22166,7 +21265,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR-V",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners.jpg",
@@ -22222,7 +21321,7 @@ PRODUCTS = [
   "slug": "honda-crv-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-all-weather-mats.jpg",
@@ -22279,7 +21378,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners.jpg",
@@ -22336,7 +21435,7 @@ PRODUCTS = [
   "slug": "honda-crv-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV - tpe  Car Mats",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-all-weather-mats-2.jpg",
@@ -22393,7 +21492,7 @@ PRODUCTS = [
   "slug": "honda-crv-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CRV 2024",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-crv-double-layer-mats.jpg",
@@ -22446,7 +21545,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-2.jpg",
@@ -22494,7 +21593,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (3)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-3.jpg",
@@ -22542,7 +21641,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (4)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$25-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-4.jpg",
@@ -22590,7 +21689,7 @@ PRODUCTS = [
   "slug": "honda-crv-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda CRV 2021-2022",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-crv-trunk-mats.jpg",
@@ -22643,7 +21742,7 @@ PRODUCTS = [
   "slug": "honda-crv-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV 2012 2016 2012-2016",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$13-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-crv-2012-2016-floor-liners.jpg",
@@ -22696,7 +21795,7 @@ PRODUCTS = [
   "slug": "honda-crv-support-sample-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV Support Sample",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-support-sample-all-weather-mats.jpg",
@@ -22749,7 +21848,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 2022",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners.jpg",
@@ -22802,7 +21901,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners-2.jpg",
@@ -22859,7 +21958,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - Honda Civic",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners-3.jpg",
@@ -22916,7 +22015,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - Leather Car Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-civic-floor-liners-4.jpg",
@@ -22973,7 +22072,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-6.jpg",
@@ -23026,7 +22125,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats (2)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-7.jpg",
@@ -23079,7 +22178,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats (3)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-8.jpg",
@@ -23132,7 +22231,7 @@ PRODUCTS = [
   "slug": "honda-civic-11th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 11th",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$16-30/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-civic-11th-floor-liners.jpg",
@@ -23185,7 +22284,7 @@ PRODUCTS = [
   "slug": "honda-civic-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 2012 2016 2012-2016",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-civic-2012-2016-floor-liners.jpg",
@@ -23238,7 +22337,7 @@ PRODUCTS = [
   "slug": "honda-fit-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda FIT",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-fit-floor-liners.jpg",
@@ -23291,7 +22390,7 @@ PRODUCTS = [
   "slug": "honda-fit-crv-accord-city-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda FIT CRV ACCORD CITY",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-fit-crv-accord-city-floor-liners.jpg",
@@ -23339,7 +22438,7 @@ PRODUCTS = [
   "slug": "honda-hrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda HRV",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-hrv-floor-liners.jpg",
@@ -23387,7 +22486,7 @@ PRODUCTS = [
   "slug": "honda-odyssey-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Odyssey 2019",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-odyssey-floor-liners.jpg",
@@ -23440,7 +22539,7 @@ PRODUCTS = [
   "slug": "honda-zr-v-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda ZR V",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-zr-v-double-layer-mats.jpg",
@@ -23488,7 +22587,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda civic",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-civic-floor-liners-5.jpg",
@@ -23541,7 +22640,7 @@ PRODUCTS = [
   "slug": "hongqi-floor-liners",
   "cat": "floor-liners",
   "name": "3-Piece TPE Floor Liners for Hongqi - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-floor-liners.jpg",
@@ -23587,7 +22686,7 @@ PRODUCTS = [
   "slug": "hongqi-h5-h6-h7-h9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hongqi H5 / H6 / H7 / H9",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-h5-h6-h7-h9-floor-liners.jpg",
@@ -23639,7 +22738,7 @@ PRODUCTS = [
   "slug": "hongqi-h5-hs5-h6-e-qm5-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Hongqi H5 HS5 H6 E QM5",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-h5-hs5-h6-e-qm5-all-weather-mats.jpg",
@@ -23692,7 +22791,7 @@ PRODUCTS = [
   "slug": "hyundai-accent-tucson-santa-fe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Accent tucson santa Fe",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-15/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-accent-tucson-santa-fe-floor-liners.jpg",
@@ -23745,7 +22844,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats.jpg",
@@ -23798,7 +22897,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Elantra",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-floor-liners.jpg",
@@ -23851,7 +22950,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - Leather Car Mats",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats-2.jpg",
@@ -23904,7 +23003,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats-3.jpg",
@@ -23957,7 +23056,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-4.jpg",
@@ -24010,20 +23109,20 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-5.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601891832008.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Textured-Floor-Liner-Trunk_1601891853462.html",
   "fitment": {
    "make": "Hyundai",
    "model": "Elantra",
    "years": "",
-   "body": "",
+   "body": "Sedan",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Hyundai Elantra Low Odor. Shaped for the sedan floor pan. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -24038,6 +23137,10 @@ PRODUCTS = [
     "Cargo-area coverage, raised lip"
    ],
    [
+    "Body type",
+    "Sedan"
+   ],
+   [
     "MOQ",
     "10 sets"
    ],
@@ -24047,11 +23150,11 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Hyundai Elantra",
+   "Moulded to fit Hyundai Elantra Low Odor",
+   "Shaped for sedan floor pans",
    "Tooling reference TPE CAR MAT+CARPET",
    "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
+   "Rinse clean rather than scrubbing"
   ],
   "related": [
    "byd-song-trunk-mats",
@@ -24063,11 +23166,11 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-6.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601891824375.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601891849192.html",
   "fitment": {
    "make": "Hyundai",
    "model": "Elantra",
@@ -24076,7 +23179,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Hyundai Elantra Scratch Proof. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra Four Season Snug. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -24100,10 +23203,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Hyundai Elantra Scratch Proof",
+   "Moulded to fit Hyundai Elantra Four Season Snug",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -24116,7 +23219,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-7.jpg",
@@ -24169,7 +23272,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (5)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-8.jpg",
@@ -24222,7 +23325,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Elantra 2017",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-elantra-floor-liners-2.jpg",
@@ -24272,63 +23375,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-abrasion-stable-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Abrasion Stable",
-  "badge": "3D Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-abrasion-stable-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601891737916.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Abrasion Stable",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Hyundai Elantra Abrasion Resistant Stable. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Abrasion Stable - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Abrasion Resistant Stable",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "hyundai-elantra-avante-cn7-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Avante CN7",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-avante-cn7-trunk-mats.jpg",
@@ -24378,63 +23428,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-bendable-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Bendable Quick",
-  "badge": "All-Season",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-bendable-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601891737971.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Bendable Quick",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra Bendable Quick Wash. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Bendable Quick - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Bendable Quick Wash",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "hyundai-elantra-block-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Block",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-block-trunk-mats.jpg",
@@ -24484,10 +23481,63 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "hyundai-elantra-edge-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Hyundai Elantra Edge",
+  "badge": "3D Fit",
+  "price": "$8-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/hyundai-elantra-edge-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601891773673.html",
+  "fitment": {
+   "make": "Hyundai",
+   "model": "Elantra Edge",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Hyundai Elantra Edge Wrap Shock. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Hyundai Elantra Edge - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Hyundai Elantra Edge Wrap Shock",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
   "slug": "hyundai-elantra-edge-guard-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Edge Guard",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-edge-guard-trunk-mats.jpg",
@@ -24537,63 +23587,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-edge-shock-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Edge Shock",
-  "badge": "3D Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-edge-shock-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601891773673.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Edge Shock",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Hyundai Elantra Edge Wrap Shock. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Edge Shock - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Edge Wrap Shock",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "hyundai-elantra-elastic-wipe-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Elastic Wipe",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-elastic-wipe-trunk-mats.jpg",
@@ -24643,17 +23640,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-firm-grip-self-trunk-mats",
+  "slug": "hyundai-elantra-firm-self-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Firm Grip Self",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Hyundai Elantra Firm Self",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-firm-grip-self-trunk-mats.jpg",
+  "img": "/images/hyundai-elantra-firm-self-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601891660979.html",
   "fitment": {
    "make": "Hyundai",
-   "model": "Elantra Firm Grip Self",
+   "model": "Elantra Firm Self",
    "years": "",
    "body": "",
    "hand": "",
@@ -24667,7 +23664,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Hyundai Elantra Firm Grip Self - confirm year with us"
+    "Hyundai Elantra Firm Self - confirm year with us"
    ],
    [
     "Coverage",
@@ -24696,23 +23693,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-four-season-snug-trunk-mats",
+  "slug": "hyundai-elantra-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Four Season Snug",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Hyundai Elantra Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-four-season-snug-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601891849192.html",
+  "img": "/images/hyundai-elantra-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601891735616.html",
   "fitment": {
    "make": "Hyundai",
-   "model": "Elantra Four Season Snug",
+   "model": "Elantra Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra Four Season Snug. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra Tight Stable Fit. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -24720,7 +23717,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Hyundai Elantra Four Season Snug - confirm year with us"
+    "Hyundai Elantra Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -24736,10 +23733,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Hyundai Elantra Four Season Snug",
+   "Moulded to fit Hyundai Elantra Tight Stable Fit",
    "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -24749,17 +23746,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-harmless-flexible-light-trunk-mats",
+  "slug": "hyundai-elantra-harmless-light-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Harmless Flexible Light",
-  "badge": "OEM Ready",
+  "name": "TPE Cargo Liner for Hyundai Elantra Harmless Light",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-harmless-flexible-light-trunk-mats.jpg",
+  "img": "/images/hyundai-elantra-harmless-light-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601891831537.html",
   "fitment": {
    "make": "Hyundai",
-   "model": "Elantra Harmless Flexible Light",
+   "model": "Elantra Harmless Light",
    "years": "",
    "body": "",
    "hand": "",
@@ -24773,7 +23770,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Hyundai Elantra Harmless Flexible Light - confirm year with us"
+    "Hyundai Elantra Harmless Light - confirm year with us"
    ],
    [
     "Coverage",
@@ -24805,7 +23802,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Liquid",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-liquid-trunk-mats.jpg",
@@ -24855,74 +23852,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-low-odor-trunk-mats",
+  "slug": "hyundai-elantra-no-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Low Odor",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-low-odor-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Textured-Floor-Liner-Trunk_1601891853462.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Low Odor",
-   "years": "",
-   "body": "Sedan",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Hyundai Elantra Low Odor. Shaped for the sedan floor pan. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Low Odor - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "Body type",
-    "Sedan"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Low Odor",
-   "Shaped for sedan floor pans",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Rinse clean rather than scrubbing"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "hyundai-elantra-no-odor-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra No Odor",
+  "name": "TPE Cargo Liner for Hyundai Elantra No",
   "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-no-odor-trunk-mats.jpg",
+  "img": "/images/hyundai-elantra-no-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601891759827.html",
   "fitment": {
    "make": "Hyundai",
-   "model": "Elantra No Odor",
+   "model": "Elantra No",
    "years": "",
    "body": "Sedan",
    "hand": "",
@@ -24936,7 +23876,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Hyundai Elantra No Odor - confirm year with us"
+    "Hyundai Elantra No - confirm year with us"
    ],
    [
     "Coverage",
@@ -24969,63 +23909,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-precision-mold-snug-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Precision Mold Snug",
-  "badge": "Low MOQ",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-precision-mold-snug-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-TPE-Foot-Pad_1601891796857.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Precision Mold Snug",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Hyundai Elantra Precision Mold Snug. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Precision Mold Snug - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Precision Mold Snug",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "hyundai-elantra-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Rain",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-rain-trunk-mats.jpg",
@@ -25078,7 +23965,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Scuff",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-scuff-trunk-mats.jpg",
@@ -25131,7 +24018,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Secure",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-secure-trunk-mats.jpg",
@@ -25184,7 +24071,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-sedan-3-5mm-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Sedan 3.5mm",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-sedan-3-5mm-trunk-mats.jpg",
@@ -25237,17 +24124,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-soft-bendable-quick-trunk-mats",
+  "slug": "hyundai-elantra-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Soft Bendable Quick",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Hyundai Elantra Soft",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/hyundai-elantra-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601891834083.html",
   "fitment": {
    "make": "Hyundai",
-   "model": "Elantra Soft Bendable Quick",
+   "model": "Elantra Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -25261,7 +24148,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Hyundai Elantra Soft Bendable Quick - confirm year with us"
+    "Hyundai Elantra Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -25293,7 +24180,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-spill-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Spill",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-spill-trunk-mats.jpg",
@@ -25343,63 +24230,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "hyundai-elantra-tight-stable-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Hyundai Elantra Tight Stable Fit",
-  "badge": "3D Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/hyundai-elantra-tight-stable-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601891735616.html",
-  "fitment": {
-   "make": "Hyundai",
-   "model": "Elantra Tight Stable Fit",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Hyundai Elantra Tight Stable Fit. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Hyundai Elantra Tight Stable Fit - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Hyundai Elantra Tight Stable Fit",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "hyundai-grand-i10-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Grand I10",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-floor-liners.jpg",
@@ -25452,7 +24286,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Grand I10",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-trunk-mats.jpg",
@@ -25505,7 +24339,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Grand I10 - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-trunk-mats-2.jpg",
@@ -25558,7 +24392,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Grand I10 - Hyundai Grand I10-Z203",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-grand-i10-floor-liners-2.jpg",
@@ -25611,7 +24445,7 @@ PRODUCTS = [
   "slug": "hyundai-ix35-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Ix35",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-ix35-floor-liners.jpg",
@@ -25664,7 +24498,7 @@ PRODUCTS = [
   "slug": "hyundai-palisade-calligraphy-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Palisade Calligraphy 2026",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-palisade-calligraphy-floor-liners.jpg",
@@ -25712,7 +24546,7 @@ PRODUCTS = [
   "slug": "hyundai-santa-fe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners.jpg",
@@ -25765,7 +24599,7 @@ PRODUCTS = [
   "slug": "hyundai-santa-fe-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - TPE Car Mats",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners-2.jpg",
@@ -25818,7 +24652,7 @@ PRODUCTS = [
   "slug": "hyundai-santa-fe-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - Leather Car Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-santa-fe-floor-liners-3.jpg",
@@ -25871,7 +24705,7 @@ PRODUCTS = [
   "slug": "hyundai-santa-fe-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - Leather Car Mats (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners-4.jpg",
@@ -25924,7 +24758,7 @@ PRODUCTS = [
   "slug": "hyundai-sonata-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Sonata 2018",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 2 sets",
   "img": "/images/hyundai-sonata-floor-liners.jpg",
@@ -25972,7 +24806,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai TUCSON",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$24-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/hyundai-tucson-floor-liners-4.jpg",
@@ -26025,7 +24859,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson 2021",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-tucson-floor-liners.jpg",
@@ -26078,7 +24912,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson 2021 - Hyundai Tucson 2021+ -Z019",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-tucson-floor-liners-2.jpg",
@@ -26131,7 +24965,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Tucson",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tucson-trunk-mats.jpg",
@@ -26184,7 +25018,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/hyundai-tucson-floor-liners-3.jpg",
@@ -26237,7 +25071,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-sonata-tucson-venue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson Sonata Tucson Venue",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tucson-sonata-tucson-venue-floor-liners.jpg",
@@ -26290,7 +25124,7 @@ PRODUCTS = [
   "slug": "hyundai-tuscon-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tuscon",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tuscon-floor-liners.jpg",
@@ -26339,7 +25173,7 @@ PRODUCTS = [
   "slug": "hyundai-veloster-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Veloster",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-veloster-floor-liners.jpg",
@@ -26387,7 +25221,7 @@ PRODUCTS = [
   "slug": "im-ls72025-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for IM LS72025",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-22/set",
   "moq": "MOQ 10 sets",
   "img": "/images/im-ls72025-floor-liners.jpg",
@@ -26440,7 +25274,7 @@ PRODUCTS = [
   "slug": "isuzu-dmax-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Isuzu DMax",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/isuzu-dmax-floor-liners.jpg",
@@ -26493,7 +25327,7 @@ PRODUCTS = [
   "slug": "jac-js4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for JAC JS4",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/jac-js4-floor-liners.jpg",
@@ -26546,7 +25380,7 @@ PRODUCTS = [
   "slug": "jac-t8-max-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for JAC T8 MAX",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$53-55/set",
   "moq": "MOQ 5 sets",
   "img": "/images/jac-t8-max-trunk-mats.jpg",
@@ -26599,7 +25433,7 @@ PRODUCTS = [
   "slug": "jac-js8-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for JAC js8",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/jac-js8-trunk-mats.jpg",
@@ -26656,7 +25490,7 @@ PRODUCTS = [
   "slug": "jmc-vigus-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for JMC VIGUS",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/jmc-vigus-trunk-mats.jpg",
@@ -26709,7 +25543,7 @@ PRODUCTS = [
   "slug": "jeep-cherokee-liberty-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jeep Cherokee Liberty",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/jeep-cherokee-liberty-floor-liners.jpg",
@@ -26766,7 +25600,7 @@ PRODUCTS = [
   "slug": "jeep-cherokee-liberty-kj-kk-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jeep Cherokee Liberty KJ KK",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/jeep-cherokee-liberty-kj-kk-floor-liners.jpg",
@@ -26823,7 +25657,7 @@ PRODUCTS = [
   "slug": "jeep-cherokee-liberty-kk-2008-2012-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jeep Cherokee Liberty KK 2008 2012 2008-2012",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/jeep-cherokee-liberty-kk-2008-2012-trunk-mats.jpg",
@@ -26871,7 +25705,7 @@ PRODUCTS = [
   "slug": "jeep-cherokee-wrangler-renegade-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Jeep Cherokee Wrangler Renegade",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$10-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/jeep-cherokee-wrangler-renegade-all-weather-mats.jpg",
@@ -26924,7 +25758,7 @@ PRODUCTS = [
   "slug": "jeep-grand-cherokee-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jeep Grand Cherokee",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/jeep-grand-cherokee-floor-liners.jpg",
@@ -26981,7 +25815,7 @@ PRODUCTS = [
   "slug": "jeep-grand-cherokee-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jeep Grand Cherokee - W-93 For JEEP GRAND CHEROKEE",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/jeep-grand-cherokee-floor-liners-2.jpg",
@@ -27038,7 +25872,7 @@ PRODUCTS = [
   "slug": "jetour-dashing-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jetour Dashing",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-dashing-floor-liners.jpg",
@@ -27095,7 +25929,7 @@ PRODUCTS = [
   "slug": "jetour-dashing-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jetour Dashing",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-dashing-trunk-mats.jpg",
@@ -27152,7 +25986,7 @@ PRODUCTS = [
   "slug": "jetour-t2-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jetour T2",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-t2-trunk-mats.jpg",
@@ -27205,7 +26039,7 @@ PRODUCTS = [
   "slug": "jetour-t2-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jetour T2 2024",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-t2-floor-liners.jpg",
@@ -27262,7 +26096,7 @@ PRODUCTS = [
   "slug": "jetour-t2-traveller-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jetour T2 Traveller",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-t2-traveller-trunk-mats.jpg",
@@ -27319,7 +26153,7 @@ PRODUCTS = [
   "slug": "jetour-traveller-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jetour Traveller",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/jetour-traveller-trunk-mats.jpg",
@@ -27372,7 +26206,7 @@ PRODUCTS = [
   "slug": "jetour-traveller-t2-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Jetour Traveller T2",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/jetour-traveller-t2-trunk-mats.jpg",
@@ -27425,7 +26259,7 @@ PRODUCTS = [
   "slug": "jetour-x90-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Jetour X90",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/jetour-x90-floor-liners.jpg",
@@ -27478,7 +26312,7 @@ PRODUCTS = [
   "slug": "kia-cerato-soul-seltos-sportage-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Kia CERATO SOUL SELTOS SPORTAGE",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/kia-cerato-soul-seltos-sportage-double-layer-mats.jpg",
@@ -27526,7 +26360,7 @@ PRODUCTS = [
   "slug": "kia-cerato-forte-soul-soluto-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Kia Cerato Forte Soul Soluto",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-cerato-forte-soul-soluto-trunk-mats.jpg",
@@ -27579,7 +26413,7 @@ PRODUCTS = [
   "slug": "kia-cerato-soluto-pegas-rio-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Cerato Soluto Pegas Rio",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-cerato-soluto-pegas-rio-floor-liners.jpg",
@@ -27627,7 +26461,7 @@ PRODUCTS = [
   "slug": "kia-cerato-soul-forte-seltos-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Kia Cerato soul forte seltos",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-23/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-cerato-soul-forte-seltos-all-weather-mats.jpg",
@@ -27684,7 +26518,7 @@ PRODUCTS = [
   "slug": "kia-k4-seltos-sportage-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Kia K4 seltos sportage",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-k4-seltos-sportage-all-weather-mats.jpg",
@@ -27737,7 +26571,7 @@ PRODUCTS = [
   "slug": "kia-niro-2023-2025-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia NIRO 2023 2025 2023-2025",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-16/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-niro-2023-2025-floor-liners.jpg",
@@ -27794,7 +26628,7 @@ PRODUCTS = [
   "slug": "kia-optima-cerato-seltos-mohaveev6-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Kia Optima cerato seltos mohaveEV6",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-optima-cerato-seltos-mohaveev6-all-weather-mats.jpg",
@@ -27847,7 +26681,7 @@ PRODUCTS = [
   "slug": "kia-seltos-k4-forte-sportage-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Kia Seltos k4 forte sportage",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$15-20/set",
   "moq": "MOQ 4 sets",
   "img": "/images/kia-seltos-k4-forte-sportage-all-weather-mats.jpg",
@@ -27895,7 +26729,7 @@ PRODUCTS = [
   "slug": "kia-sonet-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sonet",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-sonet-floor-liners.jpg",
@@ -27948,7 +26782,7 @@ PRODUCTS = [
   "slug": "kia-soul-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Soul",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$22-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-soul-floor-liners.jpg",
@@ -28001,7 +26835,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-sportage-floor-liners.jpg",
@@ -28054,7 +26888,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage 2023",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-sportage-floor-liners-2.jpg",
@@ -28102,7 +26936,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage - Kia Sportage",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-sportage-floor-liners-3.jpg",
@@ -28155,7 +26989,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage - Kia Sportage (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-sportage-floor-liners-4.jpg",
@@ -28208,7 +27042,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage - Kia Sportage-Z212",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/kia-sportage-floor-liners-5.jpg",
@@ -28261,7 +27095,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 10 sets",
   "img": "/images/kia-sportage-floor-liners-6.jpg",
@@ -28309,7 +27143,7 @@ PRODUCTS = [
   "slug": "kia-sportage-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Kia Sportage - tpe-001",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/kia-sportage-floor-liners-7.jpg",
@@ -28362,7 +27196,7 @@ PRODUCTS = [
   "slug": "kia-sportage-2017-2022-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Kia Sportage 2017 2022 2017-2022",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$21-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-sportage-2017-2022-trunk-mats.jpg",
@@ -28415,7 +27249,7 @@ PRODUCTS = [
   "slug": "kia-sportage-2025-2026-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Kia Sportage 2025 2026 2025-2026",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/kia-sportage-2025-2026-all-weather-mats.jpg",
@@ -28468,7 +27302,7 @@ PRODUCTS = [
   "slug": "land-rover-lhdrhd-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Land rover LHDRHD",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/land-rover-lhdrhd-trunk-mats.jpg",
@@ -28525,7 +27359,7 @@ PRODUCTS = [
   "slug": "land-rover-outlander-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Land rover Outlander",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/land-rover-outlander-floor-liners.jpg",
@@ -28578,7 +27412,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$19-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-floor-liners.jpg",
@@ -28631,7 +27465,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-1-1-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 / 1 / 1",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-1-1-floor-liners.jpg",
@@ -28684,7 +27518,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-2024-2026-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Luxeed R7 / 2024 / 2026 2024-2026",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-2024-2026-trunk-mats.jpg",
@@ -28737,7 +27571,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-2024-2026-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Luxeed R7 / R9 / 2024 / 2026 2024-2026",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-2024-2026-all-weather-mats.jpg",
@@ -28790,7 +27624,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-r9-floor-liners.jpg",
@@ -28843,7 +27677,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9 - Leather Car Mats",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-floor-liners-2.jpg",
@@ -28896,7 +27730,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9 - Leather Car Mats (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-floor-liners-3.jpg",
@@ -28949,7 +27783,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-no-deformation-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9 No Deformation",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-no-deformation-floor-liners.jpg",
@@ -29002,7 +27836,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-ultra-max-version-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 Ultra Max Version",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-ultra-max-version-floor-liners.jpg",
@@ -29050,7 +27884,7 @@ PRODUCTS = [
   "slug": "luxeed-r9-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Luxeed R9",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r9-all-weather-mats.jpg",
@@ -29103,7 +27937,7 @@ PRODUCTS = [
   "slug": "mg-emgrand-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG EMGRAND",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-emgrand-floor-liners.jpg",
@@ -29156,7 +27990,7 @@ PRODUCTS = [
   "slug": "mg-hs-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners.jpg",
@@ -29209,7 +28043,7 @@ PRODUCTS = [
   "slug": "mg-hs-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners-2.jpg",
@@ -29262,7 +28096,7 @@ PRODUCTS = [
   "slug": "mg-hs-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners-3.jpg",
@@ -29315,7 +28149,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats.jpg",
@@ -29372,7 +28206,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-2.jpg",
@@ -29425,7 +28259,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-3.jpg",
@@ -29478,7 +28312,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-4.jpg",
@@ -29531,7 +28365,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-5.jpg",
@@ -29584,7 +28418,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (5)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-6.jpg",
@@ -29637,7 +28471,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (6)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-7.jpg",
@@ -29694,7 +28528,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (7)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-8.jpg",
@@ -29747,11 +28581,11 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-9",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (8)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-9.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601894085378.html",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601894107146.html",
   "fitment": {
    "make": "MG",
    "model": "HS",
@@ -29760,7 +28594,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the MG HS. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the MG HS Flexible Quick. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -29784,60 +28618,7 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit MG HS",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "mg-hs-trunk-mats-10",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (9)",
-  "badge": "OEM Ready",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-trunk-mats-10.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601894013919.html",
-  "fitment": {
-   "make": "MG",
-   "model": "HS",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the MG HS. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "MG HS - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit MG HS",
+   "Moulded to fit MG HS Flexible Quick",
    "Tooling reference TPE CAR MAT+CARPET",
    "TPE compound that stays flexible in the cold",
    "Hose down and wipe to clean",
@@ -29850,17 +28631,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-abrasion-stable-trunk-mats",
+  "slug": "mg-hs-trunk-mats-10",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Abrasion Stable",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (9)",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-abrasion-stable-trunk-mats.jpg",
+  "img": "/images/mg-hs-trunk-mats-10.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601894092368.html",
   "fitment": {
    "make": "MG",
-   "model": "HS Abrasion Stable",
+   "model": "HS",
    "years": "",
    "body": "",
    "hand": "",
@@ -29874,7 +28655,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "MG HS Abrasion Stable - confirm year with us"
+    "MG HS - confirm year with us"
    ],
    [
     "Coverage",
@@ -29903,63 +28684,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-bendable-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Bendable Quick",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-bendable-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Travel-Auto-Floor-Liner_1601894113251.html",
-  "fitment": {
-   "make": "MG",
-   "model": "HS Bendable Quick",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the MG HS Bendable Quick Wash. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "MG HS Bendable Quick - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit MG HS Bendable Quick Wash",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "mg-hs-block-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Block",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-block-trunk-mats.jpg",
@@ -30009,17 +28737,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-edge-shock-trunk-mats",
+  "slug": "mg-hs-edge-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Edge Shock",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for MG HS Edge",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-edge-shock-trunk-mats.jpg",
+  "img": "/images/mg-hs-edge-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601894022730.html",
   "fitment": {
    "make": "MG",
-   "model": "HS Edge Shock",
+   "model": "HS Edge",
    "years": "",
    "body": "",
    "hand": "",
@@ -30033,7 +28761,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "MG HS Edge Shock - confirm year with us"
+    "MG HS Edge - confirm year with us"
    ],
    [
     "Coverage",
@@ -30062,23 +28790,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-flexible-quick-trunk-mats",
+  "slug": "mg-hs-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Flexible Quick",
-  "badge": "OEM Ready",
+  "name": "TPE Cargo Liner for MG HS Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-flexible-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601894107146.html",
+  "img": "/images/mg-hs-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601894083278.html",
   "fitment": {
    "make": "MG",
-   "model": "HS Flexible Quick",
+   "model": "HS Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the MG HS Flexible Quick. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the MG HS Stable Tight Fit. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -30086,7 +28814,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "MG HS Flexible Quick - confirm year with us"
+    "MG HS Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -30102,9 +28830,9 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit MG HS Flexible Quick",
+   "Moulded to fit MG HS Stable Tight Fit",
    "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
+   "Odourless and halogen-free TPE",
    "Hose down and wipe to clean",
    "From 10 sets for trial orders"
   ],
@@ -30115,23 +28843,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-four-season-snug-trunk-mats",
+  "slug": "mg-hs-free-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Four Season Snug",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for MG HS Free",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-four-season-snug-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601893972923.html",
+  "img": "/images/mg-hs-free-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601894120031.html",
   "fitment": {
    "make": "MG",
-   "model": "HS Four Season Snug",
+   "model": "HS Free",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the MG HS Four Season Snug. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the MG HS Odor Free. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -30139,7 +28867,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "MG HS Four Season Snug - confirm year with us"
+    "MG HS Free - confirm year with us"
    ],
    [
     "Coverage",
@@ -30155,10 +28883,10 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit MG HS Four Season Snug",
+   "Moulded to fit MG HS Odor Free",
    "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
    "From 10 sets for trial orders"
   ],
   "related": [
@@ -30171,7 +28899,7 @@ PRODUCTS = [
   "slug": "mg-hs-lightweight-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Lightweight",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-lightweight-trunk-mats.jpg",
@@ -30224,7 +28952,7 @@ PRODUCTS = [
   "slug": "mg-hs-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Liquid",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-liquid-trunk-mats.jpg",
@@ -30274,17 +29002,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-no-odor-trunk-mats",
+  "slug": "mg-hs-no-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS No Odor",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for MG HS No",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-no-odor-trunk-mats.jpg",
+  "img": "/images/mg-hs-no-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Emboss-Floor-Liner-Trunk_1601894065519.html",
   "fitment": {
    "make": "MG",
-   "model": "HS No Odor",
+   "model": "HS No",
    "years": "",
    "body": "Suv",
    "hand": "",
@@ -30298,7 +29026,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "MG HS No Odor - confirm year with us"
+    "MG HS No - confirm year with us"
    ],
    [
     "Coverage",
@@ -30323,59 +29051,6 @@ PRODUCTS = [
    "Tooling reference TPE CAR MAT+CARPET",
    "TPE compound that stays flexible in the cold",
    "Rinse clean rather than scrubbing"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "mg-hs-odor-free-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Odor Free",
-  "badge": "OEM Ready",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-odor-free-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601894120031.html",
-  "fitment": {
-   "make": "MG",
-   "model": "HS Odor Free",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the MG HS Odor Free. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "MG HS Odor Free - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit MG HS Odor Free",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
   ],
   "related": [
    "byd-song-trunk-mats",
@@ -30596,63 +29271,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "mg-hs-stable-tight-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for MG HS Stable Tight Fit",
-  "badge": "OEM Ready",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/mg-hs-stable-tight-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601894083278.html",
-  "fitment": {
-   "make": "MG",
-   "model": "HS Stable Tight Fit",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the MG HS Stable Tight Fit. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "MG HS Stable Tight Fit - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit MG HS Stable Tight Fit",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "mg-zs-hs-one-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for MG ZS HS ONE",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$13-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-zs-hs-one-double-layer-mats.jpg",
@@ -30700,7 +29322,7 @@ PRODUCTS = [
   "slug": "mg-zs-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG Zs",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/mg-zs-floor-liners.jpg",
@@ -30753,7 +29375,7 @@ PRODUCTS = [
   "slug": "maxus-bazda-amorak-hunter-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Maxus BAZDA AMORAK HUNTER",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$53-55/set",
   "moq": "MOQ 5 sets",
   "img": "/images/maxus-bazda-amorak-hunter-trunk-mats.jpg",
@@ -30806,7 +29428,7 @@ PRODUCTS = [
   "slug": "mazda-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-floor-liners.jpg",
@@ -30852,7 +29474,7 @@ PRODUCTS = [
   "slug": "mazda-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order - MAZDA 3",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-floor-liners-2.jpg",
@@ -30902,7 +29524,7 @@ PRODUCTS = [
   "slug": "mazda-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order - Mazda 3",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mazda-floor-liners-3.jpg",
@@ -30948,7 +29570,7 @@ PRODUCTS = [
   "slug": "mazda-3-cx-30-cx-5-cx-50-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda 3 CX-30 CX-5 CX-50",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-3-cx-30-cx-5-cx-50-floor-liners.jpg",
@@ -31000,7 +29622,7 @@ PRODUCTS = [
   "slug": "mazda-3-zero-formaldehyde-safe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda 3 Zero Formaldehyde Safe",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-3-zero-formaldehyde-safe-floor-liners.jpg",
@@ -31052,7 +29674,7 @@ PRODUCTS = [
   "slug": "mazda-axela-cx-30-cx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda Axela CX 30 CX",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-axela-cx-30-cx-floor-liners.jpg",
@@ -31109,7 +29731,7 @@ PRODUCTS = [
   "slug": "mazda-cx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda CX",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-floor-liners.jpg",
@@ -31162,7 +29784,7 @@ PRODUCTS = [
   "slug": "mazda-cx-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda CX - Mazda CX-5",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-floor-liners-2.jpg",
@@ -31215,7 +29837,7 @@ PRODUCTS = [
   "slug": "mazda-cx-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Mazda CX",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$25-28/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-double-layer-mats.jpg",
@@ -31268,7 +29890,7 @@ PRODUCTS = [
   "slug": "mazda-cx-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-trunk-mats.jpg",
@@ -31321,7 +29943,7 @@ PRODUCTS = [
   "slug": "mazda-cx-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX (2)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$23-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-cx-trunk-mats-2.jpg",
@@ -31369,7 +29991,7 @@ PRODUCTS = [
   "slug": "mazda-cx-2013-2024-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX 2013 2024 2013-2024",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$9-13/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mazda-cx-2013-2024-trunk-mats.jpg",
@@ -31426,7 +30048,7 @@ PRODUCTS = [
   "slug": "mazda-cx-90-2024-2025-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX 90 2024 2025 2024-2025",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-90-2024-2025-trunk-mats.jpg",
@@ -31479,7 +30101,7 @@ PRODUCTS = [
   "slug": "mazda-cx3-cx5-cx30-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX3 / CX5 / CX30",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$15-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-cx3-cx5-cx30-trunk-mats.jpg",
@@ -31527,7 +30149,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-c260l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-floor-liners.jpg",
@@ -31584,7 +30206,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-c260l-w205-w206-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L / W205 / W206",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-w205-w206-floor-liners.jpg",
@@ -31636,7 +30258,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-c260l-w206-long-wheelbase-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L W206 Long Wheelbase",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-w206-long-wheelbase-floor-liners.jpg",
@@ -31689,7 +30311,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-floor-liners.jpg",
@@ -31742,7 +30364,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 2024",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-floor-liners-2.jpg",
@@ -31795,7 +30417,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-floor-liners-3.jpg",
@@ -31848,7 +30470,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mercedes-Benz E300",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-all-weather-mats.jpg",
@@ -31901,7 +30523,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-floor-liners-4.jpg",
@@ -31954,7 +30576,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-daily-driving-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 Daily Driving",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-daily-driving-floor-liners.jpg",
@@ -32007,7 +30629,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-fit-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 Fit",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-fit-floor-liners.jpg",
@@ -32060,7 +30682,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-road-trip-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 Road Trip",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-road-trip-floor-liners.jpg",
@@ -32113,7 +30735,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-travel-use-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 Travel Use",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-travel-use-floor-liners.jpg",
@@ -32166,7 +30788,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-use-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 Use",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-use-floor-liners.jpg",
@@ -32219,7 +30841,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-w213-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 W213",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-w213-floor-liners.jpg",
@@ -32272,7 +30894,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300-w214-chassis-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300 W214 Chassis",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mercedes-benz-e300-w214-chassis-floor-liners.jpg",
@@ -32325,7 +30947,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300L",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-e300l-floor-liners.jpg",
@@ -32377,7 +30999,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300l-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300L - Mercedes-Benz E300L",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mercedes-benz-e300l-floor-liners-2.jpg",
@@ -32430,7 +31052,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-e300l-2024-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz E300L / 2024 / 2026 2024-2026",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-e300l-2024-2026-floor-liners.jpg",
@@ -32487,7 +31109,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-glc-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz GLC",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mercedes-benz-glc-floor-liners.jpg",
@@ -32540,7 +31162,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners.jpg",
@@ -32597,7 +31219,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-2.jpg",
@@ -32650,7 +31272,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (2)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-3.jpg",
@@ -32703,7 +31325,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (3)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-4.jpg",
@@ -32756,7 +31378,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (4)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-5.jpg",
@@ -32809,7 +31431,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (5)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-6.jpg",
@@ -32862,7 +31484,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (6)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-7.jpg",
@@ -32915,7 +31537,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-crossover-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Crossover",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-crossover-floor-liners.jpg",
@@ -32972,7 +31594,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-crossover-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Crossover - Mitsubishi ASX",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-crossover-floor-liners-2.jpg",
@@ -33029,7 +31651,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-driver-passenger-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Driver Passenger",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-driver-passenger-floor-liners.jpg",
@@ -33082,7 +31704,7 @@ PRODUCTS = [
   "slug": "mitsubishi-asx-outlander-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Outlander Sport 2020",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-outlander-sport-floor-liners.jpg",
@@ -33134,7 +31756,7 @@ PRODUCTS = [
   "slug": "mitsubishi-civic-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Civic",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-civic-all-weather-mats.jpg",
@@ -33187,7 +31809,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross 2018",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners.jpg",
@@ -33239,7 +31861,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-2.jpg",
@@ -33296,7 +31918,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats.jpg",
@@ -33349,7 +31971,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-3.jpg",
@@ -33406,7 +32028,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (2)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-4.jpg",
@@ -33459,7 +32081,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (3)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-5.jpg",
@@ -33516,7 +32138,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (4)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-6.jpg",
@@ -33569,7 +32191,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross - Eclipse Cross",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats-2.jpg",
@@ -33626,7 +32248,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross - Eclipse Cross (2)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats-3.jpg",
@@ -33679,7 +32301,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (5)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-7.jpg",
@@ -33736,7 +32358,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-crossover-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross Crossover",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-crossover-floor-liners.jpg",
@@ -33789,7 +32411,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-crossover-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross Crossover - Eclipse Cross",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-crossover-floor-liners-2.jpg",
@@ -33842,7 +32464,7 @@ PRODUCTS = [
   "slug": "mitsubishi-l200-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi L200",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-l200-all-weather-mats.jpg",
@@ -33895,7 +32517,7 @@ PRODUCTS = [
   "slug": "mitsubishi-l200-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi L200 - MITSUBISHI L200",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-l200-all-weather-mats-2.jpg",
@@ -33948,7 +32570,7 @@ PRODUCTS = [
   "slug": "mitsubishi-montero-pajero-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Montero Pajero Sport 2023",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-montero-pajero-sport-floor-liners.jpg",
@@ -34000,7 +32622,7 @@ PRODUCTS = [
   "slug": "mitsubishi-outlander-2011-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi OUTLANDER 2011 2023 2011-2023",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-outlander-2011-2023-floor-liners.jpg",
@@ -34048,7 +32670,7 @@ PRODUCTS = [
   "slug": "mitsubishi-outlander-2011-2023-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi OUTLANDER 2011 2023 2011-2023 (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$23-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/mitsubishi-outlander-2011-2023-floor-liners-2.jpg",
@@ -34096,7 +32718,7 @@ PRODUCTS = [
   "slug": "mitsubishi-outlander-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Outlander 2019",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-outlander-floor-liners.jpg",
@@ -34149,7 +32771,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners.jpg",
@@ -34202,7 +32824,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-2.jpg",
@@ -34255,7 +32877,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (2)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-3.jpg",
@@ -34308,7 +32930,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - TPE Car Floor Mats",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners-4.jpg",
@@ -34361,7 +32983,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (3)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-5.jpg",
@@ -34414,7 +33036,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 (2)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-l200-floor-liners-6.jpg",
@@ -34462,7 +33084,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - TPE Car Floor Mats (2)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners-7.jpg",
@@ -34519,7 +33141,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (4)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-8.jpg",
@@ -34572,7 +33194,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 (3)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-l200-floor-liners-9.jpg",
@@ -34620,7 +33242,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (5)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-10.jpg",
@@ -34673,7 +33295,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-13",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (6)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-13.jpg",
@@ -34726,7 +33348,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-14",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (7)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-14.jpg",
@@ -34779,7 +33401,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-15",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (8)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-15.jpg",
@@ -34832,7 +33454,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-35/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-floor-liners.jpg",
@@ -34885,7 +33507,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton L200",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-11.jpg",
@@ -34938,7 +33560,7 @@ PRODUCTS = [
   "slug": "mitsubishi-triton-l200-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton L200 - tpe-001",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-12.jpg",
@@ -34995,7 +33617,7 @@ PRODUCTS = [
   "slug": "nio-exw-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Nio EXW",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/nio-exw-all-weather-mats.jpg",
@@ -35048,7 +33670,7 @@ PRODUCTS = [
   "slug": "nissan-altima-2019-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Altima 2019 2023 2019-2023",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/nissan-altima-2019-2023-floor-liners.jpg",
@@ -35101,7 +33723,7 @@ PRODUCTS = [
   "slug": "nissan-kicks-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan KICKS 2025",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$28-35/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/nissan-kicks-trunk-mats.jpg",
@@ -35158,7 +33780,7 @@ PRODUCTS = [
   "slug": "nissan-kicks-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Kicks",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-kicks-floor-liners.jpg",
@@ -35211,7 +33833,7 @@ PRODUCTS = [
   "slug": "nissan-navara-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners.jpg",
@@ -35264,7 +33886,7 @@ PRODUCTS = [
   "slug": "nissan-navara-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara - Nissan Navara",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners-2.jpg",
@@ -35321,7 +33943,7 @@ PRODUCTS = [
   "slug": "nissan-navara-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara - Nissan Navara (2)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners-3.jpg",
@@ -35378,7 +34000,7 @@ PRODUCTS = [
   "slug": "nissan-navara-np300-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara NP300",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-floor-liners.jpg",
@@ -35434,7 +34056,7 @@ PRODUCTS = [
   "slug": "nissan-navara-np300-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara NP300 - W for Nissan",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-floor-liners-2.jpg",
@@ -35487,7 +34109,7 @@ PRODUCTS = [
   "slug": "nissan-navara-np300-d23-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Nissan Navara NP300 D23",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-d23-all-weather-mats.jpg",
@@ -35540,7 +34162,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-t32-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan ROGUE T32",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-rogue-t32-floor-liners.jpg",
@@ -35588,7 +34210,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Rogue",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$17-22/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-rogue-floor-liners.jpg",
@@ -35641,7 +34263,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan Rogue",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-rogue-double-layer-mats.jpg",
@@ -35689,7 +34311,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-t32-x-trail-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan Rogue T32 X Trail",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-rogue-t32-x-trail-double-layer-mats.jpg",
@@ -35737,7 +34359,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-rogue-2021-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X TRAIL Rogue 2021 2023 2021-2023",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-rogue-2021-2023-floor-liners.jpg",
@@ -35785,7 +34407,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats.jpg",
@@ -35838,7 +34460,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-2.jpg",
@@ -35891,10 +34513,63 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Household-Auto-Floor-Liner_1601873591521.html",
+  "fitment": {
+   "make": "Nissan",
+   "model": "X Trail",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Nissan X-Trail Flexible. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Nissan X Trail - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Nissan X-Trail Flexible",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "nissan-x-trail-trunk-mats-4",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (3)",
+  "badge": "OEM Ready",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/nissan-x-trail-trunk-mats-4.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Foot-Pad-OEM_1601873558492.html",
   "fitment": {
    "make": "Nissan",
@@ -35941,13 +34616,13 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "nissan-x-trail-trunk-mats-4",
+  "slug": "nissan-x-trail-trunk-mats-5",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (3)",
+  "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (4)",
   "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/nissan-x-trail-trunk-mats-4.jpg",
+  "img": "/images/nissan-x-trail-trunk-mats-5.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Foot-Pad-Custom_1601873553536.html",
   "fitment": {
    "make": "Nissan",
@@ -35994,63 +34669,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "nissan-x-trail-trunk-mats-5",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (4)",
-  "badge": "Custom Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/nissan-x-trail-trunk-mats-5.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Foot-Pad-Wholesale_1601873540720.html",
-  "fitment": {
-   "make": "Nissan",
-   "model": "X Trail",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Nissan X-Trail. Coverage is built with anti-slip backing, and raised edges that keep loose cargo and wet gear off the trim. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Nissan X Trail - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Nissan X-Trail",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "nissan-x-trail-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2020",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/nissan-x-trail-floor-liners.jpg",
@@ -36103,7 +34725,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-100-environmental-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 100 Environmental",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-100-environmental-floor-liners.jpg",
@@ -36156,7 +34778,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail 2014 2021 2014-2021",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-trunk-mats.jpg",
@@ -36209,7 +34831,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners.jpg",
@@ -36262,7 +34884,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-2.jpg",
@@ -36315,7 +34937,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-3.jpg",
@@ -36372,7 +34994,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-4.jpg",
@@ -36425,7 +35047,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-5.jpg",
@@ -36475,123 +35097,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "nissan-x-trail-flexible-trunk-mats",
+  "slug": "nissan-x-trail-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Nissan X Trail Flexible",
-  "badge": "3D Fit",
+  "name": "TPE Cargo Liner for Nissan X Trail Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/nissan-x-trail-flexible-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Household-Auto-Floor-Liner_1601873591521.html",
-  "fitment": {
-   "make": "Nissan",
-   "model": "X Trail Flexible",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Nissan X-Trail Flexible. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Nissan X Trail Flexible - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Nissan X-Trail Flexible",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "nissan-x-trail-odor-free-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Nissan X Trail Odor Free",
-  "badge": "Custom Fit",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/nissan-x-trail-odor-free-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Custom-Pattern-Floor-Liner_1601873617344.html",
-  "fitment": {
-   "make": "Nissan",
-   "model": "X Trail Odor Free",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Nissan X-Trail Odor Free. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Nissan X Trail Odor Free - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Nissan X-Trail Odor Free",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "nissan-x-trail-stable-fit-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Nissan X Trail Stable Fit",
-  "badge": "All-Season",
-  "price": "$20-25/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/nissan-x-trail-stable-fit-trunk-mats.jpg",
+  "img": "/images/nissan-x-trail-fit-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Custom-Color-TPE-Foot_1601873576607.html",
   "fitment": {
    "make": "Nissan",
-   "model": "X Trail Stable Fit",
+   "model": "X Trail Fit",
    "years": "",
    "body": "",
    "hand": "",
@@ -36605,7 +35121,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Nissan X Trail Stable Fit - confirm year with us"
+    "Nissan X Trail Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -36634,10 +35150,63 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "nissan-x-trail-free-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Nissan X Trail Free",
+  "badge": "3D Fit",
+  "price": "$20-25/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/nissan-x-trail-free-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Custom-Pattern-Floor-Liner_1601873617344.html",
+  "fitment": {
+   "make": "Nissan",
+   "model": "X Trail Free",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Nissan X-Trail Odor Free. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Nissan X Trail Free - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Nissan X-Trail Odor Free",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
   "slug": "nissan-x-trail-t32-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/nissan-x-trail-t32-double-layer-mats.jpg",
@@ -36694,7 +35263,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32 - TPE Car Floor Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/nissan-x-trail-t32-double-layer-mats-2.jpg",
@@ -36751,7 +35320,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail T32",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-t32-floor-liners.jpg",
@@ -36804,7 +35373,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-double-layer-mats-3",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32 (2)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-t32-double-layer-mats-3.jpg",
@@ -36857,7 +35426,7 @@ PRODUCTS = [
   "slug": "nissan-x-terra-armada-pathfinder-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X terra Armada Pathfinder",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18.98-22.98/piece",
   "moq": "MOQ 4 pieces",
   "img": "/images/nissan-x-terra-armada-pathfinder-double-layer-mats.jpg",
@@ -36910,7 +35479,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-snow-mud-proof-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X-Trail Snow Mud Proof",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-snow-mud-proof-floor-liners.jpg",
@@ -36962,7 +35531,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Onvo L60 L80",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-all-weather-mats.jpg",
@@ -37015,7 +35584,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Onvo L60 L80",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-double-layer-mats.jpg",
@@ -37068,7 +35637,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Onvo L60 L80",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-floor-liners.jpg",
@@ -37125,7 +35694,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Onvo L60 L80 - tpe  Car Mats",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-all-weather-mats-2.jpg",
@@ -37182,7 +35751,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-removable-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Onvo L60 L80 Removable",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-removable-all-weather-mats.jpg",
@@ -37235,7 +35804,7 @@ PRODUCTS = [
   "slug": "renault-logan-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Logan",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/renault-logan-floor-liners.jpg",
@@ -37292,7 +35861,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/renault-symbioz-floor-liners.jpg",
@@ -37345,7 +35914,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - Renault Symbioz",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-2.jpg",
@@ -37402,7 +35971,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - Renault Symbioz (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-3.jpg",
@@ -37455,7 +36024,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-4.jpg",
@@ -37512,7 +36081,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-5.jpg",
@@ -37565,7 +36134,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (3)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-6.jpg",
@@ -37622,7 +36191,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (4)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-7.jpg",
@@ -37679,7 +36248,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (5)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-8.jpg",
@@ -37736,7 +36305,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (6)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-9.jpg",
@@ -37793,7 +36362,7 @@ PRODUCTS = [
   "slug": "renault-symbioz-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (7)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-10.jpg",
@@ -37847,17 +36416,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "renault-symbioz-recyclable-odor-free-floor-liners",
+  "slug": "renault-symbioz-recyclable-free-floor-liners",
   "cat": "floor-liners",
-  "name": "TPE Floor Liners for Renault Symbioz Recyclable Odor Free",
-  "badge": "3D Fit",
+  "name": "TPE Floor Liners for Renault Symbioz Recyclable Free",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
-  "img": "/images/renault-symbioz-recyclable-odor-free-floor-liners.jpg",
+  "img": "/images/renault-symbioz-recyclable-free-floor-liners.jpg",
   "src": "https://www.alibaba.com/product-detail/Eco-Friendly-TPE-Floor-Mats-for_1601926500323.html",
   "fitment": {
    "make": "Renault",
-   "model": "Symbioz Recyclable Odor Free",
+   "model": "Symbioz Recyclable Free",
    "years": "",
    "body": "",
    "hand": "",
@@ -37871,7 +36440,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Renault Symbioz Recyclable Odor Free - confirm year with us"
+    "Renault Symbioz Recyclable Free - confirm year with us"
    ],
    [
     "Coverage",
@@ -37903,7 +36472,7 @@ PRODUCTS = [
   "slug": "seat-back-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Back",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/seat-back-trunk-mats.jpg",
@@ -37956,7 +36525,7 @@ PRODUCTS = [
   "slug": "seat-back-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Back 2021-2025",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/seat-back-trunk-mats-2.jpg",
@@ -38004,7 +36573,7 @@ PRODUCTS = [
   "slug": "seat-cover-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Seat Cover",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$10-17/set",
   "moq": "MOQ 1 set",
   "img": "/images/seat-cover-all-weather-mats.jpg",
@@ -38057,7 +36626,7 @@ PRODUCTS = [
   "slug": "seat-covers-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Seat Covers",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$50/bag",
   "moq": "MOQ 10 bags",
   "img": "/images/seat-covers-all-weather-mats.jpg",
@@ -38105,7 +36674,7 @@ PRODUCTS = [
   "slug": "seat-protector-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Protector",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/seat-protector-trunk-mats.jpg",
@@ -38153,7 +36722,7 @@ PRODUCTS = [
   "slug": "seat-protector-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Protector (2)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$10-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/seat-protector-trunk-mats-2.jpg",
@@ -38201,7 +36770,7 @@ PRODUCTS = [
   "slug": "skoda-octavia-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Skoda Octavia",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/skoda-octavia-floor-liners.jpg",
@@ -38249,7 +36818,7 @@ PRODUCTS = [
   "slug": "skoda-octavia-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Skoda Octavia (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/skoda-octavia-floor-liners-2.jpg",
@@ -38297,7 +36866,7 @@ PRODUCTS = [
   "slug": "subaru-forester-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Subaru Forester",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/subaru-forester-trunk-mats.jpg",
@@ -38345,7 +36914,7 @@ PRODUCTS = [
   "slug": "subaru-forester-outback-legacy-crosstrek-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Subaru Forester Outback Legacy Crosstrek",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/subaru-forester-outback-legacy-crosstrek-trunk-mats.jpg",
@@ -38398,7 +36967,7 @@ PRODUCTS = [
   "slug": "subaru-forester-outback-legacy-crosstrek-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Subaru Forester outback legacy crosstrek",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-35/set",
   "moq": "MOQ 10 sets",
   "img": "/images/subaru-forester-outback-legacy-crosstrek-floor-liners.jpg",
@@ -38451,7 +37020,7 @@ PRODUCTS = [
   "slug": "suzuki-jimny-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Suzuki Jimny 2024",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/suzuki-jimny-trunk-mats.jpg",
@@ -38499,7 +37068,7 @@ PRODUCTS = [
   "slug": "tank-700-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Tank 700",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/tank-700-floor-liners.jpg",
@@ -38544,63 +37113,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-abrasion-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Abrasion",
-  "badge": "OEM Ready",
-  "price": "$8-19/set",
-  "moq": "MOQ 11 sets",
-  "img": "/images/tesla-abrasion-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601900142825.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Abrasion",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Tesla Abrasion. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 11 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Abrasion - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "11 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Abrasion",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 11 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "tesla-cybertruck-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Tesla Cybertruck",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$15-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-floor-liners.jpg",
@@ -38657,7 +37173,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck 2024-2026",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats.jpg",
@@ -38713,7 +37229,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck 2024",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$15-17/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats-2.jpg",
@@ -38770,7 +37286,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$17-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats-3.jpg",
@@ -38827,7 +37343,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-perfect-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck Perfect Fit 2024-2026",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-perfect-fit-trunk-mats.jpg",
@@ -38884,10 +37400,58 @@ PRODUCTS = [
   "slug": "tesla-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Edge",
-  "badge": "3D Fit",
+  "badge": "All-Season",
+  "price": "$10-20/set",
+  "moq": "MOQ 9 sets",
+  "img": "/images/tesla-edge-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601900392541.html",
+  "fitment": {
+   "make": "Tesla",
+   "model": "Edge",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Tesla Surround Edge Dirt Containment. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 9 sets. Listed at $10-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Tesla Edge - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "9 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Tesla Surround Edge Dirt Containment",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 9 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "tesla-edge-trunk-mats-2",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Tesla Edge - TPE CAR MAT+CARPET",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
-  "img": "/images/tesla-edge-trunk-mats.jpg",
+  "img": "/images/tesla-edge-trunk-mats-2.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601900215473.html",
   "fitment": {
    "make": "Tesla",
@@ -38934,65 +37498,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-edge-containment-trunk-mats",
+  "slug": "tesla-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Edge Containment",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Tesla Fit",
+  "badge": "OEM Ready",
   "price": "$10-20/set",
   "moq": "MOQ 9 sets",
-  "img": "/images/tesla-edge-containment-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Tailored-Foot-Pad-Trunk_1601900392541.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Edge Containment",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Tesla Surround Edge Dirt Containment. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 9 sets. Listed at $10-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Edge Containment - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "9 sets"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Surround Edge Dirt Containment",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 9 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "tesla-exact-fit-mold-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Exact Fit Mold",
-  "badge": "All-Season",
-  "price": "$10-20/set",
-  "moq": "MOQ 9 sets",
-  "img": "/images/tesla-exact-fit-mold-trunk-mats.jpg",
+  "img": "/images/tesla-fit-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601900447213.html",
   "fitment": {
    "make": "Tesla",
-   "model": "Exact Fit Mold",
+   "model": "Fit",
    "years": "",
    "body": "",
    "hand": "",
@@ -39006,7 +37522,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Tesla Exact Fit Mold - confirm year with us"
+    "Tesla Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -39030,222 +37546,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-flexible-quick-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Flexible Quick",
-  "badge": "Low MOQ",
-  "price": "$8-19/set",
-  "moq": "MOQ 11 sets",
-  "img": "/images/tesla-flexible-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Travel-Auto-Floor_1601900141874.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Flexible Quick",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Tesla Flexible Quick Wash. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 11 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Flexible Quick - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "11 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Flexible Quick Wash",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Hose down and wipe to clean",
-   "From 11 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "tesla-food-grade-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Food Grade",
-  "badge": "OEM Ready",
-  "price": "$8-19/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/tesla-food-grade-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601900259236.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Food Grade",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Tesla Food Grade. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Food Grade - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Food Grade",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "tesla-hose-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Hose",
-  "badge": "3D Fit",
-  "price": "$8-19/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/tesla-hose-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Road-Trip-Auto-Floor_1601900356345.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Hose",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Tesla Hose. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Hose - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Hose",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "tesla-low-voc-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Low VOC",
-  "badge": "Custom Fit",
-  "price": "$8-19/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/tesla-low-voc-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Textured-Surface-Floor-Liner_1601900269202.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Low VOC",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Tesla Low VOC. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Low VOC - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Low VOC",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "tesla-precise-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Precise",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-precise-trunk-mats.jpg",
@@ -39295,63 +37599,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-precision-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Precision",
-  "badge": "Low MOQ",
-  "price": "$8-19/set",
-  "moq": "MOQ 11 sets",
-  "img": "/images/tesla-precision-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Snap-Lock-TPE-Foot_1601900175755.html",
-  "fitment": {
-   "make": "Tesla",
-   "model": "Precision",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Tesla Precision. Coverage is built with anti-slip backing, and raised edges that keep loose cargo and wet gear off the trim. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 11 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Tesla Precision - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "11 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Tesla Precision",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 11 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "tesla-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Rain",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/tesla-rain-trunk-mats.jpg",
@@ -39404,7 +37655,7 @@ PRODUCTS = [
   "slug": "tesla-resist-spill-daily-use-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Resist Spill Daily Use",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$10-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-resist-spill-daily-use-trunk-mats.jpg",
@@ -39449,17 +37700,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-tear-fixed-position-trunk-mats",
+  "slug": "tesla-tear-position-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Tear Fixed Position",
-  "badge": "Custom Fit",
+  "name": "TPE Cargo Liner for Tesla Tear Position",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/tesla-tear-fixed-position-trunk-mats.jpg",
+  "img": "/images/tesla-tear-position-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Wholesale-Auto-Foot-Pad_1601900244353.html",
   "fitment": {
    "make": "Tesla",
-   "model": "Tear Fixed Position",
+   "model": "Tear Position",
    "years": "",
    "body": "",
    "hand": "",
@@ -39473,7 +37724,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Tesla Tear Fixed Position - confirm year with us"
+    "Tesla Tear Position - confirm year with us"
    ],
    [
     "Coverage",
@@ -39505,7 +37756,7 @@ PRODUCTS = [
   "slug": "tesla-weatherproof-barrier-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Weatherproof Barrier",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$10-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-weatherproof-barrier-trunk-mats.jpg",
@@ -39553,7 +37804,7 @@ PRODUCTS = [
   "slug": "tesla-winter-ice-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Winter Ice",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$10-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-winter-ice-trunk-mats.jpg",
@@ -39598,17 +37849,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "tesla-zero-odor-trunk-mats",
+  "slug": "tesla-zero-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Tesla Zero Odor",
-  "badge": "OEM Ready",
+  "name": "TPE Cargo Liner for Tesla Zero",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
-  "img": "/images/tesla-zero-odor-trunk-mats.jpg",
+  "img": "/images/tesla-zero-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601900237233.html",
   "fitment": {
    "make": "Tesla",
-   "model": "Zero Odor",
+   "model": "Zero",
    "years": "",
    "body": "",
    "hand": "",
@@ -39622,7 +37873,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Tesla Zero Odor - confirm year with us"
+    "Tesla Zero - confirm year with us"
    ],
    [
     "Coverage",
@@ -39654,7 +37905,7 @@ PRODUCTS = [
   "slug": "toyota-4runner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota 4RUNNER 2023-2025",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-4runner-floor-liners.jpg",
@@ -39711,7 +37962,7 @@ PRODUCTS = [
   "slug": "toyota-agya-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota AGYA",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-agya-all-weather-mats.jpg",
@@ -39764,7 +38015,7 @@ PRODUCTS = [
   "slug": "toyota-agya-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Agya",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-agya-all-weather-mats-2.jpg",
@@ -39821,7 +38072,7 @@ PRODUCTS = [
   "slug": "toyota-agya-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Agya",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-agya-floor-liners.jpg",
@@ -39874,7 +38125,7 @@ PRODUCTS = [
   "slug": "toyota-allion-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Allion",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-allion-floor-liners.jpg",
@@ -39927,7 +38178,7 @@ PRODUCTS = [
   "slug": "toyota-axio-corolla-fielder-e160-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Axio Corolla Fielder E160",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-axio-corolla-fielder-e160-trunk-mats.jpg",
@@ -39980,7 +38231,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota CROWN",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-floor-liners-4.jpg",
@@ -40033,7 +38284,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-floor-liners.jpg",
@@ -40086,7 +38337,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyot camry",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-floor-liners-2.jpg",
@@ -40139,7 +38390,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2018",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-3.jpg",
@@ -40192,7 +38443,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-4.jpg",
@@ -40245,7 +38496,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-5.jpg",
@@ -40298,7 +38549,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (3)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-6.jpg",
@@ -40351,7 +38602,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (4)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-7.jpg",
@@ -40404,7 +38655,7 @@ PRODUCTS = [
   "slug": "toyota-camry-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (5)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-8.jpg",
@@ -40457,7 +38708,7 @@ PRODUCTS = [
   "slug": "toyota-camry-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-double-layer-mats.jpg",
@@ -40505,7 +38756,7 @@ PRODUCTS = [
   "slug": "toyota-camry-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2012 2016 2012-2016",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2012-2016-floor-liners.jpg",
@@ -40558,7 +38809,7 @@ PRODUCTS = [
   "slug": "toyota-camry-2012-2016-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2012 2016 2012-2016 - Toyota Camry 2012-2016",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2012-2016-floor-liners-2.jpg",
@@ -40611,7 +38862,7 @@ PRODUCTS = [
   "slug": "toyota-camry-2016-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2016 2023 2016-2023",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2016-2023-floor-liners.jpg",
@@ -40664,7 +38915,7 @@ PRODUCTS = [
   "slug": "toyota-camry-biz4-land-cruise-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry BIZ4 land Cruise",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-biz4-land-cruise-double-layer-mats.jpg",
@@ -40712,7 +38963,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-prado-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry Corolla Prado",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-corolla-prado-double-layer-mats.jpg",
@@ -40760,7 +39011,7 @@ PRODUCTS = [
   "slug": "toyota-camry-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Camry Fit",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$22-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-fit-trunk-mats.jpg",
@@ -40813,7 +39064,7 @@ PRODUCTS = [
   "slug": "toyota-camry-fit-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Camry Fit - car mats",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$10-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-fit-trunk-mats-2.jpg",
@@ -40866,7 +39117,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-prado-4runner-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry corolla prado 4runner",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-26/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-camry-corolla-prado-4runner-double-layer-mats.jpg",
@@ -40914,7 +39165,7 @@ PRODUCTS = [
   "slug": "toyota-camry-prado-4runner-prius-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry prado 4runner prius",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18.98-22.98/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/toyota-camry-prado-4runner-prius-floor-liners.jpg",
@@ -40967,7 +39218,7 @@ PRODUCTS = [
   "slug": "toyota-camryamry-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camryamry",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camryamry-floor-liners.jpg",
@@ -41020,7 +39271,7 @@ PRODUCTS = [
   "slug": "toyota-camryamry-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camryamry - Toyota Camry",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camryamry-floor-liners-2.jpg",
@@ -41073,7 +39324,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners.jpg",
@@ -41125,7 +39376,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Corolla",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-all-weather-mats.jpg",
@@ -41182,7 +39433,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-2.jpg",
@@ -41235,7 +39486,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-3.jpg",
@@ -41287,7 +39538,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-4.jpg",
@@ -41340,7 +39591,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for TOyota",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-5.jpg",
@@ -41393,7 +39644,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Leather Car Mats",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-6.jpg",
@@ -41446,7 +39697,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-trunk-mats.jpg",
@@ -41499,7 +39750,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-7.jpg",
@@ -41552,7 +39803,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-8.jpg",
@@ -41609,7 +39860,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-9.jpg",
@@ -41666,7 +39917,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla (3)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-10.jpg",
@@ -41723,7 +39974,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-11.jpg",
@@ -41780,7 +40031,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-12.jpg",
@@ -41837,7 +40088,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-13",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-13.jpg",
@@ -41894,7 +40145,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-corolla-trunk-mats-2.jpg",
@@ -41947,7 +40198,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-14",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla 2019",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-14.jpg",
@@ -42000,7 +40251,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Corolla 2021-2026",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-corolla-all-weather-mats-3.jpg",
@@ -42053,7 +40304,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-2018-on-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla 2018 On",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-2018-on-floor-liners.jpg",
@@ -42106,7 +40357,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-cross-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla Cross",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-cross-trunk-mats.jpg",
@@ -42159,7 +40410,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-cross-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla Cross 2022-2026",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-cross-floor-liners.jpg",
@@ -42211,7 +40462,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-dedicated-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla dedicated",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-dedicated-floor-liners.jpg",
@@ -42264,7 +40515,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Crown",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-floor-liners.jpg",
@@ -42320,7 +40571,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Crown - tpe Car Mats",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-floor-liners-2.jpg",
@@ -42377,7 +40628,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Crown - tpe Car Mats (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-floor-liners-3.jpg",
@@ -42434,7 +40685,7 @@ PRODUCTS = [
   "slug": "toyota-crown-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Crown",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-all-weather-mats.jpg",
@@ -42491,7 +40742,7 @@ PRODUCTS = [
   "slug": "toyota-crown-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Crown",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-crown-trunk-mats.jpg",
@@ -42544,7 +40795,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Crown - Toyota Crown",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-crown-floor-liners-5.jpg",
@@ -42601,7 +40852,7 @@ PRODUCTS = [
   "slug": "toyota-crown-sportcross-2023-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Crown SportCross 2023 2026 2023-2026",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-sportcross-2023-2026-floor-liners.jpg",
@@ -42658,7 +40909,7 @@ PRODUCTS = [
   "slug": "toyota-cruiser-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Cruiser",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-cruiser-trunk-mats.jpg",
@@ -42711,7 +40962,7 @@ PRODUCTS = [
   "slug": "toyota-fortuner-prado-raised-edge-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Fortuner Prado Raised Edge",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$22-24/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-fortuner-prado-raised-edge-floor-liners.jpg",
@@ -42763,7 +41014,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-runner-rav4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota HILUX RUNNER RAV4",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-hilux-runner-rav4-floor-liners.jpg",
@@ -42816,7 +41067,7 @@ PRODUCTS = [
   "slug": "toyota-highlander-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Highlander 2020",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-highlander-floor-liners.jpg",
@@ -42869,7 +41120,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Hilux",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-all-weather-mats.jpg",
@@ -42926,7 +41177,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux 2020",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-hilux-floor-liners.jpg",
@@ -42979,7 +41230,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$25-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-hilux-floor-liners-2.jpg",
@@ -43036,7 +41287,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$10-14/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-hilux-floor-liners-3.jpg",
@@ -43089,7 +41340,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-multiple-years-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux Multiple Years",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-multiple-years-floor-liners.jpg",
@@ -43142,7 +41393,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-revo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux Revo",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-revo-floor-liners.jpg",
@@ -43199,7 +41450,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-revo-2015-2025-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux Revo 2015-2025",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-revo-2015-2025-floor-liners.jpg",
@@ -43255,7 +41506,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-revo-4x4-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Hilux Revo 4X4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-revo-4x4-all-weather-mats.jpg",
@@ -43312,7 +41563,7 @@ PRODUCTS = [
   "slug": "toyota-hilux-vigo-dual-cab-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux Vigo Dual Cab",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-vigo-dual-cab-floor-liners.jpg",
@@ -43368,7 +41619,7 @@ PRODUCTS = [
   "slug": "toyota-kluger-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Kluger 2013",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 3 sets",
   "img": "/images/toyota-kluger-floor-liners.jpg",
@@ -43416,7 +41667,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota LAND CRUISER 2023",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$19-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-2.jpg",
@@ -43464,7 +41715,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners.jpg",
@@ -43521,7 +41772,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-double-layer-mats.jpg",
@@ -43569,7 +41820,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser - TPE Car Mat",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-3.jpg",
@@ -43626,7 +41877,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser (2)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-4.jpg",
@@ -43674,7 +41925,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-double-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser Double",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-double-double-layer-mats.jpg",
@@ -43731,7 +41982,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-lc200-lc300-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser LC200 LC300",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-lc200-lc300-floor-liners.jpg",
@@ -43783,7 +42034,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-lc71-lc76-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser LC71 LC76 2025",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$15-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-lc71-lc76-floor-liners.jpg",
@@ -43836,7 +42087,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-floor-liners.jpg",
@@ -43889,7 +42140,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-prado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado - TOYOTA",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-floor-liners-2.jpg",
@@ -43942,7 +42193,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-prado-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser Prado",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$25-35/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-land-cruiser-prado-double-layer-mats.jpg",
@@ -43995,7 +42246,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-prado-lc150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado LC150",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-lc150-floor-liners.jpg",
@@ -44047,7 +42298,7 @@ PRODUCTS = [
   "slug": "toyota-pardo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota PARDO",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-pardo-floor-liners.jpg",
@@ -44100,7 +42351,7 @@ PRODUCTS = [
   "slug": "toyota-prius-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota PRIUS",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-prius-floor-liners-3.jpg",
@@ -44157,7 +42408,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$16-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prado-floor-liners.jpg",
@@ -44210,7 +42461,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prado-floor-liners-2.jpg",
@@ -44263,7 +42514,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-3.jpg",
@@ -44316,7 +42567,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-4.jpg",
@@ -44369,7 +42620,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (3)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-5.jpg",
@@ -44422,7 +42673,7 @@ PRODUCTS = [
   "slug": "toyota-prado-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (4)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-6.jpg",
@@ -44475,7 +42726,7 @@ PRODUCTS = [
   "slug": "toyota-prius-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prius",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-23/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-prius-floor-liners-4.jpg",
@@ -44528,7 +42779,7 @@ PRODUCTS = [
   "slug": "toyota-rav-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav-floor-liners.jpg",
@@ -44581,7 +42832,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners.jpg",
@@ -44633,7 +42884,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota RAV4",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-all-weather-mats.jpg",
@@ -44690,7 +42941,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 - TOYOTA RAV4",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners-2.jpg",
@@ -44743,7 +42994,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 2019",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-rav4-floor-liners-3.jpg",
@@ -44796,7 +43047,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 2019-2023",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners-4.jpg",
@@ -44844,7 +43095,7 @@ PRODUCTS = [
   "slug": "toyota-runner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RUNNER",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-runner-floor-liners.jpg",
@@ -44897,7 +43148,7 @@ PRODUCTS = [
   "slug": "toyota-rush-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Rush 2022",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-rush-floor-liners.jpg",
@@ -44950,7 +43201,7 @@ PRODUCTS = [
   "slug": "toyota-tundra-crewmax-2014-2021-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Tundra CrewMax 2014 2021 2014-2021",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-tundra-crewmax-2014-2021-floor-liners.jpg",
@@ -45002,7 +43253,7 @@ PRODUCTS = [
   "slug": "toyota-vios-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Vios",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$13-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-vios-floor-liners.jpg",
@@ -45055,7 +43306,7 @@ PRODUCTS = [
   "slug": "toyota-vios-yaris-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Vios Yaris",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-vios-yaris-trunk-mats.jpg",
@@ -45112,7 +43363,7 @@ PRODUCTS = [
   "slug": "toyota-vios-yaris-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Vios Yaris - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-vios-yaris-trunk-mats-2.jpg",
@@ -45169,7 +43420,7 @@ PRODUCTS = [
   "slug": "toyota-voxy-noah-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Voxy Noah 2012-2018",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-voxy-noah-trunk-mats.jpg",
@@ -45222,7 +43473,7 @@ PRODUCTS = [
   "slug": "toyota-yaris-l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Yaris L 2015",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-yaris-l-floor-liners.jpg",
@@ -45275,7 +43526,7 @@ PRODUCTS = [
   "slug": "toyota-agya-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota agya",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-agya-trunk-mats.jpg",
@@ -45332,7 +43583,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-crown-fortuner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota camry corolla Crown Fortuner",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$21-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-corolla-crown-fortuner-floor-liners.jpg",
@@ -45385,7 +43636,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-prado-rav4-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota camry corolla prado rav4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$24-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-camry-corolla-prado-rav4-double-layer-mats.jpg",
@@ -45438,7 +43689,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota corolla",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$25-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-all-weather-mats-2.jpg",
@@ -45491,7 +43742,7 @@ PRODUCTS = [
   "slug": "toyota-fortuner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota fortuner",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-fortuner-floor-liners.jpg",
@@ -45548,7 +43799,7 @@ PRODUCTS = [
   "slug": "toyota-prius-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota prius",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prius-floor-liners.jpg",
@@ -45600,7 +43851,7 @@ PRODUCTS = [
   "slug": "toyota-prius-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota prius - TOYOTA prius",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prius-floor-liners-2.jpg",
@@ -45653,7 +43904,7 @@ PRODUCTS = [
   "slug": "volkswagen-fox-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Fox",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/volkswagen-fox-floor-liners.jpg",
@@ -45710,7 +43961,7 @@ PRODUCTS = [
   "slug": "volkswagen-fox-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Fox - W-04 for Grand",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$15-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-fox-floor-liners-2.jpg",
@@ -45767,7 +44018,7 @@ PRODUCTS = [
   "slug": "volkswagen-golf-vi-2010-2013-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Golf VI 2010 2013 2010-2013",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-golf-vi-2010-2013-floor-liners.jpg",
@@ -45820,7 +44071,7 @@ PRODUCTS = [
   "slug": "volkswagen-id-unyx-07-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners.jpg",
@@ -45873,7 +44124,7 @@ PRODUCTS = [
   "slug": "volkswagen-id-unyx-07-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-2.jpg",
@@ -45930,7 +44181,7 @@ PRODUCTS = [
   "slug": "volkswagen-id-unyx-07-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-3.jpg",
@@ -45987,7 +44238,7 @@ PRODUCTS = [
   "slug": "volkswagen-id-unyx-07-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (3)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-4.jpg",
@@ -46044,7 +44295,7 @@ PRODUCTS = [
   "slug": "volkswagen-id-unyx-07-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (4)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-5.jpg",
@@ -46101,7 +44352,7 @@ PRODUCTS = [
   "slug": "volkswagen-jetta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Jetta",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-floor-liners.jpg",
@@ -46154,7 +44405,7 @@ PRODUCTS = [
   "slug": "volkswagen-jetta-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Volkswagen Jetta",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-all-weather-mats.jpg",
@@ -46207,7 +44458,7 @@ PRODUCTS = [
   "slug": "volkswagen-jetta-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Jetta - tpe Car Mats",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-floor-liners-2.jpg",
@@ -46260,7 +44511,7 @@ PRODUCTS = [
   "slug": "volkswagen-polo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-floor-liners.jpg",
@@ -46308,7 +44559,7 @@ PRODUCTS = [
   "slug": "volkswagen-polo-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo - Volkswagen",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-floor-liners-2.jpg",
@@ -46361,7 +44612,7 @@ PRODUCTS = [
   "slug": "volkswagen-polo-mk5-mk8-plus-gti-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Mk5 Mk8 Plus GTI",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-mk5-mk8-plus-gti-floor-liners.jpg",
@@ -46414,7 +44665,7 @@ PRODUCTS = [
   "slug": "volkswagen-polo-mk5-mk8-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Mk5-Mk8",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-mk5-mk8-floor-liners.jpg",
@@ -46466,7 +44717,7 @@ PRODUCTS = [
   "slug": "volkswagen-polo-plus-gti-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Plus GTI",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-plus-gti-floor-liners.jpg",
@@ -46519,7 +44770,7 @@ PRODUCTS = [
   "slug": "volkswagen-taos-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Taos 2022",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-taos-floor-liners.jpg",
@@ -46572,7 +44823,7 @@ PRODUCTS = [
   "slug": "volkswagen-teramont-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Volkswagen Teramont",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-teramont-trunk-mats.jpg",
@@ -46625,7 +44876,7 @@ PRODUCTS = [
   "slug": "volkswagen-teramont-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Teramont 2018",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-teramont-floor-liners.jpg",
@@ -46677,7 +44928,7 @@ PRODUCTS = [
   "slug": "volkswagen-tiguan-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Volkswagen Tiguan",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$22-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-tiguan-double-layer-mats.jpg",
@@ -46730,7 +44981,7 @@ PRODUCTS = [
   "slug": "volkswagen-tiguan-jetta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Tiguan Jetta",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-tiguan-jetta-floor-liners.jpg",
@@ -46783,7 +45034,7 @@ PRODUCTS = [
   "slug": "volkswagen-touran-2016-2025-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Volkswagen Touran 2016 2025 2016-2025",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$16-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-touran-2016-2025-double-layer-mats.jpg",
@@ -46836,7 +45087,7 @@ PRODUCTS = [
   "slug": "volkswagen-volkswagen-polo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Volkswagen Polo",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-volkswagen-polo-floor-liners.jpg",
@@ -46889,7 +45140,7 @@ PRODUCTS = [
   "slug": "volvo-protector-installation-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volvo Protector Installation",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volvo-protector-installation-floor-liners.jpg",
@@ -46937,7 +45188,7 @@ PRODUCTS = [
   "slug": "volvo-s60-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volvo S60",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volvo-s60-floor-liners.jpg",
@@ -46990,7 +45241,7 @@ PRODUCTS = [
   "slug": "volvo-xc40-ex40-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volvo XC40 EX40",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/volvo-xc40-ex40-floor-liners.jpg",
@@ -47047,7 +45298,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-floor-liners.jpg",
@@ -47095,7 +45346,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo - TPE Car Mats",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-floor-liners-2.jpg",
@@ -47147,7 +45398,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Wuling Bingo",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-all-weather-mats.jpg",
@@ -47200,7 +45451,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-dedicated-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo dedicated",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-dedicated-floor-liners.jpg",
@@ -47253,7 +45504,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-dedicated-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo dedicated (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-dedicated-floor-liners-2.jpg",
@@ -47301,7 +45552,7 @@ PRODUCTS = [
   "slug": "wuling-nano-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-floor-liners.jpg",
@@ -47354,7 +45605,7 @@ PRODUCTS = [
   "slug": "wuling-nano-fast-shipment-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano Fast Shipment",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-fast-shipment-floor-liners.jpg",
@@ -47407,7 +45658,7 @@ PRODUCTS = [
   "slug": "wuling-nano-parts-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano Parts",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-parts-floor-liners.jpg",
@@ -47460,7 +45711,7 @@ PRODUCTS = [
   "slug": "wuling-wuling-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Wuling",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-wuling-floor-liners.jpg",
@@ -47513,7 +45764,7 @@ PRODUCTS = [
   "slug": "xiaomi-su7-to-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Xiaomi SU7 to",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/xiaomi-su7-to-floor-liners.jpg",
@@ -47566,7 +45817,7 @@ PRODUCTS = [
   "slug": "xpeng-g3-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Xpeng G3",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/xpeng-g3-floor-liners.jpg",
@@ -47619,7 +45870,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats.jpg",
@@ -47676,7 +45927,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-2.jpg",
@@ -47729,10 +45980,63 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601881630253.html",
+  "fitment": {
+   "make": "Zeekr",
+   "model": "007",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Abrasion Resistant Fixed. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Zeekr 007 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE CAR MAT+CARPET"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Zeekr 007 Abrasion Resistant Fixed",
+   "Tooling reference TPE CAR MAT+CARPET",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "zeekr-007-trunk-mats-4",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (3)",
+  "badge": "OEM Ready",
+  "price": "$8-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/zeekr-007-trunk-mats-4.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-TPE-Floor-Liner-Trunk_1601881622476.html",
   "fitment": {
    "make": "Zeekr",
@@ -47779,13 +46083,13 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-trunk-mats-4",
+  "slug": "zeekr-007-trunk-mats-5",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (3)",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (4)",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-trunk-mats-4.jpg",
+  "img": "/images/zeekr-007-trunk-mats-5.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601881588691.html",
   "fitment": {
    "make": "Zeekr",
@@ -47832,123 +46136,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-trunk-mats-5",
+  "slug": "zeekr-007-firm-self-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (4)",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Zeekr 007 Firm Self",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-trunk-mats-5.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601881520496.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for Zeekr models. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Made for Zeekr models - send us the exact model",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "zeekr-007-abrasion-fixed-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Abrasion Fixed",
-  "badge": "OEM Ready",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-abrasion-fixed-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Bulk-Auto-Foot-Pad_1601881630253.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Abrasion Fixed",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Abrasion Resistant Fixed. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Abrasion Fixed - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Abrasion Resistant Fixed",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "zeekr-007-firm-grip-self-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Firm Grip Self",
-  "badge": "3D Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-firm-grip-self-trunk-mats.jpg",
+  "img": "/images/zeekr-007-firm-self-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601881571037.html",
   "fitment": {
    "make": "Zeekr",
-   "model": "007 Firm Grip Self",
+   "model": "007 Firm Self",
    "years": "",
    "body": "",
    "hand": "",
@@ -47962,7 +46160,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Zeekr 007 Firm Grip Self - confirm year with us"
+    "Zeekr 007 Firm Self - confirm year with us"
    ],
    [
     "Coverage",
@@ -47991,76 +46189,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-flexible-quick-dry-trunk-mats",
+  "slug": "zeekr-007-fit-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Flexible Quick Dry",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-flexible-quick-dry-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Commute-Auto-Floor-Liner_1601881648234.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Flexible Quick Dry",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Zeekr 007 Flexible Quick Dry. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Flexible Quick Dry - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Flexible Quick Dry",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Mud and slush rinse straight off",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "zeekr-007-flexible-wipe-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Flexible Wipe",
+  "name": "TPE Cargo Liner for Zeekr 007 Fit",
   "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-flexible-wipe-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Road-Trip-Auto-Floor_1601881657492.html",
+  "img": "/images/zeekr-007-fit-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601881549353.html",
   "fitment": {
    "make": "Zeekr",
-   "model": "007 Flexible Wipe",
+   "model": "007 Fit",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Flexible Easy Wipe. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Tight Stable Fit. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -48068,7 +46213,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Zeekr 007 Flexible Wipe - confirm year with us"
+    "Zeekr 007 Fit - confirm year with us"
    ],
    [
     "Coverage",
@@ -48084,60 +46229,7 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Zeekr 007 Flexible Easy Wipe",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "zeekr-007-food-grade-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Food Grade",
-  "badge": "Low MOQ",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-food-grade-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-ODM-Auto-Floor-Liner_1601881573535.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Food Grade",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Food Grade. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Food Grade - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Food Grade",
+   "Moulded to fit Zeekr 007 Tight Stable Fit",
    "Tooling reference TPE CAR MAT+CARPET",
    "TPE compound that stays flexible in the cold",
    "Rinse clean rather than scrubbing",
@@ -48150,63 +46242,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-four-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Four",
-  "badge": "OEM Ready",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-four-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-OEM-TPE-Foot-Pad_1601881593351.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Four",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit moulded TPE trunk mats for the Zeekr 007 Four. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Four - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Four",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless and halogen-free TPE",
-   "Hose down and wipe to clean",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "zeekr-007-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Liquid",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-liquid-trunk-mats.jpg",
@@ -48256,63 +46295,10 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-low-odor-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Low Odor",
-  "badge": "Custom Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-low-odor-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Embossed-Floor-Liner-Trunk_1601881601436.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Low Odor",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE boot liners for the Zeekr 007 Low Odor EV. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Low Odor - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Low Odor EV",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "Odourless TPE, no plasticiser",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
   "slug": "zeekr-007-precise-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Precise",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-precise-trunk-mats.jpg",
@@ -48365,7 +46351,7 @@ PRODUCTS = [
   "slug": "zeekr-007-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Rain",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-rain-trunk-mats.jpg",
@@ -48418,7 +46404,7 @@ PRODUCTS = [
   "slug": "zeekr-007-rain-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Rain - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-rain-trunk-mats-2.jpg",
@@ -48471,7 +46457,7 @@ PRODUCTS = [
   "slug": "zeekr-007-scuff-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Scuff",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-scuff-trunk-mats.jpg",
@@ -48524,7 +46510,7 @@ PRODUCTS = [
   "slug": "zeekr-007-secure-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Secure",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-secure-trunk-mats.jpg",
@@ -48574,17 +46560,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-soft-bendable-quick-trunk-mats",
+  "slug": "zeekr-007-soft-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Soft Bendable Quick",
-  "badge": "All-Season",
+  "name": "TPE Cargo Liner for Zeekr 007 Soft",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-soft-bendable-quick-trunk-mats.jpg",
+  "img": "/images/zeekr-007-soft-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Daily-Auto-Floor-Liner_1601881562290.html",
   "fitment": {
    "make": "Zeekr",
-   "model": "007 Soft Bendable Quick",
+   "model": "007 Soft",
    "years": "",
    "body": "",
    "hand": "",
@@ -48598,7 +46584,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Zeekr 007 Soft Bendable Quick - confirm year with us"
+    "Zeekr 007 Soft - confirm year with us"
    ],
    [
     "Coverage",
@@ -48627,23 +46613,23 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-stable-grip-quick-trunk-mats",
+  "slug": "zeekr-007-wipe-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Stable Grip Quick",
-  "badge": "Low MOQ",
+  "name": "TPE Cargo Liner for Zeekr 007 Wipe",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-stable-grip-quick-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Auto-Floor-Liner-Trunk_1601881551935.html",
+  "img": "/images/zeekr-007-wipe-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Road-Trip-Auto-Floor_1601881657492.html",
   "fitment": {
    "make": "Zeekr",
-   "model": "007 Stable Grip Quick",
+   "model": "007 Wipe",
    "years": "",
    "body": "",
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the Zeekr 007 Stable Grip Quick. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Flexible Easy Wipe. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -48651,7 +46637,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Zeekr 007 Stable Grip Quick - confirm year with us"
+    "Zeekr 007 Wipe - confirm year with us"
    ],
    [
     "Coverage",
@@ -48667,7 +46653,7 @@ PRODUCTS = [
    ]
   ],
   "points": [
-   "Moulded to fit Zeekr 007 Stable Grip Quick",
+   "Moulded to fit Zeekr 007 Flexible Easy Wipe",
    "Tooling reference TPE CAR MAT+CARPET",
    "TPE compound that stays flexible in the cold",
    "Hose down and wipe to clean",
@@ -48680,70 +46666,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "zeekr-007-tight-stable-fit-trunk-mats",
+  "slug": "zeekr-007-zero-trunk-mats",
   "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Tight Stable Fit",
-  "badge": "OEM Ready",
+  "name": "TPE Cargo Liner for Zeekr 007 Zero",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-tight-stable-fit-trunk-mats.jpg",
-  "src": "https://www.alibaba.com/product-detail/Walt-Custom-Logo-TPE-Foot-Pad_1601881549353.html",
-  "fitment": {
-   "make": "Zeekr",
-   "model": "007 Tight Stable Fit",
-   "years": "",
-   "body": "",
-   "hand": "",
-   "positions": []
-  },
-  "desc": "Custom-fit TPE cargo liners for the Zeekr 007 Tight Stable Fit. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
-  "specs": [
-   [
-    "Material",
-    "TPE (Thermoplastic Elastomer), odourless"
-   ],
-   [
-    "Fitment",
-    "Zeekr 007 Tight Stable Fit - confirm year with us"
-   ],
-   [
-    "Coverage",
-    "Cargo-area coverage, raised lip"
-   ],
-   [
-    "MOQ",
-    "10 sets"
-   ],
-   [
-    "Tooling / model no.",
-    "TPE CAR MAT+CARPET"
-   ]
-  ],
-  "points": [
-   "Moulded to fit Zeekr 007 Tight Stable Fit",
-   "Tooling reference TPE CAR MAT+CARPET",
-   "TPE compound that stays flexible in the cold",
-   "Rinse clean rather than scrubbing",
-   "From 10 sets for trial orders"
-  ],
-  "related": [
-   "byd-song-trunk-mats",
-   "byd-seal-06-trunk-mats",
-   "byd-sealion-trunk-mats"
-  ]
- },
- {
-  "slug": "zeekr-007-zero-odor-trunk-mats",
-  "cat": "trunk-mats",
-  "name": "TPE Cargo Liner for Zeekr 007 Zero Odor",
-  "badge": "3D Fit",
-  "price": "$8-20/set",
-  "moq": "MOQ 10 sets",
-  "img": "/images/zeekr-007-zero-odor-trunk-mats.jpg",
+  "img": "/images/zeekr-007-zero-trunk-mats.jpg",
   "src": "https://www.alibaba.com/product-detail/Walt-Custom-Textured-Floor-Liner-Trunk_1601881607683.html",
   "fitment": {
    "make": "Zeekr",
-   "model": "007 Zero Odor",
+   "model": "007 Zero",
    "years": "",
    "body": "",
    "hand": "",
@@ -48757,7 +46690,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Zeekr 007 Zero Odor - confirm year with us"
+    "Zeekr 007 Zero - confirm year with us"
    ],
    [
     "Coverage",
@@ -48789,7 +46722,7 @@ PRODUCTS = [
   "slug": "floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$17-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners.jpg",
@@ -48839,7 +46772,7 @@ PRODUCTS = [
   "slug": "all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats - Made to Order",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/all-weather-mats.jpg",
@@ -48889,7 +46822,7 @@ PRODUCTS = [
   "slug": "floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - Leather Car Mats",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-2.jpg",
@@ -48935,7 +46868,7 @@ PRODUCTS = [
   "slug": "floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - Leather Car Mats (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-3.jpg",
@@ -48985,7 +46918,7 @@ PRODUCTS = [
   "slug": "floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - TPE Car Mats",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-4.jpg",
@@ -49031,7 +46964,7 @@ PRODUCTS = [
   "slug": "all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats - Made to Order - Leather Car Mats",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/all-weather-mats-2.jpg",
@@ -49077,7 +47010,7 @@ PRODUCTS = [
   "slug": "floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W for Mitsubishi",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-5.jpg",
@@ -49127,7 +47060,7 @@ PRODUCTS = [
   "slug": "floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W for Mitsubishi (2)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-6.jpg",
@@ -49177,7 +47110,7 @@ PRODUCTS = [
   "slug": "floor-liners-7",
   "cat": "floor-liners",
   "name": "5-Piece 3-Piece TPE Floor Liners - Made to Order",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-7.jpg",
@@ -49223,7 +47156,7 @@ PRODUCTS = [
   "slug": "double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer Double-Layer TPE Car Mats - Made to Order",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/double-layer-mats.jpg",
@@ -49268,7 +47201,7 @@ PRODUCTS = [
   "slug": "floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W-32 for TOYOTA",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-8.jpg",
@@ -49313,7 +47246,7 @@ PRODUCTS = [
   "slug": "floor-liners-9",
   "cat": "floor-liners",
   "name": "Custom Printed Thickened TPE Floor Liners - Made to Order",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-9.jpg",
@@ -49358,7 +47291,7 @@ PRODUCTS = [
   "slug": "floor-liners-10",
   "cat": "floor-liners",
   "name": "Thickened TPE Floor Liners - Made to Order",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-10.jpg",
@@ -49408,7 +47341,7 @@ PRODUCTS = [
   "slug": "floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-11.jpg",
@@ -49448,7 +47381,7 @@ PRODUCTS = [
 ]
 
 # ---------------------------------------------------------------------------
-# VEHICLES (506) - built from listing titles only
+# VEHICLES (464) - built from listing titles only
 # ---------------------------------------------------------------------------
 VEHICLES = [
  {
@@ -49510,18 +47443,6 @@ VEHICLES = [
    "bmw-7series-selling-flooring-floor-liners"
   ],
   "slug": "bmw-7series-selling-flooring",
-  "years_source": ""
- },
- {
-  "make": "Bmw",
-  "model": "Food Grade",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "bmw-food-grade-all-weather-mats"
-  ],
-  "slug": "bmw-food-grade",
   "years_source": ""
  },
  {
@@ -49604,58 +47525,59 @@ VEHICLES = [
    "buick-e4-trunk-mats-2",
    "buick-e4-trunk-mats-3",
    "buick-e4-trunk-mats-4",
-   "buick-e4-trunk-mats-5"
+   "buick-e4-trunk-mats-5",
+   "buick-e4-trunk-mats-6"
   ],
   "slug": "buick-e4",
   "years_source": ""
  },
  {
   "make": "Buick",
-  "model": "E4 Cut Fixed",
+  "model": "E4 Cut",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "buick-e4-cut-fixed-trunk-mats"
+   "buick-e4-cut-trunk-mats"
   ],
-  "slug": "buick-e4-cut-fixed",
+  "slug": "buick-e4-cut",
   "years_source": ""
  },
  {
   "make": "Buick",
-  "model": "E4 Firm Grip Self",
+  "model": "E4 Firm Self",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "buick-e4-firm-grip-self-trunk-mats"
+   "buick-e4-firm-self-trunk-mats"
   ],
-  "slug": "buick-e4-firm-grip-self",
+  "slug": "buick-e4-firm-self",
   "years_source": ""
  },
  {
   "make": "Buick",
-  "model": "E4 Flexible Instant Dry",
+  "model": "E4 Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "buick-e4-flexible-instant-dry-trunk-mats",
-   "buick-e4-flexible-instant-dry-trunk-mats-2"
+   "buick-e4-fit-trunk-mats"
   ],
-  "slug": "buick-e4-flexible-instant-dry",
+  "slug": "buick-e4-fit",
   "years_source": ""
  },
  {
   "make": "Buick",
-  "model": "E4 Food Grade",
+  "model": "E4 Instant",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "buick-e4-food-grade-trunk-mats"
+   "buick-e4-instant-trunk-mats",
+   "buick-e4-instant-trunk-mats-2"
   ],
-  "slug": "buick-e4-food-grade",
+  "slug": "buick-e4-instant",
   "years_source": ""
  },
  {
@@ -49668,18 +47590,6 @@ VEHICLES = [
    "buick-e4-liquid-trunk-mats"
   ],
   "slug": "buick-e4-liquid",
-  "years_source": ""
- },
- {
-  "make": "Buick",
-  "model": "E4 Low Odor",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "buick-e4-low-odor-trunk-mats"
-  ],
-  "slug": "buick-e4-low-odor",
   "years_source": ""
  },
  {
@@ -49708,14 +47618,14 @@ VEHICLES = [
  },
  {
   "make": "Buick",
-  "model": "E4 Soft Bendable Quick",
+  "model": "E4 Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "buick-e4-soft-bendable-quick-trunk-mats"
+   "buick-e4-soft-trunk-mats"
   ],
-  "slug": "buick-e4-soft-bendable-quick",
+  "slug": "buick-e4-soft",
   "years_source": ""
  },
  {
@@ -49728,18 +47638,6 @@ VEHICLES = [
    "buick-e4-specific-trunk-mats"
   ],
   "slug": "buick-e4-specific",
-  "years_source": ""
- },
- {
-  "make": "Buick",
-  "model": "E4 Tight Stable Fit",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "buick-e4-tight-stable-fit-trunk-mats"
-  ],
-  "slug": "buick-e4-tight-stable-fit",
   "years_source": ""
  },
  {
@@ -49762,7 +47660,8 @@ VEHICLES = [
   "body": "Suv",
   "hand": "LHD",
   "products": [
-   "buick-envision-floor-liners"
+   "buick-envision-floor-liners",
+   "buick-envision-trunk-mats"
   ],
   "slug": "buick-envision",
   "years_source": ""
@@ -49789,18 +47688,6 @@ VEHICLES = [
    "buick-envision-plus-1-floor-liners"
   ],
   "slug": "buick-envision-plus-1",
-  "years_source": ""
- },
- {
-  "make": "Buick",
-  "model": "Envision skid",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "buick-envision-skid-trunk-mats"
-  ],
-  "slug": "buick-envision-skid",
   "years_source": ""
  },
  {
@@ -50267,74 +48154,50 @@ VEHICLES = [
  },
  {
   "make": "Changan",
-  "model": "Lamore Abrasion",
+  "model": "Lamore Edge",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-abrasion-trunk-mats"
+   "changan-lamore-edge-trunk-mats"
   ],
-  "slug": "changan-lamore-abrasion",
+  "slug": "changan-lamore-edge",
   "years_source": ""
  },
  {
   "make": "Changan",
-  "model": "Lamore Edge Wrapped",
+  "model": "Lamore Firm Self",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-edge-wrapped-trunk-mats"
+   "changan-lamore-firm-self-trunk-mats"
   ],
-  "slug": "changan-lamore-edge-wrapped",
+  "slug": "changan-lamore-firm-self",
   "years_source": ""
  },
  {
   "make": "Changan",
-  "model": "Lamore Firm Grip Self",
+  "model": "Lamore Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-firm-grip-self-trunk-mats"
+   "changan-lamore-fit-trunk-mats"
   ],
-  "slug": "changan-lamore-firm-grip-self",
+  "slug": "changan-lamore-fit",
   "years_source": ""
  },
  {
   "make": "Changan",
-  "model": "Lamore Flexible",
+  "model": "Lamore Free",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-flexible-trunk-mats"
+   "changan-lamore-free-trunk-mats"
   ],
-  "slug": "changan-lamore-flexible",
-  "years_source": ""
- },
- {
-  "make": "Changan",
-  "model": "Lamore Flexible Wipe",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "changan-lamore-flexible-wipe-trunk-mats"
-  ],
-  "slug": "changan-lamore-flexible-wipe",
-  "years_source": ""
- },
- {
-  "make": "Changan",
-  "model": "Lamore Four",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "changan-lamore-four-trunk-mats"
-  ],
-  "slug": "changan-lamore-four",
+  "slug": "changan-lamore-free",
   "years_source": ""
  },
  {
@@ -50351,14 +48214,14 @@ VEHICLES = [
  },
  {
   "make": "Changan",
-  "model": "Lamore Odor Free",
+  "model": "Lamore Precise Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-odor-free-trunk-mats"
+   "changan-lamore-precise-fit-trunk-mats"
   ],
-  "slug": "changan-lamore-odor-free",
+  "slug": "changan-lamore-precise-fit",
   "years_source": ""
  },
  {
@@ -50399,50 +48262,38 @@ VEHICLES = [
  },
  {
   "make": "Changan",
-  "model": "Lamore Soft Bendable Quick",
+  "model": "Lamore Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-soft-bendable-quick-trunk-mats"
+   "changan-lamore-soft-trunk-mats"
   ],
-  "slug": "changan-lamore-soft-bendable-quick",
+  "slug": "changan-lamore-soft",
   "years_source": ""
  },
  {
   "make": "Changan",
-  "model": "Lamore Stable Precise Fit",
+  "model": "Lamore Wipe",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-stable-precise-fit-trunk-mats"
+   "changan-lamore-wipe-trunk-mats"
   ],
-  "slug": "changan-lamore-stable-precise-fit",
+  "slug": "changan-lamore-wipe",
   "years_source": ""
  },
  {
   "make": "Changan",
-  "model": "Lamore Tight Stable Fit",
+  "model": "Lamore Zero",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "changan-lamore-tight-stable-fit-trunk-mats"
+   "changan-lamore-zero-trunk-mats"
   ],
-  "slug": "changan-lamore-tight-stable-fit",
-  "years_source": ""
- },
- {
-  "make": "Changan",
-  "model": "Lamore Zero Odor",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "changan-lamore-zero-odor-trunk-mats"
-  ],
-  "slug": "changan-lamore-zero-odor",
+  "slug": "changan-lamore-zero",
   "years_source": ""
  },
  {
@@ -50792,30 +48643,6 @@ VEHICLES = [
  },
  {
   "make": "Deepal",
-  "model": "A07 Abrasion Stable",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "deepal-a07-abrasion-stable-trunk-mats"
-  ],
-  "slug": "deepal-a07-abrasion-stable",
-  "years_source": ""
- },
- {
-  "make": "Deepal",
-  "model": "A07 Bendable Quick",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "deepal-a07-bendable-quick-trunk-mats"
-  ],
-  "slug": "deepal-a07-bendable-quick",
-  "years_source": ""
- },
- {
-  "make": "Deepal",
   "model": "A07 Block",
   "years": "",
   "body": "",
@@ -50828,38 +48655,38 @@ VEHICLES = [
  },
  {
   "make": "Deepal",
-  "model": "A07 Edge Shock",
+  "model": "A07 Edge",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "deepal-a07-edge-shock-trunk-mats"
+   "deepal-a07-edge-trunk-mats"
   ],
-  "slug": "deepal-a07-edge-shock",
+  "slug": "deepal-a07-edge",
   "years_source": ""
  },
  {
   "make": "Deepal",
-  "model": "A07 Four Season Snug",
+  "model": "A07 Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "deepal-a07-four-season-snug-trunk-mats"
+   "deepal-a07-fit-trunk-mats"
   ],
-  "slug": "deepal-a07-four-season-snug",
+  "slug": "deepal-a07-fit",
   "years_source": ""
  },
  {
   "make": "Deepal",
-  "model": "A07 No Odor",
+  "model": "A07 No",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "deepal-a07-no-odor-trunk-mats"
+   "deepal-a07-no-trunk-mats"
   ],
-  "slug": "deepal-a07-no-odor",
+  "slug": "deepal-a07-no",
   "years_source": ""
  },
  {
@@ -50888,14 +48715,14 @@ VEHICLES = [
  },
  {
   "make": "Deepal",
-  "model": "A07 Soft Bendable Quick",
+  "model": "A07 Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "deepal-a07-soft-bendable-quick-trunk-mats"
+   "deepal-a07-soft-trunk-mats"
   ],
-  "slug": "deepal-a07-soft-bendable-quick",
+  "slug": "deepal-a07-soft",
   "years_source": ""
  },
  {
@@ -50908,18 +48735,6 @@ VEHICLES = [
    "deepal-a07-spill-trunk-mats"
   ],
   "slug": "deepal-a07-spill",
-  "years_source": ""
- },
- {
-  "make": "Deepal",
-  "model": "A07 Tight Fit Stable",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "deepal-a07-tight-fit-stable-trunk-mats"
-  ],
-  "slug": "deepal-a07-tight-fit-stable",
   "years_source": ""
  },
  {
@@ -51583,30 +49398,6 @@ VEHICLES = [
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 Abrasion",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-galaxy-l6-abrasion-trunk-mats"
-  ],
-  "slug": "geely-galaxy-l6-abrasion",
-  "years_source": ""
- },
- {
-  "make": "Geely",
-  "model": "Galaxy L6 Bendable Quick",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-galaxy-l6-bendable-quick-trunk-mats"
-  ],
-  "slug": "geely-galaxy-l6-bendable-quick",
-  "years_source": ""
- },
- {
-  "make": "Geely",
   "model": "Galaxy L6 Block",
   "years": "",
   "body": "",
@@ -51631,62 +49422,50 @@ VEHICLES = [
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 Firm Grip",
+  "model": "Galaxy L6 Firm",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "geely-galaxy-l6-firm-grip-trunk-mats"
+   "geely-galaxy-l6-firm-trunk-mats"
   ],
-  "slug": "geely-galaxy-l6-firm-grip",
+  "slug": "geely-galaxy-l6-firm",
   "years_source": ""
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 Flexible",
+  "model": "Galaxy L6 Free",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "geely-galaxy-l6-flexible-trunk-mats"
+   "geely-galaxy-l6-free-trunk-mats"
   ],
-  "slug": "geely-galaxy-l6-flexible",
+  "slug": "geely-galaxy-l6-free",
   "years_source": ""
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 Four",
+  "model": "Galaxy L6 No",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "geely-galaxy-l6-four-trunk-mats"
+   "geely-galaxy-l6-no-trunk-mats"
   ],
-  "slug": "geely-galaxy-l6-four",
+  "slug": "geely-galaxy-l6-no",
   "years_source": ""
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 No Odor",
+  "model": "Galaxy L6 Precise",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "geely-galaxy-l6-no-odor-trunk-mats"
+   "geely-galaxy-l6-precise-trunk-mats"
   ],
-  "slug": "geely-galaxy-l6-no-odor",
-  "years_source": ""
- },
- {
-  "make": "Geely",
-  "model": "Galaxy L6 Odor Free",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-galaxy-l6-odor-free-trunk-mats"
-  ],
-  "slug": "geely-galaxy-l6-odor-free",
+  "slug": "geely-galaxy-l6-precise",
   "years_source": ""
  },
  {
@@ -51715,14 +49494,14 @@ VEHICLES = [
  },
  {
   "make": "Geely",
-  "model": "Galaxy L6 Soft Bendable",
+  "model": "Galaxy L6 Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "geely-galaxy-l6-soft-bendable-trunk-mats"
+   "geely-galaxy-l6-soft-trunk-mats"
   ],
-  "slug": "geely-galaxy-l6-soft-bendable",
+  "slug": "geely-galaxy-l6-soft",
   "years_source": ""
  },
  {
@@ -51735,30 +49514,6 @@ VEHICLES = [
    "geely-galaxy-l6-spill-trunk-mats"
   ],
   "slug": "geely-galaxy-l6-spill",
-  "years_source": ""
- },
- {
-  "make": "Geely",
-  "model": "Galaxy L6 Stable Precise",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-galaxy-l6-stable-precise-trunk-mats"
-  ],
-  "slug": "geely-galaxy-l6-stable-precise",
-  "years_source": ""
- },
- {
-  "make": "Geely",
-  "model": "Galaxy L6 Tight Stable",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-galaxy-l6-tight-stable-trunk-mats"
-  ],
-  "slug": "geely-galaxy-l6-tight-stable",
   "years_source": ""
  },
  {
@@ -51966,18 +49721,6 @@ VEHICLES = [
   "years_source": ""
  },
  {
-  "make": "Geely",
-  "model": "Xingyue L Monjaro Tight",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "geely-xingyue-l-monjaro-tight-trunk-mats"
-  ],
-  "slug": "geely-xingyue-l-monjaro-tight",
-  "years_source": ""
- },
- {
   "make": "Gwm",
   "model": "ORA 03",
   "years": "2026",
@@ -52121,30 +49864,6 @@ VEHICLES = [
  },
  {
   "make": "Honda",
-  "model": "Breeze Abrasion Stable",
-  "years": "2023",
-  "body": "",
-  "hand": "",
-  "products": [
-   "honda-breeze-abrasion-stable-trunk-mats"
-  ],
-  "slug": "honda-breeze-abrasion-stable",
-  "years_source": "listing_title"
- },
- {
-  "make": "Honda",
-  "model": "Breeze Bendable Quick",
-  "years": "2023",
-  "body": "",
-  "hand": "",
-  "products": [
-   "honda-breeze-bendable-quick-trunk-mats"
-  ],
-  "slug": "honda-breeze-bendable-quick",
-  "years_source": "listing_title"
- },
- {
-  "make": "Honda",
   "model": "Breeze Block",
   "years": "2023",
   "body": "",
@@ -52157,26 +49876,26 @@ VEHICLES = [
  },
  {
   "make": "Honda",
-  "model": "Breeze Firm Grip Self",
+  "model": "Breeze Firm Self",
   "years": "2023",
   "body": "",
   "hand": "",
   "products": [
-   "honda-breeze-firm-grip-self-trunk-mats"
+   "honda-breeze-firm-self-trunk-mats"
   ],
-  "slug": "honda-breeze-firm-grip-self",
+  "slug": "honda-breeze-firm-self",
   "years_source": "listing_title"
  },
  {
   "make": "Honda",
-  "model": "Breeze Four Season Snug",
+  "model": "Breeze Fit",
   "years": "2023",
   "body": "",
   "hand": "",
   "products": [
-   "honda-breeze-four-season-snug-trunk-mats"
+   "honda-breeze-fit-trunk-mats"
   ],
-  "slug": "honda-breeze-four-season-snug",
+  "slug": "honda-breeze-fit",
   "years_source": "listing_title"
  },
  {
@@ -52193,14 +49912,14 @@ VEHICLES = [
  },
  {
   "make": "Honda",
-  "model": "Breeze No Odor",
+  "model": "Breeze No",
   "years": "2023",
   "body": "",
   "hand": "",
   "products": [
-   "honda-breeze-no-odor-trunk-mats"
+   "honda-breeze-no-trunk-mats"
   ],
-  "slug": "honda-breeze-no-odor",
+  "slug": "honda-breeze-no",
   "years_source": "listing_title"
  },
  {
@@ -52229,14 +49948,14 @@ VEHICLES = [
  },
  {
   "make": "Honda",
-  "model": "Breeze Soft Bendable Quick",
+  "model": "Breeze Soft",
   "years": "2023",
   "body": "",
   "hand": "",
   "products": [
-   "honda-breeze-soft-bendable-quick-trunk-mats"
+   "honda-breeze-soft-trunk-mats"
   ],
-  "slug": "honda-breeze-soft-bendable-quick",
+  "slug": "honda-breeze-soft",
   "years_source": "listing_title"
  },
  {
@@ -52249,18 +49968,6 @@ VEHICLES = [
    "honda-breeze-spill-trunk-mats"
   ],
   "slug": "honda-breeze-spill",
-  "years_source": "listing_title"
- },
- {
-  "make": "Honda",
-  "model": "Breeze Tight Stable Fit",
-  "years": "2023",
-  "body": "",
-  "hand": "",
-  "products": [
-   "honda-breeze-tight-stable-fit-trunk-mats"
-  ],
-  "slug": "honda-breeze-tight-stable-fit",
   "years_source": "listing_title"
  },
  {
@@ -52500,7 +50207,7 @@ VEHICLES = [
   "make": "Hyundai",
   "model": "Elantra",
   "years": "2017",
-  "body": "",
+  "body": "Sedan",
   "hand": "",
   "products": [
    "hyundai-elantra-trunk-mats",
@@ -52519,18 +50226,6 @@ VEHICLES = [
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Abrasion Stable",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-abrasion-stable-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-abrasion-stable",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
   "model": "Elantra Avante CN7",
   "years": "",
   "body": "",
@@ -52539,18 +50234,6 @@ VEHICLES = [
    "hyundai-elantra-avante-cn7-trunk-mats"
   ],
   "slug": "hyundai-elantra-avante-cn7",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
-  "model": "Elantra Bendable Quick",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-bendable-quick-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-bendable-quick",
   "years_source": ""
  },
  {
@@ -52567,6 +50250,18 @@ VEHICLES = [
  },
  {
   "make": "Hyundai",
+  "model": "Elantra Edge",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "hyundai-elantra-edge-trunk-mats"
+  ],
+  "slug": "hyundai-elantra-edge",
+  "years_source": ""
+ },
+ {
+  "make": "Hyundai",
   "model": "Elantra Edge Guard",
   "years": "",
   "body": "",
@@ -52575,18 +50270,6 @@ VEHICLES = [
    "hyundai-elantra-edge-guard-trunk-mats"
   ],
   "slug": "hyundai-elantra-edge-guard",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
-  "model": "Elantra Edge Shock",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-edge-shock-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-edge-shock",
   "years_source": ""
  },
  {
@@ -52603,38 +50286,38 @@ VEHICLES = [
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Firm Grip Self",
+  "model": "Elantra Firm Self",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "hyundai-elantra-firm-grip-self-trunk-mats"
+   "hyundai-elantra-firm-self-trunk-mats"
   ],
-  "slug": "hyundai-elantra-firm-grip-self",
+  "slug": "hyundai-elantra-firm-self",
   "years_source": ""
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Four Season Snug",
+  "model": "Elantra Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "hyundai-elantra-four-season-snug-trunk-mats"
+   "hyundai-elantra-fit-trunk-mats"
   ],
-  "slug": "hyundai-elantra-four-season-snug",
+  "slug": "hyundai-elantra-fit",
   "years_source": ""
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Harmless Flexible Light",
+  "model": "Elantra Harmless Light",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "hyundai-elantra-harmless-flexible-light-trunk-mats"
+   "hyundai-elantra-harmless-light-trunk-mats"
   ],
-  "slug": "hyundai-elantra-harmless-flexible-light",
+  "slug": "hyundai-elantra-harmless-light",
   "years_source": ""
  },
  {
@@ -52651,38 +50334,14 @@ VEHICLES = [
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Low Odor",
+  "model": "Elantra No",
   "years": "",
   "body": "Sedan",
   "hand": "",
   "products": [
-   "hyundai-elantra-low-odor-trunk-mats"
+   "hyundai-elantra-no-trunk-mats"
   ],
-  "slug": "hyundai-elantra-low-odor",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
-  "model": "Elantra No Odor",
-  "years": "",
-  "body": "Sedan",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-no-odor-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-no-odor",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
-  "model": "Elantra Precision Mold Snug",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-precision-mold-snug-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-precision-mold-snug",
+  "slug": "hyundai-elantra-no",
   "years_source": ""
  },
  {
@@ -52735,14 +50394,14 @@ VEHICLES = [
  },
  {
   "make": "Hyundai",
-  "model": "Elantra Soft Bendable Quick",
+  "model": "Elantra Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "hyundai-elantra-soft-bendable-quick-trunk-mats"
+   "hyundai-elantra-soft-trunk-mats"
   ],
-  "slug": "hyundai-elantra-soft-bendable-quick",
+  "slug": "hyundai-elantra-soft",
   "years_source": ""
  },
  {
@@ -52755,18 +50414,6 @@ VEHICLES = [
    "hyundai-elantra-spill-trunk-mats"
   ],
   "slug": "hyundai-elantra-spill",
-  "years_source": ""
- },
- {
-  "make": "Hyundai",
-  "model": "Elantra Tight Stable Fit",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "hyundai-elantra-tight-stable-fit-trunk-mats"
-  ],
-  "slug": "hyundai-elantra-tight-stable-fit",
   "years_source": ""
  },
  {
@@ -53689,30 +51336,6 @@ VEHICLES = [
  },
  {
   "make": "MG",
-  "model": "HS Abrasion Stable",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "mg-hs-abrasion-stable-trunk-mats"
-  ],
-  "slug": "mg-hs-abrasion-stable",
-  "years_source": ""
- },
- {
-  "make": "MG",
-  "model": "HS Bendable Quick",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "mg-hs-bendable-quick-trunk-mats"
-  ],
-  "slug": "mg-hs-bendable-quick",
-  "years_source": ""
- },
- {
-  "make": "MG",
   "model": "HS Block",
   "years": "",
   "body": "",
@@ -53725,38 +51348,38 @@ VEHICLES = [
  },
  {
   "make": "MG",
-  "model": "HS Edge Shock",
+  "model": "HS Edge",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "mg-hs-edge-shock-trunk-mats"
+   "mg-hs-edge-trunk-mats"
   ],
-  "slug": "mg-hs-edge-shock",
+  "slug": "mg-hs-edge",
   "years_source": ""
  },
  {
   "make": "MG",
-  "model": "HS Flexible Quick",
+  "model": "HS Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "mg-hs-flexible-quick-trunk-mats"
+   "mg-hs-fit-trunk-mats"
   ],
-  "slug": "mg-hs-flexible-quick",
+  "slug": "mg-hs-fit",
   "years_source": ""
  },
  {
   "make": "MG",
-  "model": "HS Four Season Snug",
+  "model": "HS Free",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "mg-hs-four-season-snug-trunk-mats"
+   "mg-hs-free-trunk-mats"
   ],
-  "slug": "mg-hs-four-season-snug",
+  "slug": "mg-hs-free",
   "years_source": ""
  },
  {
@@ -53785,26 +51408,14 @@ VEHICLES = [
  },
  {
   "make": "MG",
-  "model": "HS No Odor",
+  "model": "HS No",
   "years": "",
   "body": "Suv",
   "hand": "",
   "products": [
-   "mg-hs-no-odor-trunk-mats"
+   "mg-hs-no-trunk-mats"
   ],
-  "slug": "mg-hs-no-odor",
-  "years_source": ""
- },
- {
-  "make": "MG",
-  "model": "HS Odor Free",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "mg-hs-odor-free-trunk-mats"
-  ],
-  "slug": "mg-hs-odor-free",
+  "slug": "mg-hs-no",
   "years_source": ""
  },
  {
@@ -53853,18 +51464,6 @@ VEHICLES = [
    "mg-hs-spill-trunk-mats"
   ],
   "slug": "mg-hs-spill",
-  "years_source": ""
- },
- {
-  "make": "MG",
-  "model": "HS Stable Tight Fit",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "mg-hs-stable-tight-fit-trunk-mats"
-  ],
-  "slug": "mg-hs-stable-tight-fit",
   "years_source": ""
  },
  {
@@ -54254,26 +51853,26 @@ VEHICLES = [
  },
  {
   "make": "Nissan",
-  "model": "X Trail Flexible",
+  "model": "X Trail Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "nissan-x-trail-flexible-trunk-mats"
+   "nissan-x-trail-fit-trunk-mats"
   ],
-  "slug": "nissan-x-trail-flexible",
+  "slug": "nissan-x-trail-fit",
   "years_source": ""
  },
  {
   "make": "Nissan",
-  "model": "X Trail Odor Free",
+  "model": "X Trail Free",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "nissan-x-trail-odor-free-trunk-mats"
+   "nissan-x-trail-free-trunk-mats"
   ],
-  "slug": "nissan-x-trail-odor-free",
+  "slug": "nissan-x-trail-free",
   "years_source": ""
  },
  {
@@ -54287,18 +51886,6 @@ VEHICLES = [
   ],
   "slug": "nissan-x-trail-rogue-2021-2023",
   "years_source": "listing_title"
- },
- {
-  "make": "Nissan",
-  "model": "X Trail Stable Fit",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "nissan-x-trail-stable-fit-trunk-mats"
-  ],
-  "slug": "nissan-x-trail-stable-fit",
-  "years_source": ""
  },
  {
   "make": "Nissan",
@@ -54390,14 +51977,14 @@ VEHICLES = [
  },
  {
   "make": "Renault",
-  "model": "Symbioz Recyclable Odor Free",
+  "model": "Symbioz Recyclable Free",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "renault-symbioz-recyclable-odor-free-floor-liners"
+   "renault-symbioz-recyclable-free-floor-liners"
   ],
-  "slug": "renault-symbioz-recyclable-odor-free",
+  "slug": "renault-symbioz-recyclable-free",
   "years_source": ""
  },
  {
@@ -54514,18 +52101,6 @@ VEHICLES = [
  },
  {
   "make": "Tesla",
-  "model": "Abrasion",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-abrasion-trunk-mats"
-  ],
-  "slug": "tesla-abrasion",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
   "model": "Cybertruck",
   "years": "2024-2026",
   "body": "Truck",
@@ -54558,81 +52133,22 @@ VEHICLES = [
   "body": "",
   "hand": "",
   "products": [
-   "tesla-edge-trunk-mats"
+   "tesla-edge-trunk-mats",
+   "tesla-edge-trunk-mats-2"
   ],
   "slug": "tesla-edge",
   "years_source": ""
  },
  {
   "make": "Tesla",
-  "model": "Edge Containment",
+  "model": "Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "tesla-edge-containment-trunk-mats"
+   "tesla-fit-trunk-mats"
   ],
-  "slug": "tesla-edge-containment",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Exact Fit Mold",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-exact-fit-mold-trunk-mats"
-  ],
-  "slug": "tesla-exact-fit-mold",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Flexible Quick",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-flexible-quick-trunk-mats"
-  ],
-  "slug": "tesla-flexible-quick",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Food Grade",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-food-grade-trunk-mats"
-  ],
-  "slug": "tesla-food-grade",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Hose",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-hose-trunk-mats"
-  ],
-  "slug": "tesla-hose",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Low VOC",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-low-voc-trunk-mats"
-  ],
-  "slug": "tesla-low-voc",
+  "slug": "tesla-fit",
   "years_source": ""
  },
  {
@@ -54645,18 +52161,6 @@ VEHICLES = [
    "tesla-precise-trunk-mats"
   ],
   "slug": "tesla-precise",
-  "years_source": ""
- },
- {
-  "make": "Tesla",
-  "model": "Precision",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "tesla-precision-trunk-mats"
-  ],
-  "slug": "tesla-precision",
   "years_source": ""
  },
  {
@@ -54685,14 +52189,14 @@ VEHICLES = [
  },
  {
   "make": "Tesla",
-  "model": "Tear Fixed Position",
+  "model": "Tear Position",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "tesla-tear-fixed-position-trunk-mats"
+   "tesla-tear-position-trunk-mats"
   ],
-  "slug": "tesla-tear-fixed-position",
+  "slug": "tesla-tear-position",
   "years_source": ""
  },
  {
@@ -54721,14 +52225,14 @@ VEHICLES = [
  },
  {
   "make": "Tesla",
-  "model": "Zero Odor",
+  "model": "Zero",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "tesla-zero-odor-trunk-mats"
+   "tesla-zero-trunk-mats"
   ],
-  "slug": "tesla-zero-odor",
+  "slug": "tesla-zero",
   "years_source": ""
  },
  {
@@ -55737,74 +53241,26 @@ VEHICLES = [
  },
  {
   "make": "Zeekr",
-  "model": "007 Abrasion Fixed",
+  "model": "007 Firm Self",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "zeekr-007-abrasion-fixed-trunk-mats"
+   "zeekr-007-firm-self-trunk-mats"
   ],
-  "slug": "zeekr-007-abrasion-fixed",
+  "slug": "zeekr-007-firm-self",
   "years_source": ""
  },
  {
   "make": "Zeekr",
-  "model": "007 Firm Grip Self",
+  "model": "007 Fit",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "zeekr-007-firm-grip-self-trunk-mats"
+   "zeekr-007-fit-trunk-mats"
   ],
-  "slug": "zeekr-007-firm-grip-self",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Flexible Quick Dry",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-flexible-quick-dry-trunk-mats"
-  ],
-  "slug": "zeekr-007-flexible-quick-dry",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Flexible Wipe",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-flexible-wipe-trunk-mats"
-  ],
-  "slug": "zeekr-007-flexible-wipe",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Food Grade",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-food-grade-trunk-mats"
-  ],
-  "slug": "zeekr-007-food-grade",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Four",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-four-trunk-mats"
-  ],
-  "slug": "zeekr-007-four",
+  "slug": "zeekr-007-fit",
   "years_source": ""
  },
  {
@@ -55817,18 +53273,6 @@ VEHICLES = [
    "zeekr-007-liquid-trunk-mats"
   ],
   "slug": "zeekr-007-liquid",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Low Odor",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-low-odor-trunk-mats"
-  ],
-  "slug": "zeekr-007-low-odor",
   "years_source": ""
  },
  {
@@ -55882,50 +53326,38 @@ VEHICLES = [
  },
  {
   "make": "Zeekr",
-  "model": "007 Soft Bendable Quick",
+  "model": "007 Soft",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "zeekr-007-soft-bendable-quick-trunk-mats"
+   "zeekr-007-soft-trunk-mats"
   ],
-  "slug": "zeekr-007-soft-bendable-quick",
+  "slug": "zeekr-007-soft",
   "years_source": ""
  },
  {
   "make": "Zeekr",
-  "model": "007 Stable Grip Quick",
+  "model": "007 Wipe",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "zeekr-007-stable-grip-quick-trunk-mats"
+   "zeekr-007-wipe-trunk-mats"
   ],
-  "slug": "zeekr-007-stable-grip-quick",
+  "slug": "zeekr-007-wipe",
   "years_source": ""
  },
  {
   "make": "Zeekr",
-  "model": "007 Tight Stable Fit",
+  "model": "007 Zero",
   "years": "",
   "body": "",
   "hand": "",
   "products": [
-   "zeekr-007-tight-stable-fit-trunk-mats"
+   "zeekr-007-zero-trunk-mats"
   ],
-  "slug": "zeekr-007-tight-stable-fit",
-  "years_source": ""
- },
- {
-  "make": "Zeekr",
-  "model": "007 Zero Odor",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "zeekr-007-zero-odor-trunk-mats"
-  ],
-  "slug": "zeekr-007-zero-odor",
+  "slug": "zeekr-007-zero",
   "years_source": ""
  }
 ]
