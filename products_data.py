@@ -8121,7 +8121,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Waterproof easy-clean set. Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -8178,7 +8178,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Non-slip TPE set. Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -8573,7 +8573,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "OEM version. Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -8683,7 +8683,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "All-weather durable version. Custom-fit 3D TPE floor liners for the Chery Fulwin T9L. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -9122,7 +9122,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $13-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-logo version. Custom-fit moulded TPE floor liners for the Chery Tiggo. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $13-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -9281,7 +9281,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $18-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "All-weather version. Custom-fit moulded TPE floor liners for the Chery Tiggo. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $18-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -10035,7 +10035,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo 5S. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage set. Custom-fit moulded TPE floor liners for the Chery Tiggo 5S. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -10202,7 +10202,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo 5S. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "All-weather durable set. Custom-fit moulded TPE floor liners for the Chery Tiggo 5S. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -13724,7 +13724,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Ford Equator Sport. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Odour-free build. Custom-fit 3D TPE floor liners for the Ford Equator Sport. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -13989,7 +13989,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Ford Equator Sport. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Non-slip all-weather build. Custom-fit 3D TPE floor liners for the Ford Equator Sport. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -18148,7 +18148,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Xingyue L Monjaro. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Waterproof trunk liner. Custom-fit moulded TPE trunk mats for the Geely Xingyue L Monjaro. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -18201,7 +18201,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Embossed-pattern trunk liner. Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -18254,7 +18254,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "OEM private-label trunk liner. Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -18307,7 +18307,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Xingyue L Monjaro. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Embossed-pattern trunk liner. Custom-fit moulded TPE trunk mats for the Geely Xingyue L Monjaro. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -18572,7 +18572,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-logo trunk liner. Custom-fit TPE cargo liners for the Geely Xingyue L Monjaro. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -20640,7 +20640,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Honda CR-V. Sets are made up per vehicle. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Waterproof TPE set. Custom-fit TPE floor liners for the Honda CR-V. Sets are made up per vehicle. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -31391,7 +31391,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Mitsubishi ASX. Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "OEM logo version. Custom-fit moulded TPE floor liners for the Mitsubishi ASX. Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -35386,7 +35386,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit detachable double-layer TPE mats for the Nissan X-Trail T32. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "4-set minimum. Custom-fit detachable double-layer TPE mats for the Nissan X-Trail T32. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -36037,7 +36037,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Renault Symbioz. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Easy-clean surface. Custom-fit 3D TPE floor liners for the Renault Symbioz. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -36147,7 +36147,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Heavy-duty build. Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -36204,7 +36204,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Odour-free build. Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -36261,7 +36261,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage shape. Custom-fit moulded TPE floor liners for the Renault Symbioz. Set size is quoted per model, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -36375,7 +36375,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Renault Symbioz. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Non-slip durable build. Custom-fit 3D TPE floor liners for the Renault Symbioz. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -39816,7 +39816,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage set. Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -39987,7 +39987,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Odour-free full-coverage set. Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -40584,7 +40584,7 @@ PRODUCTS = [
    "hand": "LHD",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Crown. Set size is quoted per model, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "3D moulded TPE set. Custom-fit 3D TPE floor liners for the Toyota Crown. Set size is quoted per model, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -40641,7 +40641,7 @@ PRODUCTS = [
    "hand": "LHD",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Crown. Set size is quoted per model, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Waterproof 3D moulded set. Custom-fit 3D TPE floor liners for the Toyota Crown. Set size is quoted per model, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -42633,7 +42633,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Toyota Prado. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Waterproof durable set. Custom-fit TPE floor liners for the Toyota Prado. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -42686,7 +42686,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Toyota Prado. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage durable set. Custom-fit TPE floor liners for the Toyota Prado. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -44194,7 +44194,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage non-slip set. Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -44308,7 +44308,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "All-weather durable set. Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -45464,7 +45464,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Wuling Bingo dedicated. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Full-coverage waterproof set. Custom-fit 3D TPE floor liners for the Wuling Bingo dedicated. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
@@ -45517,7 +45517,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Wuling Bingo dedicated. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "3D TPE set. Custom-fit 3D TPE floor liners for the Wuling Bingo dedicated. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
   "specs": [
    [
     "Material",
