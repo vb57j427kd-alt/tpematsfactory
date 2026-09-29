@@ -42214,17 +42214,17 @@ PRODUCTS = [
   ]
  },
  {
-  "slug": "wuling-nano-fast-shipment-floor-liners",
+  "slug": "wuling-nano-floor-liners-2",
   "cat": "floor-liners",
-  "name": "TPE Floor Liners for Wuling Nano Fast Shipment",
+  "name": "TPE Floor Liners for Wuling Nano - Wuling Nano",
   "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
-  "img": "/images/wuling-nano-fast-shipment-floor-liners.jpg",
+  "img": "/images/wuling-nano-floor-liners-2.jpg",
   "src": "https://www.alibaba.com/product-detail/Direct-Factory-3D-5D-Scan-TPE_1601884843815.html",
   "fitment": {
    "make": "Wuling",
-   "model": "Nano Fast Shipment",
+   "model": "Nano",
    "years": "",
    "body": "",
    "hand": "",
@@ -42238,7 +42238,7 @@ PRODUCTS = [
    ],
    [
     "Fitment",
-    "Wuling Nano Fast Shipment - confirm year with us"
+    "Wuling Nano - confirm year with us"
    ],
    [
     "Coverage",
@@ -43675,7 +43675,7 @@ PRODUCTS = [
 ]
 
 # ---------------------------------------------------------------------------
-# VEHICLES (391) - built from listing titles only
+# VEHICLES (390) - built from listing titles only
 # ---------------------------------------------------------------------------
 VEHICLES = [
  {
@@ -48651,21 +48651,10 @@ VEHICLES = [
   "body": "",
   "hand": "",
   "products": [
-   "wuling-nano-floor-liners"
+   "wuling-nano-floor-liners",
+   "wuling-nano-floor-liners-2"
   ],
   "slug": "wuling-nano",
-  "years_source": ""
- },
- {
-  "make": "Wuling",
-  "model": "Nano Fast Shipment",
-  "years": "",
-  "body": "",
-  "hand": "",
-  "products": [
-   "wuling-nano-fast-shipment-floor-liners"
-  ],
-  "slug": "wuling-nano-fast-shipment",
   "years_source": ""
  },
  {
