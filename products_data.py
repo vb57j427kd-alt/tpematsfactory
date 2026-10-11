@@ -1249,7 +1249,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the BYD SONG. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the BYD SONG. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Cargo liners can be consolidated with floor liners and mats into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -1302,7 +1302,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the BYD SONG. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the BYD SONG. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -1355,7 +1355,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the BYD SONG. Supplied as a 3-piece set. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the BYD SONG. Supplied as a 3-piece set. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -1408,7 +1408,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit detachable double-layer TPE mats for the BYD SONG. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit detachable double-layer TPE mats for the BYD SONG. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -1461,7 +1461,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the BYD SONG. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the BYD SONG. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -1514,7 +1514,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the BYD SONG. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the BYD SONG. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -1567,7 +1567,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit double-layer TPE car mats for the BYD SONG. Set composition is confirmed on the quotation. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit double-layer TPE car mats for the BYD SONG. Set composition is confirmed on the quotation. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -2526,7 +2526,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE boot liners for the BYD Seal 06. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $13.50-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE boot liners for the BYD Seal 06. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $13.50-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Cargo liners can be consolidated with floor liners and mats into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -2905,7 +2905,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the BYD Song. Set composition is confirmed on the quotation. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the BYD Song. Set composition is confirmed on the quotation. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -2958,7 +2958,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the BYD Song. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the BYD Song. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -3120,7 +3120,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the BYD Song Plus Highland Protective. Sets are made up per vehicle. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the BYD Song Plus Highland Protective. Sets are made up per vehicle. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -4850,7 +4850,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Buick E5. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $13.50-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Buick E5. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $13.50-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -8279,7 +8279,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit double-layer TPE car mats for the Chery Jaecoo7. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit double-layer TPE car mats for the Chery Jaecoo7. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -11649,7 +11649,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Dongfeng Shine mage sx5 zna. Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $12-15/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Dongfeng Shine mage sx5 zna. Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $12-15/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -12554,7 +12554,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Ford Edge Explorer Maverick. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Ford Edge Explorer Maverick. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -14419,7 +14419,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Geely EX5 EM-I OMODA C5. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 20 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Geely EX5 EM-I OMODA C5. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 20 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -22219,7 +22219,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Hyundai Santa Fe. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Hyundai Santa Fe. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -23272,7 +23272,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit all-weather TPE floor mats for the Jeep Cherokee Wrangler Renegade. Set composition is confirmed on the quotation. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $10-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit all-weather TPE floor mats for the Jeep Cherokee Wrangler Renegade. Set composition is confirmed on the quotation. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $10-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. Mix these mats with floor liners and cargo liners into one container with one set of documents. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -24926,7 +24926,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Land rover Outlander Suzuki. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 5 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Land rover Outlander Suzuki. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 5 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -25451,7 +25451,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the MG EMGRAND ZEEKR TANK. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the MG EMGRAND ZEEKR TANK. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -26514,7 +26514,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the MG Zs. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the MG Zs. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $20-30/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -28842,7 +28842,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE all-season floor mats for the Mitsubishi Civic. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and a raised lip around the perimeter so melted snow and mud stay on the mat. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE all-season floor mats for the Mitsubishi Civic. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and a raised lip around the perimeter so melted snow and mud stay on the mat. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -29708,7 +29708,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Mitsubishi OUTLANDER 2011-2023 (2011-2023). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $10-25/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi OUTLANDER 2011-2023 (2011-2023). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $10-25/set. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -29756,7 +29756,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi OUTLANDER 2011-2023 (2011-2023). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $23-27/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi OUTLANDER 2011-2023 (2011-2023). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $23-27/set. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -31445,7 +31445,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Nissan X-TRAIL Rogue 2021-2023 (2021-2023). Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $10-25/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Nissan X-TRAIL Rogue 2021-2023 (2021-2023). Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $10-25/set. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -33597,7 +33597,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Skoda Octavia. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Skoda Octavia. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -33645,7 +33645,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Skoda Octavia. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Skoda Octavia. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -35737,7 +35737,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Toyota Camry Fit. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Toyota Camry Fit. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $10-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -37687,7 +37687,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Toyota HILUX. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Toyota HILUX. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -39024,7 +39024,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Toyota PRIUS NISSAN HYUNDAI HONDA. Set size is quoted per model, shaped for the sedan floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Toyota PRIUS NISSAN HYUNDAI HONDA. Set size is quoted per model, shaped for the sedan floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $8-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
