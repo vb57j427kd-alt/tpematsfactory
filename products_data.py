@@ -8914,7 +8914,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $18-28/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Chery Tiggo. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 5 sets. Listed at $18-28/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -11697,7 +11697,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Dongfeng Z9 Aeolus Y3 MAGE (2025). Set composition is confirmed on the quotation. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $26-30/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Dongfeng Z9 Aeolus Y3 MAGE (2025). Set composition is confirmed on the quotation. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $26-30/set. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -11803,7 +11803,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Dongfeng epai008 Left-Hand. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Dongfeng epai008 Left-Hand. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -14001,7 +14001,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Geely Cityray. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the Geely Cityray. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Cargo liners can be consolidated with floor liners and mats into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -14467,7 +14467,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Geely EX5 MONJARO CITYRAY GX3. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $22-32/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Geely EX5 MONJARO CITYRAY GX3. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $22-32/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -17516,7 +17516,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Haval H6 2021-2024 3-Piece (2021-2024). Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $17/piece. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Haval H6 2021-2024 3-Piece (2021-2024). Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $17/piece. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -18670,7 +18670,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit detachable double-layer TPE mats for the Honda CR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit detachable double-layer TPE mats for the Honda CR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix these mats with floor liners and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -18766,7 +18766,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -18814,7 +18814,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit detachable double-layer TPE mats for the Honda CR-V. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit detachable double-layer TPE mats for the Honda CR-V. Set size is quoted per model. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix these mats with floor liners and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -18862,7 +18862,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Set composition is confirmed on the quotation. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Set composition is confirmed on the quotation. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -18910,7 +18910,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit double-layer TPE car mats for the Honda CR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -20534,7 +20534,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit detachable double-layer TPE mats for the Honda ZR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $18-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit detachable double-layer TPE mats for the Honda ZR-V. Sets are made up per vehicle. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $18-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -22012,7 +22012,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Hyundai Ix35. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Hyundai Ix35. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -22788,7 +22788,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the IM LS72025. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $13-22/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the IM LS72025. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $13-22/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -29857,7 +29857,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -30069,7 +30069,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set composition is confirmed on the quotation. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set composition is confirmed on the quotation. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -30122,7 +30122,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set composition is confirmed on the quotation. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set composition is confirmed on the quotation. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -30170,7 +30170,7 @@ PRODUCTS = [
    "hand": "LHD",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200. Set size is quoted per model, moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200. Set size is quoted per model, moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -30227,7 +30227,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -30280,7 +30280,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -30328,7 +30328,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi TRITON L200-Left-Hand. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -30593,7 +30593,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi Triton L200 Left-Hand. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi Triton L200 Left-Hand. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -30646,7 +30646,7 @@ PRODUCTS = [
    "hand": "LHD",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Mitsubishi Triton L200. Set size is quoted per model, moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi Triton L200. Set size is quoted per model, moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 piece. Listed at $19.90-49.80/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -32296,7 +32296,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit two-layer TPE floor mats for the Nissan X-Trail T32. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit two-layer TPE floor mats for the Nissan X-Trail T32. Set composition is confirmed on the quotation, shaped for the suv floor pan. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 4 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -32353,7 +32353,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Nissan X-Trail T32. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Nissan X-Trail T32. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $23-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -33847,7 +33847,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE trunk mats for the Suzuki Jimny (2024). Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE trunk mats for the Suzuki Jimny (2024). Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $23-26/set. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -36818,7 +36818,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Toyota Corolla. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Toyota Corolla. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $20-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Cargo liners can be consolidated with floor liners and mats into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -37582,7 +37582,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE cargo liners for the Toyota Cruiser. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $18-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE cargo liners for the Toyota Cruiser. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $18-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Cargo liners can be consolidated with floor liners and mats into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -39926,7 +39926,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Vios. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $13-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota Vios. Supplied as a 3-piece set. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 5 sets. Listed at $13-25/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -41654,7 +41654,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen Tiguan Jetta 4-Piece. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 5 sets. Listed at $18-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen Tiguan Jetta 4-Piece. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 5 sets. Listed at $18-26/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
