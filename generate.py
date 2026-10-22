@@ -12,6 +12,7 @@ Base: besthardwaretools.com generate.py. Five changes for the car-mat category
 """
 import os
 import json
+import re
 from datetime import datetime
 from products_data import (SITE, CATEGORIES, PRODUCTS, VEHICLES, RELATED_INDEX,
                            VEHICLE_INDEX, products_for_vehicle,
@@ -472,6 +473,33 @@ def ld_collection(name, desc, canonical):
                        "name": name, "description": desc, "url": canonical}, ensure_ascii=False)
 
 
+PRICE_RE = re.compile(r"^\s*\$?\s*([0-9]+(?:\.[0-9]+)?)\s*(?:-\s*([0-9]+(?:\.[0-9]+)?))?\s*/\s*[A-Za-z]+\s*$")
+
+
+def ld_offers(price, canonical):
+    """Google requires offers.price; without it Product snippets and Merchant
+    listings are both invalid (GSC 2026-10-22: "应指定 price ... 在 offers 中").
+
+    The catalogue quotes a per-unit RANGE ("$8-19/set", 815 of 821 listings) and
+    a few single prices. A range is expressed as AggregateOffer(lowPrice,
+    highPrice) - the standard schema.org form for it - and a single quote as
+    Offer(price). Both numbers are the listing's own; nothing is estimated.
+    """
+    base = {"priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": canonical}
+    m = PRICE_RE.match(price or "")
+    if not m:
+        return dict({"@type": "Offer"}, **base)
+    low, high = m.group(1), m.group(2)
+    if high:
+        off = {"@type": "AggregateOffer", "lowPrice": low, "highPrice": high}
+    else:
+        off = {"@type": "Offer", "price": low}
+    off.update(base)
+    return off
+
+
 def ld_product(p, canonical):
     props = []
     f = p.get("fitment") or {}
@@ -487,8 +515,7 @@ def ld_product(p, canonical):
         "name": p["name"], "image": p["img"], "description": p["desc"],
         "brand": {"@type": "Brand", "name": BRAND},
         "additionalProperty": props,
-        "offers": {"@type": "Offer", "priceCurrency": "USD",
-                   "availability": "https://schema.org/InStock", "url": canonical},
+        "offers": ld_offers(p.get("price", ""), canonical),
     }, ensure_ascii=False)
 
 
