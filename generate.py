@@ -395,8 +395,15 @@ def email_link(label="{e}", cls="", style=""):
     if style:
         attrs += f' style="{style}"'
     fallback = "Email us" if "{e}" in label else label
+    plain = f"{local}@{domain}"
+    # The <noscript> copy is the only place the address is written literally. It
+    # relies on Cloudflare Email Address Obfuscation being OFF for this zone
+    # (turned off 2026-11-17); if it is ever switched back on, Cloudflare rewrites
+    # this href to /cdn-cgi/l/email-protection#..., an endpoint that answered 404
+    # on this zone - i.e. the no-JS visitor would get a dead link again.
     return (f'<a{attrs} href="javascript:void(0)" data-em="{local}|{domain}"'
-            f' data-lbl="{label}">{fallback}</a>')
+            f' data-lbl="{label}">{fallback}</a>'
+            f'<noscript><a{attrs} href="mailto:{plain}">{plain}</a></noscript>')
 
 
 def quote_modal():
