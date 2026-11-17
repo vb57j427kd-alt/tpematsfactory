@@ -61,9 +61,27 @@ function submitQuote(e){
   document.getElementById('quoteFormWrap').style.display='none';
   document.getElementById('quoteSuccess').style.display='block';
 }
-document.addEventListener('DOMContentLoaded',function(){
-  var m=document.getElementById('modal');
-  if(!m)return;
+ function fillEmail(){
+   // The address is assembled here, from data-em, instead of being written into
+   // the HTML. Cloudflare's Email Address Obfuscation rewrites any literal
+   // address and any mailto: href into /cdn-cgi/l/email-protection#<hash>; on
+   // THIS zone that endpoint answers 404 (measured 2026-11-17: live HTML held 0
+   // plain addresses and 2 protection links, both dead), so every "Email ..."
+   // button on the site did nothing when clicked. textContent of the parts is
+   // not a pattern Cloudflare matches, so the link survives at the edge.
+   var n=document.querySelectorAll('[data-em]');
+   for(var i=0;i<n.length;i++){
+     var e=n[i],p=(e.getAttribute('data-em')||'').split('|');
+     if(p.length<2||!p[0]||!p[1])continue;
+     var a=p[0]+'@'+p[1];
+     e.href='mailto:'+a;
+     e.textContent=(e.getAttribute('data-lbl')||'{e}').replace('{e}',a);
+   }
+ }
+ if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',fillEmail)}else{fillEmail()}
+ document.addEventListener('DOMContentLoaded',function(){
+   var m=document.getElementById('modal');
+   if(!m)return;
   document.addEventListener('keydown',function(e){if(e.key==='Escape')closeQuote()});
   m.addEventListener('click',function(e){if(e.target===m)closeQuote()});
 });
@@ -362,6 +380,30 @@ def nav(active=""):
 </div></nav>"""
 
 
+def email_link(label="{e}", cls="", style=""):
+    """An email link whose address is NOT written into the HTML.
+
+    Cloudflare Email Address Obfuscation (Scrape Shield) rewrites every literal
+    address and every mailto: href on this zone into
+    /cdn-cgi/l/email-protection#<hash>, and that endpoint answers 404 here - so
+    the published "Email yale@..." button was dead for every visitor (measured
+    2026-11-17). The address parts go to the page as data attributes and are
+    assembled by fillEmail() in JS, which Cloudflare's pattern match does not
+    see. `label` is the final visible text with {e} standing for the address;
+    the static inner text is the no-JS fallback.
+    """
+    em = (SITE.get("email") or "").strip()
+    if "@" not in em:
+        return ""
+    local, domain = em.split("@", 1)
+    attrs = f' class="{cls}"' if cls else ""
+    if style:
+        attrs += f' style="{style}"'
+    fallback = "Email us" if "{e}" in label else label
+    return (f'<a{attrs} href="javascript:void(0)" data-em="{local}|{domain}"'
+            f' data-lbl="{label}">{fallback}</a>')
+
+
 def quote_modal():
     bank = ""
     if SITE.get("bank_account"):
@@ -370,7 +412,7 @@ def quote_modal():
 <div class="bank-row"><span class="blabel">Account No.</span><span class="bvalue hl">{SITE['bank_account']}</span></div>
 <div class="bank-row"><span class="blabel">Swift Code</span><span class="bvalue">{SITE['bank_swift']}</span></div>
 <p class="bank-note">{SITE['bank_note']}</p></div>"""
-    mail = f'<a class="btn btn-o" style="margin-top:16px" href="mailto:{SITE["email"]}">Email {SITE["email"]}</a>' if SITE.get("email") else ""
+    mail = email_link(label="Email {e}", cls="btn btn-o", style="margin-top:16px")
     return f"""<div class="modal" id="modal"><div class="mbox">
 <button class="mclose" onclick="closeQuote()">&times;</button>
 <div id="quoteFormWrap">
@@ -408,7 +450,7 @@ def footer():
     else:
         veh_links = '<a href="/shop-by-vehicle/">Shop by Vehicle</a>'
     veh_links += '<a href="/site-map/">Site map</a>'
-    contact = f'<a href="mailto:{SITE["email"]}">{SITE["email"]}</a>' if SITE.get("email") else ""
+    contact = email_link()
     return f"""<footer><div class="wrap">
 <div class="foot">
 <div><a href="/" class="logo">{logo()}</a><p style="color:var(--t3);font-size:.84rem;margin-top:12px">{SITE['tagline']}. OEM/ODM welcome, worldwide shipping.</p></div>
