@@ -56,14 +56,67 @@ CATEGORIES = [
 ]
 
 # ---------------------------------------------------------------------------
-# PRODUCTS (816)
+# PRODUCTS (890)
 # ---------------------------------------------------------------------------
 PRODUCTS = [
+ {
+  "slug": "audi-a3l-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Audi A3L 2025",
+  "badge": "3D Fit",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/audi-a3l-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapete-Personalizado-Para-Carro-TPE-Antideslizante_1601995642308.html",
+  "fitment": {
+   "make": "Audi",
+   "model": "A3L",
+   "years": "2025",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Audi A3L (2025). Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Audi A3L (2025)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Audi Q5L-Z158"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Audi A3L (2025)",
+   "Tooling reference for Audi Q5L-Z158",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2",
+   "audi-a4l-2017-2023-floor-liners"
+  ]
+ },
  {
   "slug": "audi-a4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Audi A4",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/audi-a4-floor-liners.jpg",
@@ -107,16 +160,16 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners",
-   "audi-a6l-floor-liners"
+   "audi-a4l-2017-2023-floor-liners"
   ]
  },
  {
   "slug": "audi-a4-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Audi A4 - tpe-001",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/audi-a4-floor-liners-2.jpg",
@@ -160,16 +213,69 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a6-a8-floor-liners",
-   "audi-a6l-floor-liners"
+   "audi-a4l-2017-2023-floor-liners"
+  ]
+ },
+ {
+  "slug": "audi-a4l-2017-2023-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Audi A4L / 2017 / 2023 2017-2023",
+  "badge": "Low MOQ",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/audi-a4l-2017-2023-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombrilla-Para-Auto-TPE-3D-Impermeable_1601995674197.html",
+  "fitment": {
+   "make": "Audi",
+   "model": "A4L / 2017 / 2023",
+   "years": "2017-2023",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Audi A4L 2017 2023 (2017-2023). Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Audi A4L / 2017 / 2023 (2017-2023)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Audi Q5L-Z158"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Audi A4L 2017 2023 (2017-2023)",
+   "Tooling reference for Audi Q5L-Z158",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "audi-a6-a8-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Audi A6 A8",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/audi-a6-a8-floor-liners.jpg",
@@ -212,16 +318,16 @@ PRODUCTS = [
    "Confirm model year at order stage"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6l-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "audi-a6l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Audi A6L",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/audi-a6l-floor-liners.jpg",
@@ -265,9 +371,168 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "audi-a6l-2019-2023-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Audi A6L / 2019 / 2023 2019-2023",
+  "badge": "Custom Fit",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/audi-a6l-2019-2023-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapetes-Para-Autos-De-TPE-5D_1601995647292.html",
+  "fitment": {
+   "make": "Audi",
+   "model": "A6L / 2019 / 2023",
+   "years": "2019-2023",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Audi A6L 2019 2023 (2019-2023). Sets are made up per vehicle. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Audi A6L / 2019 / 2023 (2019-2023)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Audi Q5L-Z158"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Audi A6L 2019 2023 (2019-2023)",
+   "Tooling reference for Audi Q5L-Z158",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "audi-q3-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Audi Q3 2019",
+  "badge": "All-Season",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/audi-q3-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapetes-Para-Carro-TPE-Resistentes-Al_1601995641314.html",
+  "fitment": {
+   "make": "Audi",
+   "model": "Q3",
+   "years": "2019",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Audi Q3 (2019). Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Audi Q3 (2019)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Audi Q5L-Z158"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Audi Q3 (2019)",
+   "Tooling reference for Audi Q5L-Z158",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "audi-q5l-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Audi Q5L",
+  "badge": "Low MOQ",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/audi-q5l-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/OEM-Custom-TPE-3D-5D-7D_1601980147507.html",
+  "fitment": {
+   "make": "Audi",
+   "model": "Q5L",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Audi Q5L. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Audi Q5L - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Audi Q5L-Z158"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Audi Q5L",
+   "Tooling reference for Audi Q5L-Z158",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -318,9 +583,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -594,9 +859,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -700,9 +965,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -753,9 +1018,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -806,9 +1071,9 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -859,9 +1124,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -968,9 +1233,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1021,9 +1286,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1078,9 +1343,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1126,9 +1391,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1174,9 +1439,9 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1227,9 +1492,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1333,9 +1598,9 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1386,9 +1651,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1492,9 +1757,9 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1545,9 +1810,9 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1651,9 +1916,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1699,9 +1964,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1809,9 +2074,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -1915,9 +2180,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2069,9 +2334,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2122,9 +2387,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2175,9 +2440,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2228,9 +2493,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2281,9 +2546,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2333,9 +2598,9 @@ PRODUCTS = [
    "Ten-set minimum suits EV-focused distributors"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2390,9 +2655,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2447,9 +2712,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2504,9 +2769,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2610,9 +2875,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2667,9 +2932,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2777,9 +3042,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2830,9 +3095,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2883,9 +3148,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2936,9 +3201,9 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -2989,9 +3254,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3042,9 +3307,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3151,9 +3416,9 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3208,9 +3473,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3322,9 +3587,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3375,9 +3640,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3423,9 +3688,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3590,9 +3855,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3647,9 +3912,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3700,9 +3965,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -3916,9 +4181,9 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4075,9 +4340,9 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4165,9 +4430,9 @@ PRODUCTS = [
    "One set minimum for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4211,9 +4476,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4257,9 +4522,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4298,9 +4563,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4351,9 +4616,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4885,9 +5150,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -4995,9 +5260,9 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -5105,16 +5370,69 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "buick-envision-plus-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Buick Envision Plus - tpe Car Mats",
+  "badge": "3D Fit",
+  "price": "$16-20/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/buick-envision-plus-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-OEM-Fit-Floor-Mats-for_1601867109523.html",
+  "fitment": {
+   "make": "Buick",
+   "model": "Envision Plus",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Buick Envision Plus Complete. Set size is quoted per model. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $16-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Buick Envision Plus - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "tpe Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Buick Envision Plus Complete",
+   "Tooling reference tpe Car Mats",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "buick-envision-plus-1-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Envision Plus 1",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-envision-plus-1-floor-liners.jpg",
@@ -5162,16 +5480,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "buick-excelle-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Buick Excelle",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/buick-excelle-floor-liners.jpg",
@@ -5214,16 +5532,16 @@ PRODUCTS = [
    "Single-set minimum for evaluation"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "cadillac-xt5-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Cadillac XT5",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/cadillac-xt5-double-layer-mats.jpg",
@@ -5276,7 +5594,7 @@ PRODUCTS = [
   "slug": "changan-cs75-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-floor-liners.jpg",
@@ -5320,16 +5638,73 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "changan-cs75-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Changan CS75 - Changan CS75 Pro",
+  "badge": "3D Fit",
+  "price": "$17-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/changan-cs75-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-TPE-Floor-Mats-LHD-for_1601961233243.html",
+  "fitment": {
+   "make": "Changan",
+   "model": "CS75",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Changan CS75. Set composition is confirmed on the quotation, moulded for LHD vehicles. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $17-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Changan CS75 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "Thickness",
+    "3.5 mm"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Changan CS75",
+   "Built for LHD drive",
+   "3.5 mm material thickness",
+   "Tooling reference for Changan CS75 Pro",
+   "Odourless and halogen-free TPE"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-cs75-plus-mk4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75 PLUS MK4",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-plus-mk4-floor-liners.jpg",
@@ -5376,16 +5751,16 @@ PRODUCTS = [
    "Confirm model and year before tooling"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-cs75-plus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan CS75 Plus",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-cs75-plus-floor-liners.jpg",
@@ -5424,16 +5799,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-eado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Eado",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-floor-liners.jpg",
@@ -5481,16 +5856,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-eado-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan Eado",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-all-weather-mats.jpg",
@@ -5547,7 +5922,7 @@ PRODUCTS = [
   "slug": "changan-eado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Eado - tpe Car Mats",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-floor-liners-2.jpg",
@@ -5595,16 +5970,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-eado-dt-xt-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan Eado DT XT",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-eado-dt-xt-all-weather-mats.jpg",
@@ -5661,7 +6036,7 @@ PRODUCTS = [
   "slug": "changan-hunter-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners.jpg",
@@ -5705,16 +6080,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-hunter-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-2.jpg",
@@ -5758,16 +6133,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-hunter-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-3.jpg",
@@ -5811,16 +6186,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-hunter-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats (2)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12.50-20.50/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-4.jpg",
@@ -5864,16 +6239,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-hunter-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - TPE Car Mats (3)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$13.50-20.50/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-5.jpg",
@@ -5917,16 +6292,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-hunter-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Hunter - Leather Car Mats",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-hunter-floor-liners-6.jpg",
@@ -5970,16 +6345,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-lamore-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats.jpg",
@@ -6032,7 +6407,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-2.jpg",
@@ -6085,7 +6460,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (2)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-3.jpg",
@@ -6138,7 +6513,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (3)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-4.jpg",
@@ -6191,7 +6566,7 @@ PRODUCTS = [
   "slug": "changan-lamore-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore - TPE CAR MAT+CARPET (4)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-trunk-mats-5.jpg",
@@ -6244,7 +6619,7 @@ PRODUCTS = [
   "slug": "changan-lamore-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Edge",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-edge-trunk-mats.jpg",
@@ -6297,7 +6672,7 @@ PRODUCTS = [
   "slug": "changan-lamore-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Fit",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-fit-trunk-mats.jpg",
@@ -6350,7 +6725,7 @@ PRODUCTS = [
   "slug": "changan-lamore-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Liquid",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-liquid-trunk-mats.jpg",
@@ -6403,7 +6778,7 @@ PRODUCTS = [
   "slug": "changan-lamore-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Changan Lamore Rain",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lamore-rain-trunk-mats.jpg",
@@ -6456,7 +6831,7 @@ PRODUCTS = [
   "slug": "changan-lumin-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Lumin",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-lumin-floor-liners.jpg",
@@ -6500,16 +6875,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-lumin-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan Lumin 2025",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-lumin-floor-liners-2.jpg",
@@ -6553,16 +6928,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-qiyuan-q07-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan Qiyuan Q07 2025",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-qiyuan-q07-all-weather-mats.jpg",
@@ -6610,7 +6985,7 @@ PRODUCTS = [
   "slug": "changan-uni-t-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNI T",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-uni-t-floor-liners.jpg",
@@ -6654,16 +7029,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-uni-t-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Changan UNI T",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/changan-uni-t-all-weather-mats.jpg",
@@ -6720,7 +7095,7 @@ PRODUCTS = [
   "slug": "changan-uni-t-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNI T - 3 mm",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-26/set",
   "moq": "MOQ 10 sets",
   "img": "/images/changan-uni-t-floor-liners-2.jpg",
@@ -6764,16 +7139,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-uni-t-2023-2026-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNI T 2023 2026 2023-2026",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-uni-t-2023-2026-floor-liners-2.jpg",
@@ -6821,16 +7196,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-uni-t-2023-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNI-T 2023-2026",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-uni-t-2023-2026-floor-liners.jpg",
@@ -6877,16 +7252,16 @@ PRODUCTS = [
    "Single-set minimum for fitment testing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-unit-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNIT",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-unit-floor-liners.jpg",
@@ -6930,16 +7305,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-unit-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNIT - TPE Car Mat",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-unit-floor-liners-2.jpg",
@@ -6983,16 +7358,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-unit-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNIT - TPE Car Mat (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$22-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-unit-floor-liners-3.jpg",
@@ -7036,16 +7411,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-unit-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNIT - TPE Car Mat (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-unit-floor-liners-4.jpg",
@@ -7089,16 +7464,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-unit-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan UNIT - TPE Car Mat (4)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-unit-floor-liners-5.jpg",
@@ -7142,16 +7517,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "changan-x7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Changan X7 2024",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$24-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/changan-x7-floor-liners.jpg",
@@ -7195,16 +7570,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-eq-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery EQ",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-eq-floor-liners.jpg",
@@ -7248,16 +7623,69 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "chery-eq-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Chery EQ - Chery EQ",
+  "badge": "All-Season",
+  "price": "$18-23/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/chery-eq-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-5D-Custom-Mold-TPE-Car_1601962223218.html",
+  "fitment": {
+   "make": "Chery",
+   "model": "EQ",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Chery EQ. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $18-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chery EQ - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "Chery EQ"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chery EQ",
+   "Tooling reference for Chery EQ",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-fulwin-t9l-floor-liners.jpg",
@@ -7304,16 +7732,16 @@ PRODUCTS = [
    "Single-set minimum to test the fit"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-2.jpg",
@@ -7361,16 +7789,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-3.jpg",
@@ -7418,16 +7846,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-4.jpg",
@@ -7475,16 +7903,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (4)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-5.jpg",
@@ -7528,16 +7956,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Chery Fulwin T9L",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-all-weather-mats.jpg",
@@ -7594,7 +8022,7 @@ PRODUCTS = [
   "slug": "chery-fulwin-t9l-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (5)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-6.jpg",
@@ -7642,16 +8070,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (6)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-7.jpg",
@@ -7699,16 +8127,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (7)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-8.jpg",
@@ -7756,16 +8184,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (8)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-9.jpg",
@@ -7813,16 +8241,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (9)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-10.jpg",
@@ -7870,16 +8298,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9L",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-11.jpg",
@@ -7927,16 +8355,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9 (10)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-12.jpg",
@@ -7980,16 +8408,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-13",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9L (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-13.jpg",
@@ -8037,16 +8465,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-14",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9L (3)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-14.jpg",
@@ -8094,16 +8522,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-fulwin-t9l-floor-liners-15",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Fulwin T9L - Chery Fulwin T9L (4)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-fulwin-t9l-floor-liners-15.jpg",
@@ -8147,16 +8575,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-jaecoo7-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Chery Jaecoo7",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/chery-jaecoo7-double-layer-mats.jpg",
@@ -8204,7 +8632,7 @@ PRODUCTS = [
   "slug": "chery-tiggo-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery TIGGO",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$10-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chery-tiggo-floor-liners-10.jpg",
@@ -8248,16 +8676,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-tiggo-floor-liners.jpg",
@@ -8301,16 +8729,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$13-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-tiggo-floor-liners-2.jpg",
@@ -8354,16 +8782,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 8",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-tiggo-floor-liners-3.jpg",
@@ -8407,16 +8835,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-tiggo-floor-liners-4.jpg",
@@ -8460,16 +8888,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7 Pro",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-floor-liners-5.jpg",
@@ -8513,16 +8941,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7 Pro (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-floor-liners-6.jpg",
@@ -8566,16 +8994,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7 Pro (3)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-floor-liners-7.jpg",
@@ -8619,16 +9047,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7 Pro (4)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-floor-liners-8.jpg",
@@ -8672,16 +9100,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery Tiggo 7 Pro (5)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-floor-liners-9.jpg",
@@ -8725,16 +9153,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Chery Tiggo 2017-2025",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$18-22/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/chery-tiggo-trunk-mats.jpg",
@@ -8791,7 +9219,7 @@ PRODUCTS = [
   "slug": "chery-tiggo-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/chery-tiggo-floor-liners-11.jpg",
@@ -8839,16 +9267,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo - Chery (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/chery-tiggo-floor-liners-12.jpg",
@@ -8892,16 +9320,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S 2026",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chery-tiggo-5s-floor-liners.jpg",
@@ -8945,16 +9373,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S 2026 - Geely GC6",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chery-tiggo-5s-floor-liners-2.jpg",
@@ -8998,16 +9426,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S 2026 - Geely GC6 (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chery-tiggo-5s-floor-liners-3.jpg",
@@ -9051,16 +9479,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-4.jpg",
@@ -9104,16 +9532,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-5.jpg",
@@ -9161,16 +9589,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-6.jpg",
@@ -9218,16 +9646,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (3)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-7.jpg",
@@ -9271,16 +9699,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (4)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-8.jpg",
@@ -9328,16 +9756,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (5)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-9.jpg",
@@ -9385,16 +9813,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-5s-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (6)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chery-tiggo-5s-floor-liners-10.jpg",
@@ -9442,16 +9870,73 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "chery-tiggo-5s-floor-liners-11",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Chery Tiggo 5S - Chery Tiggo 5S (7)",
+  "badge": "Low MOQ",
+  "price": "$8-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/chery-tiggo-5s-floor-liners-11.jpg",
+  "src": "https://www.alibaba.com/product-detail/Scratch-Resistant-TPE-Car-Floor-Mats_1601925194947.html",
+  "fitment": {
+   "make": "Chery",
+   "model": "Tiggo 5S",
+   "years": "",
+   "body": "Suv",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Chery Tiggo 5S. Sets are made up per vehicle, shaped for the suv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chery Tiggo 5S - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Suv"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Chery Tiggo 5S"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chery Tiggo 5S",
+   "Shaped for suv floor pans",
+   "Tooling reference Chery Tiggo 5S",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chery-tiggo-7-8-9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chery Tiggo 7 8 9",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chery-tiggo-7-8-9-floor-liners.jpg",
@@ -9494,16 +9979,16 @@ PRODUCTS = [
    "Confirm Tiggo variant and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Chevrolet - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chevrolet-all-weather-mats.jpg",
@@ -9548,7 +10033,7 @@ PRODUCTS = [
   "slug": "chevrolet-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Chevrolet - Made to Order - Chevrolet",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/chevrolet-all-weather-mats-2.jpg",
@@ -9591,10 +10076,207 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "chevrolet-blazer-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Chevrolet Blazer",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/chevrolet-blazer-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-Full-Coverage-TPE-Car-Floor_1601993158082.html",
+  "fitment": {
+   "make": "Chevrolet",
+   "model": "Blazer",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Chevrolet Blazer. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chevrolet Blazer - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chevrolet Blazer",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "chevrolet-blazer-2020-2025-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Chevrolet Blazer 2020 2025 2020-2025",
+  "badge": "Low MOQ",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/chevrolet-blazer-2020-2025-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/TPE-Car-Floor-Mats-for-Chevrolet_1601993110365.html",
+  "fitment": {
+   "make": "Chevrolet",
+   "model": "Blazer 2020 2025",
+   "years": "2020-2025",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Chevrolet Blazer 2020 2025 (2020-2025). Sets are made up per vehicle. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $14-18/set. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chevrolet Blazer 2020 2025 (2020-2025)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chevrolet Blazer 2020 2025 (2020-2025)",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "chevrolet-blazer-2020-2025-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Chevrolet Blazer 2020 2025 2020-2025 (2)",
+  "badge": "OEM Ready",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/chevrolet-blazer-2020-2025-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-3D-TPE-Car-Floor-Mats_1601993042706.html",
+  "fitment": {
+   "make": "Chevrolet",
+   "model": "Blazer 2020 2025",
+   "years": "2020-2025",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Chevrolet Blazer 2020 2025 (2020-2025). Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chevrolet Blazer 2020 2025 (2020-2025)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chevrolet Blazer 2020 2025 (2020-2025)",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "chevrolet-camaro-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Chevrolet Camaro",
+  "badge": "3D Fit",
+  "price": "$14-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/chevrolet-camaro-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Thickened-Anti-Dust-TPE-Cargo-Liner_1601986822454.html",
+  "fitment": {
+   "make": "Chevrolet",
+   "model": "Camaro",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Chevrolet Camaro. Shaped for the pickup floor pan. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Chevrolet Camaro - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Chevrolet Camaro",
+   "Shaped for pickup floor pans",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
   "slug": "chevrolet-captiva-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Captiva",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-captiva-floor-liners.jpg",
@@ -9638,16 +10320,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-captiva-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Captiva - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-captiva-floor-liners-2.jpg",
@@ -9691,16 +10373,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-captiva-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Captiva - TPE CAR MAT+CARPET (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-captiva-floor-liners-3.jpg",
@@ -9744,16 +10426,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-captiva-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Captiva - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-captiva-floor-liners-4.jpg",
@@ -9797,16 +10479,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-captiva-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Captiva - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-captiva-floor-liners-5.jpg",
@@ -9854,16 +10536,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-copeland-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Copeland",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-copeland-floor-liners.jpg",
@@ -9907,16 +10589,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners.jpg",
@@ -9960,16 +10642,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners-2.jpg",
@@ -10013,16 +10695,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze - TPE CAR MAT+CARPET (2)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners-3.jpg",
@@ -10070,16 +10752,16 @@ PRODUCTS = [
    "TPE compound that stays flexible in the cold"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze - TPE CAR MAT+CARPET (3)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners-4.jpg",
@@ -10123,16 +10805,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze - TPE CAR MAT+CARPET (4)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners-5.jpg",
@@ -10180,16 +10862,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze - TPE CAR MAT+CARPET (5)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/chevrolet-cruze-floor-liners-6.jpg",
@@ -10233,16 +10915,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-cruze-equinox-silverado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Cruze Equinox Silverado",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/chevrolet-cruze-equinox-silverado-floor-liners.jpg",
@@ -10286,16 +10968,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-emgrand-rs-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet EMGRAND RS",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/chevrolet-emgrand-rs-floor-liners.jpg",
@@ -10339,16 +11021,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-equinox-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Equinox 2018",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chevrolet-equinox-floor-liners.jpg",
@@ -10391,16 +11073,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-malibu-2016-2021-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Malibu 2016 2021 2016-2021",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chevrolet-malibu-2016-2021-floor-liners.jpg",
@@ -10444,16 +11126,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-silverado-2019-2024-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Silverado 2019 2024 2019-2024",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chevrolet-silverado-2019-2024-floor-liners.jpg",
@@ -10496,16 +11178,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-tracker-equinox-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Tracker Equinox 2024",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$22-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/chevrolet-tracker-equinox-floor-liners.jpg",
@@ -10544,16 +11226,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "chevrolet-trax-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Chevrolet Trax",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/chevrolet-trax-floor-liners.jpg",
@@ -10597,16 +11279,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "deepal-a07-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats.jpg",
@@ -10659,7 +11341,7 @@ PRODUCTS = [
   "slug": "deepal-a07-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats-2.jpg",
@@ -10712,7 +11394,7 @@ PRODUCTS = [
   "slug": "deepal-a07-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats-3.jpg",
@@ -10765,7 +11447,7 @@ PRODUCTS = [
   "slug": "deepal-a07-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (3)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats-4.jpg",
@@ -10818,7 +11500,7 @@ PRODUCTS = [
   "slug": "deepal-a07-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 - TPE CAR MAT+CARPET (4)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-trunk-mats-5.jpg",
@@ -10871,7 +11553,7 @@ PRODUCTS = [
   "slug": "deepal-a07-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Edge",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-edge-trunk-mats.jpg",
@@ -10924,7 +11606,7 @@ PRODUCTS = [
   "slug": "deepal-a07-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Deepal A07 Fit",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/deepal-a07-fit-trunk-mats.jpg",
@@ -10977,7 +11659,7 @@ PRODUCTS = [
   "slug": "denza-d9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Denza D9",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/denza-d9-floor-liners.jpg",
@@ -11025,16 +11707,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "dongfeng-aeolus-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Dongfeng Aeolus",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/dongfeng-aeolus-all-weather-mats.jpg",
@@ -11087,7 +11769,7 @@ PRODUCTS = [
   "slug": "dongfeng-aeolus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng Aeolus",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$13-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/dongfeng-aeolus-floor-liners.jpg",
@@ -11131,16 +11813,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "dongfeng-mage-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Dongfeng MAGE 2025",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$10-13/set",
   "moq": "MOQ 10 sets",
   "img": "/images/dongfeng-mage-floor-liners.jpg",
@@ -11179,9 +11861,105 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "dongfeng-mage-320t-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Dongfeng MAGE 320T",
+  "badge": "Custom Fit",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/dongfeng-mage-320t-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/5D-TPE-Car-Floor-Liners-for_1601994722122.html",
+  "fitment": {
+   "make": "Dongfeng",
+   "model": "MAGE 320T",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Dongfeng MAGE 320T. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Dongfeng MAGE 320T - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Dongfeng MAGE 320T",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "dongfeng-mage-320t-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Dongfeng MAGE 320T (2)",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/dongfeng-mage-320t-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-3D-TPE-Car-Floor_1601994663027.html",
+  "fitment": {
+   "make": "Dongfeng",
+   "model": "MAGE 320T",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Dongfeng MAGE 320T. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Dongfeng MAGE 320T - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Dongfeng MAGE 320T",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11236,9 +12014,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11293,9 +12071,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11350,9 +12128,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11407,9 +12185,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11464,9 +12242,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11517,9 +12295,9 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11565,9 +12343,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11618,9 +12396,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11671,9 +12449,9 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11719,9 +12497,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11829,9 +12607,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -11943,9 +12721,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -12000,9 +12778,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -12112,10 +12890,217 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "fiat-mobi-trekking-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Fiat MOBI TREKKING",
+  "badge": "3D Fit",
+  "price": "$16-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/fiat-mobi-trekking-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Wholesale-3D-TPE-Car-Mats-for_1601975588765.html",
+  "fitment": {
+   "make": "Fiat",
+   "model": "MOBI TREKKING",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Fiat MOBI TREKKING. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $16-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Fiat MOBI TREKKING - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "FIAT MOBI TREKKING"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Fiat MOBI TREKKING",
+   "Tooling reference for FIAT MOBI TREKKING",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "fiat-mobi-trekking-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Fiat MOBI TREKKING (2)",
+  "badge": "Custom Fit",
+  "price": "$16-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/fiat-mobi-trekking-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/OEM-3D-TPE-Car-Floor-Liners_1601975602498.html",
+  "fitment": {
+   "make": "Fiat",
+   "model": "MOBI TREKKING",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Fiat MOBI TREKKING. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Fiat MOBI TREKKING - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Fiat MOBI TREKKING",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "fiat-mobi-trekking-floor-liners-3",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Fiat MOBI TREKKING - Chery EQ",
+  "badge": "All-Season",
+  "price": "$16-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/fiat-mobi-trekking-floor-liners-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-TPE-Car-Floor-Mats-For_1601976846436.html",
+  "fitment": {
+   "make": "Fiat",
+   "model": "MOBI TREKKING",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Fiat MOBI TREKKING. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Fiat MOBI TREKKING - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "Chery EQ"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Fiat MOBI TREKKING",
+   "Tooling reference for Chery EQ",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "fiat-mobi-trekking-floor-liners-4",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Fiat MOBI TREKKING - Chery EQ (2)",
+  "badge": "Low MOQ",
+  "price": "$15-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/fiat-mobi-trekking-floor-liners-4.jpg",
+  "src": "https://www.alibaba.com/product-detail/Full-Set-3D-TPE-Auto-Floor_1601976807682.html",
+  "fitment": {
+   "make": "Fiat",
+   "model": "MOBI TREKKING",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Fiat MOBI TREKKING. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $15-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Fiat MOBI TREKKING - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "Chery EQ"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Fiat MOBI TREKKING",
+   "Tooling reference for Chery EQ",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
   "slug": "fiat-palio-cronos-toro-fastback-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Fiat PALIO CRONOS TORO FASTBACK",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/fiat-palio-cronos-toro-fastback-floor-liners.jpg",
@@ -12159,16 +13144,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "fiat-palio-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Fiat Palio",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/fiat-palio-floor-liners.jpg",
@@ -12215,16 +13200,16 @@ PRODUCTS = [
    "Ten-set minimum suits first container order"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-bronco-f-150-kuga-everest-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Bronco F 150 Kuga Everest",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$19-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-bronco-f-150-kuga-everest-floor-liners.jpg",
@@ -12268,16 +13253,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-bronco-mustang-territory-maverick-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Bronco mustang territory maverick",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$13-20/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-bronco-mustang-territory-maverick-floor-liners.jpg",
@@ -12321,16 +13306,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-edge-escape-explorer-everest-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford EDGE ESCAPE EXPLORER EVEREST",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-edge-escape-explorer-everest-floor-liners.jpg",
@@ -12374,16 +13359,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-escape-edge-everest-expedition-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford ESCAPE EDGE EVEREST EXPEDITION",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$15-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-escape-edge-everest-expedition-floor-liners.jpg",
@@ -12422,16 +13407,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-edge-explorer-maverick-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Edge Explorer Maverick",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-edge-explorer-maverick-floor-liners.jpg",
@@ -12475,16 +13460,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners.jpg",
@@ -12528,16 +13513,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-2.jpg",
@@ -12581,16 +13566,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-3.jpg",
@@ -12634,16 +13619,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (3)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-4.jpg",
@@ -12687,16 +13672,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (4)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-5.jpg",
@@ -12740,16 +13725,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-equator-sport-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Equator Sport - Ford Equator Sport (5)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-equator-sport-floor-liners-6.jpg",
@@ -12793,16 +13778,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-escape-explorer-2020-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Escape Explorer 2020 2026 2020-2026",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-escape-explorer-2020-2026-floor-liners.jpg",
@@ -12846,16 +13831,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-expedition-edge-escape-explorer-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Expedition Edge Escape Explorer",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$15-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-expedition-edge-escape-explorer-floor-liners.jpg",
@@ -12899,16 +13884,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-f-150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F 150 2021",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$20-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-f-150-floor-liners.jpg",
@@ -12952,16 +13937,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-f-150-2021-2026-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Ford F 150 2021 2026 2021-2026",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f-150-2021-2026-trunk-mats.jpg",
@@ -13018,7 +14003,7 @@ PRODUCTS = [
   "slug": "ford-f-150-2021-2026-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford F 150 2021 2026 2021-2026",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$15-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-f-150-2021-2026-all-weather-mats.jpg",
@@ -13075,7 +14060,7 @@ PRODUCTS = [
   "slug": "ford-f-150-raptor-supercrew-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F 150 Raptor SuperCrew",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f-150-raptor-supercrew-floor-liners.jpg",
@@ -13123,16 +14108,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-f150-raptor-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford F150 Raptor",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-f150-raptor-floor-liners.jpg",
@@ -13179,16 +14164,16 @@ PRODUCTS = [
    "Confirm model year when ordering"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-fiesta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Fiesta",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-fiesta-floor-liners.jpg",
@@ -13232,16 +14217,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-fiesta-prius-rav4-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Fiesta Prius Rav4 Prado",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$20-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/ford-fiesta-prius-rav4-prado-floor-liners.jpg",
@@ -13285,16 +14270,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-focus-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Focus",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/ford-focus-floor-liners.jpg",
@@ -13338,16 +14323,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-mondeo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Mondeo",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-mondeo-floor-liners.jpg",
@@ -13391,16 +14376,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-ranger-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford RANGER",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-floor-liners.jpg",
@@ -13444,16 +14429,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-ranger-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger 2019",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/ford-ranger-floor-liners-2.jpg",
@@ -13497,16 +14482,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-ranger-escape-mustang-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger Escape Mustang",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-escape-mustang-floor-liners.jpg",
@@ -13549,16 +14534,16 @@ PRODUCTS = [
    "Confirm model and year for tooling"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-ranger-f150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Ford Ranger F150",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-f150-floor-liners.jpg",
@@ -13602,16 +14587,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "ford-ranger-raptor-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Ford Ranger Raptor",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/ford-ranger-raptor-all-weather-mats.jpg",
@@ -13656,6 +14641,63 @@ PRODUCTS = [
    "Flat mat profile for all-season use",
    "Wear-resistant TPE under work boots",
    "Single-set minimum to test demand"
+  ],
+  "related": [
+   "byd-atto-3-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats-2"
+  ]
+ },
+ {
+  "slug": "ford-ranger-raptor-all-weather-mats-2",
+  "cat": "all-weather-mats",
+  "name": "All-Weather TPE Floor Mats for Ford Ranger Raptor - TPE  Car Mats",
+  "badge": "Low MOQ",
+  "price": "$14-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/ford-ranger-raptor-all-weather-mats-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/LHD-All-Weather-TPE-Floor-Liners_1601984747229.html",
+  "fitment": {
+   "make": "Ford",
+   "model": "Ranger Raptor",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit all-weather TPE mats for the Ford Ranger Raptor. Set composition is confirmed on the quotation, moulded for LHD vehicles. Coverage is built with a wear-resistant surface, and a raised lip around the perimeter so melted snow and mud stay on the mat. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Ford Ranger Raptor - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "All-season flat mat, raised perimeter"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE  Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Ford Ranger Raptor",
+   "Built for LHD drive",
+   "Tooling reference TPE  Car Mats",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean"
   ],
   "related": [
    "byd-atto-3-all-weather-mats",
@@ -13764,9 +14806,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -13869,9 +14911,9 @@ PRODUCTS = [
    "Ten-set minimum for single-year band orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14023,9 +15065,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14076,9 +15118,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14129,9 +15171,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14235,9 +15277,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14287,9 +15329,9 @@ PRODUCTS = [
    "Ten-set minimum for EV stock programmes"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14335,9 +15377,9 @@ PRODUCTS = [
    "From 20 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14388,9 +15430,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14441,9 +15483,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14542,9 +15584,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14595,9 +15637,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14648,9 +15690,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14701,9 +15743,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14754,9 +15796,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14807,9 +15849,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14860,9 +15902,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14917,9 +15959,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -14974,9 +16016,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -15027,16 +16069,73 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "geely-galaxy-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Geely Galaxy - Leather Car Mats",
+  "badge": "3D Fit",
+  "price": "$20-23/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/geely-galaxy-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-OEM-5D-Surround-TPE-Car_1601865438850.html",
+  "fitment": {
+   "make": "Geely",
+   "model": "Galaxy",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Geely Galaxy. Set size is quoted per model, moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Geely Galaxy - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "Leather Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Geely Galaxy",
+   "Built for LHD drive",
+   "Tooling reference Leather Car Mats",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-l6-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy L6",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-floor-liners.jpg",
@@ -15080,16 +16179,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-l6-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats.jpg",
@@ -15142,7 +16241,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-2.jpg",
@@ -15195,7 +16294,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (2)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-3.jpg",
@@ -15248,7 +16347,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (3)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-4.jpg",
@@ -15301,7 +16400,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (4)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-5.jpg",
@@ -15354,7 +16453,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 - TPE CAR MAT+CARPET (5)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-trunk-mats-6.jpg",
@@ -15407,7 +16506,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-l6-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Galaxy L6 Edge",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-l6-edge-trunk-mats.jpg",
@@ -15460,7 +16559,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship 2025",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-galaxy-starship-floor-liners.jpg",
@@ -15504,16 +16603,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely Galaxy Starship",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-all-weather-mats.jpg",
@@ -15566,7 +16665,7 @@ PRODUCTS = [
   "slug": "geely-galaxy-starship-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-2.jpg",
@@ -15610,16 +16709,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-3.jpg",
@@ -15667,16 +16766,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (2)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-4.jpg",
@@ -15720,16 +16819,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (3)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-5.jpg",
@@ -15777,16 +16876,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (4)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-galaxy-starship-floor-liners-6.jpg",
@@ -15834,16 +16933,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-galaxy-starship-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Galaxy Starship - Geely Galaxy Starship 7 (5)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/geely-galaxy-starship-floor-liners-7.jpg",
@@ -15887,16 +16986,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-geometryc-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Geely GeometryC",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$22-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-geometryc-double-layer-mats.jpg",
@@ -15949,7 +17048,7 @@ PRODUCTS = [
   "slug": "geely-panda-mini-ev-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Panda Mini EV",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-panda-mini-ev-floor-liners.jpg",
@@ -15992,16 +17091,16 @@ PRODUCTS = [
    "Confirm model and year before tooling"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-pandamini-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Pandamini",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-pandamini-floor-liners.jpg",
@@ -16045,16 +17144,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingrui-oriental-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingrui Oriental",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingrui-oriental-floor-liners.jpg",
@@ -16102,16 +17201,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingye-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingye 2021",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingye-floor-liners.jpg",
@@ -16150,16 +17249,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingyuan-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyuan",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyuan-floor-liners.jpg",
@@ -16203,16 +17302,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingyuan-ex2-ev-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyuan EX2 EV",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyuan-ex2-ev-floor-liners.jpg",
@@ -16255,16 +17354,16 @@ PRODUCTS = [
    "Anti-slip backing resists shifting underfoot"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingyue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyue",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-xingyue-floor-liners.jpg",
@@ -16312,16 +17411,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingyue-l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Geely Xingyue L",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-floor-liners.jpg",
@@ -16369,16 +17468,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "geely-xingyue-l-monjaro-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats.jpg",
@@ -16431,7 +17530,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 19 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-2.jpg",
@@ -16484,7 +17583,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-3.jpg",
@@ -16537,7 +17636,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-4.jpg",
@@ -16590,7 +17689,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-5.jpg",
@@ -16643,7 +17742,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (5)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-6.jpg",
@@ -16696,7 +17795,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (6)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-7.jpg",
@@ -16749,7 +17848,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (7)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-8.jpg",
@@ -16802,7 +17901,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-9",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (8)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-9.jpg",
@@ -16855,7 +17954,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-10",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (9)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-10.jpg",
@@ -16908,7 +18007,7 @@ PRODUCTS = [
   "slug": "geely-xingyue-l-monjaro-trunk-mats-11",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Geely Xingyue L Monjaro - TPE CAR MAT+CARPET (10)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/geely-xingyue-l-monjaro-trunk-mats-11.jpg",
@@ -16961,7 +18060,7 @@ PRODUCTS = [
   "slug": "geely-g6-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Geely g6",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/geely-g6-all-weather-mats.jpg",
@@ -17018,7 +18117,7 @@ PRODUCTS = [
   "slug": "gwm-ora-03-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Gwm ORA 03 2026",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/gwm-ora-03-double-layer-mats.jpg",
@@ -17071,7 +18170,7 @@ PRODUCTS = [
   "slug": "gwm-ora-03-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Gwm ORA 03 2026 - car mat",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/gwm-ora-03-double-layer-mats-2.jpg",
@@ -17124,7 +18223,7 @@ PRODUCTS = [
   "slug": "haval-f7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners.jpg",
@@ -17168,16 +18267,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "haval-f7-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7 - Haval F7",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners-2.jpg",
@@ -17221,16 +18320,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "haval-f7-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval F7 - Haval F7 (2)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/haval-f7-floor-liners-3.jpg",
@@ -17274,16 +18373,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "haval-h6-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Haval H6 2021-2024",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$17/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/haval-h6-all-weather-mats.jpg",
@@ -17340,7 +18439,7 @@ PRODUCTS = [
   "slug": "haval-h6-2021-2024-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Haval H6 / 2021 / 2024 2021-2024",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$17/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/haval-h6-2021-2024-floor-liners.jpg",
@@ -17388,16 +18487,122 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "haval-h9-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Haval H9",
+  "badge": "3D Fit",
+  "price": "$18-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/haval-h9-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-TPE-Floor-Mats-for-Haval_1601985650749.html",
+  "fitment": {
+   "make": "Haval",
+   "model": "H9",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Haval H9. Sets are made up per vehicle, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $18-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Haval H9 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Haval H9",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "haval-h9-all-weather-mats",
+  "cat": "all-weather-mats",
+  "name": "All-Weather TPE Floor Mats for Haval h9",
+  "badge": "Custom Fit",
+  "price": "$18-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/haval-h9-all-weather-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/TPE-3D-Raised-Edge-Car-Floor_1601985630899.html",
+  "fitment": {
+   "make": "Haval",
+   "model": "h9",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit all-weather TPE mats for the Haval h9. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and a raised lip around the perimeter so melted snow and mud stay on the mat. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $18-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Haval h9 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "All-season flat mat, raised perimeter"
+   ],
+   [
+    "Thickness",
+    "3.5 mm"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Haval h9",
+   "3.5 mm material thickness",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-atto-3-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats-2"
   ]
  },
  {
   "slug": "honda-accord-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-accord-floor-liners.jpg",
@@ -17441,16 +18646,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$24-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-accord-floor-liners-2.jpg",
@@ -17494,16 +18699,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-11th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 11th 2023",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-accord-11th-floor-liners.jpg",
@@ -17547,16 +18752,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-2008-2012-civic-crv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 2008 2012 civic CRV 2008-2012",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$28-30/set",
   "moq": "MOQ 30 sets",
   "img": "/images/honda-accord-2008-2012-civic-crv-floor-liners.jpg",
@@ -17600,16 +18805,16 @@ PRODUCTS = [
    "From 30 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-2008-2012-civic-crv-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 2008 2012 civic CRV 2008-2012 - car mat",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$28-30/set",
   "moq": "MOQ 30 sets",
   "img": "/images/honda-accord-2008-2012-civic-crv-floor-liners-2.jpg",
@@ -17653,16 +18858,16 @@ PRODUCTS = [
    "From 30 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-7th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord 7th",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-accord-7th-floor-liners.jpg",
@@ -17701,16 +18906,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-civic-cr-v-zrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord Civic CR V ZRV",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$22-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-accord-civic-cr-v-zrv-floor-liners.jpg",
@@ -17754,16 +18959,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-accord-crv-fit-hrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Accord crv fit hrv",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$13-20/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-accord-crv-fit-hrv-floor-liners.jpg",
@@ -17807,16 +19012,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-breeze-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats.jpg",
@@ -17869,7 +19074,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-2.jpg",
@@ -17922,7 +19127,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-3.jpg",
@@ -17975,7 +19180,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (3)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-4.jpg",
@@ -18028,7 +19233,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (4)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-5.jpg",
@@ -18081,7 +19286,7 @@ PRODUCTS = [
   "slug": "honda-breeze-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze 2023 - TPE CAR MAT+CARPET (5)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-trunk-mats-6.jpg",
@@ -18134,7 +19339,7 @@ PRODUCTS = [
   "slug": "honda-breeze-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Fit 2023",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-fit-trunk-mats.jpg",
@@ -18187,7 +19392,7 @@ PRODUCTS = [
   "slug": "honda-breeze-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda Breeze Liquid 2023",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-breeze-liquid-trunk-mats.jpg",
@@ -18240,7 +19445,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-2.jpg",
@@ -18284,16 +19489,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V - tpe  Car Mats",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-3.jpg",
@@ -18341,16 +19546,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats.jpg",
@@ -18398,7 +19603,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-2.jpg",
@@ -18446,7 +19651,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (2)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-cr-v-floor-liners-4.jpg",
@@ -18485,16 +19690,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-double-layer-mats-3",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (3)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-3.jpg",
@@ -18542,7 +19747,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (3)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-cr-v-floor-liners-5.jpg",
@@ -18581,16 +19786,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-double-layer-mats-4",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (4)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-4.jpg",
@@ -18638,7 +19843,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-5",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (5)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-5.jpg",
@@ -18686,7 +19891,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-6",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (6)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-6.jpg",
@@ -18734,7 +19939,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-7",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (7)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-7.jpg",
@@ -18782,7 +19987,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-8",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (8)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-8.jpg",
@@ -18830,7 +20035,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-double-layer-mats-9",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (9)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-9.jpg",
@@ -18878,7 +20083,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V (4)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners-6.jpg",
@@ -18917,16 +20122,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-double-layer-mats-10",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CR V (10)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-double-layer-mats-10.jpg",
@@ -18974,7 +20179,7 @@ PRODUCTS = [
   "slug": "honda-cr-v-2017-2022-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V 2017 2022 2017-2022",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-cr-v-2017-2022-floor-liners.jpg",
@@ -19018,16 +20223,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-2023-2026-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR V 2023 2026 2023-2026",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$15-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-2023-2026-floor-liners.jpg",
@@ -19075,16 +20280,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-cr-v-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CR-V",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-cr-v-floor-liners.jpg",
@@ -19131,16 +20336,16 @@ PRODUCTS = [
    "Confirm model year when ordering"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-crv-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-all-weather-mats.jpg",
@@ -19193,7 +20398,7 @@ PRODUCTS = [
   "slug": "honda-crv-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV - tpe Car Mats",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-all-weather-mats-2.jpg",
@@ -19250,7 +20455,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners.jpg",
@@ -19298,16 +20503,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-crv-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Honda CRV - tpe  Car Mats",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$15-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-all-weather-mats-3.jpg",
@@ -19364,7 +20569,7 @@ PRODUCTS = [
   "slug": "honda-crv-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda CRV 2024",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$20-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-crv-double-layer-mats.jpg",
@@ -19417,7 +20622,7 @@ PRODUCTS = [
   "slug": "honda-crv-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-2.jpg",
@@ -19456,16 +20661,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-crv-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (3)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-3.jpg",
@@ -19504,16 +20709,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-crv-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV (4)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$25-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-crv-floor-liners-4.jpg",
@@ -19552,16 +20757,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-crv-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Honda CRV 2021-2022",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$23-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-crv-trunk-mats.jpg",
@@ -19614,7 +20819,7 @@ PRODUCTS = [
   "slug": "honda-crv-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda CRV 2012 2016 2012-2016",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$13-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-crv-2012-2016-floor-liners.jpg",
@@ -19658,16 +20863,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 2022",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners.jpg",
@@ -19711,16 +20916,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners-2.jpg",
@@ -19768,16 +20973,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - Honda Civic",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-civic-floor-liners-3.jpg",
@@ -19825,16 +21030,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - Leather Car Mats",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-civic-floor-liners-4.jpg",
@@ -19882,16 +21087,16 @@ PRODUCTS = [
    "Odourless TPE, no plasticiser"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-6.jpg",
@@ -19935,16 +21140,16 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-7.jpg",
@@ -19988,16 +21193,16 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic - TPE Car Floor Mats (3)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$13-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/honda-civic-floor-liners-8.jpg",
@@ -20041,16 +21246,165 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "honda-civic-floor-liners-9",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Honda Civic - Buick Envision Plus SUV",
+  "badge": "Low MOQ",
+  "price": "$16-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/honda-civic-floor-liners-9.jpg",
+  "src": "https://www.alibaba.com/product-detail/Odorless-TPE-Car-Floor-Mats-for_1601984660724.html",
+  "fitment": {
+   "make": "Honda",
+   "model": "Civic",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Honda Civic. Sets are made up per vehicle. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Honda Civic - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ],
+   [
+    "Tooling / model no.",
+    "Buick Envision Plus SUV"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Honda Civic",
+   "Tooling reference for Buick Envision Plus SUV",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "honda-civic-floor-liners-10",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Honda Civic (2)",
+  "badge": "OEM Ready",
+  "price": "$15-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/honda-civic-floor-liners-10.jpg",
+  "src": "https://www.alibaba.com/product-detail/Durable-TPE-Car-Foot-Mats-for_1601984764293.html",
+  "fitment": {
+   "make": "Honda",
+   "model": "Civic",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Honda Civic. Set composition is confirmed on the quotation. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $15-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Honda Civic - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Honda Civic",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "honda-civic-floor-liners-11",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Honda Civic (3)",
+  "badge": "3D Fit",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/honda-civic-floor-liners-11.jpg",
+  "src": "https://www.alibaba.com/product-detail/Eco-Friendly-TPE-Car-Floor-Mats_1601975426464.html",
+  "fitment": {
+   "make": "Honda",
+   "model": "Civic",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Honda Civic. Set size is quoted per model. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Honda Civic - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Honda Civic",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-11th-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 11th",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$16-30/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-civic-11th-floor-liners.jpg",
@@ -20094,16 +21448,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-civic-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Civic 2012 2016 2012-2016",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-civic-2012-2016-floor-liners.jpg",
@@ -20147,16 +21501,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-fit-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda FIT",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-fit-floor-liners.jpg",
@@ -20200,16 +21554,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-fit-crv-accord-city-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda FIT CRV ACCORD CITY",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/honda-fit-crv-accord-city-floor-liners.jpg",
@@ -20248,16 +21602,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-hrv-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda HRV",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/honda-hrv-floor-liners.jpg",
@@ -20296,16 +21650,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-odyssey-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda Odyssey 2019",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/honda-odyssey-floor-liners.jpg",
@@ -20349,16 +21703,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "honda-zr-v-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Honda ZR V",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-zr-v-double-layer-mats.jpg",
@@ -20406,7 +21760,7 @@ PRODUCTS = [
   "slug": "honda-civic-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Honda civic",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/honda-civic-floor-liners-5.jpg",
@@ -20450,16 +21804,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hongqi-floor-liners",
   "cat": "floor-liners",
   "name": "3-Piece TPE Floor Liners for Hongqi - Made to Order",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-floor-liners.jpg",
@@ -20496,16 +21850,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hongqi-h5-h6-h7-h9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hongqi H5 / H6 / H7 / H9",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-h5-h6-h7-h9-floor-liners.jpg",
@@ -20548,16 +21902,16 @@ PRODUCTS = [
    "Confirm variant and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hongqi-h5-hs5-h6-e-qm5-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Hongqi H5 HS5 H6 E QM5",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hongqi-h5-hs5-h6-e-qm5-all-weather-mats.jpg",
@@ -20610,7 +21964,7 @@ PRODUCTS = [
   "slug": "hyundai-accent-tucson-santa-fe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Accent tucson santa Fe",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$12-15/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-accent-tucson-santa-fe-floor-liners.jpg",
@@ -20654,16 +22008,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-elantra-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats.jpg",
@@ -20716,7 +22070,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Elantra",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-floor-liners.jpg",
@@ -20760,16 +22114,69 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "hyundai-elantra-floor-liners-3",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Hyundai Elantra - Leather Car Mats",
+  "badge": "3D Fit",
+  "price": "$20-23/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/hyundai-elantra-floor-liners-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/TPE-Car-Floor-Mats-Specially-Developed_1601865463596.html",
+  "fitment": {
+   "make": "Hyundai",
+   "model": "Elantra",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Hyundai Elantra. Set composition is confirmed on the quotation. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $20-23/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Hyundai Elantra - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "Leather Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Hyundai Elantra",
+   "Tooling reference Leather Car Mats",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-elantra-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - Leather Car Mats",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats-2.jpg",
@@ -20822,7 +22229,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-trunk-mats-3.jpg",
@@ -20875,7 +22282,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-4.jpg",
@@ -20928,7 +22335,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-5.jpg",
@@ -20981,7 +22388,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (3)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-6.jpg",
@@ -21034,7 +22441,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (4)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-7.jpg",
@@ -21091,7 +22498,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra - TPE CAR MAT+CARPET (5)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-trunk-mats-8.jpg",
@@ -21144,7 +22551,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Elantra 2017",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-elantra-floor-liners-2.jpg",
@@ -21188,16 +22595,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-elantra-avante-cn7-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Avante CN7",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-avante-cn7-trunk-mats.jpg",
@@ -21250,7 +22657,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Edge",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-edge-trunk-mats.jpg",
@@ -21303,7 +22710,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-edge-guard-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Edge Guard",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-edge-guard-trunk-mats.jpg",
@@ -21356,7 +22763,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Fit",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-fit-trunk-mats.jpg",
@@ -21409,7 +22816,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-harmless-light-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Harmless Light",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-harmless-light-trunk-mats.jpg",
@@ -21462,7 +22869,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Liquid",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-liquid-trunk-mats.jpg",
@@ -21515,7 +22922,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Rain",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-elantra-rain-trunk-mats.jpg",
@@ -21568,7 +22975,7 @@ PRODUCTS = [
   "slug": "hyundai-elantra-sedan-3-5mm-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Elantra Sedan 3.5mm",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-elantra-sedan-3-5mm-trunk-mats.jpg",
@@ -21624,7 +23031,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Grand I10",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-floor-liners.jpg",
@@ -21668,16 +23075,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-grand-i10-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Grand I10",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-trunk-mats.jpg",
@@ -21730,7 +23137,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Grand I10 - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-grand-i10-trunk-mats-2.jpg",
@@ -21783,7 +23190,7 @@ PRODUCTS = [
   "slug": "hyundai-grand-i10-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Grand I10 - Hyundai Grand I10-Z203",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-grand-i10-floor-liners-2.jpg",
@@ -21827,16 +23234,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-ix35-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Ix35",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-ix35-floor-liners.jpg",
@@ -21880,16 +23287,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-palisade-calligraphy-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Palisade Calligraphy 2026",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-palisade-calligraphy-floor-liners.jpg",
@@ -21928,16 +23335,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-santa-fe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners.jpg",
@@ -21981,16 +23388,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-santa-fe-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - TPE Car Mats",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners-2.jpg",
@@ -22034,16 +23441,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-santa-fe-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - Leather Car Mats",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/hyundai-santa-fe-floor-liners-3.jpg",
@@ -22087,16 +23494,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-santa-fe-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Santa Fe - Leather Car Mats (2)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-santa-fe-floor-liners-4.jpg",
@@ -22140,16 +23547,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-sonata-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Sonata 2018",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 2 sets",
   "img": "/images/hyundai-sonata-floor-liners.jpg",
@@ -22188,16 +23595,16 @@ PRODUCTS = [
    "From 2 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tucson-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai TUCSON",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$24-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/hyundai-tucson-floor-liners-4.jpg",
@@ -22241,16 +23648,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tucson-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson 2021",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-tucson-floor-liners.jpg",
@@ -22294,16 +23701,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tucson-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson 2021 - Hyundai Tucson 2021+ -Z019",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/hyundai-tucson-floor-liners-2.jpg",
@@ -22347,16 +23754,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tucson-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Hyundai Tucson",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tucson-trunk-mats.jpg",
@@ -22409,7 +23816,7 @@ PRODUCTS = [
   "slug": "hyundai-tucson-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 5 pieces",
   "img": "/images/hyundai-tucson-floor-liners-3.jpg",
@@ -22453,16 +23860,16 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tucson-sonata-tucson-venue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tucson Sonata Tucson Venue",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tucson-sonata-tucson-venue-floor-liners.jpg",
@@ -22506,16 +23913,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-tuscon-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Tuscon",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-tuscon-floor-liners.jpg",
@@ -22555,16 +23962,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "hyundai-veloster-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Hyundai Veloster",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/hyundai-veloster-floor-liners.jpg",
@@ -22603,16 +24010,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "im-ls72025-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for IM LS72025",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$13-22/set",
   "moq": "MOQ 10 sets",
   "img": "/images/im-ls72025-floor-liners.jpg",
@@ -22656,16 +24063,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "isuzu-dmax-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Isuzu DMax",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/isuzu-dmax-floor-liners.jpg",
@@ -22709,16 +24116,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "jac-js4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for JAC JS4",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/jac-js4-floor-liners.jpg",
@@ -22762,16 +24169,391 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-refine-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC Refine",
+  "badge": "OEM Ready",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-refine-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-Deep-Dish-TPE-Floor-Mats_1601993771712.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "Refine",
+   "years": "",
+   "body": "Mpv",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the JAC Refine. Sets are made up per vehicle, shaped for the mpv floor pan. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC Refine - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Mpv"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC Refine",
+   "Shaped for mpv floor pans",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-refine-m3-m4-m5-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC Refine M3 M4 M5",
+  "badge": "3D Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-refine-m3-m4-m5-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-TPE-Car-Floor-Mats_1601993811435.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "Refine M3 M4 M5",
+   "years": "",
+   "body": "Mpv",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the JAC Refine M3 M4 M5. Sets are made up per vehicle, shaped for the mpv floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC Refine M3 M4 M5 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Mpv"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC Refine M3 M4 M5",
+   "Shaped for mpv floor pans",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-refine-m4-rf8-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC Refine M4 RF8",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-refine-m4-rf8-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-Wholesale-All-Weather-TPE-Car_1601993738991.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "Refine M4 RF8",
+   "years": "",
+   "body": "Mpv",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the JAC Refine M4 RF8. Set composition is confirmed on the quotation, moulded for LHD vehicles, shaped for the mpv floor pan. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC Refine M4 RF8 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "Body type",
+    "Mpv"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC Refine M4 RF8",
+   "Built for LHD drive",
+   "Shaped for mpv floor pans",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-shuailing-t6-t8-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC Shuailing T6 T8",
+  "badge": "All-Season",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-shuailing-t6-t8-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-3D-TPE-Car-Floor-Mats_1601975358702.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "Shuailing T6 T8",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the JAC Shuailing T6 T8. Set size is quoted per model, shaped for the pickup floor pan. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC Shuailing T6 T8 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC Shuailing T6 T8",
+   "Shaped for pickup floor pans",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-t6-t8-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC T6 T8",
+  "badge": "Low MOQ",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-t6-t8-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-Full-Surround-Floor-Mats_1601975462183.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "T6 T8",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the JAC T6 T8. Sets are made up per vehicle, shaped for the pickup floor pan. Coverage is built with a wear-resistant surface, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC T6 T8 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC T6 T8",
+   "Shaped for pickup floor pans",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-t6-t8-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC T6 T8 (2)",
+  "badge": "OEM Ready",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-t6-t8-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/All-Weather-TPE-Floor-Liners-Fit_1601975336949.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "T6 T8",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the JAC T6 T8. Sets are made up per vehicle, shaped for the pickup floor pan. Coverage is built with a wear-resistant surface, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC T6 T8 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC T6 T8",
+   "Shaped for pickup floor pans",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "jac-t6-t8-double-layer-mats",
+  "cat": "double-layer-mats",
+  "name": "Double-Layer TPE Car Mats for JAC T6 T8",
+  "badge": "3D Fit",
+  "price": "$16-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-t6-t8-double-layer-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Full-Surround-Double-Layer-Floor-Mats_1601975373683.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "T6 T8",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit two-layer TPE floor mats for the JAC T6 T8. Sets are made up per vehicle, shaped for the pickup floor pan. Coverage is built with a detachable double-layer construction, and a base tray with a detachable top layer that lifts out for hosing down. The top layer lifts out, so the base stays in place while the upper mat is hosed down. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC T6 T8 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Detachable two-layer construction"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC T6 T8",
+   "Shaped for pickup floor pans",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-dolphin-double-layer-mats",
+   "byd-song-double-layer-mats",
+   "byd-song-double-layer-mats-2"
   ]
  },
  {
   "slug": "jac-t8-max-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for JAC T8 MAX",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$53-55/set",
   "moq": "MOQ 5 sets",
   "img": "/images/jac-t8-max-trunk-mats.jpg",
@@ -22818,6 +24600,54 @@ PRODUCTS = [
    "byd-song-trunk-mats",
    "byd-seal-06-trunk-mats",
    "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "jac-ytterby-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for JAC YTTERBY",
+  "badge": "All-Season",
+  "price": "$15-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/jac-ytterby-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Car-Floor-Mats-3D-TPE-Customizable_1601976835995.html",
+  "fitment": {
+   "make": "JAC",
+   "model": "YTTERBY",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the JAC YTTERBY. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $15-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "JAC YTTERBY - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit JAC YTTERBY",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -22982,9 +24812,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23039,9 +24869,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23197,9 +25027,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23254,9 +25084,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23311,9 +25141,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23478,9 +25308,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23694,9 +25524,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -23843,9 +25673,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24010,9 +25840,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24164,9 +25994,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24217,9 +26047,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24270,9 +26100,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24318,9 +26148,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24371,9 +26201,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24424,9 +26254,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24477,9 +26307,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24525,9 +26355,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24578,9 +26408,9 @@ PRODUCTS = [
    "From 5 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -24794,16 +26624,122 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "lexus-gx-550-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Lexus GX 550 2024",
+  "badge": "3D Fit",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/lexus-gx-550-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-Para-Coche-3D-TPE-Y_11000039981046.html",
+  "fitment": {
+   "make": "Lexus",
+   "model": "GX 550",
+   "years": "2024",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Lexus GX 550 (2024). Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Lexus GX 550 (2024)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Lexus GX 550-S603"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Lexus GX 550 (2024)",
+   "Tooling reference for   Lexus GX 550-S603",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "lexus-lx-600-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Lexus LX 600 2024",
+  "badge": "Custom Fit",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/lexus-lx-600-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-Para-Coche-3D-TPE-Y_11000039938848.html",
+  "fitment": {
+   "make": "Lexus",
+   "model": "LX 600",
+   "years": "2024",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Lexus LX 600 (2024). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Lexus LX 600 (2024)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Lexus LX 600 2024+-S602"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Lexus LX 600 (2024)",
+   "Tooling reference for  Lexus LX 600 2024+-S602",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$19-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-floor-liners.jpg",
@@ -24847,16 +26783,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 - TPE Car Mats",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-floor-liners-2.jpg",
@@ -24900,16 +26836,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-2024-2026-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Luxeed R7 / 2024 / 2026 2024-2026",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-2024-2026-trunk-mats.jpg",
@@ -24962,7 +26898,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-2024-2026-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Luxeed R7 / R9 / 2024 / 2026 2024-2026",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-2024-2026-all-weather-mats.jpg",
@@ -25015,7 +26951,7 @@ PRODUCTS = [
   "slug": "luxeed-r7-r9-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-r9-floor-liners.jpg",
@@ -25059,16 +26995,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-r9-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9 - Leather Car Mats",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-floor-liners-2.jpg",
@@ -25112,16 +27048,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-r9-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 R9 - Leather Car Mats (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r7-r9-floor-liners-3.jpg",
@@ -25165,16 +27101,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r7-ultra-max-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Luxeed R7 Ultra Max",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/luxeed-r7-ultra-max-floor-liners.jpg",
@@ -25213,16 +27149,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "luxeed-r9-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Luxeed R9",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/luxeed-r9-all-weather-mats.jpg",
@@ -25275,7 +27211,7 @@ PRODUCTS = [
   "slug": "mg-emgrand-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG EMGRAND",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$10-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-emgrand-floor-liners.jpg",
@@ -25319,16 +27255,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mg-hs-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners.jpg",
@@ -25372,16 +27308,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mg-hs-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners-2.jpg",
@@ -25425,16 +27361,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mg-hs-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG HS - TPE CAR MAT+CARPET (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-floor-liners-3.jpg",
@@ -25478,16 +27414,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mg-hs-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats.jpg",
@@ -25544,7 +27480,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-2.jpg",
@@ -25597,7 +27533,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-3.jpg",
@@ -25650,7 +27586,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-4.jpg",
@@ -25703,7 +27639,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/mg-hs-trunk-mats-5.jpg",
@@ -25756,7 +27692,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-6",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (5)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-6.jpg",
@@ -25809,7 +27745,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-7",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (6)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-7.jpg",
@@ -25866,7 +27802,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-8",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (7)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-8.jpg",
@@ -25919,7 +27855,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-9",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (8)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-9.jpg",
@@ -25972,7 +27908,7 @@ PRODUCTS = [
   "slug": "mg-hs-trunk-mats-10",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS - TPE CAR MAT+CARPET (9)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-trunk-mats-10.jpg",
@@ -26025,7 +27961,7 @@ PRODUCTS = [
   "slug": "mg-hs-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Edge",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-edge-trunk-mats.jpg",
@@ -26078,7 +28014,7 @@ PRODUCTS = [
   "slug": "mg-hs-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Fit",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-fit-trunk-mats.jpg",
@@ -26131,7 +28067,7 @@ PRODUCTS = [
   "slug": "mg-hs-lightweight-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Lightweight",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-lightweight-trunk-mats.jpg",
@@ -26184,7 +28120,7 @@ PRODUCTS = [
   "slug": "mg-hs-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Liquid",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-liquid-trunk-mats.jpg",
@@ -26237,7 +28173,7 @@ PRODUCTS = [
   "slug": "mg-hs-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for MG HS Rain",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-hs-rain-trunk-mats.jpg",
@@ -26290,7 +28226,7 @@ PRODUCTS = [
   "slug": "mg-zs-hs-one-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for MG ZS HS ONE",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$13-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mg-zs-hs-one-double-layer-mats.jpg",
@@ -26338,7 +28274,7 @@ PRODUCTS = [
   "slug": "mg-zs-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for MG Zs",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-30/set",
   "moq": "MOQ 1 set",
   "img": "/images/mg-zs-floor-liners.jpg",
@@ -26382,16 +28318,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "maxus-bazda-amorak-hunter-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Maxus BAZDA AMORAK HUNTER",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$53-55/set",
   "moq": "MOQ 5 sets",
   "img": "/images/maxus-bazda-amorak-hunter-trunk-mats.jpg",
@@ -26444,7 +28380,7 @@ PRODUCTS = [
   "slug": "mazda-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-floor-liners.jpg",
@@ -26481,16 +28417,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order - MAZDA 3",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-floor-liners-2.jpg",
@@ -26531,16 +28467,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda - Made to Order - Mazda 3",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mazda-floor-liners-3.jpg",
@@ -26577,16 +28513,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-3-cx-30-cx-5-cx-50-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda 3 CX-30 CX-5 CX-50",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-3-cx-30-cx-5-cx-50-floor-liners.jpg",
@@ -26629,16 +28565,16 @@ PRODUCTS = [
    "Single-set minimum for a first order"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-3-zero-formaldehyde-safe-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda 3 Zero Formaldehyde Safe",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-3-zero-formaldehyde-safe-floor-liners.jpg",
@@ -26681,16 +28617,16 @@ PRODUCTS = [
    "Single-set minimum to trial the fit"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-axela-cx-30-cx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda Axela CX 30 CX",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-axela-cx-30-cx-floor-liners.jpg",
@@ -26738,16 +28674,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-cx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda CX",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-floor-liners.jpg",
@@ -26791,16 +28727,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-cx-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mazda CX - Mazda CX-5",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-floor-liners-2.jpg",
@@ -26844,16 +28780,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mazda-cx-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Mazda CX",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$25-28/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-double-layer-mats.jpg",
@@ -26906,7 +28842,7 @@ PRODUCTS = [
   "slug": "mazda-cx-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-trunk-mats.jpg",
@@ -26959,7 +28895,7 @@ PRODUCTS = [
   "slug": "mazda-cx-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$23-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-cx-trunk-mats-2.jpg",
@@ -27007,7 +28943,7 @@ PRODUCTS = [
   "slug": "mazda-cx-2013-2024-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX 2013 2024 2013-2024",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$9-13/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mazda-cx-2013-2024-trunk-mats.jpg",
@@ -27064,7 +29000,7 @@ PRODUCTS = [
   "slug": "mazda-cx-90-2024-2025-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX 90 2024 2025 2024-2025",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/mazda-cx-90-2024-2025-trunk-mats.jpg",
@@ -27117,7 +29053,7 @@ PRODUCTS = [
   "slug": "mazda-cx3-cx5-cx30-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Mazda CX3 / CX5 / CX30",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$15-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mazda-cx3-cx5-cx30-trunk-mats.jpg",
@@ -27165,7 +29101,7 @@ PRODUCTS = [
   "slug": "mercedes-benz-c260l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-floor-liners.jpg",
@@ -27213,16 +29149,16 @@ PRODUCTS = [
    "Odourless TPE, no plasticiser"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mercedes-benz-c260l-w205-w206-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L / W205 / W206",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-w205-w206-floor-liners.jpg",
@@ -27265,16 +29201,16 @@ PRODUCTS = [
    "Confirm body code and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mercedes-benz-c260l-w206-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz C260L W206",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mercedes-benz-c260l-w206-floor-liners.jpg",
@@ -27318,9 +29254,168 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-e-class-w214-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Mercedes-Benz E Class W214 2024",
+  "badge": "3D Fit",
+  "price": "$14-18/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/mercedes-benz-e-class-w214-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-TPE-Floor-Trunk-Mats-For_1601988597739.html",
+  "fitment": {
+   "make": "Mercedes-Benz",
+   "model": "E Class W214",
+   "years": "2024",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Mercedes-Benz E Class W214 (2024). Moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $14-18/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mercedes-Benz E Class W214 (2024)"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mercedes-Benz E Class W214 (2024)",
+   "Built for LHD drive",
+   "TPE compound that stays flexible in the cold",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-e-class-w214-2024-2026-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Mercedes-Benz E Class W214 2024 2026 2024-2026",
+  "badge": "Custom Fit",
+  "price": "$14-18/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/mercedes-benz-e-class-w214-2024-2026-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-TPE-Floor-Mats-Trunk-Liner_1601988682235.html",
+  "fitment": {
+   "make": "Mercedes-Benz",
+   "model": "E Class W214 2024 2026",
+   "years": "2024-2026",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Mercedes-Benz E Class W214 2024 2026 (2024-2026). Moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $14-18/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mercedes-Benz E Class W214 2024 2026 (2024-2026)"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mercedes-Benz E Class W214 2024 2026 (2024-2026)",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-e-w214-standard-wheelbase-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Mercedes-Benz E W214 Standard Wheelbase",
+  "badge": "All-Season",
+  "price": "$14-20/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/mercedes-benz-e-w214-standard-wheelbase-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/All-Weather-TPE-Car-Mats-and_1601988690196.html",
+  "fitment": {
+   "make": "Mercedes-Benz",
+   "model": "E W214 Standard Wheelbase",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE trunk mats for the Mercedes-Benz E W214 Standard Wheelbase. Moulded for LHD vehicles. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mercedes-Benz E W214 Standard Wheelbase - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mercedes-Benz E W214 Standard Wheelbase",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
   ]
  },
  {
@@ -27371,9 +29466,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27424,9 +29519,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27477,9 +29572,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27530,9 +29625,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27583,9 +29678,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27689,9 +29784,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27742,9 +29837,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27795,9 +29890,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27848,9 +29943,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27901,9 +29996,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -27953,9 +30048,9 @@ PRODUCTS = [
    "Confirm model year when ordering"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -28006,9 +30101,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -28063,16 +30158,68 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-gla-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mercedes-Benz GLA 2021",
+  "badge": "All-Season",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/mercedes-benz-gla-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombrillas-Para-Mercedes-Benz-GLA-2021_1602014731126.html",
+  "fitment": {
+   "make": "Mercedes-Benz",
+   "model": "GLA",
+   "years": "2021",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Mercedes-Benz GLA (2021). Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mercedes-Benz GLA (2021)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Mercedes-Benz GLA 2021+-S18"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mercedes-Benz GLA (2021)",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mercedes-benz-glc-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mercedes-Benz GLC",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mercedes-benz-glc-floor-liners.jpg",
@@ -28116,16 +30263,68 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mercedes-benz-gle-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mercedes-Benz GLE 2019",
+  "badge": "OEM Ready",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/mercedes-benz-gle-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapetes-5D-Para-Mercedes-Benz-GLE_1602014689025.html",
+  "fitment": {
+   "make": "Mercedes-Benz",
+   "model": "GLE",
+   "years": "2019",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Mercedes-Benz GLE (2019). Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mercedes-Benz GLE (2019)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Mercedes-Benz GLE 2019+-Z107"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mercedes-Benz GLE (2019)",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners.jpg",
@@ -28173,16 +30372,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-2.jpg",
@@ -28226,16 +30425,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (2)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-3.jpg",
@@ -28279,16 +30478,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (3)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-4.jpg",
@@ -28332,16 +30531,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (4)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-5.jpg",
@@ -28385,16 +30584,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (5)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-6.jpg",
@@ -28438,16 +30637,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX - Mitsubishi ASX (6)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-floor-liners-7.jpg",
@@ -28491,16 +30690,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-crossover-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Crossover",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-crossover-floor-liners.jpg",
@@ -28548,16 +30747,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-crossover-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Crossover - Mitsubishi ASX",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-crossover-floor-liners-2.jpg",
@@ -28605,16 +30804,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-asx-outlander-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi ASX Outlander Sport 2020",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-asx-outlander-sport-floor-liners.jpg",
@@ -28657,16 +30856,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-civic-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Civic",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-civic-all-weather-mats.jpg",
@@ -28719,7 +30918,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross 2018",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners.jpg",
@@ -28762,16 +30961,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-2.jpg",
@@ -28819,16 +31018,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats.jpg",
@@ -28881,7 +31080,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-3.jpg",
@@ -28929,16 +31128,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (2)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-4.jpg",
@@ -28982,16 +31181,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (3)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-5.jpg",
@@ -29039,16 +31238,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (4)",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-6.jpg",
@@ -29092,16 +31291,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross - Eclipse Cross",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats-2.jpg",
@@ -29158,7 +31357,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi Eclipse Cross - Eclipse Cross (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-all-weather-mats-3.jpg",
@@ -29211,7 +31410,7 @@ PRODUCTS = [
   "slug": "mitsubishi-eclipse-cross-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross - Eclipse Cross (5)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-floor-liners-7.jpg",
@@ -29259,16 +31458,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-crossover-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross Crossover",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-crossover-floor-liners.jpg",
@@ -29312,16 +31511,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-eclipse-cross-crossover-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Eclipse Cross Crossover - Eclipse Cross",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-eclipse-cross-crossover-floor-liners-2.jpg",
@@ -29365,16 +31564,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-l200-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi L200",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-l200-all-weather-mats.jpg",
@@ -29427,7 +31626,7 @@ PRODUCTS = [
   "slug": "mitsubishi-l200-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Mitsubishi L200 - MITSUBISHI L200",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-l200-all-weather-mats-2.jpg",
@@ -29477,10 +31676,207 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "mitsubishi-l200-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mitsubishi L200",
+  "badge": "3D Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/mitsubishi-l200-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Wholesale-Custom-Molded-3D-TPE-Car_1601994967466.html",
+  "fitment": {
+   "make": "Mitsubishi",
+   "model": "L200",
+   "years": "",
+   "body": "Pickup",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Mitsubishi L200. Sets are made up per vehicle, shaped for the pickup floor pan. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mitsubishi L200 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Body type",
+    "Pickup"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mitsubishi L200",
+   "Shaped for pickup floor pans",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mitsubishi-l200-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mitsubishi L200 (2)",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/mitsubishi-l200-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/All-Weather-Heavy-Duty-3D-TPE_1601994961447.html",
+  "fitment": {
+   "make": "Mitsubishi",
+   "model": "L200",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Mitsubishi L200. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mitsubishi L200 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mitsubishi L200",
+   "TPE compound that stays flexible in the cold",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mitsubishi-l200-triton-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mitsubishi L200 Triton",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/mitsubishi-l200-triton-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Eco-Friendly-Odorless-TPE-Floor-Liners_1601994982286.html",
+  "fitment": {
+   "make": "Mitsubishi",
+   "model": "L200 Triton",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi L200 Triton. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mitsubishi L200 Triton - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mitsubishi L200 Triton",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "mitsubishi-l200-triton-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Mitsubishi L200 Triton (2)",
+  "badge": "Low MOQ",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/mitsubishi-l200-triton-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-Direct-3D-TPE-Car-Floor_1601994928773.html",
+  "fitment": {
+   "make": "Mitsubishi",
+   "model": "L200 Triton",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Mitsubishi L200 Triton. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Mitsubishi L200 Triton - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Mitsubishi L200 Triton",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
   "slug": "mitsubishi-montero-pajero-sport-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Montero Pajero Sport 2023",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-montero-pajero-sport-floor-liners.jpg",
@@ -29523,16 +31919,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-outlander-2011-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi OUTLANDER 2011 2023 2011-2023",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-outlander-2011-2023-floor-liners.jpg",
@@ -29571,16 +31967,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-outlander-2011-2023-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi OUTLANDER 2011 2023 2011-2023 (2)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$23-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/mitsubishi-outlander-2011-2023-floor-liners-2.jpg",
@@ -29619,16 +32015,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-outlander-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Outlander 2019",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/mitsubishi-outlander-floor-liners.jpg",
@@ -29672,16 +32068,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners.jpg",
@@ -29725,16 +32121,16 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-2.jpg",
@@ -29778,16 +32174,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-3.jpg",
@@ -29831,16 +32227,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - TPE Car Floor Mats",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners-4.jpg",
@@ -29884,16 +32280,16 @@ PRODUCTS = [
    "From 4 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (3)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-5.jpg",
@@ -29937,16 +32333,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 (2)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-l200-floor-liners-6.jpg",
@@ -29985,16 +32381,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - TPE Car Floor Mats (2)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/mitsubishi-triton-l200-floor-liners-7.jpg",
@@ -30042,16 +32438,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (4)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-8.jpg",
@@ -30095,16 +32491,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 (3)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-l200-floor-liners-9.jpg",
@@ -30143,16 +32539,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (5)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-10.jpg",
@@ -30196,16 +32592,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-13",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (6)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-13.jpg",
@@ -30249,16 +32645,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-14",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (7)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-14.jpg",
@@ -30302,16 +32698,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-15",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi TRITON L200 - tpe-001 (8)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-15.jpg",
@@ -30355,16 +32751,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-35/set",
   "moq": "MOQ 1 set",
   "img": "/images/mitsubishi-triton-floor-liners.jpg",
@@ -30408,16 +32804,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton L200",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-11.jpg",
@@ -30461,16 +32857,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "mitsubishi-triton-l200-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Mitsubishi Triton L200 - tpe-001",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$19.90-49.80/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/mitsubishi-triton-l200-floor-liners-12.jpg",
@@ -30518,16 +32914,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nio-exw-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Nio EXW",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/nio-exw-all-weather-mats.jpg",
@@ -30580,7 +32976,7 @@ PRODUCTS = [
   "slug": "nissan-altima-2019-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Altima 2019 2023 2019-2023",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/nissan-altima-2019-2023-floor-liners.jpg",
@@ -30624,16 +33020,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-kicks-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan KICKS 2025",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$28-35/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/nissan-kicks-trunk-mats.jpg",
@@ -30690,7 +33086,7 @@ PRODUCTS = [
   "slug": "nissan-kicks-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Kicks",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-kicks-floor-liners.jpg",
@@ -30734,16 +33130,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners.jpg",
@@ -30787,16 +33183,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara - Nissan Navara",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners-2.jpg",
@@ -30844,16 +33240,16 @@ PRODUCTS = [
    "TPE compound that stays flexible in the cold"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara - Nissan Navara (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-floor-liners-3.jpg",
@@ -30901,16 +33297,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-np300-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara NP300",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-floor-liners.jpg",
@@ -30957,16 +33353,16 @@ PRODUCTS = [
    "Ten-set minimum for distributor orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-np300-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Navara NP300 - W for Nissan",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-floor-liners-2.jpg",
@@ -31010,16 +33406,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-navara-np300-d23-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Nissan Navara NP300 D23",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-navara-np300-d23-all-weather-mats.jpg",
@@ -31072,7 +33468,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-t32-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan ROGUE T32",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-rogue-t32-floor-liners.jpg",
@@ -31111,16 +33507,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-rogue-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan Rogue",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$17-22/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-rogue-floor-liners.jpg",
@@ -31164,16 +33560,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-rogue-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan Rogue",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-rogue-double-layer-mats.jpg",
@@ -31221,7 +33617,7 @@ PRODUCTS = [
   "slug": "nissan-rogue-t32-x-trail-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan Rogue T32 X Trail",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-rogue-t32-x-trail-double-layer-mats.jpg",
@@ -31269,7 +33665,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-rogue-2021-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X TRAIL Rogue 2021 2023 2021-2023",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$10-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-rogue-2021-2023-floor-liners.jpg",
@@ -31308,16 +33704,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats.jpg",
@@ -31370,7 +33766,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-2.jpg",
@@ -31423,7 +33819,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (2)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-3.jpg",
@@ -31476,7 +33872,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-4.jpg",
@@ -31529,7 +33925,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-trunk-mats-5.jpg",
@@ -31582,7 +33978,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2020",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/nissan-x-trail-floor-liners.jpg",
@@ -31626,16 +34022,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-100-environmental-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 100 Environmental",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-100-environmental-floor-liners.jpg",
@@ -31679,16 +34075,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-2014-2021-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail 2014 2021 2014-2021",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-trunk-mats.jpg",
@@ -31741,7 +34137,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-2014-2021-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners.jpg",
@@ -31785,16 +34181,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-2014-2021-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-2.jpg",
@@ -31838,16 +34234,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-2014-2021-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (2)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-3.jpg",
@@ -31895,16 +34291,16 @@ PRODUCTS = [
    "Odourless and halogen-free TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-2014-2021-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (3)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-4.jpg",
@@ -31948,16 +34344,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-2014-2021-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail 2014 2021 2014-2021 - TPE CAR MAT+CARPET (4)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-2014-2021-floor-liners-5.jpg",
@@ -32001,16 +34397,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Nissan X Trail Fit",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/nissan-x-trail-fit-trunk-mats.jpg",
@@ -32063,7 +34459,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/nissan-x-trail-t32-double-layer-mats.jpg",
@@ -32120,7 +34516,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-double-layer-mats-2",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32 - TPE Car Floor Mats",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-25/set",
   "moq": "MOQ 4 sets",
   "img": "/images/nissan-x-trail-t32-double-layer-mats-2.jpg",
@@ -32177,7 +34573,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-t32-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X Trail T32",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-t32-floor-liners.jpg",
@@ -32221,16 +34617,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "nissan-x-trail-t32-double-layer-mats-3",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X Trail T32 (2)",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-t32-double-layer-mats-3.jpg",
@@ -32283,7 +34679,7 @@ PRODUCTS = [
   "slug": "nissan-x-terra-armada-pathfinder-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Nissan X terra Armada Pathfinder",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$18.98-22.98/piece",
   "moq": "MOQ 4 pieces",
   "img": "/images/nissan-x-terra-armada-pathfinder-double-layer-mats.jpg",
@@ -32336,7 +34732,7 @@ PRODUCTS = [
   "slug": "nissan-x-trail-snow-mud-proof-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Nissan X-Trail Snow Mud Proof",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/nissan-x-trail-snow-mud-proof-floor-liners.jpg",
@@ -32379,16 +34775,16 @@ PRODUCTS = [
    "Confirm model and year at ordering"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "onvo-l60-l80-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Onvo L60 L80",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-all-weather-mats.jpg",
@@ -32441,7 +34837,7 @@ PRODUCTS = [
   "slug": "onvo-l60-l80-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Onvo L60 L80",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-double-layer-mats.jpg",
@@ -32491,10 +34887,63 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "onvo-l60-l80-all-weather-mats-3",
+  "cat": "all-weather-mats",
+  "name": "All-Weather TPE Floor Mats for Onvo L60 L80 - tpe Car Mats",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/onvo-l60-l80-all-weather-mats-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-5D-Raised-Wall-TPE_1601891390291.html",
+  "fitment": {
+   "make": "Onvo",
+   "model": "L60 L80",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE all-season floor mats for the Onvo L60 L80 Removable. Set size is quoted per model. Coverage is built with anti-slip backing, and a raised lip around the perimeter so melted snow and mud stay on the mat. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Onvo L60 L80 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "All-season flat mat, raised perimeter"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "tpe Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Onvo L60 L80 Removable",
+   "Tooling reference tpe Car Mats",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "byd-atto-3-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats",
+   "byd-atto-yuan-all-weather-mats-2"
+  ]
+ },
+ {
   "slug": "onvo-l60-l80-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Onvo L60 L80",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-floor-liners.jpg",
@@ -32542,16 +34991,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "onvo-l60-l80-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Onvo L60 L80 - tpe  Car Mats",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/onvo-l60-l80-all-weather-mats-2.jpg",
@@ -32605,10 +35054,67 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "renault-kangoo-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Renault Kangoo",
+  "badge": "OEM Ready",
+  "price": "$12-16/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/renault-kangoo-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-for-Renault-Kangoo-3D_1601999000169.html",
+  "fitment": {
+   "make": "Renault",
+   "model": "Kangoo",
+   "years": "",
+   "body": "Van",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Renault Kangoo. Set composition is confirmed on the quotation, moulded for LHD vehicles, shaped for the van floor pan. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Renault Kangoo - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "Body type",
+    "Van"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Renault Kangoo",
+   "Built for LHD drive",
+   "Shaped for van floor pans",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
   "slug": "renault-logan-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Logan",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$16-18/set",
   "moq": "MOQ 10 sets",
   "img": "/images/renault-logan-floor-liners.jpg",
@@ -32656,16 +35162,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/renault-symbioz-floor-liners.jpg",
@@ -32709,16 +35215,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - Renault Symbioz",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-2.jpg",
@@ -32766,16 +35272,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - Renault Symbioz (2)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-3.jpg",
@@ -32819,16 +35325,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-4.jpg",
@@ -32876,16 +35382,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (2)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-5.jpg",
@@ -32929,16 +35435,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (3)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-6.jpg",
@@ -32982,16 +35488,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (4)",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-7.jpg",
@@ -33039,16 +35545,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (5)",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-8.jpg",
@@ -33096,16 +35602,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (6)",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-9.jpg",
@@ -33153,16 +35659,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "renault-symbioz-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Renault Symbioz - w-66 (7)",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/renault-symbioz-floor-liners-10.jpg",
@@ -33210,16 +35716,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "seat-back-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Back",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$25-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/seat-back-trunk-mats.jpg",
@@ -33272,7 +35778,7 @@ PRODUCTS = [
   "slug": "seat-back-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Seat Back 2021-2025",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/seat-back-trunk-mats-2.jpg",
@@ -33320,7 +35826,7 @@ PRODUCTS = [
   "slug": "seat-cover-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Seat Cover",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$10-17/set",
   "moq": "MOQ 1 set",
   "img": "/images/seat-cover-all-weather-mats.jpg",
@@ -33373,7 +35879,7 @@ PRODUCTS = [
   "slug": "seat-covers-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Seat Covers",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$50/bag",
   "moq": "MOQ 10 bags",
   "img": "/images/seat-covers-all-weather-mats.jpg",
@@ -33421,7 +35927,7 @@ PRODUCTS = [
   "slug": "skoda-octavia-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Skoda Octavia",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/skoda-octavia-floor-liners.jpg",
@@ -33460,16 +35966,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "skoda-octavia-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Skoda Octavia (2)",
-  "badge": "Low MOQ",
+  "badge": "Custom Fit",
   "price": "$25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/skoda-octavia-floor-liners-2.jpg",
@@ -33508,16 +36014,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "subaru-forester-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Subaru Forester",
-  "badge": "OEM Ready",
+  "badge": "All-Season",
   "price": "$20-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/subaru-forester-trunk-mats.jpg",
@@ -33565,7 +36071,7 @@ PRODUCTS = [
   "slug": "subaru-forester-outback-legacy-crosstrek-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Subaru Forester Outback Legacy Crosstrek",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$13-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/subaru-forester-outback-legacy-crosstrek-trunk-mats.jpg",
@@ -33618,7 +36124,7 @@ PRODUCTS = [
   "slug": "subaru-forester-outback-legacy-crosstrek-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Subaru Forester outback legacy crosstrek",
-  "badge": "Custom Fit",
+  "badge": "OEM Ready",
   "price": "$20-35/set",
   "moq": "MOQ 10 sets",
   "img": "/images/subaru-forester-outback-legacy-crosstrek-floor-liners.jpg",
@@ -33662,16 +36168,271 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "subaru-outback-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Subaru Outback",
+  "badge": "3D Fit",
+  "price": "$12-16/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/subaru-outback-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-Molded-Heavy-Duty-Anti-Slip_1602002172060.html",
+  "fitment": {
+   "make": "Subaru",
+   "model": "Outback",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Subaru Outback. Set size is quoted per model, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Subaru Outback - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Subaru Outback",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "subaru-outback-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Subaru Outback (2)",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/subaru-outback-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-Price-Custom-Logo-OEM-ODM_1602002042792.html",
+  "fitment": {
+   "make": "Subaru",
+   "model": "Outback",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Subaru Outback. Sets are made up per vehicle. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Subaru Outback - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Subaru Outback",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "subaru-outback-2015-2025-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Subaru Outback 2015 2025 2015-2025",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/subaru-outback-2015-2025-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-Fit-All-Weather-Waterproof-TPE_1602002096495.html",
+  "fitment": {
+   "make": "Subaru",
+   "model": "Outback 2015 2025",
+   "years": "2015-2025",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Subaru Outback 2015 2025 (2015-2025). Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Subaru Outback 2015 2025 (2015-2025)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Subaru Outback 2015 2025 (2015-2025)",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-baleno-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Baleno 2019",
+  "badge": "Low MOQ",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/suzuki-baleno-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapetes-Para-Auto-TPE-Cobertura-Completa_1601980046914.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Baleno",
+   "years": "2019",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Suzuki Baleno (2019). Sets are made up per vehicle. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Baleno (2019)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Suzuki Baleno 2019-Z94"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Baleno (2019)",
+   "Tooling reference for Suzuki Baleno 2019-Z94",
+   "TPE compound that stays flexible in the cold",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-dzire-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Dzire 2023",
+  "badge": "OEM Ready",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/suzuki-dzire-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-De-Auto-TPE-Resistentes-Al_1601980078543.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "years": "2023",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Suzuki Dzire (2023). Sets are made up per vehicle. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Dzire (2023)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Suzuki Dzire-Z95"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Dzire (2023)",
+   "Tooling reference for Suzuki Dzire-Z95",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "suzuki-jimny-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Suzuki Jimny 2024",
-  "badge": "All-Season",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/suzuki-jimny-trunk-mats.jpg",
@@ -33716,10 +36477,409 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "suzuki-jimny-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Jimny",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-jimny-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-Direct-Custom-TPE-Car-Floor_1602002266146.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Jimny",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Suzuki Jimny. Set size is quoted per model. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Jimny - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Jimny",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-jimny-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Jimny 2019",
+  "badge": "All-Season",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/suzuki-jimny-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombrillas-Para-Coche-TPE-Impermeables-3D_1601978889619.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Jimny",
+   "years": "2019",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Suzuki Jimny (2019). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Jimny (2019)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Suzuki Jimny-Z37"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Jimny (2019)",
+   "Tooling reference for Suzuki Jimny-Z37",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-jimny-jb74-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Jimny JB74",
+  "badge": "Low MOQ",
+  "price": "$12-16/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-jimny-jb74-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-All-Weather-TPE-Car-Floor_1602002257190.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Jimny JB74",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Suzuki Jimny JB74. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Jimny JB74 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Jimny JB74",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-jimny-sierra-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Jimny Sierra",
+  "badge": "OEM Ready",
+  "price": "$10-16/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-jimny-sierra-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Heavy-Duty-Off-Road-Deep-Dish_1602002191634.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Jimny Sierra",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Suzuki Jimny Sierra. Set composition is confirmed on the quotation. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $10-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Jimny Sierra - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Jimny Sierra",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-vitara-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Vitara",
+  "badge": "3D Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-vitara-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Car-Floor-Mats-for-Suzuki-Vitara_1601989975180.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Vitara",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Suzuki Vitara. Set size is quoted per model. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Vitara - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Vitara",
+   "TPE compound that stays flexible in the cold",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-vitara-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Vitara - LHD",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-vitara-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Factory-Wholesale-Odorless-TPE-Car-Floor_1601989932383.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Vitara",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Suzuki Vitara. Sets are made up per vehicle, moulded for LHD vehicles. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Vitara - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Vitara",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-vitara-2015-2024-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki Vitara 2015 2024 2015-2024",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/suzuki-vitara-2015-2024-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-TPE-Car-Floor-Mats-for_1601989769992.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "Vitara 2015 2024",
+   "years": "2015-2024",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Suzuki Vitara 2015 2024 (2015-2024). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $14-18/set. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki Vitara 2015 2024 (2015-2024)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki Vitara 2015 2024 (2015-2024)",
+   "Odourless and halogen-free TPE",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "suzuki-xl7-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Suzuki XL7 2022",
+  "badge": "Low MOQ",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/suzuki-xl7-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Tapetes-De-Piso-Para-Coche-TPE_1601980133237.html",
+  "fitment": {
+   "make": "Suzuki",
+   "model": "XL7",
+   "years": "2022",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Suzuki XL7 (2022). Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Suzuki XL7 (2022)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Suzuki XL7-Z96"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Suzuki XL7 (2022)",
+   "Tooling reference for  Suzuki XL7-Z96",
+   "Odourless and halogen-free TPE",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
   "slug": "tank-700-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Tank 700",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/tank-700-floor-liners.jpg",
@@ -33758,16 +36918,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "tesla-cybertruck-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Tesla Cybertruck",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$15-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-floor-liners.jpg",
@@ -33815,16 +36975,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "tesla-cybertruck-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck 2024-2026",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats.jpg",
@@ -33880,7 +37040,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck 2024",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$15-17/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats-2.jpg",
@@ -33937,7 +37097,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$17-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-trunk-mats-3.jpg",
@@ -33994,7 +37154,7 @@ PRODUCTS = [
   "slug": "tesla-cybertruck-perfect-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Cybertruck Perfect Fit 2024-2026",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/tesla-cybertruck-perfect-fit-trunk-mats.jpg",
@@ -34051,7 +37211,7 @@ PRODUCTS = [
   "slug": "tesla-edge-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Edge",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$10-20/set",
   "moq": "MOQ 9 sets",
   "img": "/images/tesla-edge-trunk-mats.jpg",
@@ -34099,7 +37259,7 @@ PRODUCTS = [
   "slug": "tesla-edge-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Edge - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/tesla-edge-trunk-mats-2.jpg",
@@ -34152,7 +37312,7 @@ PRODUCTS = [
   "slug": "tesla-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Fit",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$10-20/set",
   "moq": "MOQ 9 sets",
   "img": "/images/tesla-fit-trunk-mats.jpg",
@@ -34200,7 +37360,7 @@ PRODUCTS = [
   "slug": "tesla-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Rain",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-19/set",
   "moq": "MOQ 11 sets",
   "img": "/images/tesla-rain-trunk-mats.jpg",
@@ -34253,7 +37413,7 @@ PRODUCTS = [
   "slug": "tesla-weatherproof-barrier-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Weatherproof Barrier",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$10-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-weatherproof-barrier-trunk-mats.jpg",
@@ -34301,7 +37461,7 @@ PRODUCTS = [
   "slug": "tesla-winter-ice-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Tesla Winter Ice",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$10-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/tesla-winter-ice-trunk-mats.jpg",
@@ -34349,7 +37509,7 @@ PRODUCTS = [
   "slug": "toyota-4runner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota 4RUNNER 2023-2025",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-4runner-floor-liners.jpg",
@@ -34397,16 +37557,165 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "toyota-4runner-trunk-mats",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Toyota 4Runner",
+  "badge": "All-Season",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/toyota-4runner-trunk-mats.jpg",
+  "src": "https://www.alibaba.com/product-detail/Full-Set-3D-TPE-Car-Floor_1601996118266.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "4Runner",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE boot liners for the Toyota 4Runner. Coverage is built with a laser-measured three-dimensional form, and raised edges that keep loose cargo and wet gear off the trim. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota 4Runner - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota 4Runner",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "toyota-4runner-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Toyota 4Runner",
+  "badge": "Low MOQ",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/toyota-4runner-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/3D-Laser-Measured-Custom-Fit-Car_1601995963558.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "4Runner",
+   "years": "",
+   "body": "",
+   "hand": "LHD",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota 4Runner. Sets are made up per vehicle, moulded for LHD vehicles. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota 4Runner - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "Drive side",
+    "LHD"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota 4Runner",
+   "Built for LHD drive",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "toyota-4runner-floor-liners-3",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Toyota 4Runner (2)",
+  "badge": "OEM Ready",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/toyota-4runner-floor-liners-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Custom-All-Weather-TPE-Car-Floor_1601996058056.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "4Runner",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Toyota 4Runner. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota 4Runner - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota 4Runner",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-agya-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota AGYA",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-agya-all-weather-mats.jpg",
@@ -34459,7 +37768,7 @@ PRODUCTS = [
   "slug": "toyota-agya-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Agya",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-agya-all-weather-mats-2.jpg",
@@ -34516,7 +37825,7 @@ PRODUCTS = [
   "slug": "toyota-agya-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Agya",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-agya-floor-liners.jpg",
@@ -34560,16 +37869,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-allion-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Allion",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-allion-floor-liners.jpg",
@@ -34613,16 +37922,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-axio-corolla-fielder-e160-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Axio Corolla Fielder E160",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-axio-corolla-fielder-e160-trunk-mats.jpg",
@@ -34675,7 +37984,7 @@ PRODUCTS = [
   "slug": "toyota-crown-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota CROWN",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-crown-floor-liners-4.jpg",
@@ -34719,16 +38028,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-floor-liners.jpg",
@@ -34772,16 +38081,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyot camry",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-floor-liners-2.jpg",
@@ -34825,16 +38134,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2018",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-3.jpg",
@@ -34878,16 +38187,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-4.jpg",
@@ -34931,16 +38240,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (2)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-5.jpg",
@@ -34984,16 +38293,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (3)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-6.jpg",
@@ -35037,16 +38346,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (4)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-7.jpg",
@@ -35090,16 +38399,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry - Toyota Camry (5)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-floor-liners-8.jpg",
@@ -35143,16 +38452,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$23-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-double-layer-mats.jpg",
@@ -35200,7 +38509,7 @@ PRODUCTS = [
   "slug": "toyota-camry-2012-2016-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2012 2016 2012-2016",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2012-2016-floor-liners.jpg",
@@ -35244,16 +38553,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-2012-2016-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2012 2016 2012-2016 - Toyota Camry 2012-2016",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2012-2016-floor-liners-2.jpg",
@@ -35297,16 +38606,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-2016-2023-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry 2016 2023 2016-2023",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camry-2016-2023-floor-liners.jpg",
@@ -35350,16 +38659,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-biz4-land-cruise-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry BIZ4 land Cruise",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-biz4-land-cruise-double-layer-mats.jpg",
@@ -35407,7 +38716,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-prado-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry Corolla Prado",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-corolla-prado-double-layer-mats.jpg",
@@ -35455,7 +38764,7 @@ PRODUCTS = [
   "slug": "toyota-camry-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Camry Fit",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$22-27/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-fit-trunk-mats.jpg",
@@ -35508,7 +38817,7 @@ PRODUCTS = [
   "slug": "toyota-camry-fit-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Camry Fit - car mats",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$10-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-camry-fit-trunk-mats-2.jpg",
@@ -35561,7 +38870,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-prado-4runner-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Camry corolla prado 4runner",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-26/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-camry-corolla-prado-4runner-double-layer-mats.jpg",
@@ -35609,7 +38918,7 @@ PRODUCTS = [
   "slug": "toyota-camry-prado-4runner-prius-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camry prado 4runner prius",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18.98-22.98/piece",
   "moq": "MOQ 1 piece",
   "img": "/images/toyota-camry-prado-4runner-prius-floor-liners.jpg",
@@ -35653,16 +38962,16 @@ PRODUCTS = [
    "From 1 piece for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camryamry-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camryamry",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camryamry-floor-liners.jpg",
@@ -35706,16 +39015,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camryamry-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Camryamry - Toyota Camry",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-camryamry-floor-liners-2.jpg",
@@ -35759,16 +39068,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners.jpg",
@@ -35811,16 +39120,16 @@ PRODUCTS = [
    "Confirm generation and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Corolla",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-all-weather-mats.jpg",
@@ -35877,7 +39186,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-2.jpg",
@@ -35921,16 +39230,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-3.jpg",
@@ -35973,16 +39282,16 @@ PRODUCTS = [
    "Confirm generation and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for Toyota (3)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-4.jpg",
@@ -36026,16 +39335,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 for TOyota",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-5.jpg",
@@ -36079,16 +39388,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Leather Car Mats",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-6.jpg",
@@ -36132,16 +39441,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-trunk-mats.jpg",
@@ -36194,7 +39503,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-7",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-floor-liners-7.jpg",
@@ -36238,16 +39547,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-8.jpg",
@@ -36295,16 +39604,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-9",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla (2)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-9.jpg",
@@ -36352,16 +39661,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-10",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - Toyota Corolla (3)",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-10.jpg",
@@ -36409,16 +39718,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-11.jpg",
@@ -36466,16 +39775,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-12",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-12.jpg",
@@ -36523,16 +39832,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-floor-liners-13",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla - W-68 (3)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-13.jpg",
@@ -36580,16 +39889,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-corolla-trunk-mats-2.jpg",
@@ -36642,7 +39951,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-floor-liners-14",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla 2019",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-corolla-floor-liners-14.jpg",
@@ -36686,16 +39995,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-all-weather-mats-3",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota Corolla 2021-2026",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-corolla-all-weather-mats-3.jpg",
@@ -36748,7 +40057,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-2018-on-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Corolla 2018 On",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-2018-on-floor-liners.jpg",
@@ -36792,16 +40101,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-corolla-cross-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Corolla Cross",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-cross-trunk-mats.jpg",
@@ -36842,6 +40151,59 @@ PRODUCTS = [
    "Tooling reference TPE Car Mats",
    "Odourless TPE, no plasticiser",
    "Mud and slush rinse straight off",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "byd-song-trunk-mats",
+   "byd-seal-06-trunk-mats",
+   "byd-sealion-trunk-mats"
+  ]
+ },
+ {
+  "slug": "toyota-corolla-cross-trunk-mats-2",
+  "cat": "trunk-mats",
+  "name": "TPE Cargo Liner for Toyota Corolla Cross - TPE Car Mats",
+  "badge": "Custom Fit",
+  "price": "$14-18/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/toyota-corolla-cross-trunk-mats-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Toyota-Corolla-Cross-Custom-TPE-Car_1601889320248.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "Corolla Cross",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE cargo liners for the Toyota Corolla Cross. Coverage is built with anti-slip backing, and raised edges that keep loose cargo and wet gear off the trim. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota Corolla Cross - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "Cargo-area coverage, raised lip"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota Corolla Cross",
+   "Tooling reference TPE Car Mats",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
    "From 1 set for trial orders"
   ],
   "related": [
@@ -36897,9 +40259,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -36950,9 +40312,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37006,9 +40368,9 @@ PRODUCTS = [
    "Bulk quantities for wholesale programmes"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37063,9 +40425,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37120,9 +40482,9 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37287,9 +40649,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37344,9 +40706,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37449,9 +40811,9 @@ PRODUCTS = [
    "Confirm model and year before tooling"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37502,9 +40864,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37555,9 +40917,9 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37608,9 +40970,9 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37718,9 +41080,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37775,9 +41137,9 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37828,9 +41190,9 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37885,9 +41247,9 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -37941,9 +41303,9 @@ PRODUCTS = [
    "Repeat orders keep the same tool form"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
@@ -38004,10 +41366,63 @@ PRODUCTS = [
   ]
  },
  {
+  "slug": "toyota-hilux-vigo-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Toyota Hilux Vigo",
+  "badge": "Low MOQ",
+  "price": "$15-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/toyota-hilux-vigo-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/TPE-3D-Custom-Logo-Car-Floor_1601967206041.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "Hilux Vigo",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota Hilux Vigo. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $15-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota Hilux Vigo - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Hilux Vigo"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota Hilux Vigo",
+   "Tooling reference Hilux Vigo",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
   "slug": "toyota-hilux-vigo-dual-cab-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Hilux Vigo Dual Cab",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-hilux-vigo-dual-cab-floor-liners.jpg",
@@ -38054,16 +41469,16 @@ PRODUCTS = [
    "Confirm cab layout and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-kluger-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Kluger 2013",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 3 sets",
   "img": "/images/toyota-kluger-floor-liners.jpg",
@@ -38102,16 +41517,16 @@ PRODUCTS = [
    "From 3 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota LAND CRUISER 2023",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$19-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-2.jpg",
@@ -38150,16 +41565,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners.jpg",
@@ -38207,16 +41622,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-double-layer-mats.jpg",
@@ -38264,7 +41679,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser - TPE Car Mat",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-3.jpg",
@@ -38312,16 +41727,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser (2)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$23-26/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-floor-liners-4.jpg",
@@ -38360,16 +41775,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-double-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser Double",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-double-double-layer-mats.jpg",
@@ -38426,7 +41841,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-lc200-lc300-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser LC200 LC300",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-lc200-lc300-floor-liners.jpg",
@@ -38469,16 +41884,16 @@ PRODUCTS = [
    "Confirm model year when ordering"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-lc71-lc76-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser LC71 LC76 2025",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$15-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-lc71-lc76-floor-liners.jpg",
@@ -38522,16 +41937,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-floor-liners.jpg",
@@ -38575,16 +41990,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-prado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado - TOYOTA",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-floor-liners-2.jpg",
@@ -38628,16 +42043,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-land-cruiser-prado-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota Land Cruiser Prado",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$25-35/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-land-cruiser-prado-double-layer-mats.jpg",
@@ -38690,7 +42105,7 @@ PRODUCTS = [
   "slug": "toyota-land-cruiser-prado-lc150-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Land Cruiser Prado LC150",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-land-cruiser-prado-lc150-floor-liners.jpg",
@@ -38733,16 +42148,16 @@ PRODUCTS = [
    "Confirm model year at order stage"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-pardo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota PARDO",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-pardo-floor-liners.jpg",
@@ -38786,16 +42201,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prius-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota PRIUS",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-prius-floor-liners-3.jpg",
@@ -38843,16 +42258,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$16-19/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prado-floor-liners.jpg",
@@ -38896,16 +42311,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - TPE CAR MAT+CARPET",
-  "badge": "3D Fit",
+  "badge": "Custom Fit",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prado-floor-liners-2.jpg",
@@ -38949,16 +42364,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado",
-  "badge": "Custom Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-3.jpg",
@@ -39002,16 +42417,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (2)",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-4.jpg",
@@ -39055,16 +42470,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (3)",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-5.jpg",
@@ -39108,16 +42523,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prado-floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prado - Toyota Prado (4)",
-  "badge": "OEM Ready",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-prado-floor-liners-6.jpg",
@@ -39161,16 +42576,64 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "toyota-prado-floor-liners-7",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Toyota Prado (2)",
+  "badge": "Custom Fit",
+  "price": "$15-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/toyota-prado-floor-liners-7.jpg",
+  "src": "https://www.alibaba.com/product-detail/High-Quality-Car-Carpet-Foot-Mat_1601979751479.html",
+  "fitment": {
+   "make": "Toyota",
+   "model": "Prado",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Toyota Prado. Set composition is confirmed on the quotation. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $15-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Toyota Prado - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Toyota Prado",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prius-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Prius",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$16-23/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-prius-floor-liners-4.jpg",
@@ -39214,16 +42677,16 @@ PRODUCTS = [
    "From 10 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rav-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav-floor-liners.jpg",
@@ -39267,16 +42730,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rav4-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners.jpg",
@@ -39319,16 +42782,16 @@ PRODUCTS = [
    "Three-piece or five-piece set options"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rav4-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota RAV4",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-all-weather-mats.jpg",
@@ -39385,7 +42848,7 @@ PRODUCTS = [
   "slug": "toyota-rav4-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 - TOYOTA RAV4",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners-2.jpg",
@@ -39429,16 +42892,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rav4-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 2019",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-rav4-floor-liners-3.jpg",
@@ -39482,16 +42945,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rav4-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RAV4 2019-2023",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-rav4-floor-liners-4.jpg",
@@ -39530,16 +42993,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-runner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota RUNNER",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-runner-floor-liners.jpg",
@@ -39583,16 +43046,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-rush-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Rush 2022",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-rush-floor-liners.jpg",
@@ -39636,16 +43099,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-tundra-crewmax-2014-2021-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Tundra CrewMax 2014 2021 2014-2021",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-tundra-crewmax-2014-2021-floor-liners.jpg",
@@ -39688,16 +43151,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-vios-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Vios",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$13-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/toyota-vios-floor-liners.jpg",
@@ -39741,16 +43204,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-vios-yaris-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Vios Yaris",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-vios-yaris-trunk-mats.jpg",
@@ -39807,7 +43270,7 @@ PRODUCTS = [
   "slug": "toyota-vios-yaris-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Vios Yaris - TPE CAR MAT+CARPET",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-25/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-vios-yaris-trunk-mats-2.jpg",
@@ -39864,7 +43327,7 @@ PRODUCTS = [
   "slug": "toyota-voxy-noah-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota Voxy Noah 2012-2018",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-voxy-noah-trunk-mats.jpg",
@@ -39917,7 +43380,7 @@ PRODUCTS = [
   "slug": "toyota-yaris-l-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota Yaris L 2015",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/toyota-yaris-l-floor-liners.jpg",
@@ -39961,16 +43424,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-agya-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Toyota agya",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-agya-trunk-mats.jpg",
@@ -40027,7 +43490,7 @@ PRODUCTS = [
   "slug": "toyota-camry-corolla-crown-fortuner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota camry corolla Crown Fortuner",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$21-28/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-camry-corolla-crown-fortuner-floor-liners.jpg",
@@ -40071,16 +43534,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-camry-corolla-prado-rav4-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Toyota camry corolla prado rav4",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$24-30/set",
   "moq": "MOQ 10 sets",
   "img": "/images/toyota-camry-corolla-prado-rav4-double-layer-mats.jpg",
@@ -40133,7 +43596,7 @@ PRODUCTS = [
   "slug": "toyota-corolla-all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Toyota corolla",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$25-27/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-corolla-all-weather-mats-2.jpg",
@@ -40186,7 +43649,7 @@ PRODUCTS = [
   "slug": "toyota-fortuner-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota fortuner",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$14-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-fortuner-floor-liners.jpg",
@@ -40234,16 +43697,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prius-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota prius",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prius-floor-liners.jpg",
@@ -40286,16 +43749,16 @@ PRODUCTS = [
    "Confirm generation and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "toyota-prius-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Toyota prius - TOYOTA prius",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/toyota-prius-floor-liners-2.jpg",
@@ -40339,16 +43802,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-fox-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Fox",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/volkswagen-fox-floor-liners.jpg",
@@ -40396,16 +43859,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-fox-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Fox - W-04 for Grand",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$15-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-fox-floor-liners-2.jpg",
@@ -40453,16 +43916,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-golf-vi-2010-2013-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Golf VI 2010 2013 2010-2013",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-golf-vi-2010-2013-floor-liners.jpg",
@@ -40506,16 +43969,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-id-unyx-07-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners.jpg",
@@ -40559,16 +44022,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-id-unyx-07-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-2.jpg",
@@ -40616,16 +44079,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-id-unyx-07-floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (2)",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-3.jpg",
@@ -40673,16 +44136,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-id-unyx-07-floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (3)",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-4.jpg",
@@ -40730,16 +44193,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-id-unyx-07-floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen ID UNYX 07 - Volkswagen ID UNYX 07 (4)",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$8-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-id-unyx-07-floor-liners-5.jpg",
@@ -40787,16 +44250,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-jetta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Jetta",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-floor-liners.jpg",
@@ -40840,16 +44303,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-jetta-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Volkswagen Jetta",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-all-weather-mats.jpg",
@@ -40902,7 +44365,7 @@ PRODUCTS = [
   "slug": "volkswagen-jetta-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Jetta - tpe Car Mats",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-jetta-floor-liners-2.jpg",
@@ -40946,16 +44409,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-polo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-floor-liners.jpg",
@@ -40994,16 +44457,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-polo-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo - Volkswagen",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-floor-liners-2.jpg",
@@ -41047,16 +44510,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-polo-mk5-mk8-plus-gti-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Mk5 Mk8 Plus GTI",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-mk5-mk8-plus-gti-floor-liners.jpg",
@@ -41100,16 +44563,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-polo-mk5-mk8-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Mk5-Mk8",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$16-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-mk5-mk8-floor-liners.jpg",
@@ -41152,16 +44615,16 @@ PRODUCTS = [
    "Confirm mark and model year"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-polo-plus-gti-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Polo Plus GTI",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$17-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-polo-plus-gti-floor-liners.jpg",
@@ -41205,16 +44668,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-taos-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Taos 2022",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-taos-floor-liners.jpg",
@@ -41258,16 +44721,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-teramont-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Volkswagen Teramont",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-teramont-trunk-mats.jpg",
@@ -41320,7 +44783,7 @@ PRODUCTS = [
   "slug": "volkswagen-teramont-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Teramont 2018",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/volkswagen-teramont-floor-liners.jpg",
@@ -41363,16 +44826,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-tiguan-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Volkswagen Tiguan",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$22-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-tiguan-double-layer-mats.jpg",
@@ -41425,7 +44888,7 @@ PRODUCTS = [
   "slug": "volkswagen-tiguan-jetta-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Tiguan Jetta",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$18-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-tiguan-jetta-floor-liners.jpg",
@@ -41469,16 +44932,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volkswagen-touran-2016-2025-double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer TPE Car Mats for Volkswagen Touran 2016 2025 2016-2025",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$16-26/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volkswagen-touran-2016-2025-double-layer-mats.jpg",
@@ -41531,7 +44994,7 @@ PRODUCTS = [
   "slug": "volkswagen-volkswagen-polo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volkswagen Volkswagen Polo",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/volkswagen-volkswagen-polo-floor-liners.jpg",
@@ -41575,16 +45038,69 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "volvo-ex30-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Volvo EX30",
+  "badge": "All-Season",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/volvo-ex30-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombra-5D-Para-Volvo-EX30-2024_11000039744733.html",
+  "fitment": {
+   "make": "Volvo",
+   "model": "EX30",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Volvo EX30. Sets are made up per vehicle. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Volvo EX30 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Volvo EX30-S636"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Volvo EX30",
+   "Tooling reference for  Volvo EX30-S636",
+   "Odourless TPE, no plasticiser",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volvo-s60-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volvo S60",
-  "badge": "3D Fit",
+  "badge": "Low MOQ",
   "price": "$18-25/set",
   "moq": "MOQ 5 sets",
   "img": "/images/volvo-s60-floor-liners.jpg",
@@ -41628,16 +45144,69 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "volvo-xc40-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Volvo XC40",
+  "badge": "OEM Ready",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/volvo-xc40-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-Para-Carro-De-TPE-3D_11000039694793.html",
+  "fitment": {
+   "make": "Volvo",
+   "model": "XC40",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Volvo XC40. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $12-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Volvo XC40 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Volvo XC40-S134"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Volvo XC40",
+   "Tooling reference for  Volvo XC40-S134",
+   "Odourless and halogen-free TPE",
+   "Hose down and wipe to clean",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "volvo-xc40-ex40-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Volvo XC40 EX40",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$14-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/volvo-xc40-ex40-floor-liners.jpg",
@@ -41685,16 +45254,121 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "volvo-xc60-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Volvo XC60",
+  "badge": "Custom Fit",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/volvo-xc60-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-Impermeables-Para-Auto-De-TPE_11000039675850.html",
+  "fitment": {
+   "make": "Volvo",
+   "model": "XC60",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Volvo XC60. Sets are made up per vehicle. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $12-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Volvo XC60 - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "Volvo XC60 2018+ 2024+-S135"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Volvo XC60",
+   "Odourless TPE, no plasticiser",
+   "Mud and slush rinse straight off",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "volvo-xc90-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Volvo XC90 2025",
+  "badge": "All-Season",
+  "price": "$12-20/piece",
+  "moq": "MOQ 10 pieces",
+  "img": "/images/volvo-xc90-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Alfombras-Para-Auto-Impermeables-De-TPE_11000039725777.html",
+  "fitment": {
+   "make": "Volvo",
+   "model": "XC90",
+   "years": "2025",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Volvo XC90 (2025). Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 pieces. Listed at $12-20/piece. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Volvo XC90 (2025)"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 pieces"
+   ],
+   [
+    "Tooling / model no.",
+    "XC90 -Z339"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Volvo XC90 (2025)",
+   "Tooling reference for XC90 -Z339",
+   "TPE compound that stays flexible in the cold",
+   "Rinse clean rather than scrubbing",
+   "From 10 pieces for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-bingo-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo",
-  "badge": "All-Season",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-floor-liners.jpg",
@@ -41733,16 +45407,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-bingo-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo - TPE Car Mats",
-  "badge": "Low MOQ",
+  "badge": "OEM Ready",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-floor-liners-2.jpg",
@@ -41785,16 +45459,69 @@ PRODUCTS = [
    "Confirm model and year before tooling"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "wuling-bingo-floor-liners-3",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Wuling Bingo - TPE Car Mats (2)",
+  "badge": "3D Fit",
+  "price": "$13-20/set",
+  "moq": "MOQ 1 set",
+  "img": "/images/wuling-bingo-floor-liners-3.jpg",
+  "src": "https://www.alibaba.com/product-detail/Durable-high-quality-TPE-3D-5D_1601870329360.html",
+  "fitment": {
+   "make": "Wuling",
+   "model": "Bingo",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit moulded TPE floor liners for the Wuling Bingo. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 1 set. Listed at $13-20/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Wuling Bingo - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "1 set"
+   ],
+   [
+    "Tooling / model no.",
+    "TPE Car Mats"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Wuling Bingo",
+   "Tooling reference TPE Car Mats",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 1 set for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-bingo-all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats for Wuling Bingo",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-all-weather-mats.jpg",
@@ -41847,7 +45574,7 @@ PRODUCTS = [
   "slug": "wuling-bingo-dedicated-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo dedicated",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-dedicated-floor-liners.jpg",
@@ -41891,16 +45618,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-bingo-dedicated-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Bingo dedicated (2)",
-  "badge": "Custom Fit",
+  "badge": "Low MOQ",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-bingo-dedicated-floor-liners-2.jpg",
@@ -41939,16 +45666,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-nano-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano",
-  "badge": "All-Season",
+  "badge": "OEM Ready",
   "price": "$16-18/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-floor-liners.jpg",
@@ -41992,16 +45719,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-nano-floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano - Wuling Nano",
-  "badge": "Low MOQ",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-floor-liners-2.jpg",
@@ -42045,16 +45772,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-nano-parts-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Nano Parts",
-  "badge": "OEM Ready",
+  "badge": "Custom Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-nano-parts-floor-liners.jpg",
@@ -42098,16 +45825,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "wuling-wuling-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Wuling Wuling",
-  "badge": "3D Fit",
+  "badge": "All-Season",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/wuling-wuling-floor-liners.jpg",
@@ -42151,16 +45878,112 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "wuling-xingchi-floor-liners",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Wuling Xingchi",
+  "badge": "Low MOQ",
+  "price": "$12-16/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/wuling-xingchi-floor-liners.jpg",
+  "src": "https://www.alibaba.com/product-detail/Eco-Friendly-Odorless-3D-TPE-Car_1602002192097.html",
+  "fitment": {
+   "make": "Wuling",
+   "model": "Xingchi",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit TPE floor liners for the Wuling Xingchi. Sets are made up per vehicle. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 sets. Listed at $12-16/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Wuling Xingchi - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Wuling Xingchi",
+   "Odourless TPE, no plasticiser",
+   "Hose down and wipe to clean",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
+  ]
+ },
+ {
+  "slug": "wuling-xingchi-floor-liners-2",
+  "cat": "floor-liners",
+  "name": "TPE Floor Liners for Wuling Xingchi (2)",
+  "badge": "OEM Ready",
+  "price": "$14-18/set",
+  "moq": "MOQ 10 sets",
+  "img": "/images/wuling-xingchi-floor-liners-2.jpg",
+  "src": "https://www.alibaba.com/product-detail/Eco-Friendly-Odorless-3D-TPE-Car_1601996525043.html",
+  "fitment": {
+   "make": "Wuling",
+   "model": "Xingchi",
+   "years": "",
+   "body": "",
+   "hand": "",
+   "positions": []
+  },
+  "desc": "Custom-fit 3D TPE floor liners for the Wuling Xingchi. Set composition is confirmed on the quotation. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $14-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "specs": [
+   [
+    "Material",
+    "TPE (Thermoplastic Elastomer), odourless"
+   ],
+   [
+    "Fitment",
+    "Wuling Xingchi - confirm year with us"
+   ],
+   [
+    "Coverage",
+    "3D full coverage, high side walls"
+   ],
+   [
+    "MOQ",
+    "10 sets"
+   ]
+  ],
+  "points": [
+   "Moulded to fit Wuling Xingchi",
+   "TPE compound that stays flexible in the cold",
+   "Mud and slush rinse straight off",
+   "From 10 sets for trial orders"
+  ],
+  "related": [
+   "audi-a3l-floor-liners",
+   "audi-a4-floor-liners",
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "xiaomi-su7-to-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Xiaomi SU7 to",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/piece",
   "moq": "MOQ 10 pieces",
   "img": "/images/xiaomi-su7-to-floor-liners.jpg",
@@ -42204,16 +46027,16 @@ PRODUCTS = [
    "From 10 pieces for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "xpeng-g3-floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners for Xpeng G3",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-28/set",
   "moq": "MOQ 5 sets",
   "img": "/images/xpeng-g3-floor-liners.jpg",
@@ -42257,16 +46080,16 @@ PRODUCTS = [
    "From 5 sets for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "zeekr-007-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-19/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats.jpg",
@@ -42323,7 +46146,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-2.jpg",
@@ -42376,7 +46199,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-3",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-3.jpg",
@@ -42429,7 +46252,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-4",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (3)",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-4.jpg",
@@ -42482,7 +46305,7 @@ PRODUCTS = [
   "slug": "zeekr-007-trunk-mats-5",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 - TPE CAR MAT+CARPET (4)",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-trunk-mats-5.jpg",
@@ -42535,7 +46358,7 @@ PRODUCTS = [
   "slug": "zeekr-007-fit-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Fit",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-fit-trunk-mats.jpg",
@@ -42588,7 +46411,7 @@ PRODUCTS = [
   "slug": "zeekr-007-liquid-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Liquid",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-liquid-trunk-mats.jpg",
@@ -42641,7 +46464,7 @@ PRODUCTS = [
   "slug": "zeekr-007-rain-trunk-mats",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Rain",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-rain-trunk-mats.jpg",
@@ -42694,7 +46517,7 @@ PRODUCTS = [
   "slug": "zeekr-007-rain-trunk-mats-2",
   "cat": "trunk-mats",
   "name": "TPE Cargo Liner for Zeekr 007 Rain - TPE CAR MAT+CARPET",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$8-20/set",
   "moq": "MOQ 10 sets",
   "img": "/images/zeekr-007-rain-trunk-mats-2.jpg",
@@ -42747,7 +46570,7 @@ PRODUCTS = [
   "slug": "floor-liners",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$17-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners.jpg",
@@ -42788,16 +46611,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "all-weather-mats",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats - Made to Order",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/all-weather-mats.jpg",
@@ -42847,7 +46670,7 @@ PRODUCTS = [
   "slug": "floor-liners-2",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - Leather Car Mats",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-2.jpg",
@@ -42884,16 +46707,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-3",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - Leather Car Mats (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-3.jpg",
@@ -42934,16 +46757,16 @@ PRODUCTS = [
    "Hose down and wipe to clean"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-4",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - TPE Car Mats",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$12-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-4.jpg",
@@ -42980,16 +46803,16 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "all-weather-mats-2",
   "cat": "all-weather-mats",
   "name": "All-Weather TPE Floor Mats - Made to Order - Leather Car Mats",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$20-23/set",
   "moq": "MOQ 1 set",
   "img": "/images/all-weather-mats-2.jpg",
@@ -43035,7 +46858,7 @@ PRODUCTS = [
   "slug": "floor-liners-5",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W for Mitsubishi",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-5.jpg",
@@ -43076,16 +46899,16 @@ PRODUCTS = [
    "Rinse clean rather than scrubbing"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-6",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W for Mitsubishi (2)",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-6.jpg",
@@ -43126,16 +46949,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-7",
   "cat": "floor-liners",
   "name": "5-Piece 3-Piece TPE Floor Liners - Made to Order",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-7.jpg",
@@ -43172,16 +46995,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "double-layer-mats",
   "cat": "double-layer-mats",
   "name": "Double-Layer Double-Layer TPE Car Mats - Made to Order",
-  "badge": "Custom Fit",
+  "badge": "3D Fit",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/double-layer-mats.jpg",
@@ -43226,7 +47049,7 @@ PRODUCTS = [
   "slug": "floor-liners-8",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order - W-32 for TOYOTA",
-  "badge": "All-Season",
+  "badge": "Custom Fit",
   "price": "$18-22/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-8.jpg",
@@ -43262,16 +47085,16 @@ PRODUCTS = [
    "Odourless, halogen-free, recyclable TPE"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-9",
   "cat": "floor-liners",
   "name": "Custom Printed Thickened TPE Floor Liners - Made to Order",
-  "badge": "Low MOQ",
+  "badge": "All-Season",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-9.jpg",
@@ -43307,16 +47130,16 @@ PRODUCTS = [
    "Waterproof and odourless TPE build"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-10",
   "cat": "floor-liners",
   "name": "Thickened TPE Floor Liners - Made to Order",
-  "badge": "OEM Ready",
+  "badge": "Low MOQ",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-10.jpg",
@@ -43357,16 +47180,16 @@ PRODUCTS = [
    "Mud and slush rinse straight off"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  },
  {
   "slug": "floor-liners-11",
   "cat": "floor-liners",
   "name": "TPE Floor Liners - Made to Order (2)",
-  "badge": "3D Fit",
+  "badge": "OEM Ready",
   "price": "$18-20/set",
   "moq": "MOQ 1 set",
   "img": "/images/floor-liners-11.jpg",
@@ -43398,17 +47221,29 @@ PRODUCTS = [
    "From 1 set for trial orders"
   ],
   "related": [
+   "audi-a3l-floor-liners",
    "audi-a4-floor-liners",
-   "audi-a4-floor-liners-2",
-   "audi-a6-a8-floor-liners"
+   "audi-a4-floor-liners-2"
   ]
  }
 ]
 
 # ---------------------------------------------------------------------------
-# VEHICLES (384) - built from listing titles only
+# VEHICLES (425) - built from listing titles only
 # ---------------------------------------------------------------------------
 VEHICLES = [
+ {
+  "make": "Audi",
+  "model": "A3L",
+  "years": "2025",
+  "body": "",
+  "hand": "",
+  "products": [
+   "audi-a3l-floor-liners"
+  ],
+  "slug": "audi-a3l",
+  "years_source": "listing_title"
+ },
  {
   "make": "Audi",
   "model": "A4",
@@ -43421,6 +47256,18 @@ VEHICLES = [
   ],
   "slug": "audi-a4",
   "years_source": ""
+ },
+ {
+  "make": "Audi",
+  "model": "A4L / 2017 / 2023",
+  "years": "2017-2023",
+  "body": "",
+  "hand": "",
+  "products": [
+   "audi-a4l-2017-2023-floor-liners"
+  ],
+  "slug": "audi-a4l-2017-2023",
+  "years_source": "listing_title"
  },
  {
   "make": "Audi",
@@ -43444,6 +47291,42 @@ VEHICLES = [
    "audi-a6l-floor-liners"
   ],
   "slug": "audi-a6l",
+  "years_source": ""
+ },
+ {
+  "make": "Audi",
+  "model": "A6L / 2019 / 2023",
+  "years": "2019-2023",
+  "body": "",
+  "hand": "",
+  "products": [
+   "audi-a6l-2019-2023-floor-liners"
+  ],
+  "slug": "audi-a6l-2019-2023",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Audi",
+  "model": "Q3",
+  "years": "2019",
+  "body": "",
+  "hand": "",
+  "products": [
+   "audi-q3-floor-liners"
+  ],
+  "slug": "audi-q3",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Audi",
+  "model": "Q5L",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "audi-q5l-floor-liners"
+  ],
+  "slug": "audi-q5l",
   "years_source": ""
  },
  {
@@ -43625,7 +47508,8 @@ VEHICLES = [
   "body": "",
   "hand": "LHD",
   "products": [
-   "buick-envision-plus-floor-liners"
+   "buick-envision-plus-floor-liners",
+   "buick-envision-plus-floor-liners-2"
   ],
   "slug": "buick-envision-plus",
   "years_source": ""
@@ -44014,9 +47898,10 @@ VEHICLES = [
   "model": "CS75",
   "years": "",
   "body": "",
-  "hand": "",
+  "hand": "LHD",
   "products": [
-   "changan-cs75-floor-liners"
+   "changan-cs75-floor-liners",
+   "changan-cs75-floor-liners-2"
   ],
   "slug": "changan-cs75",
   "years_source": ""
@@ -44239,7 +48124,8 @@ VEHICLES = [
   "body": "",
   "hand": "",
   "products": [
-   "chery-eq-floor-liners"
+   "chery-eq-floor-liners",
+   "chery-eq-floor-liners-2"
   ],
   "slug": "chery-eq",
   "years_source": ""
@@ -44323,7 +48209,8 @@ VEHICLES = [
    "chery-tiggo-5s-floor-liners-7",
    "chery-tiggo-5s-floor-liners-8",
    "chery-tiggo-5s-floor-liners-9",
-   "chery-tiggo-5s-floor-liners-10"
+   "chery-tiggo-5s-floor-liners-10",
+   "chery-tiggo-5s-floor-liners-11"
   ],
   "slug": "chery-tiggo-5s",
   "years_source": "listing_title"
@@ -44338,6 +48225,43 @@ VEHICLES = [
    "chery-tiggo-7-8-9-floor-liners"
   ],
   "slug": "chery-tiggo-7-8-9",
+  "years_source": ""
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Blazer",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "chevrolet-blazer-floor-liners"
+  ],
+  "slug": "chevrolet-blazer",
+  "years_source": ""
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Blazer 2020 2025",
+  "years": "2020-2025",
+  "body": "",
+  "hand": "",
+  "products": [
+   "chevrolet-blazer-2020-2025-floor-liners",
+   "chevrolet-blazer-2020-2025-floor-liners-2"
+  ],
+  "slug": "chevrolet-blazer-2020-2025",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "years": "",
+  "body": "Pickup",
+  "hand": "",
+  "products": [
+   "chevrolet-camaro-trunk-mats"
+  ],
+  "slug": "chevrolet-camaro",
   "years_source": ""
  },
  {
@@ -44572,6 +48496,19 @@ VEHICLES = [
  },
  {
   "make": "Dongfeng",
+  "model": "MAGE 320T",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "dongfeng-mage-320t-floor-liners",
+   "dongfeng-mage-320t-floor-liners-2"
+  ],
+  "slug": "dongfeng-mage-320t",
+  "years_source": ""
+ },
+ {
+  "make": "Dongfeng",
   "model": "Rich",
   "years": "",
   "body": "Pickup",
@@ -44671,6 +48608,21 @@ VEHICLES = [
    "fiat-cronos-all-weather-mats"
   ],
   "slug": "fiat-cronos",
+  "years_source": ""
+ },
+ {
+  "make": "Fiat",
+  "model": "MOBI TREKKING",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "fiat-mobi-trekking-floor-liners",
+   "fiat-mobi-trekking-floor-liners-2",
+   "fiat-mobi-trekking-floor-liners-3",
+   "fiat-mobi-trekking-floor-liners-4"
+  ],
+  "slug": "fiat-mobi-trekking",
   "years_source": ""
  },
  {
@@ -44939,7 +48891,8 @@ VEHICLES = [
   "body": "",
   "hand": "LHD",
   "products": [
-   "ford-ranger-raptor-all-weather-mats"
+   "ford-ranger-raptor-all-weather-mats",
+   "ford-ranger-raptor-all-weather-mats-2"
   ],
   "slug": "ford-ranger-raptor",
   "years_source": ""
@@ -45132,9 +49085,10 @@ VEHICLES = [
   "model": "Galaxy",
   "years": "",
   "body": "",
-  "hand": "",
+  "hand": "LHD",
   "products": [
-   "geely-galaxy-floor-liners"
+   "geely-galaxy-floor-liners",
+   "geely-galaxy-floor-liners-2"
   ],
   "slug": "geely-galaxy",
   "years_source": ""
@@ -45389,6 +49343,19 @@ VEHICLES = [
   "years_source": "listing_title"
  },
  {
+  "make": "Haval",
+  "model": "H9",
+  "years": "",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "haval-h9-floor-liners",
+   "haval-h9-all-weather-mats"
+  ],
+  "slug": "haval-h9",
+  "years_source": ""
+ },
+ {
   "make": "Honda",
   "model": "Accord",
   "years": "",
@@ -45517,6 +49484,9 @@ VEHICLES = [
    "honda-civic-floor-liners-6",
    "honda-civic-floor-liners-7",
    "honda-civic-floor-liners-8",
+   "honda-civic-floor-liners-9",
+   "honda-civic-floor-liners-10",
+   "honda-civic-floor-liners-11",
    "honda-civic-floor-liners-5"
   ],
   "slug": "honda-civic",
@@ -45734,6 +49704,7 @@ VEHICLES = [
   "products": [
    "hyundai-elantra-trunk-mats",
    "hyundai-elantra-floor-liners",
+   "hyundai-elantra-floor-liners-3",
    "hyundai-elantra-trunk-mats-2",
    "hyundai-elantra-trunk-mats-3",
    "hyundai-elantra-trunk-mats-4",
@@ -46010,6 +49981,68 @@ VEHICLES = [
  },
  {
   "make": "JAC",
+  "model": "Refine",
+  "years": "",
+  "body": "Mpv",
+  "hand": "",
+  "products": [
+   "jac-refine-floor-liners"
+  ],
+  "slug": "jac-refine",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
+  "model": "Refine M3 M4 M5",
+  "years": "",
+  "body": "Mpv",
+  "hand": "",
+  "products": [
+   "jac-refine-m3-m4-m5-floor-liners"
+  ],
+  "slug": "jac-refine-m3-m4-m5",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
+  "model": "Refine M4 RF8",
+  "years": "",
+  "body": "Mpv",
+  "hand": "LHD",
+  "products": [
+   "jac-refine-m4-rf8-floor-liners"
+  ],
+  "slug": "jac-refine-m4-rf8",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
+  "model": "Shuailing T6 T8",
+  "years": "",
+  "body": "Pickup",
+  "hand": "",
+  "products": [
+   "jac-shuailing-t6-t8-floor-liners"
+  ],
+  "slug": "jac-shuailing-t6-t8",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
+  "model": "T6 T8",
+  "years": "",
+  "body": "Pickup",
+  "hand": "",
+  "products": [
+   "jac-t6-t8-floor-liners",
+   "jac-t6-t8-floor-liners-2",
+   "jac-t6-t8-double-layer-mats"
+  ],
+  "slug": "jac-t6-t8",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
   "model": "T8 MAX",
   "years": "",
   "body": "Pickup",
@@ -46018,6 +50051,18 @@ VEHICLES = [
    "jac-t8-max-trunk-mats"
   ],
   "slug": "jac-t8-max",
+  "years_source": ""
+ },
+ {
+  "make": "JAC",
+  "model": "YTTERBY",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "jac-ytterby-floor-liners"
+  ],
+  "slug": "jac-ytterby",
   "years_source": ""
  },
  {
@@ -46354,6 +50399,30 @@ VEHICLES = [
   "years_source": ""
  },
  {
+  "make": "Lexus",
+  "model": "GX 550",
+  "years": "2024",
+  "body": "",
+  "hand": "",
+  "products": [
+   "lexus-gx-550-floor-liners"
+  ],
+  "slug": "lexus-gx-550",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Lexus",
+  "model": "LX 600",
+  "years": "2024",
+  "body": "",
+  "hand": "",
+  "products": [
+   "lexus-lx-600-floor-liners"
+  ],
+  "slug": "lexus-lx-600",
+  "years_source": "listing_title"
+ },
+ {
   "make": "Luxeed",
   "model": "R7",
   "years": "",
@@ -46566,6 +50635,42 @@ VEHICLES = [
  },
  {
   "make": "Mercedes-Benz",
+  "model": "E Class W214",
+  "years": "2024",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "mercedes-benz-e-class-w214-trunk-mats"
+  ],
+  "slug": "mercedes-benz-e-class-w214",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E Class W214 2024 2026",
+  "years": "2024-2026",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "mercedes-benz-e-class-w214-2024-2026-trunk-mats"
+  ],
+  "slug": "mercedes-benz-e-class-w214-2024-2026",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "E W214 Standard Wheelbase",
+  "years": "",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "mercedes-benz-e-w214-standard-wheelbase-trunk-mats"
+  ],
+  "slug": "mercedes-benz-e-w214-standard-wheelbase",
+  "years_source": ""
+ },
+ {
+  "make": "Mercedes-Benz",
   "model": "E300",
   "years": "2024",
   "body": "",
@@ -46657,6 +50762,18 @@ VEHICLES = [
  },
  {
   "make": "Mercedes-Benz",
+  "model": "GLA",
+  "years": "2021",
+  "body": "",
+  "hand": "",
+  "products": [
+   "mercedes-benz-gla-floor-liners"
+  ],
+  "slug": "mercedes-benz-gla",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Mercedes-Benz",
   "model": "GLC",
   "years": "",
   "body": "",
@@ -46666,6 +50783,18 @@ VEHICLES = [
   ],
   "slug": "mercedes-benz-glc",
   "years_source": ""
+ },
+ {
+  "make": "Mercedes-Benz",
+  "model": "GLE",
+  "years": "2019",
+  "body": "",
+  "hand": "",
+  "products": [
+   "mercedes-benz-gle-floor-liners"
+  ],
+  "slug": "mercedes-benz-gle",
+  "years_source": "listing_title"
  },
  {
   "make": "MG",
@@ -46880,13 +51009,28 @@ VEHICLES = [
   "make": "Mitsubishi",
   "model": "L200",
   "years": "",
-  "body": "",
+  "body": "Pickup",
   "hand": "",
   "products": [
    "mitsubishi-l200-all-weather-mats",
-   "mitsubishi-l200-all-weather-mats-2"
+   "mitsubishi-l200-all-weather-mats-2",
+   "mitsubishi-l200-floor-liners",
+   "mitsubishi-l200-floor-liners-2"
   ],
   "slug": "mitsubishi-l200",
+  "years_source": ""
+ },
+ {
+  "make": "Mitsubishi",
+  "model": "L200 Triton",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "mitsubishi-l200-triton-floor-liners",
+   "mitsubishi-l200-triton-floor-liners-2"
+  ],
+  "slug": "mitsubishi-l200-triton",
   "years_source": ""
  },
  {
@@ -47197,10 +51341,23 @@ VEHICLES = [
   "products": [
    "onvo-l60-l80-all-weather-mats",
    "onvo-l60-l80-double-layer-mats",
+   "onvo-l60-l80-all-weather-mats-3",
    "onvo-l60-l80-floor-liners",
    "onvo-l60-l80-all-weather-mats-2"
   ],
   "slug": "onvo-l60-l80",
+  "years_source": ""
+ },
+ {
+  "make": "Renault",
+  "model": "Kangoo",
+  "years": "",
+  "body": "Van",
+  "hand": "LHD",
+  "products": [
+   "renault-kangoo-floor-liners"
+  ],
+  "slug": "renault-kangoo",
   "years_source": ""
  },
  {
@@ -47312,15 +51469,127 @@ VEHICLES = [
   "years_source": ""
  },
  {
+  "make": "Subaru",
+  "model": "Outback",
+  "years": "",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "subaru-outback-floor-liners",
+   "subaru-outback-floor-liners-2"
+  ],
+  "slug": "subaru-outback",
+  "years_source": ""
+ },
+ {
+  "make": "Subaru",
+  "model": "Outback 2015 2025",
+  "years": "2015-2025",
+  "body": "",
+  "hand": "",
+  "products": [
+   "subaru-outback-2015-2025-floor-liners"
+  ],
+  "slug": "subaru-outback-2015-2025",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Baleno",
+  "years": "2019",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-baleno-floor-liners"
+  ],
+  "slug": "suzuki-baleno",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Dzire",
+  "years": "2023",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-dzire-floor-liners"
+  ],
+  "slug": "suzuki-dzire",
+  "years_source": "listing_title"
+ },
+ {
   "make": "Suzuki",
   "model": "Jimny",
   "years": "2024",
   "body": "",
   "hand": "",
   "products": [
-   "suzuki-jimny-trunk-mats"
+   "suzuki-jimny-trunk-mats",
+   "suzuki-jimny-floor-liners",
+   "suzuki-jimny-floor-liners-2"
   ],
   "slug": "suzuki-jimny",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Suzuki",
+  "model": "Jimny JB74",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-jimny-jb74-floor-liners"
+  ],
+  "slug": "suzuki-jimny-jb74",
+  "years_source": ""
+ },
+ {
+  "make": "Suzuki",
+  "model": "Jimny Sierra",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-jimny-sierra-floor-liners"
+  ],
+  "slug": "suzuki-jimny-sierra",
+  "years_source": ""
+ },
+ {
+  "make": "Suzuki",
+  "model": "Vitara",
+  "years": "",
+  "body": "",
+  "hand": "LHD",
+  "products": [
+   "suzuki-vitara-floor-liners",
+   "suzuki-vitara-floor-liners-2"
+  ],
+  "slug": "suzuki-vitara",
+  "years_source": ""
+ },
+ {
+  "make": "Suzuki",
+  "model": "Vitara 2015 2024",
+  "years": "2015-2024",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-vitara-2015-2024-floor-liners"
+  ],
+  "slug": "suzuki-vitara-2015-2024",
+  "years_source": "listing_title"
+ },
+ {
+  "make": "Suzuki",
+  "model": "XL7",
+  "years": "2022",
+  "body": "",
+  "hand": "",
+  "products": [
+   "suzuki-xl7-floor-liners"
+  ],
+  "slug": "suzuki-xl7",
   "years_source": "listing_title"
  },
  {
@@ -47425,12 +51694,15 @@ VEHICLES = [
  },
  {
   "make": "Toyota",
-  "model": "4RUNNER",
+  "model": "4Runner",
   "years": "2023-2025",
   "body": "",
   "hand": "LHD",
   "products": [
-   "toyota-4runner-floor-liners"
+   "toyota-4runner-floor-liners",
+   "toyota-4runner-trunk-mats",
+   "toyota-4runner-floor-liners-2",
+   "toyota-4runner-floor-liners-3"
   ],
   "slug": "toyota-4runner",
   "years_source": "listing_title"
@@ -47667,6 +51939,7 @@ VEHICLES = [
   "hand": "",
   "products": [
    "toyota-corolla-cross-trunk-mats",
+   "toyota-corolla-cross-trunk-mats-2",
    "toyota-corolla-cross-floor-liners"
   ],
   "slug": "toyota-corolla-cross",
@@ -47830,6 +52103,18 @@ VEHICLES = [
  },
  {
   "make": "Toyota",
+  "model": "Hilux Vigo",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "toyota-hilux-vigo-floor-liners"
+  ],
+  "slug": "toyota-hilux-vigo",
+  "years_source": ""
+ },
+ {
+  "make": "Toyota",
   "model": "Hilux Vigo Dual Cab",
   "years": "2015-present",
   "body": "",
@@ -47955,7 +52240,8 @@ VEHICLES = [
    "toyota-prado-floor-liners-3",
    "toyota-prado-floor-liners-4",
    "toyota-prado-floor-liners-5",
-   "toyota-prado-floor-liners-6"
+   "toyota-prado-floor-liners-6",
+   "toyota-prado-floor-liners-7"
   ],
   "slug": "toyota-prado",
   "years_source": ""
@@ -48267,6 +52553,18 @@ VEHICLES = [
  },
  {
   "make": "Volvo",
+  "model": "EX30",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "volvo-ex30-floor-liners"
+  ],
+  "slug": "volvo-ex30",
+  "years_source": ""
+ },
+ {
+  "make": "Volvo",
   "model": "S60",
   "years": "",
   "body": "",
@@ -48275,6 +52573,18 @@ VEHICLES = [
    "volvo-s60-floor-liners"
   ],
   "slug": "volvo-s60",
+  "years_source": ""
+ },
+ {
+  "make": "Volvo",
+  "model": "XC40",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "volvo-xc40-floor-liners"
+  ],
+  "slug": "volvo-xc40",
   "years_source": ""
  },
  {
@@ -48290,6 +52600,30 @@ VEHICLES = [
   "years_source": ""
  },
  {
+  "make": "Volvo",
+  "model": "XC60",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "volvo-xc60-floor-liners"
+  ],
+  "slug": "volvo-xc60",
+  "years_source": ""
+ },
+ {
+  "make": "Volvo",
+  "model": "XC90",
+  "years": "2025",
+  "body": "",
+  "hand": "",
+  "products": [
+   "volvo-xc90-floor-liners"
+  ],
+  "slug": "volvo-xc90",
+  "years_source": "listing_title"
+ },
+ {
   "make": "Wuling",
   "model": "Bingo",
   "years": "",
@@ -48298,6 +52632,7 @@ VEHICLES = [
   "products": [
    "wuling-bingo-floor-liners",
    "wuling-bingo-floor-liners-2",
+   "wuling-bingo-floor-liners-3",
    "wuling-bingo-all-weather-mats"
   ],
   "slug": "wuling-bingo",
@@ -48351,6 +52686,19 @@ VEHICLES = [
    "wuling-wuling-floor-liners"
   ],
   "slug": "wuling-wuling",
+  "years_source": ""
+ },
+ {
+  "make": "Wuling",
+  "model": "Xingchi",
+  "years": "",
+  "body": "",
+  "hand": "",
+  "products": [
+   "wuling-xingchi-floor-liners",
+   "wuling-xingchi-floor-liners-2"
+  ],
+  "slug": "wuling-xingchi",
   "years_source": ""
  },
  {

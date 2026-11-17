@@ -62,13 +62,8 @@ function submitQuote(e){
   document.getElementById('quoteSuccess').style.display='block';
 }
  function fillEmail(){
-   // The address is assembled here, from data-em, instead of being written into
-   // the HTML. Cloudflare's Email Address Obfuscation rewrites any literal
-   // address and any mailto: href into /cdn-cgi/l/email-protection#<hash>; on
-   // THIS zone that endpoint answers 404 (measured 2026-11-17: live HTML held 0
-   // plain addresses and 2 protection links, both dead), so every "Email ..."
-   // button on the site did nothing when clicked. textContent of the parts is
-   // not a pattern Cloudflare matches, so the link survives at the edge.
+   // Assemble the address at runtime: Cloudflare's email obfuscation rewrites the
+   // literal form into a /cdn-cgi path that 404s on this zone (see email_link()).
    var n=document.querySelectorAll('[data-em]');
    for(var i=0;i<n.length;i++){
      var e=n[i],p=(e.getAttribute('data-em')||'').split('|');
