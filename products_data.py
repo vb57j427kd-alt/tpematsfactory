@@ -14,7 +14,7 @@ FITMENT PROVENANCE - read this before trusting the vehicle index:
   * Years are only present for the few listings that state them. Everything
     else is deliberately blank - confirm against the mould list, never guess.
 
-Trading entity on the site: Linyi Strawberry International Trade Co., Ltd.
+Trading entity on the site: Zaozhuang China Best Technology Co., Ltd.
 """
 
 SITE = {
@@ -34,11 +34,27 @@ SITE = {
     "ga4": "G-QH57L3C2J0",    # created 2026-09-20, dedicated to this site
     "clarity": "yl2mwy2l99",  # created 2026-09-20, dedicated to this site
 
-    "bank_beneficiary": "Linyi Strawberry International Trade Co., Ltd",
-    "bank_account": "63003927994",
-    "bank_swift": "CHASHKHH / CHASHKHHXXX",
-    "bank_note": "USD Payments: Recommend using US J.P. Morgan (CHASUS33) as transit bank "
-                 "to reduce forex risk. This account cannot receive payments from Russia and Belarus.",
+    # Changed 2026-11-18 at the owner's instruction: the site now trades as a
+    # different legal entity with a different account. Name, account and SWIFT must
+    # always move together - a beneficiary name that does not match the account
+    # holder gets the buyer's transfer reviewed or returned.
+    "bank_beneficiary": "Zaozhuang China Best Technology Co., Ltd.",
+    "bank_account": "63003452697",
+    "bank_swift": "CHASHKHHXXX",
+    # The bank name, both addresses, the account-number caution and the payment
+    # restriction were supplied together with the new account, so they are stated
+    # verbatim rather than re-worded. They sit in the note instead of extra rows:
+    # the row style is a two-column flex that has never been rendered with a long
+    # value, and a wrapped address there would be a layout risk on 375px.
+    "bank_note": "Beneficiary bank: JPMorgan Chase Bank N.A., Hong Kong Branch, "
+                 "Charter House, 8 Connaught Road, Central, Hong Kong "
+                 "(bank code 007, branch code 863). Beneficiary address: Units 1260, "
+                 "12/F, Emperor Group Centre, 288 Hennessy Road, Wan Chai, Hong Kong. "
+                 "Please enter the account number exactly as shown; the beneficiary "
+                 "bank reviews it before releasing the payment. For USD, designate "
+                 "US J.P. Morgan (CHASUS33 / CHASUS33XXX) as the transit bank to "
+                 "reduce forex risk. This account cannot receive payments from "
+                 "Russia and Belarus.",
 
     # Only real certificates - empty means the trust block stays hidden.
     "certificates": [],
