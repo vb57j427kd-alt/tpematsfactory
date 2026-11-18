@@ -24,12 +24,14 @@ SITE = {
     "tagline": "3D TPE Car Floor Liners Direct from the Factory",
     "whatsapp": "8618669693290",
 
-    # Must be created for THIS site - the generator skips anything blank, so no
-    # placeholder id is ever published.
-    # Verified 2026-09-20 before publishing: the mailbox exists and is active in
-    # the Aliyun enterprise-mail console, MX/SPF resolve publicly, and the
-    # inbound path was proven by two messages actually arriving.
-    "email": "yale@tpematsfactory.com",
+    # Switched 2026-11-18 at the owner's instruction: TMF inquiries now go to the
+    # mahjongbest.com mailbox. Only the DOMAIN side is verified from here (MX
+    # 5/10/15 mx1-3.qiye.aliyun.com resolves publicly); whether the individual
+    # mailbox accepts mail was NOT proven on this machine, unlike the previous
+    # address, which had two test messages actually arrive on 2026-09-20.
+    # Note mahjongbest.com currently publishes TWO SPF records (-all and ~all),
+    # so receivers may treat its sender policy as ambiguous.
+    "email": "yale@mahjongbest.com",
     "formspree": "mvkgzrqr",  # form Wholesale Quote Request, verified 2026-09-20; test POST returned HTTP 200
     "ga4": "G-QH57L3C2J0",    # created 2026-09-20, dedicated to this site
     "clarity": "yl2mwy2l99",  # created 2026-09-20, dedicated to this site
