@@ -49,18 +49,8 @@ with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "theme.css"),
 
 
 JS = """
-var currentProduct='';
-function openQuote(name){currentProduct=name||'';document.getElementById('quoteProduct').textContent=currentProduct||'General enquiry';document.getElementById('modal').classList.add('open');document.getElementById('quoteSuccess').style.display='none';document.getElementById('quoteFormWrap').style.display='block'}
-function closeQuote(){document.getElementById('modal').classList.remove('open')}
-function submitQuote(e){
-  e.preventDefault();
-  var g=function(id){return (document.getElementById(id).value||'').trim()};
-  var msg='Quote request - '+__BRAND__+'\\nProduct / Vehicle: '+(currentProduct||g('qVehicle'))+'\\nName: '+g('qName')+'\\nEmail: '+g('qEmail')+'\\nCountry: '+g('qCountry')+'\\nWhatsApp: '+g('qPhone')+'\\nCompany: '+g('qCompany')+'\\nVehicle model: '+g('qVehicle')+'\\nQuantity: '+g('qQty')+'\\nMessage: '+g('qMsg');
-  window.open('https://wa.me/__WA__?text='+encodeURIComponent(msg),'_blank');
-  __FORMSPREE__
-  document.getElementById('quoteFormWrap').style.display='none';
-  document.getElementById('quoteSuccess').style.display='block';
-}
+function openContact(){var m=document.getElementById('modal');if(m)m.classList.add('open')}
+function closeQuote(){var m=document.getElementById('modal');if(m)m.classList.remove('open')}
  function fillEmail(){
    // Assemble the address at runtime: Cloudflare's email obfuscation rewrites the
    // literal form into a /cdn-cgi path that 404s on this zone (see email_link()).
@@ -68,9 +58,10 @@ function submitQuote(e){
    for(var i=0;i<n.length;i++){
      var e=n[i],p=(e.getAttribute('data-em')||'').split('|');
      if(p.length<2||!p[0]||!p[1])continue;
-     var a=p[0]+'@'+p[1];
-     e.href='mailto:'+a;
-     e.textContent=(e.getAttribute('data-lbl')||'{e}').replace('{e}',a);
+     var a=p[0]+'@'+p[1],su=e.getAttribute('data-subj')||'';
+      e.href='mailto:'+a+(su?'?subject='+encodeURIComponent(su):'');
+      var lb=e.getAttribute('data-lbl');
+      if(lb)e.textContent=lb.replace('{e}',a);
    }
  }
  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',fillEmail)}else{fillEmail()}
@@ -144,7 +135,7 @@ FINDER_JS = """
       return true;
     });
     if(!hits.length){
-      out.innerHTML='<div class="empty"><b>No listing for that combination yet.</b> Send us the make, model and year - we check tooling and come back with a price and sample lead time, or tell you plainly that we cannot make it. <a href="javascript:void(0)" onclick="openQuote(\\'New vehicle request\\')" style="color:var(--accent)">request this vehicle</a>.</div>';
+      out.innerHTML='<div class="empty"><b>No listing for that combination yet.</b> Send us the make, model and year - we check tooling and come back with a price and sample lead time, or tell you plainly that we cannot make it. <a href="javascript:void(0)" data-em="yale|mahjongbest.com" style="color:var(--accent)">request this vehicle</a>.</div>';
       if(st)st.textContent='';return;
     }
     var cards='',n=0,vlist='';
@@ -347,7 +338,7 @@ def vehicle_dropdown():
     if not VEHICLES:
         return ('<div class="dd-col"><h6>Coverage</h6>'
                 '<a href="/shop-by-vehicle/">Vehicle index</a>'
-                '<a href="javascript:void(0)" onclick="openQuote(\'Vehicle request\')">Ask for your model</a></div>')
+                '<a href="javascript:void(0)" data-em="yale|mahjongbest.com">Ask for your model</a></div>')
     makes = {}
     for v in VEHICLES:
         makes.setdefault(v["make"], []).append(v)
@@ -368,43 +359,42 @@ def nav(active=""):
     blog = '<a href="/blog/">Blog</a>' if ARTICLES else ""
     return f"""<nav><div class="wrap nav-in">
 <a href="/" class="logo">{logo()}</a>
-<a href="javascript:void(0)" onclick="openQuote('')" class="btn btn-p nav-cta">Get Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p nav-cta">Get Quote</a>
 <div class="nav-links"><a href="/">Home</a>{cats}
 <div class="dd"><a href="/shop-by-vehicle/" class="dd-t">Shop by Vehicle &#9662;</a><div class="dd-menu">{vehicle_dropdown()}</div></div>
-{blog}<a href="javascript:void(0)" onclick="openQuote('')" style="color:var(--accent)">Get Quote</a></div>
+{blog}<a href="javascript:void(0)" data-em="yale|mahjongbest.com" style="color:var(--accent)">Get Quote</a></div>
 </div></nav>"""
 
 
-def email_link(label="{e}", cls="", style=""):
-    """An email link whose address is NOT written into the HTML.
+def email_link(label="{e}", cls="", style="", subj="", keep_text=False):
+    """An email anchor whose address never appears literally in the HTML.
 
-    Cloudflare Email Address Obfuscation (Scrape Shield) rewrites every literal
-    address and every mailto: href on this zone into
-    /cdn-cgi/l/email-protection#<hash>, and that endpoint answers 404 here - so
-    the published "Email yale@..." button was dead for every visitor (measured
-    2026-11-17). The address parts go to the page as data attributes and are
-    assembled by fillEmail() in JS, which Cloudflare's pattern match does not
-    see. `label` is the final visible text with {e} standing for the address;
-    the static inner text is the no-JS fallback.
+    Cloudflare Email Address Obfuscation rewrote every literal address and every
+    mailto: href on this zone into /cdn-cgi/l/email-protection#<hash>, and that
+    endpoint answered 404 here, so the published "Email ..." button was dead
+    (measured 2026-11-17; the feature is off now, but keeping the address out of
+    the markup costs nothing and stays correct if it is switched back on).
+    fillEmail() assembles href and, unless keep_text, the visible address too.
     """
-    em = (SITE.get("email") or "").strip()
+    em = SITE.get("email") or ""
     if "@" not in em:
         return ""
     local, domain = em.split("@", 1)
-    attrs = f' class="{cls}"' if cls else ""
+    plain = local + "@" + domain
+    attrs = ' class="%s"' % cls if cls else ""
     if style:
-        attrs += f' style="{style}"'
-    fallback = "Email us" if "{e}" in label else label
-    plain = f"{local}@{domain}"
-    # The <noscript> copy is the only place the address is written literally. It
-    # relies on Cloudflare Email Address Obfuscation being OFF for this zone
-    # (turned off 2026-11-17); if it is ever switched back on, Cloudflare rewrites
-    # this href to /cdn-cgi/l/email-protection#..., an endpoint that answered 404
-    # on this zone - i.e. the no-JS visitor would get a dead link again.
-    return (f'<a{attrs} href="javascript:void(0)" data-em="{local}|{domain}"'
-            f' data-lbl="{label}">{fallback}</a>'
-            f'<noscript><a{attrs} href="mailto:{plain}">{plain}</a></noscript>')
+        attrs += ' style="%s"' % style
+    sub = ' data-subj="%s"' % subj if subj else ""
+    lbl = "" if keep_text else ' data-lbl="%s"' % label
+    inner = label if keep_text else "Email us"
+    return ('<a%s href="javascript:void(0)" data-em="%s|%s"%s%s>%s</a>'
+            '<noscript><a%s href="mailto:%s">%s</a></noscript>'
+            % (attrs, local, domain, lbl, sub, inner, attrs, plain, plain))
 
+
+def quote_link(text, cls="", style="", subj=""):
+    """A call to action that opens a mail draft. Its text is left as written."""
+    return email_link(label=text, cls=cls, style=style, subj=subj, keep_text=True)
 
 def quote_modal():
     bank = ""
@@ -414,34 +404,17 @@ def quote_modal():
 <div class="bank-row"><span class="blabel">Account No.</span><span class="bvalue hl">{SITE['bank_account']}</span></div>
 <div class="bank-row"><span class="blabel">Swift Code</span><span class="bvalue">{SITE['bank_swift']}</span></div>
 <p class="bank-note">{SITE['bank_note']}</p></div>"""
-    mail = email_link(label="Email {e}", cls="btn btn-o", style="margin-top:16px")
+    mail = email_link(label="Email {e}", cls="btn btn-p", subj="TPE mats enquiry")
+    wa = ('<a class="btn btn-o" style="margin-top:10px" href="https://wa.me/%s" '
+          'target="_blank" rel="noopener">WhatsApp +%s</a>' % (WA, WA))
     return f"""<div class="modal" id="modal"><div class="mbox">
 <button class="mclose" onclick="closeQuote()">&times;</button>
-<div id="quoteFormWrap">
-<h3>Get a Wholesale Quote</h3>
-<p class="prod-line">Product: <span id="quoteProduct"></span></p>
-<form onsubmit="submitQuote(event)">
-<div class="fg"><label>Name *</label><input type="text" id="qName" required></div>
-<div class="fg2">
-<div class="fg"><label>Email *</label><input type="email" id="qEmail" required></div>
-<div class="fg"><label>Country *</label><input type="text" id="qCountry" required></div>
-</div>
-<div class="fg2">
-<div class="fg"><label>WhatsApp / Phone</label><input type="tel" id="qPhone"></div>
-<div class="fg"><label>Company</label><input type="text" id="qCompany"></div>
-</div>
-<div class="fg2">
-<div class="fg"><label>Your Vehicle Model</label><input type="text" id="qVehicle" placeholder="e.g. Honda CR-V 2020"></div>
-<div class="fg"><label>Quantity (sets)</label><input type="text" id="qQty"></div>
-</div>
-<div class="fg"><label>Message</label><textarea id="qMsg" rows="3"></textarea></div>
-<button class="mbtn" type="submit">Send Quote Request</button>
-</form>
+<h3>Contact &amp; Payment Details</h3>
+<p class="prod-line">Send your vehicle list, quantity and target market to the address below, or message us on WhatsApp. We reply within 24 hours on working days.</p>
+<p style="margin:16px 0 8px">{mail}</p>
+<p>{wa}</p>
 {bank}
-</div>
-<div class="success" id="quoteSuccess"><h4>Request Received</h4><p>We have opened WhatsApp with your details and logged the enquiry. Our sales team replies within 24 hours on working days.</p>{mail}</div>
 </div></div>"""
-
 
 def footer():
     cat_links = "".join(f'<a href="/{c["id"]}/">{c["name"]}</a>' for c in CATEGORIES)
@@ -458,7 +431,7 @@ def footer():
 <div><a href="/" class="logo">{logo()}</a><p style="color:var(--t3);font-size:.84rem;margin-top:12px">{SITE['tagline']}. OEM/ODM welcome, worldwide shipping.</p></div>
 <div><h5>Categories</h5>{cat_links}</div>
 <div><h5>Shop by Vehicle</h5>{veh_links}</div>
-<div><h5>Contact</h5><a href="https://wa.me/{WA}" target="_blank" rel="noopener">WhatsApp: +{WA}</a>{contact}<a href="javascript:void(0)" onclick="openQuote('')">Request a quote</a></div>
+<div><h5>Contact</h5><a href="https://wa.me/{WA}" target="_blank" rel="noopener">WhatsApp: +{WA}</a>{contact}<a href="javascript:void(0)" data-em="yale|mahjongbest.com">Request a quote</a> <a href="javascript:void(0)" onclick="openContact()">Payment details</a></div>
 </div>
 <div class="copy">&copy; {YEAR} {BRAND} ({DOMAIN}). All rights reserved. TPE floor liners, all-weather mats and cargo liners direct from the factory.</div>
 </div></footer>
@@ -645,9 +618,9 @@ def finder_block():
 <div><label>Year</label><select id="fYear"></select></div>
 <div><label>Make</label><select id="fMake"></select></div>
 <div><label>Model</label><select id="fModel"></select></div>
-<div><button class="btn btn-p" onclick="openQuote('Vehicle request')">Get Quote</button></div>
+<div><a class="btn btn-p" href="javascript:void(0)" data-em="yale|mahjongbest.com">Get Quote</a></div>
 </div>
-<p class="finder-note" style="margin-top:14px">Not in the list? Send us the make, model and year - we check the tooling and come back with price and sample lead time. <a href="javascript:void(0)" onclick="openQuote('Vehicle request')" style="color:var(--accent)">Request your vehicle</a></p>
+<p class="finder-note" style="margin-top:14px">Not in the list? Send us the make, model and year - we check the tooling and come back with price and sample lead time. <a href="javascript:void(0)" data-em="yale|mahjongbest.com" style="color:var(--accent)">Request your vehicle</a></p>
 <p class="finder-note" id="fStatus"></p>
 <div class="finder-res" id="fResult"></div>
 </div>"""
@@ -727,7 +700,7 @@ def index_html():
 <h1>3D TPE Car Floor Liners - <span>Factory Direct</span>, Custom Fit</h1>
 <p>We mould TPE floor liners, all-weather mats and cargo liners for specific vehicles - not universal rubber sheets. Tell us the year, make and model and we quote from existing tooling.</p>
 <div class="cta-row"><a href="#finder" class="btn btn-p">Find Mats for My Car</a>
-<a href="javascript:void(0)" onclick="openQuote('')" class="btn btn-o">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-o">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp</a></div>
 <div class="trust">{stats_html}</div>
 </div></header>
@@ -760,7 +733,7 @@ def index_html():
 <section id="contact" class="cta"><div class="wrap">
 <h2>Sourcing TPE Car Mats?</h2>
 <p>Factory-direct FOB pricing, low MOQ, samples before bulk. Send your vehicle list and target market.</p>
-<a href="javascript:void(0)" onclick="openQuote('')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp +{WA}</a>
 </div></section>
 <script>{finder_js()}</script>
@@ -804,7 +777,7 @@ def category_html(cid):
 <section id="contact" class="cta"><div class="wrap">
 <h2>Need Bulk Pricing for {c["name"]}?</h2>
 <p>Send your vehicle list and target market - we quote from existing tooling and suggest the SKUs that move in your country.</p>
-<a href="javascript:void(0)" onclick="openQuote('{c["name"]}')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp +{WA}</a>
 </div></section>
 {footer()}"""
@@ -891,7 +864,7 @@ def product_page(p):
 <div class="pd-moq">{p["moq"]} &middot; FOB China &middot; Worldwide shipping</div>
 <p class="pd-desc">{p["desc"]}</p>
 <div class="cta-row">
-<a href="javascript:void(0)" onclick="openQuote('{p["name"]}')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}?text={p["slug"].replace("-", "%20")}%20inquiry" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp Inquiry</a>
 </div>
 {fit_html}
@@ -969,7 +942,7 @@ def vehicle_page(v):
 <div class="sec-head"><div><span class="tag">Vehicle Fitment</span>
 <h1>3D TPE Floor Liners for {vfull(v)}</h1>
 <p style="color:var(--t3);margin-top:8px">Custom-moulded to the {vname(v)} floor pan - not a universal trim-to-fit mat.</p></div>
-<a href="javascript:void(0)" onclick="openQuote('{vfull(v)}')">Get quote &rarr;</a></div>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com">Get quote &rarr;</a></div>
 {hero}
 <div class="fit">{meta_html}</div>
 {ysrc}
@@ -978,14 +951,14 @@ def vehicle_page(v):
 <section><div class="wrap">
 <div class="sec-head"><div><span class="tag">Available Products</span><h2>{vname(v)} Mats &amp; Liners</h2></div></div>
 {grid}
-<p style="color:var(--t2);font-size:.9rem;margin-top:20px">Not the right year? Fitment changes between generations - <a href="/shop-by-vehicle/" style="color:var(--accent)">pick another year</a> or <a href="javascript:void(0)" onclick="openQuote('{vname(v)} - other year')" style="color:var(--accent)">tell us your year</a>.</p>
+<p style="color:var(--t2);font-size:.9rem;margin-top:20px">Not the right year? Fitment changes between generations - <a href="/shop-by-vehicle/" style="color:var(--accent)">pick another year</a> or <a href="javascript:void(0)" data-em="yale|mahjongbest.com" style="color:var(--accent)">tell us your year</a>.</p>
 </div></section>
 {faq_block(vehicle_faq(v))}
 {sib_html}
 <section id="contact" class="cta"><div class="wrap">
 <h2>{vname(v)} Floor Liners - Wholesale</h2>
 <p>Samples before bulk, OEM branding, container consolidation. Send your quantity and market.</p>
-<a href="javascript:void(0)" onclick="openQuote('{vname(v)}')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Get Wholesale Quote</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp +{WA}</a>
 </div></section>
 {footer()}"""
@@ -1025,7 +998,7 @@ def vehicle_index():
 <section id="contact" class="cta"><div class="wrap">
 <h2>Don't See Your Car?</h2>
 <p>Send the make, model and year. We check the tooling list and reply with FOB pricing, MOQ and sample lead time - or tell you straight away if it is not something we can make.</p>
-<a href="javascript:void(0)" onclick="openQuote('New vehicle request')" class="btn btn-p">Request Your Vehicle</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Request Your Vehicle</a>
 <a href="https://wa.me/{WA}" class="btn btn-wa" target="_blank" rel="noopener">WhatsApp +{WA}</a>
 </div></section>
 {footer()}"""
@@ -1074,7 +1047,7 @@ def article_page(a):
 <section id="contact" class="cta"><div class="wrap">
 <h2>Need a Quote for TPE Mats?</h2>
 <p>Send your vehicle list, quantity and target market.</p>
-<a href="javascript:void(0)" onclick="openQuote('')" class="btn btn-p">Get Wholesale Quote</a>
+<a href="javascript:void(0)" data-em="yale|mahjongbest.com" class="btn btn-p">Get Wholesale Quote</a>
 </div></section>
 {footer()}"""
     return shell(title, desc, canonical, a.get("img", ""), body, ld)
