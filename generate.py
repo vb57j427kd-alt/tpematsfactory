@@ -749,6 +749,36 @@ def index_html():
 # category / product / vehicle / blog pages
 # ---------------------------------------------------------------------------
 
+def category_stats(cid):
+    """Numbers printed on a category page are counted from the listings shown on
+    that same page, so a catalogue change can never leave a stale figure in the
+    copy. Placeholders available to tools/category_copy.json: {{LISTINGS}},
+    {{MODELS}}, {{PRICE_LOW}}, {{PRICE_HIGH}}, {{MOQ10}}, {{MOQ1}}."""
+    items = [p for p in PRODUCTS if p["cat"] == cid]
+    models, low, high = set(), [], []
+    for p in items:
+        f = p.get("fitment") or {}
+        if f.get("make") and f.get("model"):
+            models.add((f["make"], f["model"]))
+        m = PRICE_RE.match(p.get("price") or "")
+        if m:
+            low.append(float(m.group(1)))
+            high.append(float(m.group(2) or m.group(1)))
+
+    def money(x):
+        return f"${x:.2f}" if x != int(x) else f"${int(x)}"
+
+    moq = [p.get("moq", "") for p in items]
+    return {
+        "LISTINGS": str(len(items)),
+        "MODELS": str(len(models)),
+        "PRICE_LOW": money(min(low)) if low else "",
+        "PRICE_HIGH": money(max(high)) if high else "",
+        "MOQ10": str(sum(1 for x in moq if x.strip().lower().startswith("moq 10 set"))),
+        "MOQ1": str(sum(1 for x in moq if x.strip().lower().startswith("moq 1 set"))),
+    }
+
+
 def category_html(cid):
     c = next(x for x in CATEGORIES if x["id"] == cid)
     items = [p for p in PRODUCTS if p["cat"] == cid]
@@ -766,12 +796,18 @@ def category_html(cid):
                 'need and we reply with tooling status and FOB price.</div>')
     ld = ld_script(ld_collection(c["name"], desc, canonical)) + \
          ld_script(ld_crumbs([("Home", "/"), (c["name"], f"/{cid}/")]))
+    # The guide copy carries {{...}} slots; fill them from this category's own
+    # listings so every published figure is countable from the page it sits on.
+    guide_html = CATEGORY_COPY.get(cid) or ""
+    if guide_html:
+        for slot, val in category_stats(cid).items():
+            guide_html = guide_html.replace("{{" + slot + "}}", val)
     body = f"""<body>
 {nav(cid)}
 {breadcrumb([("Home", "/"), (c["name"], f"/{cid}/")])}
 <section><div class="wrap">
 {head_html}
-{('<div class="guide">' + CATEGORY_COPY[cid] + '</div>') if CATEGORY_COPY.get(cid) else ''}
+{('<div class="guide">' + guide_html + '</div>') if guide_html else ''}
 {grid}
 </div></section>
 <section id="contact" class="cta"><div class="wrap">
@@ -987,13 +1023,25 @@ def vehicle_index():
                   'drive side. Send us the make, model and year you need - we check the tooling list the same day.</div>')
     ld = ld_script(ld_collection("Shop by Vehicle", desc, canonical)) + \
          ld_script(ld_crumbs([("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/")]))
+    n_models = len(VEHICLES)
+    n_makes = len(makes)
+    n_years = sum(1 for v in VEHICLES if v.get("years"))
+    coverage = (
+        f'<div class="guide"><h2>How many vehicle models does this index cover?</h2>'
+        f'<p>The index lists {n_models} models across {n_makes} makes. Coverage is counted '
+        f'by model, not by every model year: {n_years} of the {n_models} entries carry an '
+        f'explicit year range, and where that range is the model generation rather than a '
+        f'measured mould list the vehicle page marks it as reference only. Fitment changes '
+        f'between generations, so we check your exact year against the tooling before quoting.</p></div>'
+        if VEHICLES else "")
     body = f"""<body>
-{nav()}
-{breadcrumb([("Home", "/"), ("Shop by Vehicle", "")])}
-<section><div class="wrap">
-<div class="sec-head"><div><span class="tag">Fitment Index</span><h1>Shop by Vehicle</h1>
-<p style="color:var(--t3);margin-top:8px">Every vehicle below has confirmed tooling. Pick your model to see the liners, mats and cargo liners available for it.</p></div></div>
-{blocks}
+ {nav()}
+ {breadcrumb([("Home", "/"), ("Shop by Vehicle", "")])}
+ <section><div class="wrap">
+ <div class="sec-head"><div><span class="tag">Fitment Index</span><h1>Shop by Vehicle</h1>
+ <p style="color:var(--t3);margin-top:8px">Every vehicle below has confirmed tooling. Pick your model to see the liners, mats and cargo liners available for it.</p></div></div>
+ {coverage}
+ {blocks}
 </div></section>
 <section id="contact" class="cta"><div class="wrap">
 <h2>Don't See Your Car?</h2>
