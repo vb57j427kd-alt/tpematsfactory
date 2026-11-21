@@ -1237,6 +1237,49 @@ def images_note():
     )
 
 
+def llms_txt():
+    """llms.txt - a compact markdown map for LLM crawlers, served from the root.
+
+    Every count is computed from the catalogue at build time, so the file cannot
+    drift from the pages it describes. Nothing in here is hand-written prose
+    about the company: it restates what the category, vehicle and guide pages
+    already publish.
+    """
+    n_makes = len({v["make"] for v in VEHICLES})
+    n_cards = sum(len(v["products"]) for v in VEHICLES)
+    n_tool = sum(1 for p in PRODUCTS
+                 if any(k == "Tooling / model no." for k, _ in p["specs"]))
+    L = [f"# {BRAND}", "", f"> {SITE['tagline']}", "",
+         (f"Custom-fit TPE car mats: 3D moulded floor liners, cargo liners and all-weather mats for "
+          f"{len(VEHICLES)} vehicle models across {n_makes} makes, sold FOB China to importers, "
+          f"distributors and accessory wholesalers. {len(PRODUCTS)} product pages state price, MOQ, "
+          f"material and coverage, and {n_tool} of them also print the tooling reference the part is "
+          f"moulded from. Every vehicle page states the exact make, model, year band, body type and "
+          f"drive side it fits."),
+         "", "## Categories", ""]
+    for c in CATEGORIES:
+        n = sum(1 for p in PRODUCTS if p["cat"] == c["id"])
+        L.append(f"- [{c['name']}]({URL}{c['id']}/): {n} listings. {c['blurb']}")
+    L += ["", "## Fitment index", "",
+          (f"- [Shop by vehicle]({URL}shop-by-vehicle/): {len(VEHICLES)} vehicle models across "
+           f"{n_makes} makes, {n_cards} linked product cards. Each page gathers everything that fits "
+           f"one model, plus the year band and drive side it was tooled for."),
+          (f"- [Fitment finder]({URL}#finder): pick year, make and model to jump to the pages that fit it.")]
+    if ARTICLES:
+        L += ["", "## Guides", ""]
+        for a in ARTICLES:
+            L.append(f"- [{a['title']}]({URL}blog/{a['slug']}/): {a['desc']}")
+    L += ["", "## Reference", "",
+          f"- [Site map]({URL}site-map/): every category, product and vehicle page on one page.",
+          f"- [Blog]({URL}blog/): all guides in one place.",
+          "", "## Notes", "",
+          "- Prices are quoted FOB China in USD, per piece or per set; MOQ is stated on every product page.",
+          "- Vehicle pages are built from vehicle-specific moulds, not from a universal trim-to-fit pattern.",
+          "- TPE is used without a plasticiser, so the mats are odourless, halogen-free and 100 percent recyclable.",
+          "- Year bands are the band the part was tooled for; fitment changes between generations, so an exact year is confirmed against the tooling before quoting."]
+    return "\n".join(L) + "\n"
+
+
 def main():
     made = []
     check_unique_vehicle_urls()
@@ -1266,6 +1309,7 @@ def main():
     write_file(f"{INDEXNOW_KEY}.txt", INDEXNOW_KEY + "\n")
     write_file("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {URL}sitemap.xml\n")
     write_file("sitemap.xml", sitemap_xml())
+    write_file("llms.txt", llms_txt())
     write_file("404.html", not_found())
     write_file("images/README.txt", images_note())
 
