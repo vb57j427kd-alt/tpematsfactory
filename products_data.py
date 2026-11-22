@@ -32617,7 +32617,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Nissan Navara. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Nissan Navara. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -32670,7 +32670,7 @@ PRODUCTS = [
    "hand": "LHD",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Nissan Navara. Set composition is confirmed on the quotation, moulded for LHD vehicles, shaped for the pickup floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Nissan Navara. Set composition is confirmed on the quotation, moulded for LHD vehicles, shaped for the pickup floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Mix liners, mats and cargo liners into one container with one set of documents.",
   "specs": [
    [
     "Material",
@@ -32727,7 +32727,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit TPE floor liners for the Nissan Navara. Sets are made up per vehicle, shaped for the pickup floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit TPE floor liners for the Nissan Navara. Sets are made up per vehicle, shaped for the pickup floor pan. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. Water does not soak in, so a rinse and a wipe is normally enough to bring it back. Minimum order 10 sets. Listed at $8-19/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -38822,7 +38822,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set size is quoted per model. Coverage is built with a laser-measured three-dimensional form, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. A quick rinse is usually all the cleaning it needs. Minimum order 1 set. Listed at $16-18/set. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -39205,7 +39205,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Odour-free full-coverage set. Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Odour-free full-coverage set. Custom-fit moulded TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound is odourless, halogen-free and recyclable, and it stays flexible in cold weather instead of cracking. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval.",
   "specs": [
    [
     "Material",
@@ -39262,7 +39262,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set composition is confirmed on the quotation, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set composition is confirmed on the quotation, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. No plasticiser in the TPE compound means no chemical smell in a hot cabin; the material is halogen-free and recyclable. Mud and spills rinse straight off rather than soaking into the material. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. Both left- and right-hand drive versions can be tooled, so tell us which side the driver sits on.",
   "specs": [
    [
     "Material",
@@ -39319,7 +39319,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit 3D TPE floor liners for the Toyota Corolla. Set size is quoted per model, shaped for the sedan floor pan. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. The TPE compound carries no plasticiser, so it does not smell in a hot cabin, and it stays flexible in cold weather rather than going brittle. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -43456,7 +43456,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Sets are made up per vehicle. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping.",
+  "desc": "Custom-fit moulded TPE floor liners for the Volkswagen ID UNYX 07. Sets are made up per vehicle. Coverage is built with anti-slip backing, and raised side walls and a deep channel that holds slush, grit and spilled drinks away from the carpet. TPE is odourless and halogen-free, does not soak up water, and keeps its shape in freezing temperatures. A quick rinse is usually all the cleaning it needs. Minimum order 10 pieces. Listed at $8-20/piece. Confirm your model year when ordering and we will check the mould. FOB China pricing, worldwide shipping. OEM and ODM orders can carry your brand mark, colour and packaging, subject to a tooling check and sample approval. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
