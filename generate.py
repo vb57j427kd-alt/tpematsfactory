@@ -919,9 +919,77 @@ def product_page(p):
     return shell(title, desc, canonical, og_image(p["img"]), body, ld)
 
 
+# ---------------------------------------------------------------------------
+# GEO additions for individual vehicle pages (2026-11-24)
+# ---------------------------------------------------------------------------
+# Only the pages listed here get them, so the other vehicle pages keep their
+# current markup. `definition` is written to be quotable on its own; the
+# sentence that follows it is built in geo_lead() from the same `prods` list
+# that renders the grid below, so the listing count, category, price and MOQ on
+# the page can never disagree with the page's own data.
+VEHICLE_GEO = {
+    "ford-f150-raptor": {
+        "definition": (
+            "Ford F150 Raptor floor liners on this page are 3D TPE trays moulded to the "
+            "pickup footwell, with raised edges and a moulding that follows the contour so "
+            "the liner sits low instead of bunching under the pedals."),
+        "qa": ("Does this page state a model year for the F150 Raptor?",
+               "No. The catalogue gives no year range for it. Fitment changes between "
+               "generations, so send the exact model year and body type and the mould is "
+               "checked against that year before the order is confirmed."),
+    },
+    "ford-fiesta": {
+        "definition": (
+            "Ford Fiesta floor liners on this page are 3D TPE trays built from a "
+            "laser-measured three-dimensional pattern, with raised side walls and a deep "
+            "channel that holds slush and grit away from the carpet."),
+        "qa": ("What positions are available for the Ford Fiesta?",
+               "The catalogue does not state which positions the set covers, so confirm "
+               "the piece count for this listing before ordering."),
+    },
+    "ford-fiesta-prius-rav4-prado": {
+        "definition": (
+            "This page is a multi-model listing: its model name names four vehicles - "
+            "Fiesta, Prius, RAV4 and Prado - so fitment is confirmed per vehicle rather "
+            "than taken from the page title."),
+        "qa": ("Which vehicles does this listing cover?",
+               "The listing names the Fiesta, Prius, RAV4 and Prado. Because one set is "
+               "sold under four vehicle names, fitment for your own vehicle has to be "
+               "confirmed before the order is placed."),
+    },
+}
+
+
+def geo_lead(v, prods):
+    """Definition sentence + counted numbers, or "" for pages not in VEHICLE_GEO."""
+    g = VEHICLE_GEO.get(v.get("slug"))
+    if not g:
+        return ""
+    if not prods:
+        return g["definition"]
+    cats = sorted({category_name(p["cat"]) for p in prods})
+    where = f'the {cats[0]} category' if len(cats) == 1 else "the categories shown below"
+    if len(prods) == 1:
+        p = prods[0]
+        tail = (f'It is the only listing for this model, in {where}, at {p["price"]} '
+                f'with a minimum order of {p["moq"].replace("MOQ ", "")}.')
+    else:
+        tail = f'The page carries {len(prods)} listings in {where}.'
+    return f'{g["definition"]} {tail}'
+
+
 def vehicle_page(v):
     canonical = URL.rstrip("/") + vurl(v)
     prods = products_for_vehicle(v)
+    geo = VEHICLE_GEO.get(v.get("slug"))
+    faq_items = vehicle_faq(v)
+    geo_html = ""
+    if geo:
+        gq, ga = geo["qa"]
+        faq_items = faq_items + [(gq, ga)]
+        geo_html = (f'<section style="background:var(--bg2)"><div class="wrap">'
+                    f'<h2>{gq}</h2>'
+                    f'<p style="color:var(--t2);margin-top:10px">{ga}</p></div></section>\n')
     title = f'3D TPE Floor Liners for {vfull(v)} - Factory Direct | {BRAND}'
     desc = (f'Custom-fit 3D TPE floor liners, mats and cargo liners for {vfull(v)}. '
             f'Odourless TPE, OEM branding, FOB pricing, low MOQ.')[:158]
@@ -970,26 +1038,28 @@ def vehicle_page(v):
     ld = ld_script(ld_collection(f'{v["make"]} {v["model"]} TPE floor liners', desc, canonical)) + \
          ld_script(ld_crumbs([("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/"),
                               (v["make"], "/shop-by-vehicle/"), (vname(v), vurl(v))])) + \
-         ld_script(ld_faq(vehicle_faq(v)))
+         ld_script(ld_faq(faq_items))
+    lead_p = geo_lead(v, prods) or (
+        f'Custom-moulded to the {vname(v)} floor pan - not a universal trim-to-fit mat.')
     body = f"""<body>
 {nav()}
 {breadcrumb([("Home", "/"), ("Shop by Vehicle", "/shop-by-vehicle/"), (v["make"], "/shop-by-vehicle/"), (vname(v), "")])}
 <section><div class="wrap">
 <div class="sec-head"><div><span class="tag">Vehicle Fitment</span>
 <h1>3D TPE Floor Liners for {vfull(v)}</h1>
-<p style="color:var(--t3);margin-top:8px">Custom-moulded to the {vname(v)} floor pan - not a universal trim-to-fit mat.</p></div>
+<p style="color:var(--t3);margin-top:8px">{lead_p}</p></div>
 <a href="javascript:void(0)" data-em="yale|mahjongbest.com">Get quote &rarr;</a></div>
 {hero}
 <div class="fit">{meta_html}</div>
 {ysrc}
 {note}
 </div></section>
-<section><div class="wrap">
+{geo_html}<section><div class="wrap">
 <div class="sec-head"><div><span class="tag">Available Products</span><h2>{vname(v)} Mats &amp; Liners</h2></div></div>
 {grid}
 <p style="color:var(--t2);font-size:.9rem;margin-top:20px">Not the right year? Fitment changes between generations - <a href="/shop-by-vehicle/" style="color:var(--accent)">pick another year</a> or <a href="javascript:void(0)" data-em="yale|mahjongbest.com" style="color:var(--accent)">tell us your year</a>.</p>
 </div></section>
-{faq_block(vehicle_faq(v))}
+{faq_block(faq_items)}
 {sib_html}
 <section id="contact" class="cta"><div class="wrap">
 <h2>{vname(v)} Floor Liners - Wholesale</h2>
