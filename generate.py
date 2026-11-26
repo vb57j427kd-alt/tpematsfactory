@@ -307,8 +307,14 @@ def vname(v):
 
 
 def vfull(v):
-    """'Make Model Years' - years omitted entirely when unknown."""
-    return " ".join(f'{vname(v)} {v.get("years", "") or ""}'.split())
+    """'Make Model Years' - years omitted when unknown, and also when the model
+    string already carries them ('Territory Destroyer 2019-2023' + years
+    '2019-2023' used to render as '... 2019-2023 2019-2023' in H1 and title)."""
+    name = vname(v)
+    years = (v.get("years") or "").strip()
+    if years and years.lower() in name.lower():
+        years = ""
+    return " ".join(f"{name} {years}".split())
 
 
 def check_unique_vehicle_urls():
@@ -952,10 +958,47 @@ VEHICLE_GEO = {
             "This page is a multi-model listing: its model name names four vehicles - "
             "Fiesta, Prius, RAV4 and Prado - so fitment is confirmed per vehicle rather "
             "than taken from the page title."),
-        "qa": ("Which vehicles does this listing cover?",
-               "The listing names the Fiesta, Prius, RAV4 and Prado. Because one set is "
-               "sold under four vehicle names, fitment for your own vehicle has to be "
-               "confirmed before the order is placed."),
+         "qa": ("Which vehicles does this listing cover?",
+                "The listing names the Fiesta, Prius, RAV4 and Prado. Because one set is "
+                "sold under four vehicle names, fitment for your own vehicle has to be "
+                "confirmed before the order is placed."),
+     },
+    # 2026-11-26 GEO batch (round-robin: single-listing vehicle pages, slug order,
+    # start = (day ordinal * 3) % 301). Facts below come only from the catalogue
+    # entry and the listing text on the page itself.
+    "ford-ranger-f150": {
+        "definition": (
+            "Ford Ranger F150 floor liners on this page are 3D TPE trays moulded to the "
+            "pickup footwell and sold as a single set from a one-set minimum, which is the "
+            "quantity a distributor needs to check the tooling before committing to volume."),
+        "qa": ("Is this page for the Ford Ranger or the Ford F-150?",
+               "The catalogue carries Ranger F150 as one combined model name, and the "
+               "fitment index also lists a Ford Ranger page and a Ford F-150 page "
+               "separately. Because this one set is sold under a combined name, send the "
+               "exact model and year so the mould is checked before the order is placed."),
+    },
+    "ford-territory-destroyer": {
+        "definition": (
+            "Ford Territory Destroyer floor mats on this page are custom-fit all-weather "
+            "TPE mats moulded to the vehicle footwell, in a compound that stays flexible in "
+            "cold weather instead of cracking, so the mat lifts out without splitting in a "
+            "freezing cabin."),
+        "qa": ("Does this page state a model year for the Ford Territory Destroyer?",
+               "No. The catalogue gives no year range for this entry. A separate page "
+               "covers the 2019-2023 band of the same model; for any other year send the "
+               "model year and body type and the mould is checked before the order is "
+               "confirmed."),
+    },
+    "ford-territory-destroyer-2019-2023": {
+        "definition": (
+            "The Ford Territory Destroyer 2019-2023 floor liner on this page is a "
+            "single-layer five-dimensional TPE tray moulded to the footwell of that year band, "
+            "with raised moulded walls and a waterproof non-slip surface, supplied in "
+            "three- or five-piece sets."),
+        "qa": ("Is this listing a three-piece or a five-piece set?",
+               "The listing says sets are supplied in three or five pieces, and it does not "
+               "tie either count to a named position, so state the piece count you need "
+               "when you order and it is confirmed against the mould for your year."),
     },
 }
 
