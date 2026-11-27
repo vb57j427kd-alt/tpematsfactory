@@ -1362,13 +1362,17 @@ def llms_txt():
     n_cards = sum(len(v["products"]) for v in VEHICLES)
     n_tool = sum(1 for p in PRODUCTS
                  if any(k == "Tooling / model no." for k, _ in p["specs"]))
+    n_year = sum(1 for v in VEHICLES if v.get("years"))
+    n_body = sum(1 for v in VEHICLES if v.get("body"))
+    n_hand = sum(1 for v in VEHICLES if v.get("hand"))
     L = [f"# {BRAND}", "", f"> {SITE['tagline']}", "",
          (f"Custom-fit TPE car mats: 3D moulded floor liners, cargo liners and all-weather mats for "
           f"{len(VEHICLES)} vehicle models across {n_makes} makes, sold FOB China to importers, "
           f"distributors and accessory wholesalers. {len(PRODUCTS)} product pages state price, MOQ, "
           f"material and coverage, and {n_tool} of them also print the tooling reference the part is "
-          f"moulded from. Every vehicle page states the exact make, model, year band, body type and "
-          f"drive side it fits."),
+           f"moulded from. Every vehicle page names the make and model; {n_year} of the "
+           f"{len(VEHICLES)} state a model year, {n_body} a body type and {n_hand} a drive side, and "
+           f"the rest ask for your year so the mould can be confirmed before quoting."),
          "", "## Categories", ""]
     for c in CATEGORIES:
         n = sum(1 for p in PRODUCTS if p["cat"] == c["id"])
