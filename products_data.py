@@ -15216,7 +15216,7 @@ PRODUCTS = [
    "hand": "",
    "positions": []
   },
-  "desc": "TPE floor liner moulded for the Geely EX2 Xingyuan EV on tool W-273, following the footwell of the electric model rather than using a trimmed outline. The tray has raised sides and a deep channel that hold water, dust and grit inside the liner. Sets are supplied in three or five pieces. The compound is odourless, without plasticiser, and is halogen-free and recyclable; it stays flexible in cold weather and the surface is waterproof, so a rinse is enough. Ten sets minimum, which suits a distributor stocking an EV range. FOB pricing on request. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
+  "desc": "TPE floor liner moulded for the Geely EX2 Xingyuan EV on tool W-273, following the footwell of the electric model rather than using a trimmed outline. The tray has raised sides and a deep channel that hold water, dust and grit inside the liner. Sets are supplied in three or five pieces. The compound is odourless, without plasticiser, and is halogen-free and recyclable; it stays flexible in cold weather and the surface is waterproof, so a rinse is enough. The listed minimum is one set, so a single set can be ordered before committing to volume. FOB pricing on request. Mix liners, mats and cargo liners into one container with one set of documents. A first-article sample can be arranged before mass production.",
   "specs": [
    [
     "Material",
@@ -15243,7 +15243,7 @@ PRODUCTS = [
    "Moulded on tool W-273 for EX2 Xingyuan EV",
    "Raised sides and deep channel contain grit",
    "Waterproof and odourless TPE",
-   "Ten-set minimum for EV stock programmes"
+   "One-set minimum, as listed"
   ],
   "related": [
    "audi-a3l-floor-liners",

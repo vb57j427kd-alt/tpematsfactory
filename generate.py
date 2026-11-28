@@ -1000,6 +1000,43 @@ VEHICLE_GEO = {
                "tie either count to a named position, so state the piece count you need "
                "when you order and it is confirmed against the mould for your year."),
     },
+    # 2026-11-28 GEO batch (same round-robin: single-listing vehicle pages, slug
+    # order, start = (day ordinal * 3) % 301 -> 90, three Geely pages). Facts come
+    # only from the catalogue row and the listing text rendered on the page.
+    "geely-ex": {
+        "definition": (
+            "Geely EX floor liners on this page are 3D TPE trays moulded per vehicle "
+            "from a laser-measured three-dimensional pattern, with raised side walls and "
+            "a deep channel that holds slush, grit and spilled drinks away from the "
+            "carpet."),
+        "qa": ("Is the Geely EX liner sold as a set or by the piece?",
+               "As a set. The single listing for this model reads $12-20/set with a "
+               "one-set minimum, and the set is made up per vehicle. Send your model year "
+               "and the mould is checked before the order is confirmed."),
+    },
+    "geely-ex2-ex5": {
+        "definition": (
+            "Geely EX2 EX5 floor liners on this page are 3D TPE trays with an anti-slip "
+            "backing, raised side walls and a deep channel, in a compound with no "
+            "plasticiser, so the mat does not smell in a hot cabin and stays flexible in "
+            "cold weather instead of going brittle."),
+        "qa": ("Is the Geely EX2 EX5 liner priced per set or per piece?",
+               "Per piece. The listing reads $12-20/piece with a 10-piece minimum, so "
+               "quantity is ordered in pieces rather than as a numbered set. Tell us the "
+               "piece count your vehicle needs and it is confirmed against the mould "
+               "before the order is placed."),
+    },
+    "geely-ex2-xingyuan-ev": {
+        "definition": (
+            "The Geely EX2 Xingyuan EV floor liner on this page is a TPE tray moulded on "
+            "tool W-273 to the footwell of the electric model rather than cut from a "
+            "trimmed outline, with raised sides and a deep channel that hold water, dust "
+            "and grit inside the liner."),
+        "qa": ("Is the Xingyuan EV liner a three-piece or a five-piece set?",
+               "The listing gives the set as three or five pieces and does not tie "
+               "either count to a named position, so state the piece count you need and "
+               "it is confirmed against the W-273 mould for your year."),
+    },
 }
 
 
